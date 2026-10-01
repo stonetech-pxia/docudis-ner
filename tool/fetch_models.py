@@ -3,6 +3,7 @@
     "$PYTHON" tool/fetch_models.py                 # the shipped model, xlmr_ner_docudis
     "$PYTHON" tool/fetch_models.py xlmr_ner_hrl    # named models (the stock ones are for A/B benchmarks)
     "$PYTHON" tool/fetch_models.py --all
+    "$PYTHON" tool/fetch_models.py --dest ../app/assets/models   # model.json and binaries for an app checkout
 
 Needs `pip install huggingface_hub`. xlmr_ner_docudis is a private repo: run
 `huggingface-cli login` once first. Files already present with the right SHA-256
@@ -35,6 +36,8 @@ def main():
     parser.add_argument('names', nargs='*', metavar='name',
                         help=f'models to fetch ({", ".join(manifest)}); default {DEFAULT}')
     parser.add_argument('--all', action='store_true', help='fetch every model in the manifest')
+    parser.add_argument('--dest', type=Path, default=MODELS,
+                        help='directory that receives <name>/model.json and the binaries (default: models/)')
     args = parser.parse_args()
     names = list(manifest) if args.all else args.names or [DEFAULT]
     unknown = [n for n in names if n not in manifest]
@@ -44,8 +47,11 @@ def main():
     failed = False
     for name in names:
         model = manifest[name]
+        if args.dest.resolve() != MODELS.resolve():
+            (args.dest / name).mkdir(parents=True, exist_ok=True)
+            shutil.copyfile(MODELS / name / 'model.json', args.dest / name / 'model.json')
         for dest, spec in model['files'].items():
-            target = MODELS / name / dest
+            target = args.dest / name / dest
             if target.exists() and sha256(target) == spec['sha256']:
                 print(f'{name}/{dest}: up to date')
                 continue

@@ -35,9 +35,11 @@ then put the commit id it prints and the new SHA-256 of both files into
 labels to Docudis entity types, `maxTokens`, `stride`, `threshold`, `padId`, the
 ONNX input names (`inputs.ids`, `inputs.mask`) and output name (`output`).
 
-How the Android app gets the files is owned by docudis-android (Play Asset
-Delivery pack `android/model_pack`, `ModelLocator`). Until it switches to this
-repository (see its `docs/HANDOFF-rust-ner-2026-10-01.md`), the app keeps its
-own copy of these specs under `assets/models`.
+Apps do not keep their own copy. docudis-android pins a revision of this
+repository in `tool/docudis_ner_version.json`, and its `tool/fetch_models.sh`
+runs `tool/fetch_models.py --dest <app>/assets/models` at that revision, which
+writes each `model.json` and its verified binaries into the app's git-ignored
+model directory. Packaging (Play Asset Delivery pack `android/model_pack`,
+`ModelLocator`) stays in the app.
 
 Licenses: both XLM-R models are Academic Free License 3.0 (Davlan).

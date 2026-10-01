@@ -179,7 +179,7 @@ dependencies = [
 [[package]]
 name = "docudis-core"
 version = "0.1.0"
-source = "git+https://github.com/stonetech-pxia/docudis-core.git?rev=fb41dd1406cda4e98c3ab71914fc731d29e67ffb#fb41dd1406cda4e98c3ab71914fc731d29e67ffb"
+source = "git+https://github.com/stonetech-pxia/docudis-core.git?rev=7244cd35964995368bb87fc189723dd90b2a8d30#7244cd35964995368bb87fc189723dd90b2a8d30"
 dependencies = [
  "fancy-regex",
  "regex",
