@@ -1,7 +1,16 @@
 // Copyright 2026 the Docudis contributors. Licensed under Apache-2.0.
 //
-// Pure tokenizer-alignment, windowing and BIO decoding only. This module has
-// no model runtime dependency.
+// Tokenizer alignment, windowing and BIO decoding are pure and need no model
+// runtime. Inference through ONNX Runtime lives behind the `onnxruntime`
+// feature.
+
+#[cfg(feature = "onnxruntime")]
+mod inference;
+mod spec;
+
+#[cfg(feature = "onnxruntime")]
+pub use inference::{NerError, NerModel};
+pub use spec::{ModelInputs, ModelSpec, TokenizerSpec};
 
 use docudis_core::{Detection, DetectionSource, EntityType};
 use serde::{Deserialize, Serialize};

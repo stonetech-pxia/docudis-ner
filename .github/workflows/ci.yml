@@ -7,17 +7,51 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
-  rust:
+  rust-and-ffi:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: dtolnay/rust-toolchain@stable
         with:
           components: clippy,rustfmt
+      - uses: dart-lang/setup-dart@v1
+        with:
+          sdk: stable
       - run: cargo fmt --all --check
-      - run: cargo clippy --workspace --all-targets -- -D warnings
-      - run: cargo test --workspace
+      - run: cargo clippy --workspace --all-targets --all-features -- -D warnings
+      - run: cargo test --workspace --all-features
       - run: cargo build --release --workspace
+      - run: ./scripts/test-c-header.sh
+      - name: Dart FFI checks
+        working-directory: bindings/dart
+        run: |
+          dart pub get
+          dart format --output=none --set-exit-if-changed lib test
+          dart analyze
+          DOCUDIS_NER_LIBRARY=../../target/debug/libdocudis_ner_capi.so dart test
       - name: Python scripts compile
         run: python3 -m py_compile tool/*.py training/*.py
+
+  android-native:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: aarch64-linux-android,armv7-linux-androideabi,x86_64-linux-android
+      - uses: android-actions/setup-android@v4
+      - run: cargo install cargo-ndk --locked
+      - run: sdkmanager "ndk;27.0.12077973"
+      - name: Build Android native libraries
+        env:
+          ANDROID_NDK_HOME: ${{ env.ANDROID_HOME }}/ndk/27.0.12077973
+        run: ./scripts/build-android.sh release
+      - uses: actions/upload-artifact@v4
+        with:
+          name: docudis-ner-android-jniLibs
+          path: dist/android/release/jniLibs

@@ -1,4 +1,7 @@
 /target/
+dist/
+/.dart_tool/
+**/.dart_tool/
 .DS_Store
 *.log
 __pycache__/
