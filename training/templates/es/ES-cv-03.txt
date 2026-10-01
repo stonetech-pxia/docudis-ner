@@ -1,0 +1,30 @@
+#country: ES
+#doctype: cv
+#tech CV, modern layout, flattened columns
+{{PER#1:full}}
+Desarrolladora backend · {{LOC#1:town}}, {{LOC#1:country}}
+{{EMAIL:PER#1}} | {{MOBILE}} | github.com/dev-backend-es
+
+RESUMEN
+Ingeniera informática con 7 años construyendo APIs y sistemas de pagos. Python, Go, PostgreSQL, Kafka, AWS. Me interesan los equipos pequeños y el producto.
+
+EXPERIENCIA
+Senior Backend Engineer | {{ORG#1:legal@finance}} | {{LOC#1:town}} | 2022 - hoy
+· Migración del motor de conciliación a Go; latencia media de 900 a 120 ms.
+· Integración con [[ORG|Redsys]] y con la pasarela de [[ORG|CaixaBank]] para pagos con tarjeta.
+· Mentora de dos perfiles junior; responsable técnica: {{PER#2:full}}.
+
+Backend Developer | {{ORG#2:name@retail}} | remoto | 2019 - 2022
+· API de catálogo y stock para 300 tiendas.
+· Equipo de 6 personas dirigido por {{PER#3:initial_surname}}.
+
+Becaria de investigación | {{ORG#3:legal@school}} | {{LOC#2:town}} | 2017 - 2018
+· Procesado de datos de sensores con el grupo del profesor {{PER#4:surname}}.
+
+FORMACIÓN
+Grado en Ingeniería Informática | {{ORG#3:name@school}} | 2013 - 2017
+Máster en Ciencia de Datos (online) | {{ORG#4:name@school}} | 2020
+
+OTROS
+Ponente en la meetup de Python de {{LOC#1:town}} el {{DATE:day_month}}.
+Idiomas: español, catalán, inglés C1.

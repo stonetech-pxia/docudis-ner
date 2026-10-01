@@ -1,0 +1,27 @@
+[[ORG|LEESIDE BIOPHARMA SERVICES DAC]]                      PAYSLIP
+[[LOC|Ringaskiddy Industrial Estate]], [[LOC|Co. Cork P43 X2F8]]
+
+Employee Name   : [[PER|Cathal Ó Ceallaigh-Mensah]]         Employee No : 21177
+Department      : Quality Control                   PPSN        : *******4W
+Pay Date        : [[DATE|28/08/2026]]                        Tax Credits : 4,000.00 (annual)
+Pay Period      : Month 8                           Std Rate Cut-Off : 44,000.00
+Address         : [[LOC|Apt 14, The Quays, Lower Glanmire Road, Cork T23 H6R1]]
+
+EARNINGS                        AMOUNT €        DEDUCTIONS                    AMOUNT €
+Basic Salary                    4,583.33        PAYE                            712.44
+Shift Allowance                   380.00        USC                             186.27
+Overtime @ 1.5                    421.80        PRSI (Class A1)                 215.40
+Bike to Work (BIK)                  0.00        Pension (DC) 5%                 229.17
+                                                [[ORG|VHI Healthcare]]                   94.20
+                                                Sports & Social                   6.00
+TOTAL GROSS                     5,385.13        TOTAL DEDUCTIONS              1,443.48
+
+NET PAY                                                                       3,941.65
+
+YEAR TO DATE    Gross 41,660.12   PAYE 5,480.07   USC 1,419.33   PRSI 1,666.40
+Employer PRSI this period 599.11
+
+Paid to [[ORG|AIB]] account ending 2214 (BIC AIBKIE2D)
+
+Revenue Employment ID: 1. Revenue payroll submission ref 7718830021/08.
+Query? Contact [[PER|Sorcha Lynch]], Payroll & Benefits, payroll.cork@leesidebiopharma.ie

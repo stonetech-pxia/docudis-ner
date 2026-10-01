@@ -1,0 +1,38 @@
+[[ORG|Atelier Graphique Chappuis-Nsimba Sàrl]]
+[[LOC|Rue de l'Ale 25]]
+[[LOC|1003 Lausanne]]
++41 21 311 48 72 · hello@chappuis-nsimba.ch
+IDE CHE-231.847.602 TVA
+
+                                         [[ORG|Fondation Les Tourelles]]
+                                         À l'att. de Mme [[PER|Véronique Rochat-Pidoux]]
+                                         [[LOC|Chemin de Bérée 16]]
+                                         [[LOC|1010 Lausanne]]
+
+[[LOC|Lausanne]], le [[DATE|11 septembre 2026]]
+
+Facture n° 2026-093
+Votre commande du [[DATE|3 juillet 2026]] - rapport annuel 2025
+
+Pos.  Prestation                                          Heures   Tarif    Montant CHF
+1     Concept graphique et gabarit (32 pages)              14,0    115.00    1'610.00
+2     Mise en page, corrections (3 tours)                  22,5    105.00    2'362.50
+3     Infographies (6)                                        -        -        780.00
+4     Photos : droits d'utilisation banque d'images           -        -        240.00
+5     Suivi d'impression chez [[ORG|Imprimerie Genoud & Fils SA]], [[LOC|Crissier]]    2,0    105.00    210.00
+
+      Sous-total                                                               5'202.50
+      Rabais institution 5 %                                                    -260.15
+      Total HT                                                                 4'942.35
+      TVA 8,1 %                                                                  400.33
+      Total TTC                                                         CHF   5'342.70
+
+Payable à 30 jours net, soit jusqu'au [[DATE|11.10.2026]], au moyen de la section paiement ci-dessous.
+Bénéficiaire : [[ORG|Atelier Graphique Chappuis-Nsimba Sàrl]], [[LOC|Rue de l'Ale 25, 1003 Lausanne]]
+Banque : [[ORG|Banque Cantonale Vaudoise]]
+Communication : facture 2026-093
+
+Avec nos remerciements pour votre confiance.
+
+[[PER|Aline Chappuis]]                   [[PER|Serge Nsimba]]
+Associée gérante                 Directeur artistique

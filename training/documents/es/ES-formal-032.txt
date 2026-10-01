@@ -1,0 +1,17 @@
+[[ORG|DKV Seguros y Reaseguros, S.A.E.]]
+Seguro de salud DKV Integral · Solicitud de reembolso
+
+Asegurada titular: [[PER|Yurena Santana Betancor]]
+Nº póliza: 30-8871214-55    Nº asegurado: 02
+Beneficiario del gasto: [[PER|Airam Déniz Santana]] (hijo), nacido el [[DATE|19/07/2015]]
+Domicilio: [[LOC|C/ Doctor Alfonso Chiscano, 11, 35200 Telde]] ([[LOC|Gran Canaria]])
+
+Gasto: consulta de oftalmología pediátrica fuera de cuadro médico
+Profesional: Dr. [[PER|Tanausú Medina Falcón]], [[ORG|Centro Oftalmológico Guiniguada]], [[LOC|Las Palmas de Gran Canaria]]
+Fecha del servicio: [[DATE|4 de septiembre de 2026]]
+Importe facturado: 110,00 €
+Reembolso solicitado (80 %): 88,00 €
+Cuenta de abono: ES87 9596 5238 0376 3796 6922
+
+Fecha de solicitud: [[DATE|10/09/2026]]
+Firma: [[PER|Yurena Santana B.]]

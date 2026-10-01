@@ -1,0 +1,33 @@
+[[ORG|FISIOTERAPIA BERNESGA]]  ·  [[PER|Lorena Fidalgo Llamazares]], fisioterapeuta col. nº 1.842
+[[LOC|Avda. Padre Isla, 64, entreplanta, 24002 León]]
+987 262 047  |  info@fisiobernesga.es
+
+INFORME DE FISIOTERAPIA
+
+Para:        Dr. [[PER|Marcos Robles Villadangos]], Traumatología ([[ORG|Hospital San Francisco de León]])
+Paciente:    [[PER|Iratxe Pozo Gutiérrez]]
+F. nac.:     [[DATE|14/12/1990]]
+Profesión:   profesora de educación física
+Diagnóstico médico: rotura parcial del ligamento cruzado anterior (LCA) de rodilla izquierda, tratamiento conservador
+Inicio del tratamiento: [[DATE|07/07/2026]]
+Sesiones realizadas: 18 (de [[DATE|7 de julio]] a [[DATE|16 de septiembre]])
+
+Valoración inicial                       Valoración actual
+Balance articular flexión 95º            Flexión 135º
+Extensión -5º                            Extensión completa
+Perímetro muslo -2,5 cm respecto al      Diferencia -0,8 cm
+contralateral
+Test de Lachman positivo grado I          Sin cambios (estructural)
+EVA dolor 6/10                           EVA 1/10 tras esfuerzo
+Single leg hop: no realizable            82 % respecto al lado sano
+
+Tratamiento aplicado: terapia manual, electroestimulación del cuádriceps, ejercicio terapéutico progresivo en cadena cerrada y abierta, propiocepción en plataforma inestable y, desde la sesión 12, carrera en cinta.
+
+Observaciones: la paciente refiere sensación de inestabilidad en giros bruscos al jugar al pádel el fin de semana del [[DATE|12 de septiembre]]. Dado su trabajo, solicito valoración de la conveniencia de reconstrucción quirúrgica antes de proseguir con la readaptación deportiva.
+
+Propuesta: mantener dos sesiones semanales hasta la próxima revisión médica, prevista el [[DATE|2 de octubre]].
+
+[[LOC|León]], [[DATE|17 de septiembre de 2026]]
+
+[[PER|Lorena Fidalgo]]
+Fisioterapeuta

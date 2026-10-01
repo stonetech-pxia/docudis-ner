@@ -1,0 +1,37 @@
+Forum > Logement > Locataires
+Sujet : Proprio qui garde la caution depuis 4 mois, je fais quoi ??
+
+Posté par loulou_dans_le_81 le [[DATE|08/01/2026]] à 22:14
+
+Bonsoir à tous,
+
+je vous explique ma situation parce que je commence à perdre patience. J'ai quitté mon T2 à [[LOC|Albi]] fin août, état des lieux de sortie fait le [[DATE|29 août 2025]] avec la propriétaire, Mme [[PER|Josiane Cabrol-Delmas]], tout était nickel, elle a même signé sans rien noter (j'ai la photo de l'EDL signé). L'appart c'était au [[LOC|11 rue du Moulin-Vieux, 81000 Albi]], pour ceux qui connaissent c'est à côté de la boulangerie [[ORG|Aux Délices de Lucie]].
+
+Depuis, rien. Pas un centime des 620 € de dépôt de garantie. Je l'ai relancée par SMS en septembre, elle m'a répondu "je vous fais le virement la semaine prochaine" puis plus rien. En octobre c'est son fils, un certain [[PER|Bastien]], qui m'a appelé pour me dire qu'il y avait "des frais de peinture" mais sans facture ni devis. Je lui ai demandé une facture, il m'a raccroché au nez.
+
+Mon IBAN elle l'a depuis le début (FR76 0168 9633 2715 3617 4583 905), donc c'est pas une excuse.
+
+Ce que j'ai fait :
+- lettre recommandée le [[DATE|4 novembre 2025]], accusé de réception signé le [[DATE|6/11]]
+- appel à l'ADIL, qui m'a dit que passé 1 mois sans réserve à l'EDL elle doit des pénalités de 10 % du loyer par mois de retard
+
+Mes questions :
+1) je saisis la commission départementale de conciliation du [[LOC|Tarn]] ou direct le tribunal judiciaire d'[[LOC|Albi]] ?
+2) est-ce que je peux réclamer les pénalités en plus ?
+3) mon copain [[PER|Anthony]] me dit de passer par un huissier (commissaire de justice maintenant ?) mais ça coûte combien ??
+
+Merci d'avance, je suis vraiment à bout.
+
+---
+Réponse de Gribouille_Juriste le [[DATE|09/01/2026]] à 07:52
+
+Salut loulou,
+
+Oui pour les pénalités (art. 22 loi de 89), c'est automatique. Fais d'abord une mise en demeure en RAR qui cite l'article et le montant, en lui laissant 8 jours. Ensuite commission de conciliation (gratuit), et si ça bloque, injonction de payer au tribunal, c'est pas cher non plus. Le commissaire de justice c'est surtout pour exécuter une décision après.
+
+Et garde tout : SMS, photos, l'EDL. Si le fils ([[PER|Bastien]] c'est ça ?) t'appelle encore, demande-lui de mettre ça par écrit.
+
+---
+Réponse de loulou_dans_le_81 le [[DATE|09/01/2026]] à 12:30
+
+Merci beaucoup !! Je vais faire la mise en demeure ce week-end. [[PER|Anthony]] va être déçu pour son huissier mdr

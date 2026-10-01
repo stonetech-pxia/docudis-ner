@@ -1,0 +1,32 @@
+[[ORG|Fontanería y Calefacción Arranz Villarroel, S.L.]]
+[[LOC|C/ Nicasio Pérez, 23, bajo]]
+[[LOC|47005 Valladolid]]
+CIF: B84312768 · Tel. 983 214 657 · administracion@fontaneria-arranz.es
+
+FACTURA Nº 2026/0418
+Fecha de emisión: [[DATE|14/08/2026]]
+Fecha de vencimiento: [[DATE|13/09/2026]]
+
+Cliente: [[PER|Rosalía Herrezuelo Cantalapiedra]]
+NIF: 26755575C
+Dirección: [[LOC|Calle Doctrinos, 18, 4º D]]
+[[LOC|47001 Valladolid]]
+Teléfono: 645 902 318
+
+Concepto                                 Cant.    Precio     Importe
+Sustitución termo eléctrico 80 l           1     312,00 €   312,00 €
+Mano de obra oficial 1ª (h)              2,5      34,00 €    85,00 €
+Desplazamiento   zona urbana               1      18,00 €    18,00 €
+Válvula de seguridad + latiguillos         1      22,40 €    22,40 €
+
+Base imponible:      437,40 €
+IVA 21 %:             91,85 €
+TOTAL FACTURA:       529,25 €
+
+Trabajo realizado el [[DATE|12 de agosto de 2026]] por el operario [[PER|Iván Sanz Matilla]], según parte de trabajo nº 3371 firmado por la Sra. [[PER|Herrezuelo]].
+Garantía de la instalación y de las piezas: dos años.
+
+Forma de pago: transferencia bancaria a la cuenta ES85 2496 0221 5135 2245 9201, indicando el número de factura.
+
+[[ORG|Fontanería y Calefacción Arranz Villarroel, S.L.]], inscrita en el Registro Mercantil de [[LOC|Valladolid]], Tomo 1.422, Folio 87, Hoja VA-23019.
+Sus datos se tratan para la gestión de la relación comercial. Puede ejercer sus derechos en protecciondatos@fontaneria-arranz.es.

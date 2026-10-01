@@ -1,0 +1,44 @@
+#country: BE
+#doctype: payslip
+# Fiche de paie belge émise par un secrétariat social, employé.
+{{ORG#2:legal@finance}} - Secrétariat social agréé
+{{LOC#3:line}}
+
+FICHE DE PAIE - Période : du {{DATE:numeric}} au {{DATE:numeric}}
+Date de paiement : {{DATE:numeric}}
+
+Employeur : {{ORG#1:legal@employer}}
+{{LOC#1:street}}, {{LOC#1:postcode_town}}
+N° d'entreprise : {{COMPANYID}}
+N° ONSS : {{NUM}}
+Commission paritaire : 200
+
+Travailleur : {{PER#1:full}}
+{{LOC#2:street}}
+{{LOC#2:postcode_town}}
+Numéro de registre national : {{NATID}}
+Date de naissance : {{DATE:birth}}
+Date d'entrée en service : {{DATE:numeric}}
+Fonction : {{JOB}}
+Régime de travail : 38 h/semaine
+Situation familiale : cohabitant(e), 2 enfants à charge
+
+Code | Libellé | Nombre | Taux | Montant
+1010 | Appointement mensuel | | | {{AMOUNT}}
+1200 | Jours fériés | {{NUM}} | | inclus
+2100 | Chèques-repas (part travailleur) | {{NUM}} | {{AMOUNT}} | -{{AMOUNT}}
+     | Rémunération brute | | | {{AMOUNT}}
+3000 | Cotisation ONSS travailleur | | 13,07 % | -{{AMOUNT}}
+3100 | Bonus à l'emploi | | | {{AMOUNT}}
+     | Rémunération imposable | | | {{AMOUNT}}
+4000 | Précompte professionnel | | | -{{AMOUNT}}
+4100 | Cotisation spéciale sécurité sociale | | | -{{AMOUNT}}
+5000 | Intervention abonnement [[ORG|SNCB]] | | | {{AMOUNT}}
+5200 | Indemnité télétravail | | | {{AMOUNT}}
+     | NET À PAYER | | | {{AMOUNT}}
+
+Virement vers : {{IBAN}}
+Chèques-repas électroniques crédités sur la carte Pluxee : {{NUM}} x {{AMOUNT}}
+
+Pour toute question relative à cette fiche : {{PER#3:full}}, gestionnaire de dossier, {{PHONE}}, {{EMAIL:ORG#2}}.
+Responsable du personnel : {{PER#4:initial_surname}}

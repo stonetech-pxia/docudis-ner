@@ -1,0 +1,30 @@
+Accommodation & Property › Landlord wants us out for "family member" - [[LOC|Phibsborough]]
+
+Original post by rathmines_refugee
+
+Hi all, looking for a bit of advice before I ring [[ORG|Threshold]] tomorrow.
+
+Myself and my partner [[PER|Eoghan]] have been renting a 2 bed at [[LOC|Apartment 5, 31 Leinster Avenue, Phibsborough, Dublin 7, D07 X2P4]] since [[DATE|1 September 2021]]. Rent is €1,780 a month, always paid on time. Tenancy is registered with the RTB, I checked.
+
+On [[DATE|17 March]] we got a notice of termination from the landlord, [[PER|Declan Furlong]], saying his niece needs the apartment and we have to leave by [[DATE|30 September]]. It came by email first and then a paper copy through the door. The letting agent ([[ORG|Liffey Lettings]], the woman we deal with is [[PER|Gráinne]]) says it's all above board.
+
+Thing is, [[PER|Eoghan]] ran into the niece's boyfriend at a gig in [[ORG|Doyle's of Capel Street]] (small world) and he said they're moving to [[LOC|Galway]] in the summer and have no plans to live in [[LOC|Dublin]]. So it looks like a fake reason to get us out and put the rent up.
+
+Questions:
+- Does the notice need a statutory declaration for a family member?
+- Is 196 days' notice right after 4 and a half years?
+- If they re-let it within 12 months can we go back?
+
+---
+
+Reply by glasnevin_gardener
+Yes it needs a statutory declaration signed by the landlord, with the name of the family member and the relationship, and the expected duration. If it doesn't have that, it's invalid. [[ORG|Threshold]] will go through it with you line by line.
+
+Reply by rathmines_refugee
+It doesn't have a declaration at all. Just the letter signed "[[PER|D. Furlong]]".
+
+Reply by Anto_the_Sparks
+Then it's invalid, simple as. Send it to the RTB. I went through the exact same thing with a landlord in [[LOC|Drumcondra]], [[PER|McGuinness]] was his name, he tried the "my son is moving in" trick. The RTB found in my favour and he had to pay me €4,500.
+
+Reply by rathmines_refugee
+Thanks everyone. Ringing [[ORG|Threshold]] in the morning. [[PER|Eoghan]] says thanks too, he's been fuming all week.

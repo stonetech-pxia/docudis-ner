@@ -1,0 +1,44 @@
+#country: BE
+#doctype: invoice
+# Confirmation de commande et facture d'une boutique en ligne belge, reçue par e-mail.
+De : {{ORG#1:name@retail}} <{{EMAIL:ORG#1}}>
+À : {{PER#1:full}} <{{EMAIL:PER#1}}>
+Date : {{DATE:long}}
+Objet : Votre commande n° {{REF}} est en route !
+
+Bonjour {{PER#1:given}},
+
+Merci pour votre commande ! Votre colis a été remis à [[ORG|bpost]] ce matin et devrait arriver le {{DATE:day_month}}.
+
+Livraison à :
+{{PER#2:full}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+[[LOC|Belgique]]
+
+Adresse de facturation :
+{{PER#1:full}}
+{{LOC#2:street}} {{LOC#2:unit}}
+{{LOC#2:postcode_town}}
+
+Récapitulatif
+1 x Théière en fonte 1,2 L noir mat .......... {{AMOUNT}}
+2 x Tasses en grès émaillé (lot de 4) ........ {{AMOUNT}}
+1 x Thé vert sencha bio 250 g ................ {{AMOUNT}}
+Frais de livraison ........................... {{AMOUNT}}
+Code promo BIENVENUE10 ....................... -{{AMOUNT}}
+Total TVAC ................................... {{AMOUNT}}
+dont TVA 21 % ................................ {{AMOUNT}}
+
+Paiement : Bancontact, carte se terminant par {{CARD4}}, le {{DATE:numeric}}
+
+Suivi du colis : {{REF}}
+
+Une question ? Répondez simplement à ce mail, {{PER#3:given}} de notre service clientèle vous répondra dans la journée.
+
+À très vite,
+{{PER#3:full}}
+{{DEPT}}
+
+{{ORG#1:legal@retail}} - {{LOC#3:line}} - TVA {{VAT}}
+Droit de rétractation de 14 jours à compter de la réception.

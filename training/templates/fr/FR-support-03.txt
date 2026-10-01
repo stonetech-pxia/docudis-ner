@@ -1,0 +1,14 @@
+#country: FR
+#doctype: support
+Conversation avec l'assistance {{ORG#1:name@telecom}}
+{{DATE:numeric}}
+
+{{PER#2:given}} (conseiller) : Bonjour et bienvenue sur le chat {{ORG#1:name}}. Je m'appelle {{PER#2:given}}, que puis-je faire pour vous ?
+Vous : Bonjour, ma box ne marche plus depuis hier soir, voyant rouge.
+{{PER#2:given}} (conseiller) : Je suis désolé pour ce désagrément. Pouvez-vous me confirmer le nom du titulaire de la ligne et l'adresse d'installation ?
+Vous : {{PER#1:full}}, {{LOC#1:street}}, {{LOC#1:postcode_town}}
+{{PER#2:given}} (conseiller) : Merci. Je vois un incident en cours sur le secteur de {{LOC#1:town}}, rétablissement prévu le {{DATE:day_month}}.
+Vous : Mais je télétravaille, c'est un problème. Et c'est déjà la deuxième fois ce mois-ci.
+{{PER#2:given}} (conseiller) : Je comprends. Je vous active 50 Go supplémentaires sur votre ligne mobile {{MOBILE}} et je fais un geste commercial de {{AMOUNT}} sur la prochaine facture.
+Vous : D'accord, merci.
+{{PER#2:given}} (conseiller) : Un récapitulatif vous est envoyé à {{EMAIL:PER#1}}. Bonne journée !

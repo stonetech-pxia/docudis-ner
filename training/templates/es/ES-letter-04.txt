@@ -1,0 +1,29 @@
+#country: ES
+#doctype: letter
+#claim to a coach company for lost luggage, with family members
+{{ORG#1:legal@transport}}
+Servicio de Atención al Cliente
+{{LOC#1:po_box}}
+{{LOC#1:postcode_town}}
+
+Remitente: {{TITLE#2}} {{PER#2:full}}
+{{LOC#2:line}}
+Teléfono: {{MOBILE}}
+
+{{LOC#2:town}}, {{DATE:long}}
+
+Reclamación n.º {{REF}} - Pérdida de equipaje
+
+Muy señores míos:
+
+El {{DATE:long}} viajé con mi marido, {{PER#3:full}}, y nuestro hijo {{PER#4:given}} en el autobús de {{ORG#1:name@transport}} de las 8:15 entre {{LOC#3:town}} y {{LOC#4:town}} (billete localizador {{NUM}}). Al llegar a la estación, una de nuestras dos maletas no estaba en el maletero.
+
+Presentamos la hoja de reclamaciones en la taquilla, donde nos atendió {{PER#5:given}}, que se comprometió a llamarnos en 48 horas. Han pasado tres semanas sin noticias.
+
+La maleta, azul marino y con una cinta roja, contenía ropa, un portátil y medicación de mi hijo. Valoramos el contenido en {{AMOUNT:big}} y adjuntamos los tiques de compra que conservamos.
+
+Solicito que localicen la maleta o, en su defecto, nos indemnicen por el importe indicado mediante transferencia a la cuenta {{IBAN}}, a nombre de {{PER#2:full}}. De no recibir respuesta en un mes, acudiré a la Junta Arbitral de Consumo de {{LOC#2:region}}.
+
+Atentamente,
+
+{{PER#2:initial_surname}}

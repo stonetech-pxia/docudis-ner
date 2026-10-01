@@ -1,0 +1,18 @@
+Chat transcript - [[ORG|BT]] Customer Support
+Started: [[DATE|14/01/2026]] 19:22
+
+You are now chatting with [[PER|Kofi]]
+
+[[PER|Kofi]]: Hi, thanks for waiting. Can I take your name and the account number please?
+You: hi its [[PER|Lorna Galbraith]], account is GP41 7730 5128. broadband has been dropping every evening since [[DATE|2nd jan]]
+[[PER|Kofi]]: Thanks [[PER|Lorna]]. Can you confirm the first line of the address?
+You: [[LOC|27 Mossvale Crescent, Paisley PA3 4LT]]
+[[PER|Kofi]]: Perfect. I can see an open fault in your area. An engineer from [[ORG|Openreach]] visited the cabinet on [[DATE|9 January]] but it looks like it wasn't fixed.
+You: my neighbour [[PER|Alasdair]] said the same, his is with [[ORG|Virgin Media]] though so dunno if its related
+[[PER|Kofi]]: It might not be, theirs is a separate network. I've booked an engineer visit for [[DATE|17 January]], between 8am and 1pm, and added a credit of £7.50 for the days affected.
+You: ok thanks. can the engineer phone first, 07950 213 664
+[[PER|Kofi]]: Added to the notes. Anything else?
+You: no thats it cheers [[PER|kofi]]
+[[PER|Kofi]]: Have a lovely evening, [[PER|Lorna]].
+
+Chat ended 19:41

@@ -1,0 +1,39 @@
+[[ORG|SARL Plomberie Kerbrat & Fils]]
+[[LOC|17 rue du Pâtis Vert]]
+[[LOC|35700 Rennes]]
+Tél. 02 99 38 41 72 - contact@plomberie-kerbrat.fr
+SIRET 31094320400043 - TVA FR24 310943204
+
+FACTURE N° F-2026-0914
+
+Date : [[DATE|12/09/2026]]
+Échéance : [[DATE|12/10/2026]]
+
+Client :
+Mme [[PER|Nadège Vaugrenard]]
+[[LOC|4 allée des Charmilles]]
+[[LOC|Bât. C, apt 21]]
+[[LOC|35510 Cesson-Sévigné]]
+
+Lieu d'intervention : [[LOC|4 allée des Charmilles, 35510 Cesson-Sévigné]]
+Intervention du [[DATE|8 septembre 2026]], technicien : [[PER|Yannick Le Floch]]
+
+Désignation                              Qté    P.U. HT     Total HT
+Recherche de fuite sous évier             1      85,00        85,00
+Remplacement siphon PVC 40               1      18,50        18,50
+Flexible inox 50 cm                       2       9,90        19,80
+Main d'oeuvre (h)                       1,5      52,00        78,00
+Déplacement [[LOC|Cesson]]                     1      25,00        25,00
+
+                                           Total HT          226,30
+                                           TVA 10 %           22,63
+                                           Total TTC         248,93 EUR
+
+Règlement par virement :
+IBAN FR76 8417 6296 4788 9668 6088 719 - BIC AGRIFRPP836
+Référence à rappeler : F-2026-0914 / client 0457
+
+Pénalités de retard : 3 fois le taux d'intérêt légal. Indemnité forfaitaire pour frais de recouvrement : 40 €.
+Pas d'escompte pour paiement anticipé.
+
+[[ORG|SARL Plomberie Kerbrat & Fils]] - capital 8 000 € - RCS [[LOC|Rennes]] 310 943 204

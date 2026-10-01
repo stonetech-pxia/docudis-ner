@@ -1,0 +1,14 @@
+CUADRANTE SALA – SEMANA DEL [[DATE|21/09]] AL [[DATE|27/09]]
+[[ORG|Bar-Asador Kay'Mar 21]] · [[LOC|Paseo Marítimo, 7, 29780 Nerja]]
+
+          L    M    X    J    V    S    D
+[[PER|RAQUEL]]    M    M    L    L    T    T    T
+[[PER|Jonatan B.]] T    T    T    L    L    M    M
+[[PER|Dumitru]]   L    T    T    T    T    L    M
+[[PER|NATI]]      M    L    M    M    M    T    L
+[[PER|Cayetano]] (extra fin de semana)   -    -    -    -    T    T    T
+
+M = 10:00-17:00   T = 17:00-01:00   L = libre
+Encargada: [[PER|Lorena Zafra]] (tel. 652 90 14 38)
+Cambios de turno SOLO con visto bueno de [[PER|Lorena]]. El [[DATE|26 de septiembre]] cerramos a las 23:00 por la boda de
+[[PER|Paco Burgos]] (proveedor de [[ORG|Bodegas Axarquía Moscatel]]).

@@ -1,0 +1,17 @@
+RECIBO DE ALQUILER Nº 09/2026
+
+Arrendadora: [[PER|Milagros Bohórquez Ramírez]] — NIF 12970967W
+Arrendatario: [[PER|Samba Diallo Ndiaye]] — NIE X8654836M
+Vivienda: [[LOC|Calle Sopranis, 22, 1º, 11005 Cádiz]]
+
+He recibido de D. [[PER|Samba Diallo]] la cantidad de CUATROCIENTOS OCHENTA EUROS (480,00 €) en concepto de renta de la vivienda arriba indicada, correspondiente al mes de septiembre de 2026.
+
+Renta ........ 450,00 €
+Agua ........   30,00 €
+Total ........ 480,00 €
+
+Pagado en efectivo.
+
+En [[LOC|Cádiz]], a [[DATE|3 de septiembre de 2026]]
+
+Fdo.: [[PER|M. Bohórquez]]

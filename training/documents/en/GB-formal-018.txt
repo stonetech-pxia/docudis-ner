@@ -1,0 +1,40 @@
+INVOICE #0087
+
+From:
+[[PER|Saoirse Blakemore-Nwosu]]
+trading as [[ORG|Pebble Grid Studio]]
+[[LOC|Studio 11, Phoenix Brighton]]
+[[LOC|10-14 Waterloo Place]]
+[[LOC|Brighton BN2 9NB]]
+07700 692 105 · saoirse@pebblegrid.studio
+UTR 64418 20931 (not VAT registered)
+
+To:
+[[ORG|The Hove Hat Company]]
+Attn: [[PER|Bartholomew Ince]], Owner
+[[LOC|78 Blatchington Road]]
+[[LOC|Hove BN3 3YG]]
+
+Invoice date:   [[DATE|31 Aug 2026]]
+Payment terms:  30 days
+Due:            [[DATE|30 Sep 2026]]
+PO:             HHC-PO-221
+
+Services                                              Days   Rate    Amount
+Shopify theme redesign (home, collection, product)       6   £320  £1,920.00
+Product photography edit, 48 images                      1   £320    £320.00
+Copywriting - About page and 12 product pages          1.5   £320    £480.00
+Klaviyo welcome flow set-up                            0.5   £320    £160.00
+Hosting & domain, Sept 2026 - Aug 2027                    -      -     £96.00
+
+                                                          TOTAL  £2,976.00
+
+Please pay by bank transfer to:
+Name: [[PER|S Blakemore-Nwosu]]
+Bank: [[ORG|Barclays]]
+Sort code: 41-44-63
+Account: 43099827
+IBAN: GB70 BARC 4144 6343 0998 27  (for international payments)
+Reference: INV0087
+
+Thanks [[PER|Bart]] - lovely working with you and [[PER|Marguerite]] on this. Launch went live [[DATE|28th August]] as planned.

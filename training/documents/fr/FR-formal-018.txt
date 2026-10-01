@@ -1,0 +1,12 @@
+[[ORG|Centre d'Imagerie Loire-Beaujardin]]
+[[LOC|22 boulevard Heurteloup, 37000 Tours]] - 02 47 20 64 13
+
+Patient : [[PER|Céline Maupoint]] (née le [[DATE|03/02/1984]])
+Examen du [[DATE|14/09/2026]] : échographie abdominale
+Demandé par : Dr [[PER|Arnaud Pichereau]], [[LOC|Joué-lès-Tours]]
+
+Foie de taille normale, contours réguliers, échostructure homogène. Pas de lésion focale. Vésicule alithiasique, paroi fine. Voies biliaires non dilatées. Pancréas et rate normaux. Reins de taille normale sans dilatation. Pas d'épanchement.
+
+Conclusion : échographie abdominale normale.
+
+Dr [[PER|Vincent Aubrée-Kaddour]], radiologue

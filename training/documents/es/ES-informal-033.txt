@@ -1,0 +1,8 @@
+Messenger
+
+[[PER|Florentina Gallardo]]: Hola [[PER|Rosi]] guapa, soy [[PER|Flori]] la del pueblo, la hija de [[PER|Benigno]] el del bar. Te encontré aquí por tu hermana
+[[PER|Rosi Pérez-Nieto]]: Floriii!!! qué alegría. cuánto tiempo!! sigues en [[LOC|Alicante]]?
+[[PER|Florentina Gallardo]]: sí sí, en [[LOC|San Vicente del Raspeig]]. oye que el [[DATE|15 de agosto]] son las fiestas de [[LOC|Bocairent]] y hacemos comida de los del 79, te apuntas?
+[[PER|Rosi Pérez-Nieto]]: claro!! quién va?
+[[PER|Florentina Gallardo]]: de momento [[PER|Amador]], la [[PER|Chusa]], [[PER|Remigio]] y su mujer, y yo. en casa de [[PER|Amador]], la de la [[LOC|calle Sant Blai]]
+[[PER|Rosi Pérez-Nieto]]: 😍 allí estaré

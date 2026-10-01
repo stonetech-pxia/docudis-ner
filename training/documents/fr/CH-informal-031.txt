@@ -1,0 +1,36 @@
+Sujet : Licenciée pendant mon arrêt maladie ?? (canton de [[LOC|Fribourg]])
+
+Posté par Mel_FR le [[DATE|21.01.2026]]
+
+Bonsoir,
+
+J'ai besoin d'un avis parce que je ne sais plus quoi penser. Je travaille depuis 4 ans comme assistante administrative chez [[ORG|Fiduciaire Python & Rossier SA]] à [[LOC|Bulle]]. Depuis le [[DATE|3 décembre]] je suis en arrêt maladie (burn-out, certificat du Dr [[PER|Andrey]], mon médecin traitant, puis d'un psychiatre à [[LOC|Fribourg]]).
+
+Le [[DATE|15 janvier]], j'ai reçu un courrier recommandé signé par le directeur, M. [[PER|Laurent Python]], qui me licencie "pour le [[DATE|30 avril]]". Pas de motif. Mon collègue [[PER|Cédric]] m'a dit par WhatsApp que ça se savait au bureau depuis Noël et que la RH (Mme [[PER|Sallin]], [[PER|Géraldine]]) avait déjà publié l'annonce pour me remplacer.
+
+Il me semble qu'il y a une période de protection pendant la maladie ? Je suis dans ma 5e année donc c'est 90 jours ? Ou 180 ?
+
+Autre chose : l'assurance perte de gain de l'entreprise, c'est [[ORG|Groupe Mutuel]]. Est-ce qu'ils continuent de payer après la fin du contrat ?
+
+Je suis syndiquée chez [[ORG|Syna]] mais je n'ai pas encore osé appeler.
+
+Merci à tous,
+[[PER|Mélanie]]
+
+---
+
+Réponse de juriste_romand, [[DATE|22.01.2026]]
+
+Bonsoir [[PER|Mélanie]],
+
+Art. 336c CO : de la 2e à la 5e année de service, la protection est de 90 jours. Un licenciement notifié pendant cette période est nul. Si votre arrêt a commencé le [[DATE|3.12]] et que le courrier est arrivé le [[DATE|15.1]], vous êtes en plein dedans : le congé est nul, pas seulement suspendu. L'employeur devra le renvoyer après la fin de la période de protection.
+
+Pour la perte de gain, regardez les conditions générales : souvent vous pouvez passer en assurance individuelle dans les 30 ou 90 jours après la fin du contrat.
+
+Et appelez [[ORG|Syna]] demain matin, c'est exactement leur rôle. Le secrétariat de [[LOC|Fribourg]] reçoit aussi sans rendez-vous si vous préférez passer.
+
+---
+
+Réponse de Mel_FR, [[DATE|22.01.2026]]
+
+Merci infiniment. J'ai rendez-vous chez [[ORG|Syna]] jeudi. Je vous tiendrai au courant.

@@ -1,0 +1,26 @@
+#country: FR
+#doctype: support
+Objet : Re: Commande n° {{REF}} – colis non reçu [Ticket #{{NUM}}]
+
+Bonjour {{PER#1:given}},
+
+Merci pour votre retour. Après vérification auprès de notre transporteur, [[ORG|La Poste]], votre colis a bien été déposé en point relais le {{DATE:day_month}} mais n'a pas été retiré dans le délai de dix jours. Il nous est revenu le {{DATE:numeric}}.
+
+Deux solutions s'offrent à vous :
+1. une réexpédition gratuite à l'adresse {{LOC#1:line}} ;
+2. un remboursement de {{AMOUNT}} sur la carte se terminant par {{CARD4}}.
+
+Merci de nous indiquer votre choix en répondant simplement à ce message.
+
+Belle journée,
+{{PER#2:given}}
+{{DEPT}} – {{ORG#1:name@retail}}
+{{URL:ORG#1}}
+
+---
+Le {{DATE:numeric}} à 21:47, {{PER#1:full}} <{{EMAIL:PER#1}}> a écrit :
+> Bonjour,
+> J'ai commandé une lampe de bureau le {{DATE:long}}, le suivi indique « livré » mais je n'ai rien reçu. Mon voisin, {{TITLE#3}} {{PER#3:surname}}, n'a rien réceptionné non plus.
+> Pouvez-vous vérifier ?
+> {{PER#1:full}}
+> {{MOBILE}}

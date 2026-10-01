@@ -1,0 +1,26 @@
+#country: IE
+#doctype: lease
+Hi {{PER#1:given}},
+
+Just confirming what we agreed on the phone about the flat in {{LOC#1:town}}. I'm registering the tenancy with the Residential Tenancies Board this week so I need a few things back from you.
+
+Property: {{LOC#1:line}}
+Start date: {{DATE:long}}
+Rent: {{AMOUNT}} per month, paid on the 1st into:
+{{PER#2:full}}
+IBAN {{IBAN}}
+BIC {{BIC}}
+Deposit: {{AMOUNT}} (one month)
+
+Could you send me:
+- PPS number for the RTB form
+- a reference from your employer - you said {{ORG#1:legal@employer}}?
+- a contact for your previous landlord
+
+The heating is oil, the tank was filled on {{DATE:day_month}} and the reading is noted. Bins are collected on Tuesdays by {{ORG#2:name@utility}}.
+
+My brother {{PER#3:full}} looks after repairs when I'm away, his number is {{MOBILE}}.
+
+Thanks,
+{{PER#2:given}}
+{{MOBILE}}

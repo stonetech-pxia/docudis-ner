@@ -1,0 +1,33 @@
+DÉCLARATION DE SINISTRE AUTOMOBILE (complément au constat européen)
+Compagnie : [[ORG|Ethias]] – Service Sinistres Auto
+Courtier : [[ORG|Bureau d'assurances Thiry-Schmit SRL]], [[LOC|Grand-Rue 27, 6700 Arlon]] – code FSMA 114 207
+Police n° 45.118.330 / RC + omnium partielle
+
+PRENEUR D'ASSURANCE / CONDUCTEUR
+Nom et prénom : [[PER|SCHMIT-MOREIRA Lara]]
+Adresse : [[LOC|Rue de Sesselich 88]]
+          [[LOC|6700 Arlon]]
+Date de naissance : [[DATE|02/06/1990]]          Permis B délivré le [[DATE|14/11/2008]] à [[LOC|Arlon]]
+Profession : aide-comptable chez [[ORG|Lux-Arden Transports]], [[LOC|Windhof]] ([[LOC|Luxembourg]])
+GSM : 0495 70 38 12          E-mail : lara.schmit-moreira@proximus.be
+Véhicule : Peugeot 208, immatriculation 1-KMS-482
+
+SINISTRE
+Date : [[DATE|11 septembre 2026]], 7 h 50          Lieu : [[LOC|N4 à hauteur du carrefour de Fouches, 6717 Attert]]
+Circonstances : véhicule B, arrivant de [[LOC|Habay]], n'a pas respecté le stop et m'a percutée à l'avant gauche.
+Police : zone de police [[LOC|Arlon]]/[[LOC|Attert]]/[[LOC|Habay]]/[[LOC|Martelange]], PV n° AR.55.L1.004871/2026, rédigé par l'inspecteur [[PER|Tom Kieffer]].
+
+PARTIE ADVERSE
+Conducteur : [[PER|Lemaire, Jean-Marc]], [[LOC|Rue du Moulin 3, 6720 Habay-la-Neuve]]
+Assureur : [[ORG|AG Insurance]], police 07/882/4419
+Véhicule : camionnette de l'entreprise [[ORG|Menuiserie Lemaire-Bodson]]
+
+TÉMOIN
+[[PER|Nadia Brück]], [[LOC|Rue de Longwy 210, 6700 Arlon]], 0478 25 61 90
+
+DÉGÂTS / GARAGE
+Véhicule remorqué par [[ORG|Dépannage Gérardy 24/24]] vers le [[ORG|Garage Wagner & Wiltzius]], [[LOC|Rue de Bastogne 140, 6700 Arlon]].
+Expertise demandée. Contact au garage : [[PER|Patrick Wiltzius]], chef d'atelier.
+Blessures : contusion à l'épaule, vue aux urgences des [[ORG|Cliniques du Sud Luxembourg]] le jour même (certificat du Dr [[PER|Ferreira]]).
+
+Fait à [[LOC|Arlon]], le [[DATE|13/09/2026]].          [[PER|L. Schmit-Moreira]]

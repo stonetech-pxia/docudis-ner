@@ -1,0 +1,34 @@
+[[ORG|LAGAN'FIT 24]]
+NEW MEMBER REGISTRATION
+Club: [[LOC|Boucher Road, Belfast]]          Member no.: LF24-00913
+
+YOUR DETAILS
+First name: [[PER|Caoimhe]]
+Last name: [[PER|McKeown]]
+Date of birth: [[DATE|30-01-1998]]
+Address: [[LOC|16 Rathmore Park, Dunmurry, Belfast BT17 9AN]]
+Mobile: 07821 334 506
+Email: caoimhe.mck98@gmail.com
+How did you hear about us? Friend
+
+MEMBERSHIP
+Type: Off-Peak (Mon–Fri before 4pm, weekends)     £24.99 per month
+Joining fee: waived (promo SEPT25)
+Direct Debit start date: [[DATE|01/10/2025]]
+Bank: [[ORG|Danske Bank]]     Sort code: 95-01-22     Account no.: 40188233
+Account holder: [[PER|C McKeown]]
+
+REFERRAL
+Referred by: [[PER|Rory Gilmartin]] (member LF24-00277) – both get one month free
+
+CORPORATE DISCOUNT
+Employer: [[ORG|Harland Quay Logistics]]     Staff ID: HQL-5521
+
+HEALTH QUESTIONNAIRE
+Any medical conditions? Mild asthma, inhaler carried
+GP practice: [[ORG|Upper Malone Family Practice]]
+Emergency contact: [[PER|Dermot McKeown]] (dad) – 028 9061 4471
+
+Signed up by: [[PER|Jodie]] – Membership Advisor
+Induction booked: Fri [[DATE|3rd Oct]] at 10:00 with PT [[PER|Aaron Magowan]]
+Date: [[DATE|17th September 2025]]

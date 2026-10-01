@@ -1,0 +1,38 @@
+[[PER|Jean-Baptiste Carbuccia]]
+Propriétaire bailleur
+[[LOC|37 boulevard Notre-Dame]]
+[[LOC|13006 Marseille]]
+jb.carbuccia@orange.fr
+
+                                      Mme [[PER|Yasmina Belkhodja]]
+                                      [[LOC|72 rue Breteuil]]
+                                      [[LOC|Escalier A, 4e étage]]
+                                      [[LOC|13006 Marseille]]
+
+[[LOC|Marseille]], le [[DATE|10 septembre 2026]]
+
+Objet : régularisation annuelle des charges locatives - exercice 2025
+
+Madame,
+
+Conformément à l'article 23 de la loi de 1989 et à votre bail du [[DATE|15 mars 2022]], je vous adresse le décompte des charges récupérables pour la période du [[DATE|1er janvier 2025]] au [[DATE|31 décembre 2025]], établi à partir des comptes arrêtés par le syndic, [[ORG|Foncia Marseille Castellane]], et approuvés lors de l'assemblée générale du [[DATE|19 juin 2026]].
+
+Poste                                   Total immeuble    Tantièmes    Votre quote-part
+Eau froide (compteur individuel)              -             -               186,40
+Entretien parties communes              6 842,00        84/1000           574,73
+Électricité parties communes            1 215,60        84/1000           102,11
+Ascenseur (contrat [[ORG|Kone]])               3 960,00        84/1000           332,64
+Ordures ménagères (TEOM)                      -             -               298,00
+Total des charges récupérables                                            1 493,88
+Provisions versées (12 x 115,00)                                          1 380,00
+Solde restant dû                                                            113,88 €
+
+Les pièces justificatives sont tenues à votre disposition pendant six mois, sur rendez-vous, au cabinet du syndic.
+
+Vous pouvez régler ce solde en une fois avec le loyer d'octobre ou, si vous le préférez, en trois mensualités de 37,96 €. Par ailleurs, compte tenu de ce décompte, la provision mensuelle passera de 115,00 € à 125,00 € à compter du [[DATE|1er novembre 2026]].
+
+Je vous prie d'agréer, Madame, mes salutations distinguées.
+
+[[PER|J.-B. Carbuccia]]
+
+PJ : décompte du syndic, relevé du compteur d'eau du [[DATE|02/01/2026]]

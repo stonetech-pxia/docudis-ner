@@ -1,0 +1,32 @@
+#country: IE
+#doctype: form
+# Gym membership form with SEPA Direct Debit mandate
+{{ORG#1:legal@hospitality}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+Membership application
+
+Member name: {{PER#1:full}}
+Date of birth: {{DATE:birth}}
+Address: {{LOC#2:street}}
+         {{LOC#2:postcode_town}}
+County: {{LOC#2:region}}
+Mobile: {{MOBILE}}
+Email: {{EMAIL:PER#1}}
+Membership type: Off-peak, 12 months, starting {{DATE:short}}
+Referred by: {{PER#2:full}} (member no. {{NUM}})
+Medical conditions we should know about: knee surgery {{DATE:day_month}} last year, cleared by physio {{PER#3:full}} at {{ORG#2:name@health}}
+Emergency contact: {{PER#4:full}}, {{PHONE}}
+
+SEPA DIRECT DEBIT MANDATE
+Creditor: {{ORG#1:name}}   Creditor identifier: {{REF}}
+Unique mandate reference: {{REF}}
+By signing this mandate form, you authorise (A) {{ORG#1:name}} to send instructions to your bank to debit your account and (B) your bank to debit your account in accordance with the instruction from {{ORG#1:name}}.
+Debtor name: {{PER#1:full}}
+Debtor IBAN: {{IBAN}}
+Debtor BIC: {{BIC}}
+Monthly amount: {{AMOUNT}}
+Type of payment: Recurrent
+Signed: {{PER#1:signature}}     Date: {{DATE:numeric}}
+
+Staff use: membership sold by {{PER#5:initial_surname}}, {{DEPT}}

@@ -1,0 +1,42 @@
+#country: FR
+#doctype: insurance
+# Déclaration de sinistre dégât des eaux écrite par l'assurée, lettre personnelle, prose.
+{{PER#1:full}}
+{{LOC#1:street}}
+{{LOC#1:unit}}
+{{LOC#1:postcode_town}}
+{{MOBILE}}
+{{EMAIL:PER#1}}
+
+{{ORG#1:legal@insurance}}
+Service Sinistres
+{{LOC#2:po_box}}
+{{LOC#2:postcode_town}}
+
+À {{LOC#1:town}}, le {{DATE:long}}
+
+Objet : déclaration de sinistre - dégât des eaux
+Contrat habitation n° {{REF}}
+
+Madame, Monsieur,
+
+Je vous déclare par la présente un dégât des eaux survenu dans mon appartement dans la nuit du {{DATE:long}}.
+
+En rentrant du travail vers 19 h, j'ai constaté une large tache d'humidité au plafond de la salle de bains et de la cuisine, ainsi que du plâtre tombé sur le carrelage. J'ai immédiatement prévenu l'occupant de l'appartement du dessus, {{TITLE#2}} {{PER#2:full}}. Une fuite a été trouvée sur le flexible de son lave-linge ; l'eau a été coupée le soir même et son propre assureur, {{ORG#2:name@insurance}}, a été prévenu.
+
+Nous avons rempli ensemble un constat amiable dégât des eaux, que vous trouverez en pièce jointe. Le syndic de l'immeuble, {{ORG#3:legal@property}} (gestionnaire : {{PER#3:full}}), a été informé par téléphone le lendemain matin et doit faire passer un plombier.
+
+Dommages constatés :
+- plafond de la salle de bains et de la cuisine (peinture et plâtre) ;
+- meuble sous évier en aggloméré gonflé ;
+- robot pâtissier posé sur le plan de travail, qui ne fonctionne plus (acheté le {{DATE:numeric}} chez {{ORG#4:name@retail}}, facture de {{AMOUNT}} jointe).
+
+Un proche, {{PER#4:full}}, était présent et peut en témoigner si nécessaire. J'ai pris des photos que je peux vous transmettre par e-mail.
+
+Je reste disponible pour la visite d'un expert, de préférence en fin de journée ou le samedi. Vous pouvez me joindre au numéro ci-dessus.
+
+Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+
+{{PER#1:signature}}
+
+PJ : constat amiable, photos, facture du robot, RIB

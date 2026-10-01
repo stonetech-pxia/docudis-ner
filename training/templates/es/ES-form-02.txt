@@ -1,0 +1,28 @@
+#country: ES
+#doctype: form
+# Hoja de reclamaciones de consumo rellenada contra un taller
+HOJA DE RECLAMACIÓN
+
+DATOS DEL RECLAMANTE
+Nombre y apellidos: {{PER#1:full}}
+DNI/NIE/Pasaporte: {{NATID}}
+Domicilio: {{LOC#1:line}}
+Teléfono: {{MOBILE}}
+Correo: {{EMAIL:PER#1}}
+
+DATOS DEL RECLAMADO
+Nombre o razón social: {{ORG#1:legal@trades}}
+NIF: {{COMPANYID}}
+Domicilio del establecimiento: {{LOC#2:line}}
+Persona que atiende: {{PER#2:full}}
+
+HECHOS
+El {{DATE:long}} dejé mi coche (matrícula {{PLATE}}) para cambiar las pastillas de freno. Me dieron un presupuesto de {{AMOUNT}}. Al recogerlo el {{DATE:day_month}} me cobraron {{AMOUNT}}, incluyendo la sustitución de los discos, que no autoricé. El jefe de taller, {{PER#3:surname}}, dice que se lo comentaron a mi pareja por teléfono, pero {{PER#4:given}} no recibió ninguna llamada.
+
+PRETENSIÓN
+Que me devuelvan la diferencia, {{AMOUNT}}, y me entreguen los discos retirados.
+
+Lugar y fecha: {{LOC#2:town}}, {{DATE:numeric}}
+Firma del reclamante: {{PER#1:signature}}
+
+Esta hoja se remitirá a los Servicios de Consumo de {{LOC#2:region}} si no se obtiene respuesta en el plazo de un mes.

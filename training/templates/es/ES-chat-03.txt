@@ -1,0 +1,26 @@
+#country: ES
+#doctype: chat
+#work team chat export (Teams style), coordinating a supplier visit
+{{PER#1:full}}  {{DATE:numeric}} 9:05
+Buenos días. Recordad que hoy viene {{PER#4:full}}, de {{ORG#2:legal@trades}}, a revisar la instalación del almacén de {{LOC#1:line}}.
+
+{{PER#2:full}}  {{DATE:numeric}} 9:07
+Ok. ¿A qué hora? Yo estoy en la reunión con {{ORG#3:name@finance}} hasta las 11.
+
+{{PER#1:full}}  {{DATE:numeric}} 9:08
+A las 12. {{PER#3:given}}, ¿puedes recibirle tú? Su móvil: {{MOBILE}}
+
+{{PER#3:full}}  {{DATE:numeric}} 9:15
+Sí, sin problema. ¿Tiene que firmar el registro de visitas?
+
+{{PER#1:full}}  {{DATE:numeric}} 9:16
+Sí, y pídele el certificado de la revisión anterior, la del {{DATE:long}}. Lo necesita {{PER#5:initial_surname}} para la auditoría de {{ORG#1:name@employer}}.
+
+{{PER#2:full}}  {{DATE:numeric}} 11:32
+Ya estoy. Por cierto, el presupuesto que mandaron era de {{AMOUNT}}, más IVA. Hay que pasarlo a {{DEPT}} antes del viernes.
+
+{{PER#3:full}}  {{DATE:numeric}} 12:48
+Ya ha venido y se ha ido. Dice que el cuadro eléctrico está bien pero que el extintor de la entrada caduca el {{DATE:day_month}}. Os reenvío el informe por correo a {{EMAIL:PER#1}}.
+
+{{PER#1:full}}  {{DATE:numeric}} 12:50
+Genial, gracias {{PER#3:given}} 👍

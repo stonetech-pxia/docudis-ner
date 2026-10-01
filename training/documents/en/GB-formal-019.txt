@@ -1,0 +1,17 @@
+[[ORG|Tolworth Sports Physiotherapy]]
+[[LOC|221A Ewell Road, Surbiton KT6 7AW]]  |  020 8390 4471
+
+RECEIPT / INVOICE  TSP-19330            [[DATE|12/09/2026]]
+
+Patient: [[PER|Levi Adjei-Burrows]]
+Insurer: [[ORG|AXA Health]], membership 7734 0219 55, pre-auth PA-608814
+
+[[DATE|22/08/2026]]  Initial assessment (60 min)     £85.00
+[[DATE|29/08/2026]]  Follow-up + shockwave           £70.00
+[[DATE|05/09/2026]]  Follow-up                       £60.00
+[[DATE|12/09/2026]]  Follow-up                       £60.00
+                     Total                          £275.00
+                     Paid by card ****5243          £275.00
+                     Balance                          £0.00
+
+Physiotherapist: [[PER|Rosalind Achebe-Tunstall]] MCSP, HCPC PH118204

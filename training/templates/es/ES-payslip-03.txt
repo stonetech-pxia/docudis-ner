@@ -1,0 +1,11 @@
+#country: ES
+#doctype: payslip
+# Nómina corta de empleada de hogar
+Nómina empleada de hogar — {{DATE:numeric}}
+Empleador: {{PER#1:full}}, NIF {{NATID}}
+{{LOC#1:line}}
+Empleada: {{PER#2:full}}, NIE {{NATID}}
+Salario: {{AMOUNT}}  Prorrata extras: {{AMOUNT}}
+Seg. Social trabajadora: {{AMOUNT}}
+A percibir: {{AMOUNT}} por transferencia a {{IBAN}}
+Recibí: {{PER#2:signature}}

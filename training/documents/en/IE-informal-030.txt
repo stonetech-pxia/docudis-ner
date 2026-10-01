@@ -1,0 +1,5 @@
+Hi [[PER|Mairéad]], this is [[ORG|Hennessy's Pharmacy]] [[LOC|Kilkenny]]. Your prescription from Dr [[PER|Brophy]] is ready for collection. We're open til 7 today. Any q's ring 056 772 1840.
+
+Thanks. Can my husband [[PER|Pádraig]] pick it up? I'm stuck in [[LOC|Thomastown]] til late
+
+Yes no problem, he just needs to give your name and DOB ([[DATE|14/02/1971]]). [[PER|Clodagh]]

@@ -1,0 +1,36 @@
+#country: CH
+#doctype: payslip
+# Décompte de salaire suisse d'un employé à temps partiel dans un restaurant, format court avec lettre d'accompagnement.
+{{ORG#1:legal@hospitality}}
+{{LOC#1:line}}
+
+Confidentiel
+{{TITLE#2}} {{PER#2:full}}
+{{LOC#2:street}}
+{{LOC#2:postcode_town}}
+
+Décompte de salaire - mois de septembre
+Date de versement : {{DATE:numeric}}
+N° AVS : {{NATID}}
+Taux d'occupation : 60 %
+Fonction : {{JOB}}
+
+Salaire de base : {{AMOUNT}}
+Indemnité vacances 10,64 % : {{AMOUNT}}
+Supplément dimanche : {{AMOUNT}}
+Salaire brut : {{AMOUNT}}
+AVS/AI/APG 5,3 % : -{{AMOUNT}}
+AC 1,1 % : -{{AMOUNT}}
+LAA non professionnelle : -{{AMOUNT}}
+Caisse de pension LPP : -{{AMOUNT}}
+Impôt à la source (barème B1) : -{{AMOUNT}}
+Déduction repas : -{{AMOUNT}}
+Salaire net : {{AMOUNT}}
+Versé sur IBAN {{IBAN}}
+
+Bonjour {{PER#2:given}},
+comme convenu lors de notre entretien du {{DATE:day_month}}, votre taux passe à 70 % dès le mois prochain. Le nouveau contrat vous sera remis par {{PER#3:full}}.
+Merci pour votre engagement cet été !
+
+{{PER#1:full}}
+{{JOB}}

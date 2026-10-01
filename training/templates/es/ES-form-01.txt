@@ -1,0 +1,40 @@
+#country: ES
+#doctype: form
+# Solicitud de empadronamiento en un ayuntamiento, rellenada
+{{PUBLIC#1}}
+Padrón Municipal de Habitantes
+HOJA DE INSCRIPCIÓN / MODIFICACIÓN
+
+Tipo de solicitud: alta por cambio de residencia
+Procedencia: {{LOC#2:town}} ({{LOC#2:region}})
+
+DOMICILIO
+Vía: {{LOC#1:street}}
+Piso / puerta: {{LOC#1:unit}}
+C.P. y municipio: {{LOC#1:postcode_town}}
+
+PERSONAS INSCRITAS
+1. Nombre: {{PER#1:given}}   Apellidos: {{PER#1:surname}}
+   Fecha de nacimiento: {{DATE:birth}}
+   Lugar de nacimiento: {{LOC#3:town}}
+   DNI/NIE: {{NATID}}
+   Nivel de estudios: universitario
+2. Nombre: {{PER#2:given}}   Apellidos: {{PER#2:surname}}
+   Fecha de nacimiento: {{DATE:birth}}
+   Lugar de nacimiento: {{LOC#4:country}}
+   DNI/NIE: {{NATID}}
+3. Nombre: {{PER#3:given}}   Apellidos: {{PER#3:surname}}
+   Fecha de nacimiento: {{DATE:birth}}
+   Menor de edad, representado por {{PER#1:full}}
+
+AUTORIZACIÓN DEL TITULAR DE LA VIVIENDA
+D./Dña. {{PER#4:full}}, con DNI {{NATID}}, propietario/a de la vivienda, autoriza la inscripción de las personas arriba indicadas.
+Firma: {{PER#4:signature}}
+
+Teléfono de contacto: {{MOBILE}}
+Correo electrónico: {{EMAIL:PER#1}}
+
+Documentación aportada: contrato de arrendamiento firmado con {{ORG#1:legal@property}} el {{DATE:numeric}}, libro de familia.
+
+En {{LOC#1:town}}, a {{DATE:long}}
+Firma del solicitante: {{PER#1:signature}}

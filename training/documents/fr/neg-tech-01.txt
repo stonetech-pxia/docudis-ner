@@ -1,0 +1,29 @@
+La mise à jour 7.21.4 est passée toute seule cette nuit et le widget a disparu. En revenant à la 6.18.2 ça remarche.
+
+Sur la boîte c'est marqué firmware 12.03.19, à l'écran 12.03.21. J'imagine que la boîte est périmée.
+
+Référence de la pièce : 4.55.08 pour la roue arrière. L'ancienne, 4.55.06, n'est plus fabriquée.
+
+La version 2.14.7 plante à l'export. La 2.15.0 aussi, donc ce n'est pas la mise à jour.
+
+Couple de serrage : 3.40.12 Nm par boulon, contre 3.40.09 sur la révision précédente.
+
+Notre licence ne couvre que la 5.12.03. Au-delà de 5.12.30 il faut une nouvelle clé.
+
+Norme NF 1.09.24 alinéa trois : l'essai est refait si la mesure dérive.
+
+Le gérant unique est une fonction, pas un nom : une société peut en avoir un et compter cinq associés.
+
+Les liquidateurs solidaires peuvent signer seuls, les liquidateurs conjoints non.
+
+Nominations et démissions paraissent dans la même rubrique de l'annonce.
+
+Fermé jeudi et vendredi. Du lundi au mercredi on ouvre plus tard.
+
+Le tirage a eu lieu un jeudi mais l'acte a été signé le lundi suivant.
+
+Associé unique ne veut pas dire petite entreprise, seulement qu'il n'y a qu'une part.
+
+Gérant unique : [[PER|Solène Ravachol]]. La nomination figure dans l'export version 3.02.11 du registre.
+
+Liquidateur solidaire : [[PER|Térence Mbarga]]. L'avis de jeudi reprenait le chiffre de la version 4.7.2.

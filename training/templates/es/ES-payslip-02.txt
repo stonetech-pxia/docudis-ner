@@ -1,0 +1,33 @@
+#country: ES
+#doctype: payslip
+# Consulta por correo a la gestoría sobre una nómina con finiquito
+De: {{PER#1:full}} <{{EMAIL:PER#1}}>
+Para: {{EMAIL:ORG#1}}
+Asunto: Duda sobre mi última nómina y el finiquito
+
+Hola, {{PER#2:given}}:
+
+Soy {{PER#1:given}}, trabajaba de camarera en {{ORG#2:name@hospitality}} (la del paseo, en {{LOC#1:town}}) hasta el {{DATE:day_month}}. Me han pasado la nómina de este mes junto con el finiquito y no me cuadran las vacaciones. Os copio lo que pone:
+
+Empresa: {{ORG#2:legal@hospitality}}   CIF {{COMPANYID}}
+Trabajadora: {{PER#1:surname_given}}   DNI {{NATID}}
+Fecha de alta: {{DATE:numeric}}   Fecha de baja: {{DATE:numeric}}
+Salario base: {{AMOUNT}}
+Vacaciones no disfrutadas (4 días): {{AMOUNT}}
+Parte proporcional paga de verano: {{AMOUNT}}
+Parte proporcional paga de Navidad: {{AMOUNT}}
+Indemnización fin de contrato: {{AMOUNT}}
+IRPF: {{AMOUNT}}
+Seg. Social: {{AMOUNT}}
+Líquido: {{AMOUNT}}
+
+Según mis cuentas me quedaban 9 días de vacaciones, no 4. Mi encargado, {{PER#3:full}}, me dijo que lo hablara con vosotros. ¿Me podéis decir si está bien antes de firmar? Tengo que pasar por el local el {{DATE:day_month}}.
+
+Mi teléfono es el {{MOBILE}}.
+
+Muchas gracias,
+{{PER#1:full}}
+
+--
+{{ORG#1:legal@legal}}
+{{LOC#3:line}}

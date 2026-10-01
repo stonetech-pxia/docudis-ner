@@ -1,0 +1,31 @@
+HOJA DE QUEJAS Y RECLAMACIONES – Junta de [[LOC|Andalucía]]
+Nº de hoja: 04-2026-117340
+
+DATOS DE LA PERSONA RECLAMANTE
+Nombre: [[PER|TAMARA]]            Apellidos: [[PER|SEGURA INDÁLEZ]]
+DNI/NIE/Pasaporte: 13290939K     Nacionalidad: española
+Domicilio: [[LOC|C/ Poeta Villaespesa Baja, 44, 3º 2]]
+Localidad: [[LOC|Almería]]     C.P.: [[LOC|04005]]     Provincia: [[LOC|Almería]]
+Teléfono: 670 318 225     Correo electrónico: tamarasegura_ind@gmail.com
+
+DATOS DEL RECLAMADO
+Nombre o razón social: [[ORG|Telefónica de España, S.A.U.]] (tienda franquiciada [[ORG|Conecta Levante Almería 2]])
+NIF: A82018474
+Domicilio del establecimiento: [[LOC|Av. Cabo de Gata del Sur, 212, local 4, 04007 Almería]]
+Actividad: telecomunicaciones
+
+HECHOS
+El [[DATE|2 de julio de 2026]] contraté en la tienda la portabilidad de fibra y dos líneas móviles, con la promesa por
+escrito del comercial ([[PER|Iker]], no me dio apellido) de una cuota de 62 €/mes durante 24 meses. Desde la factura de
+agosto me cobran 89,90 €. He llamado cuatro veces al 1004 (refs. de llamada 88341, 88977, 90412, 91005). El
+[[DATE|28/08]] la encargada de la tienda, Sra. [[PER|Montoya]], me dijo que la oferta "ya no existía".
+
+PRETENSIÓN
+Que se respete la cuota firmada y se devuelvan 55,80 € cobrados de más en agosto y septiembre, en la cuenta
+ES70 0652 6628 1657 5918 4483.
+
+Documentos que se adjuntan: copia del contrato firmado el [[DATE|02/07/2026]], facturas de agosto y septiembre.
+
+En [[LOC|Almería]], a [[DATE|16 de septiembre de 2026]]
+Firma de la persona reclamante: [[PER|T. Segura]]
+Firma y sello del establecimiento: [[PER|Montoya Cazorla]], encargada – [[ORG|Conecta Levante Almería 2]]

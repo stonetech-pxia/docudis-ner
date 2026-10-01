@@ -1,0 +1,12 @@
+#country: GB
+#doctype: chat
+[{{DATE:numeric}}, 18:42] {{PER#1:given}}: Right who's doing what for Saturday
+[{{DATE:numeric}}, 18:43] {{PER#2:given}}: I've booked the table at {{ORG#1:name@hospitality}} for 7.30, under {{PER#2:surname}}
+[{{DATE:numeric}}, 18:43] {{PER#3:full}}: Is that the one on {{LOC#1:street}}?
+[{{DATE:numeric}}, 18:44] {{PER#2:given}}: yep, next to the vets
+[{{DATE:numeric}}, 18:46] {{PER#1:given}}: Amazing. {{PER#4:given}} are you bringing the cake or is {{PER#3:given}}
+[{{DATE:numeric}}, 18:51] {{PER#4:given}}: me! ordered from {{ORG#2:name@retail}}, picking it up Sat morning
+[{{DATE:numeric}}, 18:52] {{PER#3:full}}: I'll sort the card. everyone send me {{AMOUNT}} for the present pls
+[{{DATE:numeric}}, 18:52] {{PER#3:full}}: {{SORTCODE}} {{ACCOUNT}}
+[{{DATE:numeric}}, 18:55] {{PER#1:given}}: done 👍
+[{{DATE:numeric}}, 19:03] {{PER#2:given}}: Don't tell {{PER#5:given}} obviously 🤫 they think we're going to the pub

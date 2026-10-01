@@ -1,0 +1,40 @@
+[[ORG|Unicaja Banco, S.A.]]
+Oficina Urbana 7 · [[LOC|Avda. Ronda de los Tejares, 19]] · [[LOC|14008 Córdoba]]
+
+D. [[PER|Rafael Luque Castro]]
+Dña. [[PER|Soledad Peralbo Jiménez]]
+[[LOC|C/ San Pablo, 6, 1º]]
+[[LOC|14900 Lucena]] ([[LOC|Córdoba]])
+
+[[LOC|Córdoba]], [[DATE|10 de septiembre de 2026]]
+
+Referencia: préstamo hipotecario nº 0081-7766-45-0010023491
+
+Estimados clientes:
+
+Hemos recibido su solicitud, de fecha [[DATE|28 de agosto de 2026]], para realizar una amortización anticipada parcial de su préstamo hipotecario. Les confirmamos las condiciones de la operación:
+
+Capital pendiente a [[DATE|31/08/2026]]:          87.412,66 €
+Importe a amortizar:                         15.000,00 €
+Compensación por desistimiento (0,25 %):         37,50 €
+Fecha valor de la operación:                 [[DATE|01/10/2026]]
+Opción elegida:                              reducción de cuota
+Cuota actual:                                   512,30 €
+Nueva cuota estimada:                           424,39 €
+Plazo restante:                              214 meses (sin cambios)
+
+Para que la operación se ejecute, la cuenta de cargo ES90 7505 2351 9564 6638 6627 deberá disponer de saldo suficiente el día [[DATE|30 de septiembre]]. No será necesario acudir al notario, pero sí firmar el documento de conformidad adjunto en su oficina.
+
+Recuerden que la vivienda hipotecada, situada en [[LOC|C/ San Pablo, 6, 1º, 14900 Lucena]], debe mantener en vigor el seguro de daños exigido en la escritura; nos consta la póliza de [[ORG|Santalucía, S.A. Compañía de Seguros y Reaseguros]] con vencimiento el [[DATE|15 de marzo de 2027]].
+
+Para cualquier aclaración, pueden contactar con su gestora, [[PER|Inmaculada Arjona]], en el 957 471 520 o en iarjona@unicaja.es.
+
+Atentamente,
+
+[[PER|Inmaculada Arjona Serrano]]
+Gestora de Banca Personal
+
+[[PER|Francisco Javier Cañete Moyano]]
+Director de Oficina
+
+[[ORG|Unicaja Banco, S.A.]] Inscrita en el Registro Mercantil de [[LOC|Málaga]], Tomo 4952, Folio 36, Hoja MA-111580. NIF A93139053.

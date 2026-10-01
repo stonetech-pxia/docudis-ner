@@ -1,0 +1,14 @@
+{
+  "name": "distilbert-base-multilingual-cased-ner-hrl",
+  "source": "https://huggingface.co/Xenova/distilbert-base-multilingual-cased-ner-hrl (int8 ONNX export of Davlan/distilbert-base-multilingual-cased-ner-hrl, AFL-3.0)",
+  "model": "model_int8.onnx",
+  "tokenizer": { "kind": "wordpiece", "file": "tokenizer.json" },
+  "labels": ["O", "B-DATE", "I-DATE", "B-PER", "I-PER", "B-ORG", "I-ORG", "B-LOC", "I-LOC"],
+  "labelMap": { "PER": "PERSON", "ORG": "COMPANY", "LOC": "ADDRESS", "DATE": "DATE" },
+  "maxTokens": 256,
+  "stride": 32,
+  "threshold": 0.5,
+  "padId": 0,
+  "inputs": { "ids": "input_ids", "mask": "attention_mask" },
+  "output": "logits"
+}

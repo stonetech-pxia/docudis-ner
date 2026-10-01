@@ -1,0 +1,15 @@
+[[ORG|GARAGE DU PUY DE CRÂNE]] - [[PER|Cyril Montagnon]]
+[[LOC|48 avenue Édouard Michelin, 63100 Clermont-Ferrand]]  04 73 25 61 08
+SIRET 51959386700038
+
+Facture 26/0731          [[DATE|16/09/2026]]
+Client : Mme [[PER|Pauline Vigouroux]], [[LOC|3 rue du Bois de Cros, 63170 Aubière]]
+Véhicule : Renault Clio IV  EZ-903-LM  98 412 km
+
+Vidange + filtre à huile              89,90
+Plaquettes AV (pièces + MO)          164,00
+Balais essuie-glace                   27,50
+Total TTC                            281,40 €
+dont TVA 20 %                         46,90
+
+Réglé CB le [[DATE|16/09/2026]]. Prochaine révision avant le [[DATE|16/09/2027]] ou 113 000 km.

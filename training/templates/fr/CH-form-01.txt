@@ -1,0 +1,44 @@
+#country: CH
+#doctype: form
+# Formulaire d'inscription à une crèche privée, avec situation professionnelle des parents et contacts d'urgence.
+{{ORG#1:legal@school}}
+Structure d'accueil de jour subventionnée par {{PUBLIC#1}}
+{{LOC#1:street}}, {{LOC#1:postcode_town}}
+
+FORMULAIRE D'INSCRIPTION
+
+Enfant
+Nom, prénom : {{PER#1:full}}
+Date de naissance : {{DATE:birth}}
+Langue parlée à la maison : français et portugais
+Date d'entrée souhaitée : {{DATE:numeric}}
+Jours de fréquentation : lundi, mardi, jeudi (journées complètes)
+
+Parent 1
+Nom, prénom : {{PER#2:full}}
+Adresse : {{LOC#2:street}}, {{LOC#2:postcode_town}}
+Natel : {{MOBILE}}
+E-mail : {{EMAIL:PER#2}}
+Employeur : {{ORG#2:legal@employer}}, {{LOC#3:town}}
+Taux d'activité : 80 %
+N° AVS : {{NATID}}
+
+Parent 2
+Nom, prénom : {{PER#3:full}}
+Adresse : identique
+Natel : {{MOBILE}}
+Employeur : {{ORG#3:name@health}}
+Taux d'activité : 100 %
+
+Revenu annuel brut du ménage (selon dernière taxation) : {{AMOUNT:big}}
+Caisse maladie de l'enfant : [[ORG|Groupe Mutuel]], police n° {{REF}}
+Pédiatre : Dr {{PER#4:full}}, {{PHONE}}
+
+Personnes à contacter en cas d'urgence
+{{PER#5:full}} (grand-parent) - {{MOBILE}}
+{{PER#6:full}} (voisin·e) - {{PHONE}}
+
+Lieu et date : {{LOC#2:town}}, le {{DATE:numeric}}
+Signatures des parents : {{PER#2:signature}} / {{PER#3:signature}}
+
+Réservé à l'administration : dossier complet reçu le {{DATE:short}}

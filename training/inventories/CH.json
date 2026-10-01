@@ -1,0 +1,4450 @@
+{
+ "country": "CH",
+ "lang": "fr",
+ "given_names": [
+  {
+   "name": "Aline",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Anouk",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Chantal",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Coralie",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Émilie",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Estelle",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Fanny",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Gaëlle",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Jessica",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Joëlle",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Laure",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Léonie",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Line",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Loriane",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Maude",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Mélanie",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Mireille",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Nadège",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Noémie",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Océane",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Patricia",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Romaine",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Sandrine",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Séverine",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Sylvie",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Valentine",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Yvette",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Zoé",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Anne-Laure",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Marie-Claude",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Marie-Noëlle",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Claire-Lise",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Rose-Marie",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Marguerite",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Agathe",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Capucine",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Jade",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Perle",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Mélodie",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Lucienne",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Josette",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Ninon",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Clémence",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Constance",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Pauline",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Élodie",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Bérénice",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Colette",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Solange",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Aurélie",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Myriam",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Ève-Lyne",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Aude",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Morgane",
+   "gender": "f",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Alain",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Blaise",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Cyril",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Damien",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Fabrice",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Gilles",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Grégoire",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Jacques-André",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Jean-Daniel",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Jean-Claude",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Jean-François",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Jean-Marie",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Jérémie",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Joël",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Kevin",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Lionel",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Loïc",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Luc",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Mathias",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Michaël",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Nicolas",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Olivier",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Pascal",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Patrice",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Pierre-Alain",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Raphaël",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Romain",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Sébastien",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Stéphane",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Thierry",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Valentin",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Yann",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Yannick",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Gérald",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Frédéric",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Bastien",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Félicien",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Aurèle",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Amédée",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Léon",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Fidèle",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Sylvain",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Florent",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Dimitri",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Gabriel",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Théo",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Hugo",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Maxence",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Benjamin",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Vivien",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Jean-Bernard",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Claude-Alain",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Daniel",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Laurent",
+   "gender": "m",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Regula",
+   "gender": "f",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Ursula",
+   "gender": "f",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Verena",
+   "gender": "f",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Rahel",
+   "gender": "f",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Seraina",
+   "gender": "f",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Nadja",
+   "gender": "f",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Corinne",
+   "gender": "f",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Urs",
+   "gender": "m",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Beat",
+   "gender": "m",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Reto",
+   "gender": "m",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Jürg",
+   "gender": "m",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Ueli",
+   "gender": "m",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Lukas",
+   "gender": "m",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Matthias",
+   "gender": "m",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Stefan",
+   "gender": "m",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Giulia",
+   "gender": "f",
+   "origin": "italian"
+  },
+  {
+   "name": "Martina",
+   "gender": "f",
+   "origin": "italian"
+  },
+  {
+   "name": "Alessia",
+   "gender": "f",
+   "origin": "italian"
+  },
+  {
+   "name": "Chiara",
+   "gender": "f",
+   "origin": "italian"
+  },
+  {
+   "name": "Federica",
+   "gender": "f",
+   "origin": "italian"
+  },
+  {
+   "name": "Graziella",
+   "gender": "f",
+   "origin": "italian"
+  },
+  {
+   "name": "Loredana",
+   "gender": "f",
+   "origin": "italian"
+  },
+  {
+   "name": "Marco",
+   "gender": "m",
+   "origin": "italian"
+  },
+  {
+   "name": "Davide",
+   "gender": "m",
+   "origin": "italian"
+  },
+  {
+   "name": "Gianluca",
+   "gender": "m",
+   "origin": "italian"
+  },
+  {
+   "name": "Mattia",
+   "gender": "m",
+   "origin": "italian"
+  },
+  {
+   "name": "Nicolò",
+   "gender": "m",
+   "origin": "italian"
+  },
+  {
+   "name": "Alessandro",
+   "gender": "m",
+   "origin": "italian"
+  },
+  {
+   "name": "Fabrizio",
+   "gender": "m",
+   "origin": "italian"
+  },
+  {
+   "name": "Carmine",
+   "gender": "m",
+   "origin": "italian"
+  },
+  {
+   "name": "Ana Catarina",
+   "gender": "f",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Beatriz",
+   "gender": "f",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Mariana",
+   "gender": "f",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Inês",
+   "gender": "f",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Joana",
+   "gender": "f",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Sónia",
+   "gender": "f",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Rita",
+   "gender": "f",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Fátima",
+   "gender": "f",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Maria do Céu",
+   "gender": "f",
+   "origin": "portuguese"
+  },
+  {
+   "name": "João",
+   "gender": "m",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Tiago",
+   "gender": "m",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Rui",
+   "gender": "m",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Nuno",
+   "gender": "m",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Diogo",
+   "gender": "m",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Filipe",
+   "gender": "m",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Sérgio",
+   "gender": "m",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Paulo Jorge",
+   "gender": "m",
+   "origin": "portuguese"
+  },
+  {
+   "name": "José Manuel",
+   "gender": "m",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Albulena",
+   "gender": "f",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Arbnora",
+   "gender": "f",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Donjeta",
+   "gender": "f",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Fjolla",
+   "gender": "f",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Valbona",
+   "gender": "f",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Blerina",
+   "gender": "f",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Drenusha",
+   "gender": "f",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Arber",
+   "gender": "m",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Valon",
+   "gender": "m",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Driton",
+   "gender": "m",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Liridon",
+   "gender": "m",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Bekim",
+   "gender": "m",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Shkelzen",
+   "gender": "m",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Fatos",
+   "gender": "m",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Egzon",
+   "gender": "m",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Nerea",
+   "gender": "f",
+   "origin": "spanish"
+  },
+  {
+   "name": "Lucía",
+   "gender": "f",
+   "origin": "spanish"
+  },
+  {
+   "name": "María José",
+   "gender": "f",
+   "origin": "spanish"
+  },
+  {
+   "name": "Rocío",
+   "gender": "f",
+   "origin": "spanish"
+  },
+  {
+   "name": "Amparo",
+   "gender": "f",
+   "origin": "spanish"
+  },
+  {
+   "name": "Álvaro",
+   "gender": "m",
+   "origin": "spanish"
+  },
+  {
+   "name": "Jesús",
+   "gender": "m",
+   "origin": "spanish"
+  },
+  {
+   "name": "Sergio",
+   "gender": "m",
+   "origin": "spanish"
+  },
+  {
+   "name": "José Antonio",
+   "gender": "m",
+   "origin": "spanish"
+  },
+  {
+   "name": "Íñigo",
+   "gender": "m",
+   "origin": "spanish"
+  },
+  {
+   "name": "Selam",
+   "gender": "f",
+   "origin": "eritrean"
+  },
+  {
+   "name": "Senait",
+   "gender": "f",
+   "origin": "eritrean"
+  },
+  {
+   "name": "Saba",
+   "gender": "f",
+   "origin": "eritrean"
+  },
+  {
+   "name": "Luwam",
+   "gender": "f",
+   "origin": "eritrean"
+  },
+  {
+   "name": "Yordanos",
+   "gender": "f",
+   "origin": "eritrean"
+  },
+  {
+   "name": "Yonas",
+   "gender": "m",
+   "origin": "eritrean"
+  },
+  {
+   "name": "Tesfay",
+   "gender": "m",
+   "origin": "eritrean"
+  },
+  {
+   "name": "Semere",
+   "gender": "m",
+   "origin": "eritrean"
+  },
+  {
+   "name": "Mehari",
+   "gender": "m",
+   "origin": "eritrean"
+  },
+  {
+   "name": "Filmon",
+   "gender": "m",
+   "origin": "eritrean"
+  },
+  {
+   "name": "Tharshika",
+   "gender": "f",
+   "origin": "sri_lankan"
+  },
+  {
+   "name": "Kavitha",
+   "gender": "f",
+   "origin": "sri_lankan"
+  },
+  {
+   "name": "Nirosha",
+   "gender": "f",
+   "origin": "sri_lankan"
+  },
+  {
+   "name": "Abinaya",
+   "gender": "f",
+   "origin": "sri_lankan"
+  },
+  {
+   "name": "Thusyanthan",
+   "gender": "m",
+   "origin": "sri_lankan"
+  },
+  {
+   "name": "Kajan",
+   "gender": "m",
+   "origin": "sri_lankan"
+  },
+  {
+   "name": "Pirasanth",
+   "gender": "m",
+   "origin": "sri_lankan"
+  },
+  {
+   "name": "Niroshan",
+   "gender": "m",
+   "origin": "sri_lankan"
+  },
+  {
+   "name": "Mathusan",
+   "gender": "m",
+   "origin": "sri_lankan"
+  },
+  {
+   "name": "Yasmina",
+   "gender": "f",
+   "origin": "moroccan"
+  },
+  {
+   "name": "Salma",
+   "gender": "f",
+   "origin": "moroccan"
+  },
+  {
+   "name": "Karim",
+   "gender": "m",
+   "origin": "moroccan"
+  },
+  {
+   "name": "Hicham",
+   "gender": "m",
+   "origin": "moroccan"
+  },
+  {
+   "name": "Derya",
+   "gender": "f",
+   "origin": "turkish"
+  },
+  {
+   "name": "Selin",
+   "gender": "f",
+   "origin": "turkish"
+  },
+  {
+   "name": "Cem",
+   "gender": "m",
+   "origin": "turkish"
+  },
+  {
+   "name": "Serkan",
+   "gender": "m",
+   "origin": "turkish"
+  },
+  {
+   "name": "Grâce",
+   "gender": "f",
+   "origin": "congolese"
+  },
+  {
+   "name": "Merveille",
+   "gender": "f",
+   "origin": "congolese"
+  },
+  {
+   "name": "Glody",
+   "gender": "m",
+   "origin": "congolese"
+  },
+  {
+   "name": "Trésor",
+   "gender": "m",
+   "origin": "congolese"
+  },
+  {
+   "name": "Lien",
+   "gender": "f",
+   "origin": "flemish"
+  },
+  {
+   "name": "Joris",
+   "gender": "m",
+   "origin": "flemish"
+  }
+ ],
+ "surnames": [
+  {
+   "name": "Rochat",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Favre",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Bonvin",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Monnier",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Chappuis",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Cuénod",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Pittet",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Perrin",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Jaquier",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Mottier",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Dubuis",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Crettenand",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Fournier",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Luisier",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Michellod",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Rey",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Jaccard",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Blanc",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Pasche",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Cosandey",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Bovet",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Gaillard",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Nicolet",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Aubert",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Tissot",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Vuilleumier",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Jeanneret",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Huguenin",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Perret",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Matthey",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Robert-Nicoud",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Sandoz",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Humbert-Droz",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Jacot-Descombes",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Borel",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Grandjean",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Girardin",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Guenat",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Chételat",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Froidevaux",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Jobin",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Queloz",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Montavon",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Theubet",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Maillard",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Clerc",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Bugnon",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Jolliet",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Corminboeuf",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Page",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Pugin",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Rossier",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Currat",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Chassot",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Esseiva",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Overney",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Dafflon",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Genoud",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Sottas",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Rime",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Castella",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Pasquier",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Seydoux",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Savary",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Mauron",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Métral",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Bochatay",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Gay-Crosier",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Vouilloz",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Carron",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Darbellay",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Roduit",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Fellay",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Moret",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Dorsaz",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Bruchez",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Vouillamoz",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Délèze",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Mariéthoz",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Praz",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Sierro",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Follonier",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Zufferey",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Epiney",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Salamin",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Rudaz",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Antille",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Berclaz",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Tornay",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Pralong",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Gaudin",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Emery",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Duc",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Rey-Bellet",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Défago",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Donnet",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Mariaux",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Bussien",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Richoz",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Pernet",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Guignard",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Mercier",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Cachin",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Bourgeois",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Chevalley",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Duboux",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Porchet",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Jomini",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Rapin",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Vulliamy",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Chabloz",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Nicod",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Collet",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Baudraz",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Paschoud",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Cuendet",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Magnin",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Barras",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Oberson",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Jordan",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Terrapon",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Grivel",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Dévaud",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Pache",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Chuard",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Bersier",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Monney",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Vial",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Ruffieux",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Menoud",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Mivelaz",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Clément-Gaudin",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Pellaton",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Jeanrenaud",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Aeby",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Bühler-Rochat",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Tinguely-Favre",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Buchs",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Cattin",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Voirol",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Meylan",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Golay",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Piguet",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Reymond",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Aubort",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Bolomey",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Rochat-Pittet",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Duvoisin",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Burnier",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Pidoux",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Gilliéron",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Chollet",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Cherpillod",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Fivaz",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Besson",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Vez",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Joye",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Roch",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Vuille",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Loup",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "de Montmollin",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "de Rham",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "de Weck",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "de Coulon",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "du Pasquier",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "de Senarclens",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "de Blonay",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "de Kalbermatten",
+   "origin": "swiss_french"
+  },
+  {
+   "name": "Brunner",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Zbinden",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Käser",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Aebischer",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Schneuwly",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Jungo",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Bürgisser",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Stucki",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Hofstetter",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Gerber",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Zürcher",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Ammann",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Wyss",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Frei",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Keller",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Kohler",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Zumwald",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Burri",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Steiner",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Imhof",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Zenklusen",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Roh",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Fux",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Ruch",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "von Allmen",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "von Gunten",
+   "origin": "swiss_german"
+  },
+  {
+   "name": "Bernasconi",
+   "origin": "italian"
+  },
+  {
+   "name": "Rossetti",
+   "origin": "italian"
+  },
+  {
+   "name": "Pedrazzini",
+   "origin": "italian"
+  },
+  {
+   "name": "Lurati",
+   "origin": "italian"
+  },
+  {
+   "name": "Bianchi",
+   "origin": "italian"
+  },
+  {
+   "name": "Galli",
+   "origin": "italian"
+  },
+  {
+   "name": "Colombo",
+   "origin": "italian"
+  },
+  {
+   "name": "Lepori",
+   "origin": "italian"
+  },
+  {
+   "name": "Pellandini",
+   "origin": "italian"
+  },
+  {
+   "name": "Della Casa",
+   "origin": "italian"
+  },
+  {
+   "name": "Dal Molin",
+   "origin": "italian"
+  },
+  {
+   "name": "Lo Cascio",
+   "origin": "italian"
+  },
+  {
+   "name": "Di Marco",
+   "origin": "italian"
+  },
+  {
+   "name": "Esposito",
+   "origin": "italian"
+  },
+  {
+   "name": "Santoro",
+   "origin": "italian"
+  },
+  {
+   "name": "Caputo",
+   "origin": "italian"
+  },
+  {
+   "name": "D'Amico",
+   "origin": "italian"
+  },
+  {
+   "name": "La Spina",
+   "origin": "italian"
+  },
+  {
+   "name": "da Silva",
+   "origin": "portuguese"
+  },
+  {
+   "name": "dos Santos",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Ferreira",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Pereira",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Oliveira",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Rodrigues",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Martins",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Fernandes",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Gonçalves",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Gomes",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Lopes",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Marques",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Alves",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Almeida",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Ribeiro",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Pinto",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Carvalho",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Teixeira",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Moreira",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Correia",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Mendes",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Nunes",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Soares",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Vieira",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Monteiro",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Cardoso",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Rocha",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Neves",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Coelho",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Cruz",
+   "origin": "portuguese"
+  },
+  {
+   "name": "da Costa",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Sousa Pinto",
+   "origin": "portuguese"
+  },
+  {
+   "name": "dos Reis",
+   "origin": "portuguese"
+  },
+  {
+   "name": "Berisha",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Krasniqi",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Gashi",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Morina",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Hoxha",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Shala",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Bytyqi",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Rexhepi",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Kastrati",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Hyseni",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Zeqiri",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Ahmeti",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Selmani",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Limani",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Maliqi",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Sejdiu",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Osmani",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Ramadani",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Mehmeti",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Kryeziu",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Musliu",
+   "origin": "kosovar"
+  },
+  {
+   "name": "Haliti",
+   "origin": "kosovar"
+  },
+  {
+   "name": "del Pino",
+   "origin": "spanish"
+  },
+  {
+   "name": "Delgado",
+   "origin": "spanish"
+  },
+  {
+   "name": "Márquez",
+   "origin": "spanish"
+  },
+  {
+   "name": "Serrano",
+   "origin": "spanish"
+  },
+  {
+   "name": "Vázquez",
+   "origin": "spanish"
+  },
+  {
+   "name": "Ruiz de la Torre",
+   "origin": "spanish"
+  },
+  {
+   "name": "Cabrera",
+   "origin": "spanish"
+  },
+  {
+   "name": "Pardo",
+   "origin": "spanish"
+  },
+  {
+   "name": "Ortega",
+   "origin": "spanish"
+  },
+  {
+   "name": "de los Ríos",
+   "origin": "spanish"
+  },
+  {
+   "name": "Tesfamariam",
+   "origin": "eritrean"
+  },
+  {
+   "name": "Habte",
+   "origin": "eritrean"
+  },
+  {
+   "name": "Kidane",
+   "origin": "eritrean"
+  },
+  {
+   "name": "Mehari",
+   "origin": "eritrean"
+  },
+  {
+   "name": "Tewelde",
+   "origin": "eritrean"
+  },
+  {
+   "name": "Gebremichael",
+   "origin": "eritrean"
+  },
+  {
+   "name": "Asmerom",
+   "origin": "eritrean"
+  },
+  {
+   "name": "Berhe",
+   "origin": "eritrean"
+  },
+  {
+   "name": "Yemane",
+   "origin": "eritrean"
+  },
+  {
+   "name": "Weldemichael",
+   "origin": "eritrean"
+  },
+  {
+   "name": "Sivapalan",
+   "origin": "sri_lankan"
+  },
+  {
+   "name": "Thavarajah",
+   "origin": "sri_lankan"
+  },
+  {
+   "name": "Kanagaratnam",
+   "origin": "sri_lankan"
+  },
+  {
+   "name": "Ratnasingam",
+   "origin": "sri_lankan"
+  },
+  {
+   "name": "Nadarajah",
+   "origin": "sri_lankan"
+  },
+  {
+   "name": "Sivanesan",
+   "origin": "sri_lankan"
+  },
+  {
+   "name": "Balachandran",
+   "origin": "sri_lankan"
+  },
+  {
+   "name": "Loganathan",
+   "origin": "sri_lankan"
+  },
+  {
+   "name": "Paramanathan",
+   "origin": "sri_lankan"
+  },
+  {
+   "name": "Yogarajah",
+   "origin": "sri_lankan"
+  },
+  {
+   "name": "Yıldırım",
+   "origin": "turkish"
+  },
+  {
+   "name": "Özdemir",
+   "origin": "turkish"
+  },
+  {
+   "name": "Aydoğan",
+   "origin": "turkish"
+  },
+  {
+   "name": "Karaca",
+   "origin": "turkish"
+  },
+  {
+   "name": "Tekin",
+   "origin": "turkish"
+  },
+  {
+   "name": "El Harrak",
+   "origin": "moroccan"
+  },
+  {
+   "name": "Benjelloun",
+   "origin": "moroccan"
+  },
+  {
+   "name": "Amrani",
+   "origin": "moroccan"
+  },
+  {
+   "name": "Bennani",
+   "origin": "moroccan"
+  },
+  {
+   "name": "Kabongo",
+   "origin": "congolese"
+  },
+  {
+   "name": "Lukusa",
+   "origin": "congolese"
+  },
+  {
+   "name": "Tshimanga",
+   "origin": "congolese"
+  },
+  {
+   "name": "Kazadi",
+   "origin": "congolese"
+  },
+  {
+   "name": "Van de Velde",
+   "origin": "flemish"
+  },
+  {
+   "name": "De Wilde",
+   "origin": "flemish"
+  },
+  {
+   "name": "O'Sullivan",
+   "origin": "irish"
+  },
+  {
+   "name": "McIntyre",
+   "origin": "irish"
+  }
+ ],
+ "titles": {
+  "m": [
+   "M.",
+   "Monsieur"
+  ],
+  "f": [
+   "Mme",
+   "Madame"
+  ],
+  "x": [
+   "Mx"
+  ]
+ },
+ "legal_forms": [
+  "Sàrl",
+  "SA",
+  "Sagl"
+ ],
+ "org_names": {
+  "trades": [
+   "Menuiserie Rochat & Fils",
+   "Ferblanterie-couverture Pittet",
+   "Sanitaire Gashi",
+   "Électricité du Lavaux",
+   "Carrelages Da Silva & Fils",
+   "Peinture Krasniqi",
+   "Chauffage Bonvin-Luisier",
+   "Charpente du Haut-Jura",
+   "Isol'Toit",
+   "Jardins Zufferey",
+   "Serrurerie 1003",
+   "Maçonnerie Pereira & Martins",
+   "Parquets du Léman",
+   "Vitrerie Genoud",
+   "Ramonage Jaquier",
+   "Stores & Volets Romands",
+   "Rénovatec",
+   "Paysagiste La Glycine",
+   "Électro-Gruyère",
+   "Cuisines Alp'Bois",
+   "Plâtrerie Berisha Frères",
+   "Menuiserie Vuilleumier-Jobin",
+   "Toitures 3 Lacs",
+   "Thermo-Valais",
+   "Chauffage Sanitaire Del Pino",
+   "Entretien Chalets d'Anniviers",
+   "Tailleur de pierre Jeanrenaud"
+  ],
+  "retail": [
+   "Boulangerie Au Pain de Seigle",
+   "Fromagerie des Alpages",
+   "Librairie La Virgule",
+   "Boucherie Oberson",
+   "Épicerie Portugaise Lusitânia",
+   "Fleurs de Lavaux",
+   "Optique Grandjean",
+   "Chaussures Bovet",
+   "Le Marché de Zoé",
+   "Bio-Chablais",
+   "Quincaillerie Pugin",
+   "Bijouterie Montavon",
+   "Horlogerie Jeanneret & Fils",
+   "Laiterie de la Sarine",
+   "Vélos Cuénod",
+   "Brico-Broye",
+   "La Cave du Vigneron",
+   "Confiserie Gaillard",
+   "Mode & Kids 1205",
+   "Électroménager Rossier",
+   "Alimentation Kryeziu",
+   "Primeurs Esposito",
+   "Bouquinerie du Bourg",
+   "Papeterie Chappuis & Co",
+   "Le Grenier de Capucine",
+   "21 Grammes Concept Store",
+   "Tabac-Journaux La Plaine"
+  ],
+  "health": [
+   "Cabinet médical des Pâquerettes",
+   "Centre médical de la Gare 1400",
+   "Physiothérapie Monnier-Rey",
+   "Cabinet dentaire Sivapalan & Aeby",
+   "Physio-Sport Sion",
+   "Pharmacie du Vieux-Pressoir",
+   "Pharmacie Martins",
+   "Laboratoire Alpimed",
+   "Logopédie Le Petit Mot",
+   "Imagerie du Chablais",
+   "Ostéo Léman",
+   "Cabinet de psychothérapie L'Îlot",
+   "Soins à domicile Main Tendue",
+   "EMS Les Hirondelles",
+   "Résidence Le Clos du Verger",
+   "Clinique de réadaptation Belvédère",
+   "Dentalis 1227",
+   "Podologie Habte",
+   "Clinique vétérinaire de la Venoge",
+   "Centre médical 1870",
+   "Audition Plus Nyon",
+   "Diététique Selam",
+   "Pédiatrie Les Frimousses",
+   "Cabinet Kanagaratnam-Favre",
+   "Permanence médicale du Nord vaudois",
+   "Physio'Glâne"
+  ],
+  "finance": [
+   "Fiduciaire Favre & Associés",
+   "Fiduciaire Gashi",
+   "Bureau fiduciaire Perrin-Mottier",
+   "Fisca'Conseil Romandie",
+   "Crédit Mutuel du Jorat",
+   "Banque Alpestre de Dépôts",
+   "Patrimonia Léman",
+   "Finalpa",
+   "Courtage Hypothécaire 1950",
+   "Caisse d'Épargne des Trois-Lacs",
+   "Gestion de fortune Delacour",
+   "Prêts Rapides Romandie",
+   "Caisse Populaire de Carouge",
+   "Rossetti Wealth Partners",
+   "Fiduciaire Nadarajah",
+   "Fidu-Valais",
+   "Compta'Plus Neuchâtel",
+   "Lemanis Invest",
+   "Banque Horizon Genève",
+   "Kredalp",
+   "Bureau Chappuis Finances",
+   "Épargnia Suisse",
+   "Trésorerie & Cie",
+   "Numéris Fiduciaire",
+   "Arvena Capital",
+   "L'Écu d'Or Gestion"
+  ],
+  "insurance": [
+   "Assurances Maillard",
+   "Agence d'assurances Clerc-Bugnon",
+   "Assurella",
+   "Protalp",
+   "Courtage Jolliet & Fils",
+   "La Prévoyance romande",
+   "Assurances du Gros-de-Vaud",
+   "Garantia Helvetica",
+   "Assur'Famille Romandie",
+   "Vitalpa Assurances",
+   "Bouclier Mutuel du Jura",
+   "Cabinet Savary Assurances",
+   "Assurances 3 Frontières Jura",
+   "L'Abri Lémanique",
+   "Serenis Courtage Suisse",
+   "Assurances Zeqiri",
+   "Oliveira Assurances & Prévoyance",
+   "Horizon Assistance Suisse",
+   "Mutuelle des Vignerons",
+   "Securalp",
+   "Chasseral Protection",
+   "La Sentinelle romande",
+   "AssurHabitat Genève",
+   "Tilia Prévoyance",
+   "Courtier Santoro",
+   "Le Parapluie romand"
+  ],
+  "property": [
+   "Régie Rochat",
+   "Agence Immo Léman",
+   "Gérance Borel",
+   "Régie Kabongo & Partners",
+   "Immo'Chablais",
+   "Résidences du Vallon",
+   "Habitat Riviera",
+   "Bureau de gérance Pasquier",
+   "Régie Les Quatre Saisons",
+   "Régie 1205",
+   "Logis du Rhône",
+   "Immo Ahmeti",
+   "Clés en Main Yverdon",
+   "Promotion Barras-Magnin",
+   "Immovista Suisse",
+   "Patrimoine & Toit Romandie",
+   "Agence du Parc Mon-Repos",
+   "Régie de la Broye",
+   "Gestimmo Valais",
+   "Home Invest Fribourg",
+   "Gérance Chevalley",
+   "Les Toits de Neuchâtel",
+   "Nid Douillet Immobilier",
+   "Studios & Co Lausanne",
+   "Immoplus Vevey",
+   "Casa Mia Régie"
+  ],
+  "employer": [
+   "Décolletage Vuilleumier",
+   "Horlogerie Jacot-Descombes",
+   "Ateliers Mécaniques du Jura",
+   "Logistique Romande Services",
+   "Cave Bonvin-Délèze",
+   "Imprimerie Pellaton",
+   "Pro-Net Nettoyage Léman",
+   "Datalps Solutions",
+   "Agro-Broye",
+   "Fonderie de la Birse",
+   "Plasti-Jura",
+   "Mécanique de précision Chételat",
+   "Médiacom Romandie",
+   "La Fée du Logis Romandie",
+   "Groupe Mivelaz",
+   "Softalp",
+   "Biscuiterie Dévaud",
+   "Verrerie du Val-de-Travers",
+   "Menuiseries industrielles Jordan",
+   "Services Horizon 2000 Suisse",
+   "Microtech Engineering Saint-Imier",
+   "Studio Pixel'Alp",
+   "Aide & Soins à domicile Riviera",
+   "Ateliers Le Tremplin Fribourg",
+   "Chocolats Cailloux & Fils",
+   "Kodexa Suisse",
+   "Tech'Arc"
+  ],
+  "school": [
+   "École primaire des Pâquerettes",
+   "Institut Les Sapins",
+   "Collège du Vallon",
+   "Devoirs accompagnés Le Petit Pont",
+   "Haute École romande de pédagogie active",
+   "École de musique Les Arpèges",
+   "Form'Avenir Suisse",
+   "École de langues Babel 1003",
+   "Crèche Les P'tits Loups",
+   "Institut technique Numa Jobin",
+   "Gymnase privé Horizon Léman",
+   "École Montessori Le Colibri",
+   "Auto-école Contact 1950",
+   "Cours du soir Yverdon-Nord",
+   "Institut des Arts & Métiers Cattin",
+   "École enfantine Le Tilleul d'Or",
+   "Garderie Les Lucioles",
+   "Institut paramédical romand",
+   "École de cirque Pirouette Genève",
+   "Collège du Bocage",
+   "Académie des beaux-arts du Chablais",
+   "Clic&Code Lausanne",
+   "Maison d'enfants 3 Pommes",
+   "Centre de formation Louise Bolomey",
+   "École des Genêts"
+  ],
+  "utility": [
+   "Énergie du Léman",
+   "Aquanova Distribution Suisse",
+   "Hydralpe",
+   "SolarBroye",
+   "Électra Romande",
+   "Service des eaux de la Venoge",
+   "Chauffage à distance du Jorat",
+   "Clairwatt Suisse",
+   "Voltalp",
+   "Éolia Jura",
+   "Gaz'Alpes",
+   "BioChaleur 1950",
+   "Luminéa Énergies Suisse",
+   "Compagnie des eaux de la Grande-Eau",
+   "Énergie citoyenne de la Broye",
+   "Pellets du Jura",
+   "Wattvaud",
+   "Coopérative Soleil du Chablais",
+   "Mazout Rossier & Fils",
+   "Réseau Chaleur Genève-Sud",
+   "Ecovolt Romandie",
+   "Hydra'Val",
+   "Eau Vive Distribution Suisse",
+   "Kilowatt Collectif Romand",
+   "Sud Énergies 1870",
+   "Clarté Énergie Suisse"
+  ],
+  "telecom": [
+   "Telnet Léman",
+   "FibrAlp",
+   "Mobi'Phone Suisse",
+   "Connectara Romandie",
+   "Jura Fibre",
+   "Onda Mobile Suisse",
+   "PhoneRepair 1201",
+   "Kablo Romandie",
+   "Tel'Rhône",
+   "NetBroye",
+   "Fibrenet Vaud",
+   "Liaison+ Suisse",
+   "Wizzcom Romandie",
+   "Signal Alpes",
+   "Antenna 21",
+   "Parlo Mobile Suisse",
+   "Téléphonie Ahmeti",
+   "Cellulaire Express Genève",
+   "Datawave Suisse",
+   "Ondine Telecom Romandie",
+   "BipBip Mobile Suisse",
+   "Chablais Connect",
+   "Natel Center Renens",
+   "Satelys Suisse",
+   "Relais Telecom Romand"
+  ],
+  "hospitality": [
+   "Café du Commerce de Bulle",
+   "Hôtel des Remparts d'Yverdon",
+   "Pizzeria Da Carmine",
+   "Restaurant L'Ardoise de Lavaux",
+   "Chalet La Ferme du Hérisson",
+   "Buvette de l'Alpage",
+   "Le Café des Tanneurs",
+   "Snack Le Belém",
+   "Hôtel Le Rouge-Gorge",
+   "Pinte du Pot-au-Feu",
+   "Chambres d'hôtes Les Mésanges",
+   "Grill Prishtina 1203",
+   "Traiteur Asmara Saveurs",
+   "Restaurant Le Quinze",
+   "Bistro du Bourg",
+   "Camping des Rives de la Broye",
+   "B&B Le Nid d'Ange",
+   "Tea-Room Les Trois Tasses",
+   "Auberge de la Sarine",
+   "Le Vaudois gourmand",
+   "Le Comptoir de Jaffna",
+   "Hôtel Beau-Site",
+   "Brasserie 1848",
+   "Tapas y Vino Márquez",
+   "La Table de Graziella",
+   "Carnotzet du Vieux-Pressoir"
+  ],
+  "transport": [
+   "Transports Rochat",
+   "Taxis Léman",
+   "Déménagements Kazadi",
+   "Rhône Express Logistique",
+   "Ambulances Horizon Suisse",
+   "Autocars Pittet",
+   "Courses Rapides 1020",
+   "Jura Colis",
+   "Transports frigorifiques Barras",
+   "Garage Özdemir",
+   "Auto-Services Gomes",
+   "Location Utilitaires Broye",
+   "Cyclo'Lausanne",
+   "Déménagement Plus 1700",
+   "Cars du Val-de-Ruz",
+   "Tractions romandes",
+   "Carrosserie Jordan",
+   "Fret alpin",
+   "Élégance Limousines",
+   "Transports Rhône-Jura",
+   "Coursiers du Léman",
+   "Dépannage A9",
+   "Garage Cardoso & Neves",
+   "Taxi Monney",
+   "Transports Morina & Fils"
+  ],
+  "legal": [
+   "Étude d'avocats Favre & Kabongo",
+   "Notaires Borel & Chuard",
+   "Avocats Lémaniques",
+   "Étude Maillard-Currat",
+   "Cabinet d'huissier Pache",
+   "Étude Van de Velde",
+   "Legalis Conseil Suisse",
+   "Médiation & Droit Fribourg",
+   "Étude Hoxha Avocats",
+   "Juris'Famille Romandie",
+   "Étude notariale Rossier-Perret",
+   "Avocats du Parc Genève",
+   "Lex Lemanica",
+   "Étude Caputo & Di Marco",
+   "Défense & Conseil 1205",
+   "Avocats associés Berisha-Golay",
+   "Étude Jolliet Droit du travail",
+   "Justitia Conseil Suisse",
+   "Étude Bersier & Monney",
+   "Médiation L'Entre-Deux Vaud",
+   "Droit & Patrimoine Nyon",
+   "Lexpert Suisse",
+   "Étude Tewelde-Roch",
+   "Conseil juridique Jura",
+   "Avocats 4 Saisons Sion"
+  ]
+ },
+ "acronyms": [
+  "CMLV",
+  "GIRL",
+  "SOMAV",
+  "TECHJU",
+  "ABR",
+  "CEFAL",
+  "APROV",
+  "SIDV",
+  "MBTR",
+  "CERV",
+  "FORMAV",
+  "ASVR",
+  "GTL",
+  "HDV",
+  "CODEV",
+  "IMJ",
+  "SPAR",
+  "RNV",
+  "BGL",
+  "TPJ",
+  "IDEVA",
+  "CRMV",
+  "FTL",
+  "SMVS",
+  "ACMG",
+  "ROMTEC",
+  "LEMAB",
+  "ALPCOM",
+  "HMSV",
+  "DLCG",
+  "CITRAV",
+  "APEJ",
+  "SOGEV",
+  "JURIX",
+  "BTV",
+  "GFR",
+  "SAVCO",
+  "LHG",
+  "SEBRO",
+  "OPTIV",
+  "CMCV",
+  "AVMD",
+  "VMG",
+  "ICAV",
+  "TRAJU"
+ ],
+ "streets": [
+  "Chemin des Pâquerettes",
+  "Chemin des Vignes",
+  "Chemin du Vignoble",
+  "Chemin des Crêts",
+  "Chemin de la Forêt",
+  "Chemin du Pré-de-la-Cure",
+  "Chemin des Planches",
+  "Chemin de la Chapelle",
+  "Chemin du Couchant",
+  "Chemin du Levant",
+  "Chemin des Mésanges",
+  "Chemin des Cerisiers",
+  "Chemin de Bellevue",
+  "Chemin des Sauges",
+  "Chemin de la Fontaine",
+  "Chemin des Mouettes",
+  "Chemin du Signal",
+  "Chemin des Écureuils",
+  "Chemin des Roches",
+  "Chemin de la Tuilerie",
+  "Chemin de Praz-Séchaud",
+  "Chemin du Chalet-à-Gobet",
+  "Chemin de Grange-Canal",
+  "Chemin des Tulipiers",
+  "Chemin du Bois-Gentil",
+  "Chemin de la Batelière",
+  "Chemin des Clochettes",
+  "Chemin du Petit-Mont",
+  "Chemin de Montolivet",
+  "Chemin des Grands-Champs",
+  "Chemin de la Colline",
+  "Chemin du Moulin",
+  "Chemin des Alpes",
+  "Chemin de Beau-Soleil",
+  "Chemin des Aubépines",
+  "Chemin du Stand",
+  "Chemin de la Source",
+  "Chemin des Écoliers",
+  "Chemin du Verger",
+  "Rue du Centre",
+  "Rue de la Gare",
+  "Rue du Simplon",
+  "Rue de Lausanne",
+  "Rue de Genève",
+  "Rue de Berne",
+  "Rue du Midi",
+  "Rue du Lac",
+  "Rue des Moulins",
+  "Rue du Château",
+  "Rue de l'Industrie",
+  "Rue du Collège",
+  "Rue du Marché",
+  "Rue de la Poste",
+  "Rue du Temple",
+  "Rue de l'Hôpital",
+  "Rue des Eaux-Vives",
+  "Rue de Carouge",
+  "Rue de la Servette",
+  "Rue des Pâquis",
+  "Rue de Montbrillant",
+  "Rue du Stand",
+  "Rue de Bourg",
+  "Rue Centrale",
+  "Rue du Grand-Pont",
+  "Rue de la Madeleine",
+  "Rue de l'Ale",
+  "Rue Neuve",
+  "Rue du Petit-Chêne",
+  "Rue de la Tour",
+  "Rue Haldimand",
+  "Rue Saint-Laurent",
+  "Rue Louis-Favre",
+  "Rue Numa-Droz",
+  "Rue Jaquet-Droz",
+  "Rue Pierre-Fatio",
+  "Rue de la Dixence",
+  "Rue du Rhône",
+  "Rue des Remparts",
+  "Rue de Conthey",
+  "Rue du Scex",
+  "Rue de Prélaz",
+  "Rue des Fausses-Brayes",
+  "Rue du Seyon",
+  "Rue des Parcs",
+  "Rue de la Côte",
+  "Rue des Draizes",
+  "Rue de la Serre",
+  "Rue du Doubs",
+  "Rue de la Paix",
+  "Rue du Progrès",
+  "Rue Jardinière",
+  "Rue de Morat",
+  "Rue de Romont",
+  "Rue Saint-Pierre",
+  "Rue des Alpes",
+  "Rue du Tilleul",
+  "Rue de la Préfecture",
+  "Rue du Pont-Muré",
+  "Rue de l'Hôtel-de-Ville",
+  "Rue des Granges",
+  "Rue du Jura",
+  "Rue de la Molière",
+  "Rue Pierre-Péquignat",
+  "Rue du 24-Septembre",
+  "Rue de la Maltière",
+  "Rue des Tanneurs",
+  "Rue du Temple-Allemand",
+  "Rue Fritz-Courvoisier",
+  "Rue de la Plaine",
+  "Rue des Uttins",
+  "Rue du Four",
+  "Rue des Mâtures",
+  "Rue de la Combe",
+  "Rue de Neuchâtel",
+  "Rue du Nord",
+  "Rue de la Fonderie",
+  "Rue Gustave-Revilliod",
+  "Rue Voltaire",
+  "Rue de Monthoux",
+  "Rue Liotard",
+  "Rue de la Terrassière",
+  "Rue Caroline",
+  "Rue du Valentin",
+  "Rue de l'Avenir",
+  "Rue Saint-Martin",
+  "Rue des Philosophes",
+  "Rue du Lion-d'Or",
+  "Rue Cheneau-de-Bourg",
+  "Avenue de la Gare",
+  "Avenue Général-Guisan",
+  "Avenue de Morges",
+  "Avenue de la Harpe",
+  "Avenue d'Ouchy",
+  "Avenue de Cour",
+  "Avenue de Rumine",
+  "Avenue de Béthusy",
+  "Avenue Vinet",
+  "Avenue de France",
+  "Avenue de Beaulieu",
+  "Avenue de Montchoisi",
+  "Avenue de Tivoli",
+  "Avenue Recordon",
+  "Avenue de Grandson",
+  "Avenue des Sports",
+  "Avenue de la Plage",
+  "Avenue de Chailly",
+  "Avenue du Léman",
+  "Avenue de Beauregard",
+  "Avenue Léopold-Robert",
+  "Avenue du Casino",
+  "Avenue de Tourbillon",
+  "Avenue de la Gare-des-Eaux-Vives",
+  "Avenue Pictet-de-Rochemont",
+  "Avenue de Champel",
+  "Avenue Wendt",
+  "Avenue de Frontenex",
+  "Avenue Dumas",
+  "Avenue de Chamonix",
+  "Avenue Industrielle",
+  "Avenue du Grand-Saint-Bernard",
+  "Avenue de la Poste",
+  "Avenue de Collonge",
+  "Avenue des Alpes",
+  "Avenue du Midi",
+  "Avenue de Pérolles",
+  "Avenue du Moléson",
+  "Avenue de la Vallombreuse",
+  "Avenue de Longemalle",
+  "Avenue des Boveresses",
+  "Route de Berne",
+  "Route de Lausanne",
+  "Route de Genève",
+  "Route cantonale",
+  "Route de Chêne",
+  "Route de Meyrin",
+  "Route de Frontenex",
+  "Route du Pas-de-l'Échelle",
+  "Route des Jeunes",
+  "Route de Chancy",
+  "Route de Vevey",
+  "Route d'Oron",
+  "Route de la Broye",
+  "Route du Jura",
+  "Route de Fribourg",
+  "Route de Bulle",
+  "Route de Sion",
+  "Route de Riddes",
+  "Route de Chippis",
+  "Route du Sanetsch",
+  "Route de Vissigen",
+  "Route de Morat",
+  "Route de Porrentruy",
+  "Route de Delémont",
+  "Place du Marché",
+  "Place de la Riponne",
+  "Place du Molard",
+  "Place de la Palud",
+  "Place Saint-François",
+  "Place du Bourg-de-Four",
+  "Place des Halles",
+  "Place de la Gare",
+  "Place du Midi",
+  "Place de l'Hôtel-de-Ville",
+  "Place Pury",
+  "Place de Plainpalais",
+  "Quai Gustave-Ador",
+  "Quai du Mont-Blanc",
+  "Quai Perdonnet",
+  "Quai d'Ouchy",
+  "Quai de la Veveyse",
+  "Quai Philippe-Godet",
+  "Quai du Seujet",
+  "Quai Louis-Favre",
+  "Promenade des Pêcheurs",
+  "Promenade de la Treille",
+  "Promenade des Artisans",
+  "Promenade du Pin",
+  "Sentier des Vignes",
+  "Sentier du Ruisseau",
+  "Sentier des Pierrettes",
+  "Sentier de la Côte",
+  "Impasse des Tanneurs",
+  "Impasse du Moulin",
+  "Impasse des Jardins",
+  "Impasse de la Forge",
+  "Ruelle du Lavoir",
+  "Ruelle de la Cure",
+  "Ruelle des Chats",
+  "Allée des Bouleaux",
+  "Allée du Communet",
+  "Allée des Peupliers",
+  "Allée de la Petite-Prairie",
+  "Boulevard Carl-Vogt",
+  "Boulevard Helvétique",
+  "Boulevard James-Fazy",
+  "Boulevard de Grancy",
+  "Boulevard de la Forêt",
+  "Boulevard de Pérolles",
+  "Esplanade de Montbenon",
+  "Esplanade du Lac",
+  "Clos des Pommiers",
+  "Clos du Chêne",
+  "Clos de la Fontaine",
+  "Grand-Rue",
+  "Grand'Rue",
+  "Chemin de la Rosière",
+  "Ch. des Ecureuils",
+  "Rte de Crissier",
+  "Av. de la Gare",
+  "Chemin du Vieux-Pressoir",
+  "Chemin des Paysans",
+  "Place du Tilleul",
+  "Rue du Bourg-Dessous"
+ ],
+ "units": [
+  "App. {n}",
+  "Appartement {n}",
+  "{n}e étage",
+  "Bâtiment {n}",
+  "Entrée {n}"
+ ],
+ "places": [
+  {
+   "town": "Genève",
+   "postcode": "1201",
+   "region": "Genève"
+  },
+  {
+   "town": "Grand-Lancy",
+   "postcode": "1212",
+   "region": "Genève"
+  },
+  {
+   "town": "Onex",
+   "postcode": "1213",
+   "region": "Genève"
+  },
+  {
+   "town": "Vernier",
+   "postcode": "1214",
+   "region": "Genève"
+  },
+  {
+   "town": "Meyrin",
+   "postcode": "1217",
+   "region": "Genève"
+  },
+  {
+   "town": "Le Grand-Saconnex",
+   "postcode": "1218",
+   "region": "Genève"
+  },
+  {
+   "town": "Châtelaine",
+   "postcode": "1219",
+   "region": "Genève"
+  },
+  {
+   "town": "Les Avanchets",
+   "postcode": "1220",
+   "region": "Genève"
+  },
+  {
+   "town": "Vésenaz",
+   "postcode": "1222",
+   "region": "Genève"
+  },
+  {
+   "town": "Cologny",
+   "postcode": "1223",
+   "region": "Genève"
+  },
+  {
+   "town": "Chêne-Bougeries",
+   "postcode": "1224",
+   "region": "Genève"
+  },
+  {
+   "town": "Chêne-Bourg",
+   "postcode": "1225",
+   "region": "Genève"
+  },
+  {
+   "town": "Thônex",
+   "postcode": "1226",
+   "region": "Genève"
+  },
+  {
+   "town": "Carouge",
+   "postcode": "1227",
+   "region": "Genève"
+  },
+  {
+   "town": "Plan-les-Ouates",
+   "postcode": "1228",
+   "region": "Genève"
+  },
+  {
+   "town": "Confignon",
+   "postcode": "1232",
+   "region": "Genève"
+  },
+  {
+   "town": "Bernex",
+   "postcode": "1233",
+   "region": "Genève"
+  },
+  {
+   "town": "Avully",
+   "postcode": "1237",
+   "region": "Genève"
+  },
+  {
+   "town": "Puplinge",
+   "postcode": "1241",
+   "region": "Genève"
+  },
+  {
+   "town": "Satigny",
+   "postcode": "1242",
+   "region": "Genève"
+  },
+  {
+   "town": "Collonge-Bellerive",
+   "postcode": "1245",
+   "region": "Genève"
+  },
+  {
+   "town": "Anières",
+   "postcode": "1247",
+   "region": "Genève"
+  },
+  {
+   "town": "Hermance",
+   "postcode": "1248",
+   "region": "Genève"
+  },
+  {
+   "town": "Meinier",
+   "postcode": "1252",
+   "region": "Genève"
+  },
+  {
+   "town": "Veyrier",
+   "postcode": "1255",
+   "region": "Genève"
+  },
+  {
+   "town": "Troinex",
+   "postcode": "1256",
+   "region": "Genève"
+  },
+  {
+   "town": "Perly",
+   "postcode": "1258",
+   "region": "Genève"
+  },
+  {
+   "town": "Chancy",
+   "postcode": "1284",
+   "region": "Genève"
+  },
+  {
+   "town": "Aire-la-Ville",
+   "postcode": "1288",
+   "region": "Genève"
+  },
+  {
+   "town": "Versoix",
+   "postcode": "1290",
+   "region": "Genève"
+  },
+  {
+   "town": "Bellevue",
+   "postcode": "1293",
+   "region": "Genève"
+  },
+  {
+   "town": "Genthod",
+   "postcode": "1294",
+   "region": "Genève"
+  },
+  {
+   "town": "Lausanne",
+   "postcode": "1003",
+   "region": "Vaud"
+  },
+  {
+   "town": "Prilly",
+   "postcode": "1008",
+   "region": "Vaud"
+  },
+  {
+   "town": "Pully",
+   "postcode": "1009",
+   "region": "Vaud"
+  },
+  {
+   "town": "Renens",
+   "postcode": "1020",
+   "region": "Vaud"
+  },
+  {
+   "town": "Chavannes-près-Renens",
+   "postcode": "1022",
+   "region": "Vaud"
+  },
+  {
+   "town": "Crissier",
+   "postcode": "1023",
+   "region": "Vaud"
+  },
+  {
+   "town": "Ecublens",
+   "postcode": "1024",
+   "region": "Vaud"
+  },
+  {
+   "town": "Saint-Sulpice",
+   "postcode": "1025",
+   "region": "Vaud"
+  },
+  {
+   "town": "Préverenges",
+   "postcode": "1028",
+   "region": "Vaud"
+  },
+  {
+   "town": "Bussigny",
+   "postcode": "1030",
+   "region": "Vaud"
+  },
+  {
+   "town": "Romanel-sur-Lausanne",
+   "postcode": "1032",
+   "region": "Vaud"
+  },
+  {
+   "town": "Cheseaux-sur-Lausanne",
+   "postcode": "1033",
+   "region": "Vaud"
+  },
+  {
+   "town": "Échallens",
+   "postcode": "1040",
+   "region": "Vaud"
+  },
+  {
+   "town": "Le Mont-sur-Lausanne",
+   "postcode": "1052",
+   "region": "Vaud"
+  },
+  {
+   "town": "Épalinges",
+   "postcode": "1066",
+   "region": "Vaud"
+  },
+  {
+   "town": "Chexbres",
+   "postcode": "1071",
+   "region": "Vaud"
+  },
+  {
+   "town": "Savigny",
+   "postcode": "1073",
+   "region": "Vaud"
+  },
+  {
+   "town": "Belmont-sur-Lausanne",
+   "postcode": "1092",
+   "region": "Vaud"
+  },
+  {
+   "town": "Paudex",
+   "postcode": "1094",
+   "region": "Vaud"
+  },
+  {
+   "town": "Lutry",
+   "postcode": "1095",
+   "region": "Vaud"
+  },
+  {
+   "town": "Cully",
+   "postcode": "1096",
+   "region": "Vaud"
+  },
+  {
+   "town": "Morges",
+   "postcode": "1110",
+   "region": "Vaud"
+  },
+  {
+   "town": "Apples",
+   "postcode": "1143",
+   "region": "Vaud"
+  },
+  {
+   "town": "Bière",
+   "postcode": "1145",
+   "region": "Vaud"
+  },
+  {
+   "town": "Saint-Prex",
+   "postcode": "1162",
+   "region": "Vaud"
+  },
+  {
+   "town": "Aubonne",
+   "postcode": "1170",
+   "region": "Vaud"
+  },
+  {
+   "town": "Rolle",
+   "postcode": "1180",
+   "region": "Vaud"
+  },
+  {
+   "town": "Gimel",
+   "postcode": "1188",
+   "region": "Vaud"
+  },
+  {
+   "town": "Gland",
+   "postcode": "1196",
+   "region": "Vaud"
+  },
+  {
+   "town": "Prangins",
+   "postcode": "1197",
+   "region": "Vaud"
+  },
+  {
+   "town": "Nyon",
+   "postcode": "1260",
+   "region": "Vaud"
+  },
+  {
+   "town": "Begnins",
+   "postcode": "1268",
+   "region": "Vaud"
+  },
+  {
+   "town": "Mies",
+   "postcode": "1295",
+   "region": "Vaud"
+  },
+  {
+   "town": "Coppet",
+   "postcode": "1296",
+   "region": "Vaud"
+  },
+  {
+   "town": "Founex",
+   "postcode": "1297",
+   "region": "Vaud"
+  },
+  {
+   "town": "Cossonay",
+   "postcode": "1304",
+   "region": "Vaud"
+  },
+  {
+   "town": "Penthalaz",
+   "postcode": "1305",
+   "region": "Vaud"
+  },
+  {
+   "town": "La Sarraz",
+   "postcode": "1315",
+   "region": "Vaud"
+  },
+  {
+   "town": "Vallorbe",
+   "postcode": "1337",
+   "region": "Vaud"
+  },
+  {
+   "town": "Le Sentier",
+   "postcode": "1347",
+   "region": "Vaud"
+  },
+  {
+   "town": "Le Brassus",
+   "postcode": "1348",
+   "region": "Vaud"
+  },
+  {
+   "town": "Orbe",
+   "postcode": "1350",
+   "region": "Vaud"
+  },
+  {
+   "town": "Chavornay",
+   "postcode": "1373",
+   "region": "Vaud"
+  },
+  {
+   "town": "Yverdon-les-Bains",
+   "postcode": "1400",
+   "region": "Vaud"
+  },
+  {
+   "town": "Grandson",
+   "postcode": "1422",
+   "region": "Vaud"
+  },
+  {
+   "town": "Sainte-Croix",
+   "postcode": "1450",
+   "region": "Vaud"
+  },
+  {
+   "town": "Yvonand",
+   "postcode": "1462",
+   "region": "Vaud"
+  },
+  {
+   "town": "Moudon",
+   "postcode": "1510",
+   "region": "Vaud"
+  },
+  {
+   "town": "Lucens",
+   "postcode": "1522",
+   "region": "Vaud"
+  },
+  {
+   "town": "Payerne",
+   "postcode": "1530",
+   "region": "Vaud"
+  },
+  {
+   "town": "Avenches",
+   "postcode": "1580",
+   "region": "Vaud"
+  },
+  {
+   "town": "Oron-la-Ville",
+   "postcode": "1610",
+   "region": "Vaud"
+  },
+  {
+   "town": "Château-d'Œx",
+   "postcode": "1660",
+   "region": "Vaud"
+  },
+  {
+   "town": "Vevey",
+   "postcode": "1800",
+   "region": "Vaud"
+  },
+  {
+   "town": "Corsier-sur-Vevey",
+   "postcode": "1804",
+   "region": "Vaud"
+  },
+  {
+   "town": "Blonay",
+   "postcode": "1807",
+   "region": "Vaud"
+  },
+  {
+   "town": "La Tour-de-Peilz",
+   "postcode": "1814",
+   "region": "Vaud"
+  },
+  {
+   "town": "Clarens",
+   "postcode": "1815",
+   "region": "Vaud"
+  },
+  {
+   "town": "Montreux",
+   "postcode": "1820",
+   "region": "Vaud"
+  },
+  {
+   "town": "Villeneuve",
+   "postcode": "1844",
+   "region": "Vaud"
+  },
+  {
+   "town": "Leysin",
+   "postcode": "1854",
+   "region": "Vaud"
+  },
+  {
+   "town": "Aigle",
+   "postcode": "1860",
+   "region": "Vaud"
+  },
+  {
+   "town": "Bex",
+   "postcode": "1880",
+   "region": "Vaud"
+  },
+  {
+   "town": "Neuchâtel",
+   "postcode": "2000",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "Colombier",
+   "postcode": "2013",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "Cortaillod",
+   "postcode": "2016",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "Boudry",
+   "postcode": "2017",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "Bevaix",
+   "postcode": "2022",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "Saint-Aubin-Sauges",
+   "postcode": "2024",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "Peseux",
+   "postcode": "2034",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "Corcelles",
+   "postcode": "2035",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "Fontainemelon",
+   "postcode": "2052",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "Cernier",
+   "postcode": "2053",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "Hauterive",
+   "postcode": "2068",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "Saint-Blaise",
+   "postcode": "2072",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "Marin-Epagnier",
+   "postcode": "2074",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "Cressier",
+   "postcode": "2088",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "Travers",
+   "postcode": "2105",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "Couvet",
+   "postcode": "2108",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "Fleurier",
+   "postcode": "2114",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "La Chaux-de-Fonds",
+   "postcode": "2300",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "La Sagne",
+   "postcode": "2314",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "Les Ponts-de-Martel",
+   "postcode": "2316",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "Le Locle",
+   "postcode": "2400",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "Le Landeron",
+   "postcode": "2525",
+   "region": "Neuchâtel"
+  },
+  {
+   "town": "Delémont",
+   "postcode": "2800",
+   "region": "Jura"
+  },
+  {
+   "town": "Develier",
+   "postcode": "2802",
+   "region": "Jura"
+  },
+  {
+   "town": "Courroux",
+   "postcode": "2822",
+   "region": "Jura"
+  },
+  {
+   "town": "Vicques",
+   "postcode": "2824",
+   "region": "Jura"
+  },
+  {
+   "town": "Courrendlin",
+   "postcode": "2830",
+   "region": "Jura"
+  },
+  {
+   "town": "Bassecourt",
+   "postcode": "2854",
+   "region": "Jura"
+  },
+  {
+   "town": "Porrentruy",
+   "postcode": "2900",
+   "region": "Jura"
+  },
+  {
+   "town": "Fontenais",
+   "postcode": "2902",
+   "region": "Jura"
+  },
+  {
+   "town": "Boncourt",
+   "postcode": "2926",
+   "region": "Jura"
+  },
+  {
+   "town": "Alle",
+   "postcode": "2942",
+   "region": "Jura"
+  },
+  {
+   "town": "Courgenay",
+   "postcode": "2950",
+   "region": "Jura"
+  },
+  {
+   "town": "Le Noirmont",
+   "postcode": "2340",
+   "region": "Jura"
+  },
+  {
+   "town": "Les Breuleux",
+   "postcode": "2345",
+   "region": "Jura"
+  },
+  {
+   "town": "Saignelégier",
+   "postcode": "2350",
+   "region": "Jura"
+  },
+  {
+   "town": "Moutier",
+   "postcode": "2740",
+   "region": "Jura"
+  },
+  {
+   "town": "Bienne",
+   "postcode": "2502",
+   "region": "Berne"
+  },
+  {
+   "town": "La Neuveville",
+   "postcode": "2520",
+   "region": "Berne"
+  },
+  {
+   "town": "Sonceboz",
+   "postcode": "2605",
+   "region": "Berne"
+  },
+  {
+   "town": "Corgémont",
+   "postcode": "2606",
+   "region": "Berne"
+  },
+  {
+   "town": "Saint-Imier",
+   "postcode": "2610",
+   "region": "Berne"
+  },
+  {
+   "town": "Tavannes",
+   "postcode": "2710",
+   "region": "Berne"
+  },
+  {
+   "town": "Tramelan",
+   "postcode": "2720",
+   "region": "Berne"
+  },
+  {
+   "town": "Reconvilier",
+   "postcode": "2732",
+   "region": "Berne"
+  },
+  {
+   "town": "Malleray",
+   "postcode": "2735",
+   "region": "Berne"
+  },
+  {
+   "town": "Court",
+   "postcode": "2738",
+   "region": "Berne"
+  },
+  {
+   "town": "Fribourg",
+   "postcode": "1700",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Marly",
+   "postcode": "1723",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Farvagny",
+   "postcode": "1726",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Villars-sur-Glâne",
+   "postcode": "1752",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Matran",
+   "postcode": "1753",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Avry-sur-Matran",
+   "postcode": "1754",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Givisiez",
+   "postcode": "1762",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Granges-Paccot",
+   "postcode": "1763",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Belfaux",
+   "postcode": "1782",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Courtepin",
+   "postcode": "1784",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Bulle",
+   "postcode": "1630",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Riaz",
+   "postcode": "1632",
+   "region": "Fribourg"
+  },
+  {
+   "town": "La Tour-de-Trême",
+   "postcode": "1635",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Broc",
+   "postcode": "1636",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Charmey",
+   "postcode": "1637",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Gruyères",
+   "postcode": "1663",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Vuadens",
+   "postcode": "1628",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Semsales",
+   "postcode": "1623",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Châtel-Saint-Denis",
+   "postcode": "1618",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Attalens",
+   "postcode": "1616",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Ursy",
+   "postcode": "1670",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Rue",
+   "postcode": "1673",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Siviriez",
+   "postcode": "1678",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Romont",
+   "postcode": "1680",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Estavayer-le-Lac",
+   "postcode": "1470",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Cugy",
+   "postcode": "1482",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Domdidier",
+   "postcode": "1564",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Morat",
+   "postcode": "3280",
+   "region": "Fribourg"
+  },
+  {
+   "town": "Sion",
+   "postcode": "1950",
+   "region": "Valais"
+  },
+  {
+   "town": "Chamoson",
+   "postcode": "1955",
+   "region": "Valais"
+  },
+  {
+   "town": "Ardon",
+   "postcode": "1957",
+   "region": "Valais"
+  },
+  {
+   "town": "Vétroz",
+   "postcode": "1963",
+   "region": "Valais"
+  },
+  {
+   "town": "Conthey",
+   "postcode": "1964",
+   "region": "Valais"
+  },
+  {
+   "town": "Savièse",
+   "postcode": "1965",
+   "region": "Valais"
+  },
+  {
+   "town": "Ayent",
+   "postcode": "1966",
+   "region": "Valais"
+  },
+  {
+   "town": "Bramois",
+   "postcode": "1967",
+   "region": "Valais"
+  },
+  {
+   "town": "Grimisuat",
+   "postcode": "1971",
+   "region": "Valais"
+  },
+  {
+   "town": "Lens",
+   "postcode": "1978",
+   "region": "Valais"
+  },
+  {
+   "town": "Vex",
+   "postcode": "1981",
+   "region": "Valais"
+  },
+  {
+   "town": "Evolène",
+   "postcode": "1983",
+   "region": "Valais"
+  },
+  {
+   "town": "Basse-Nendaz",
+   "postcode": "1996",
+   "region": "Valais"
+  },
+  {
+   "town": "Martigny",
+   "postcode": "1920",
+   "region": "Valais"
+  },
+  {
+   "town": "Salvan",
+   "postcode": "1922",
+   "region": "Valais"
+  },
+  {
+   "town": "Fully",
+   "postcode": "1926",
+   "region": "Valais"
+  },
+  {
+   "town": "Le Châble",
+   "postcode": "1934",
+   "region": "Valais"
+  },
+  {
+   "town": "Verbier",
+   "postcode": "1936",
+   "region": "Valais"
+  },
+  {
+   "town": "Orsières",
+   "postcode": "1937",
+   "region": "Valais"
+  },
+  {
+   "town": "Vernayaz",
+   "postcode": "1904",
+   "region": "Valais"
+  },
+  {
+   "town": "Saxon",
+   "postcode": "1907",
+   "region": "Valais"
+  },
+  {
+   "town": "Riddes",
+   "postcode": "1908",
+   "region": "Valais"
+  },
+  {
+   "town": "Leytron",
+   "postcode": "1912",
+   "region": "Valais"
+  },
+  {
+   "town": "Saillon",
+   "postcode": "1913",
+   "region": "Valais"
+  },
+  {
+   "town": "Monthey",
+   "postcode": "1870",
+   "region": "Valais"
+  },
+  {
+   "town": "Collombey",
+   "postcode": "1868",
+   "region": "Valais"
+  },
+  {
+   "town": "Troistorrents",
+   "postcode": "1872",
+   "region": "Valais"
+  },
+  {
+   "town": "Val-d'Illiez",
+   "postcode": "1873",
+   "region": "Valais"
+  },
+  {
+   "town": "Champéry",
+   "postcode": "1874",
+   "region": "Valais"
+  },
+  {
+   "town": "Saint-Maurice",
+   "postcode": "1890",
+   "region": "Valais"
+  },
+  {
+   "town": "Vionnaz",
+   "postcode": "1895",
+   "region": "Valais"
+  },
+  {
+   "town": "Vouvry",
+   "postcode": "1896",
+   "region": "Valais"
+  },
+  {
+   "town": "Le Bouveret",
+   "postcode": "1897",
+   "region": "Valais"
+  },
+  {
+   "town": "Sierre",
+   "postcode": "3960",
+   "region": "Valais"
+  },
+  {
+   "town": "Crans-Montana",
+   "postcode": "3963",
+   "region": "Valais"
+  },
+  {
+   "town": "Chippis",
+   "postcode": "3965",
+   "region": "Valais"
+  },
+  {
+   "town": "Chalais",
+   "postcode": "3966",
+   "region": "Valais"
+  },
+  {
+   "town": "Grône",
+   "postcode": "3979",
+   "region": "Valais"
+  }
+ ],
+ "po_box": [
+  "Case postale {n}",
+  "CP {n}"
+ ],
+ "public_bodies": [
+  {
+   "name": "Administration fédérale des contributions",
+   "local": false
+  },
+  {
+   "name": "AFC",
+   "local": false
+  },
+  {
+   "name": "Office fédéral des assurances sociales",
+   "local": false
+  },
+  {
+   "name": "OFAS",
+   "local": false
+  },
+  {
+   "name": "Secrétariat d'État à l'économie",
+   "local": false
+  },
+  {
+   "name": "SECO",
+   "local": false
+  },
+  {
+   "name": "Secrétariat d'État aux migrations",
+   "local": false
+  },
+  {
+   "name": "SEM",
+   "local": false
+  },
+  {
+   "name": "Office fédéral de la statistique",
+   "local": false
+  },
+  {
+   "name": "Caisse suisse de compensation",
+   "local": false
+  },
+  {
+   "name": "Centrale de compensation",
+   "local": false
+  },
+  {
+   "name": "Office fédéral de la santé publique",
+   "local": false
+  },
+  {
+   "name": "OFSP",
+   "local": false
+  },
+  {
+   "name": "Office fédéral de la douane et de la sécurité des frontières",
+   "local": false
+  },
+  {
+   "name": "Tribunal fédéral",
+   "local": false
+  },
+  {
+   "name": "Tribunal administratif fédéral",
+   "local": false
+  },
+  {
+   "name": "Préposé fédéral à la protection des données et à la transparence",
+   "local": false
+  },
+  {
+   "name": "FINMA",
+   "local": false
+  },
+  {
+   "name": "Surveillance des prix",
+   "local": false
+  },
+  {
+   "name": "Ombudsman de l'assurance-maladie sociale",
+   "local": false
+  },
+  {
+   "name": "Ombudsman des banques suisses",
+   "local": false
+  },
+  {
+   "name": "Feuille officielle suisse du commerce",
+   "local": false
+  },
+  {
+   "name": "Institution commune LAMal",
+   "local": false
+  },
+  {
+   "name": "Administration fiscale cantonale",
+   "local": false
+  },
+  {
+   "name": "Administration cantonale des impôts",
+   "local": false
+  },
+  {
+   "name": "Service cantonal des contributions",
+   "local": false
+  },
+  {
+   "name": "Office cantonal de l'emploi",
+   "local": false
+  },
+  {
+   "name": "Office cantonal des assurances sociales",
+   "local": false
+  },
+  {
+   "name": "Office cantonal de la population et des migrations",
+   "local": false
+  },
+  {
+   "name": "Service de la population",
+   "local": false
+  },
+  {
+   "name": "Office de l'assurance-invalidité",
+   "local": false
+  },
+  {
+   "name": "Office AI",
+   "local": false
+  },
+  {
+   "name": "Caisse cantonale de compensation AVS",
+   "local": false
+  },
+  {
+   "name": "Registre du commerce",
+   "local": false
+  },
+  {
+   "name": "Service de protection de l'adulte et de l'enfant",
+   "local": false
+  },
+  {
+   "name": "Commune de {town}",
+   "local": true
+  },
+  {
+   "name": "Ville de {town}",
+   "local": true
+  },
+  {
+   "name": "Administration communale de {town}",
+   "local": true
+  },
+  {
+   "name": "Contrôle des habitants de {town}",
+   "local": true
+  },
+  {
+   "name": "Office des poursuites de {town}",
+   "local": true
+  },
+  {
+   "name": "Office des faillites de {town}",
+   "local": true
+  },
+  {
+   "name": "Tribunal d'arrondissement de {town}",
+   "local": true
+  },
+  {
+   "name": "Justice de paix du district de {town}",
+   "local": true
+  },
+  {
+   "name": "Police municipale de {town}",
+   "local": true
+  },
+  {
+   "name": "Service social de {town}",
+   "local": true
+  },
+  {
+   "name": "Office régional de placement de {town}",
+   "local": true
+  },
+  {
+   "name": "ORP de {town}",
+   "local": true
+  },
+  {
+   "name": "Tribunal de police de {town}",
+   "local": true
+  },
+  {
+   "name": "Préfecture de {town}",
+   "local": true
+  },
+  {
+   "name": "Office de l'état civil de {town}",
+   "local": true
+  },
+  {
+   "name": "Conseil communal de {town}",
+   "local": true
+  },
+  {
+   "name": "Municipalité de {town}",
+   "local": true
+  },
+  {
+   "name": "Registre foncier de {town}",
+   "local": true
+  }
+ ],
+ "departments": [
+  "Service du personnel",
+  "Ressources humaines",
+  "Service clients",
+  "Service du contentieux",
+  "Service des débiteurs",
+  "Service des créanciers",
+  "Direction financière",
+  "Service de facturation",
+  "Service technique",
+  "Service après-vente",
+  "Service juridique",
+  "Département logistique",
+  "Service des achats",
+  "Secrétariat de direction",
+  "Service informatique",
+  "Service des sinistres",
+  "Gérance",
+  "Service commercial",
+  "Service marketing",
+  "Réception",
+  "Service qualité",
+  "Service des salaires",
+  "Contrôle des habitants",
+  "Service de l'état civil",
+  "Service des urgences",
+  "Service de cardiologie",
+  "Policlinique de pédiatrie",
+  "Service de radiologie",
+  "Service des admissions",
+  "Direction générale",
+  "Santé et sécurité au travail",
+  "Service de médiation",
+  "Service des réclamations",
+  "Département production",
+  "Bureau technique",
+  "Service des expéditions",
+  "Service de sécurité",
+  "Service de conciergerie",
+  "Service des inscriptions",
+  "Secrétariat des élèves",
+  "Service des abonnements",
+  "Service hypothécaire",
+  "Gestion de fortune",
+  "Service de l'urbanisme",
+  "Service des travaux",
+  "Bourse communale",
+  "Service du logement",
+  "Comptabilité"
+ ],
+ "jobs": [
+  "Employé de commerce",
+  "Employée de commerce",
+  "Gestionnaire de dossiers",
+  "Représentant commercial",
+  "Chargé de sécurité",
+  "Éducatrice de l'enfance",
+  "Assistante en soins et santé communautaire",
+  "Infirmier chef",
+  "Infirmière",
+  "Physiothérapeute",
+  "Logopédiste",
+  "Éducateur social",
+  "Doyen",
+  "Directeur d'établissement scolaire",
+  "Enseignante primaire",
+  "Maître secondaire",
+  "Comptable",
+  "Expert-comptable diplômé",
+  "Fiduciaire",
+  "Gestionnaire de fortune",
+  "Conseiller à la clientèle",
+  "Conseillère hypothécaire",
+  "Courtier en assurances",
+  "Gestionnaire sinistres",
+  "Courtier immobilier",
+  "Gérant d'immeubles",
+  "Gérante technique",
+  "Avocat",
+  "Avocate associée",
+  "Notaire",
+  "Clerc de notaire",
+  "Préposé à l'office des poursuites",
+  "Greffier",
+  "Médiatrice familiale",
+  "Juriste",
+  "Responsable RH",
+  "Spécialiste en assurances sociales",
+  "Spécialiste salaires",
+  "Assistante de direction",
+  "Directeur général",
+  "Administrateur",
+  "Associé gérant",
+  "Chef de projet",
+  "Développeur",
+  "Informaticien CFC",
+  "Responsable logistique",
+  "Logisticien CFC",
+  "Cariste",
+  "Chauffeur poids lourd",
+  "Chauffeur de bus",
+  "Mécatronicien d'automobiles",
+  "Carrossier-tôlier",
+  "Électricien de montage",
+  "Installateur sanitaire",
+  "Ferblantier",
+  "Menuisier",
+  "Couvreur",
+  "Maçon",
+  "Carreleur",
+  "Peintre en bâtiment",
+  "Paysagiste",
+  "Boulanger-pâtissier-confiseur",
+  "Boucher-charcutier",
+  "Vendeuse",
+  "Caissière",
+  "Gérant de magasin",
+  "Serveur",
+  "Cuisinier",
+  "Chef de rang",
+  "Réceptionniste",
+  "Aide à domicile",
+  "Assistante sociale",
+  "Psychologue",
+  "Médecin généraliste",
+  "Pharmacien",
+  "Assistante en pharmacie",
+  "Médecin-dentiste",
+  "Assistante médicale",
+  "Polymécanicien",
+  "Horloger praticien",
+  "Décolleteur",
+  "Opérateur de production",
+  "Chef d'équipe",
+  "Contrôleur qualité",
+  "Conseiller ORP",
+  "Agent d'exploitation",
+  "Concierge",
+  "Vigneron-encaveur",
+  "Caviste",
+  "Syndic",
+  "Municipal",
+  "Secrétaire municipal",
+  "Boursier communal"
+ ],
+ "email_domains": [
+  "bluewin.ch",
+  "sunrise.ch",
+  "gmx.ch",
+  "hispeed.ch",
+  "netplus.ch",
+  "vtxnet.ch",
+  "bluemail.ch",
+  "swissonline.ch",
+  "hotmail.ch",
+  "romandie.com",
+  "protonmail.ch",
+  "gmail.com",
+  "outlook.com",
+  "yahoo.fr",
+  "icloud.com",
+  "hotmail.com",
+  "outlook.fr"
+ ]
+}

@@ -1,0 +1,18 @@
+[[ORG|DERWENT & D0VE PLUMBING]]
+[[LOC|42 Uttoxeter New Rd, Derby DE22 3NB]]
+Gas Safe reg 587321     07814 22O 950
+
+INV0ICE No 1O44          Date [[DATE|l5/09/2025]]
+
+To: Mr [[PER|Hadi Karimzadeh]]
+[[LOC|19 Kedleston Rd]]
+[[LOC|Derby DE22 1FU]]
+
+Rep1ace 22mm iso1ation va1ve, kitchen      £85.00
+Labour 1.5h @ £55                          £82.50
+Tota1 due                                  £167.50
+
+Pay by BACS to [[ORG|L1oyds Bank]] 30-94-87 acct 44820193
+Engineer: [[PER|Steve Brad]]-
+[[PER|bury]]
+Thank y0u for your custom!

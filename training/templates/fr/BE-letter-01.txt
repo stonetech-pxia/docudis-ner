@@ -1,0 +1,30 @@
+#country: BE
+#doctype: letter
+Association des parents de l'école {{ORG#1:name@school}}
+{{LOC#1:street}} – {{LOC#1:postcode_town}}
+
+Au Collège des Bourgmestre et Échevins
+{{PUBLIC#1}}
+{{LOC#2:street}}
+{{LOC#2:postcode_town}}
+
+{{LOC#1:town}}, le {{DATE:long}}
+
+Concerne : sécurité aux abords de l'école – {{LOC#1:street}}
+
+Madame la Bourgmestre,
+Mesdames et Messieurs les Échevins,
+
+Au nom de l'association des parents, nous souhaitons attirer votre attention sur la situation dangereuse à la sortie des classes. Le {{DATE:day_month}}, un élève de troisième primaire a été frôlé par une camionnette de livraison de la société {{ORG#2:legal@retail}} qui stationnait sur le passage piéton.
+
+Nous sollicitons un rendez-vous avec l'échevin compétent afin d'étudier la pose de barrières et la présence d'un gardien de la paix aux heures d'entrée et de sortie. La direction de l'école, en la personne de {{TITLE#3}} {{PER#3:full}}, soutient cette démarche et participera à la rencontre.
+
+Vous pouvez joindre la présidence du comité, {{PER#1:full}}, au {{MOBILE}} ou à l'adresse {{EMAIL:PER#1}}.
+
+Veuillez agréer, Madame la Bourgmestre, Mesdames et Messieurs, l'expression de notre considération distinguée.
+
+{{PER#1:full}}
+Présidence du comité
+
+{{PER#2:full}}
+Trésorerie

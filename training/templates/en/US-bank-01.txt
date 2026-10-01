@@ -1,0 +1,34 @@
+#country: US
+#doctype: bank
+# Outgoing domestic wire confirmation from a credit union
+{{ORG#1:legal@finance}}
+Wire Transfer Confirmation
+
+Date submitted: {{DATE:long}}
+Confirmation #: {{REF}}
+
+Originator
+Name: {{PER#1:full}} and {{PER#2:full}}
+Address: {{LOC#1:line}}
+Member #: {{NUM}}
+Account: checking ending {{CARD4}}
+
+Beneficiary
+Name: {{ORG#2:legal@legal}} Escrow Account
+Address: {{LOC#2:street}}
+{{LOC#2:unit}}
+{{LOC#2:postcode_town}}
+Account #: {{ACCOUNT}}
+Beneficiary bank: {{ORG#3:legal@finance}}, {{LOC#3:town}}
+ABA routing #: {{NUM}}
+
+Amount: {{AMOUNT:big}}
+Fee: {{AMOUNT}}
+Total debited: {{AMOUNT:big}}
+
+Purpose / memo: Earnest money, closing {{DATE:numeric}}, attn {{PER#3:full}}
+
+Before you send money for a home purchase, always call your title or escrow officer at a number you already know to confirm the wiring instructions. Funds sent by wire usually cannot be recovered.
+
+Approved by: {{PER#4:initial_surname}}, {{JOB}}, {{LOC#4:town}} branch
+Member services: {{PHONE}}

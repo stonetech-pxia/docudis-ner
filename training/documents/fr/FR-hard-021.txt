@@ -1,0 +1,14 @@
+[[ORG|Mutuelle Limousine Santé Prévoyance]] – FORMULAIRE DE RÉCLAMATION
+N° adhérent : 870 441 2983          Contrat : Essentiel Famille
+
+Adhérent : [[PER|VERGNOLLE Sébastien]]
+Adresse : [[LOC|15 rue Louvrier-de-Lajolais]]
+          [[LOC|87000 Limoges]]
+Tél. 06 88 17 04 62 – seb.vergnolle@wanadoo.fr
+Bénéficiaire concerné : [[PER|VERGNOLLE-ZAHIRI Lina]] (fille, née le [[DATE|19/02/2011]])
+
+Objet : refus de remboursement orthodontie
+Le devis du Dr [[PER|Camille Faucher-Tardieu]] ([[ORG|Centre dentaire des Émailleurs]]) a été accepté le [[DATE|6 mai 2026]], mais la
+facture du [[DATE|2 juillet 2026]] a été rejetée (motif « acte non prévu »). Je demande le réexamen.
+
+Fait à [[LOC|Limoges]], le [[DATE|14/09/2026]] – [[PER|S. Vergnolle]]

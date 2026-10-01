@@ -1,0 +1,31 @@
+#country: BE
+#doctype: cv
+{{PER#1:surname_given}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+GSM : {{MOBILE}}
+E-mail : {{EMAIL:PER#1}}
+Date de naissance : {{DATE:birth}}
+Nationalité : belge
+
+OBJECTIF
+Technicien(ne) de maintenance industrielle cherchant un poste en pause à {{LOC#2:town}} ou dans le {{LOC#2:region}}.
+
+EXPÉRIENCE
+{{DATE:short}} – {{DATE:short}} : Technicien(ne) de maintenance, {{ORG#1:legal@employer}}, zoning de {{LOC#3:town}}
+Maintenance préventive des lignes d'emballage, dépannage électrique et pneumatique, gestion de la GMAO.
+Responsable : {{PER#2:full}}, {{JOB}}
+
+{{DATE:short}} – {{DATE:short}} : Intérimaire via {{ORG#2:name}}, missions chez {{ORG#3:legal@employer}}
+Montage de tableaux électriques, câblage.
+
+FORMATION
+Bachelier en électromécanique, {{ORG#4:name@school}}, {{LOC#3:town}}
+VCA de base, BA4/BA5
+
+LANGUES
+Français : langue maternelle
+Néerlandais : bonne connaissance
+Anglais : notions techniques
+
+Inscrit(e) chez {{PUBLIC#2}} comme demandeur(se) d'emploi.

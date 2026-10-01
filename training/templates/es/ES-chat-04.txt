@@ -1,0 +1,23 @@
+#country: ES
+#doctype: chat
+#friends organising a trip, Telegram-like, informal
+{{PER#1:given}}, [{{DATE:numeric}} 22:14]
+chicos ya tengo la casa rural! en {{LOC#1:town}}, provincia de {{LOC#1:region}}
+
+{{PER#2:given}}, [{{DATE:numeric}} 22:15]
+siiii 🙌 qué fechas al final?
+
+{{PER#1:given}}, [{{DATE:numeric}} 22:15]
+del {{DATE:day_month}} al {{DATE:day_month}}. se llama {{ORG#1:name@hospitality}}, la dirección es {{LOC#1:line}}
+
+{{PER#3:given}}, [{{DATE:numeric}} 22:17]
+cuánto sale por cabeza?
+
+{{PER#1:given}}, [{{DATE:numeric}} 22:18]
+{{AMOUNT}} cada uno. mandadme bizum al {{MOBILE}} antes del viernes porfa, que la dueña ({{PER#4:full}}) quiere la señal ya
+
+{{PER#2:given}}, [{{DATE:numeric}} 22:19]
+genial. yo llevo el coche de mi hermano {{PER#5:given}}, caben 5
+
+{{PER#3:given}}, [{{DATE:numeric}} 22:20]
+hecho el bizum ✅

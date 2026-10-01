@@ -1,0 +1,23 @@
+RECETA MÉDICA PRIVADA
+
+Prescriptor: Dr. [[PER|Ginés Sánchez-Cerezo Martínez]]
+Dermatología · Col. nº 30/08457
+[[ORG|Policlínica Dermatológica Santa Eulalia, S.L.P.]]
+[[LOC|Gran Vía Escultor Salzillo, 11, 1º, 30004 Murcia]] · 968 225 781
+
+Paciente: [[PER|Encarnación Molina Tomás]]
+Año de nacimiento: 1958
+DNI: 50224713G
+
+Rp/
+Metilprednisolona aceponato 1 mg/g crema, tubo 60 g
+Nº envases: 1
+Posología: una aplicación al día sobre las lesiones del antebrazo durante 10 días, después días alternos.
+Duración del tratamiento: 3 semanas
+
+Fecha de prescripción: [[DATE|15/09/2026]]
+Válida hasta: [[DATE|25/09/2026]]
+
+Información al farmacéutico: sustituible.
+
+Firma: [[PER|G. Sánchez-Cerezo]]

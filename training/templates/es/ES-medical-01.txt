@@ -1,0 +1,45 @@
+#country: ES
+#doctype: medical
+#hospital discharge report, long
+{{ORG#1:legal@health}}
+Servicio de Medicina Interna
+{{LOC#1:street}} · {{LOC#1:postcode_town}}
+Centralita {{PHONE}}
+
+INFORME DE ALTA HOSPITALARIA
+
+Paciente: {{PER#1:surname_given}}
+NHC: {{REF}}
+Fecha de nacimiento: {{DATE:birth}}
+Tarjeta sanitaria: {{NUM}}
+Domicilio: {{LOC#2:line}}
+Teléfono de contacto: {{MOBILE}}
+Médico responsable: Dr. {{PER#2:full}}
+Fecha de ingreso: {{DATE:numeric}}
+Fecha de alta: {{DATE:numeric}}
+
+MOTIVO DE INGRESO
+Paciente de 71 años remitido desde Urgencias por disnea progresiva de cinco días de evolución y fiebre de hasta 38,5 ºC. Acude acompañado de su hija, {{PER#3:full}}, que es su cuidadora principal.
+
+ANTECEDENTES
+Hipertensión arterial en tratamiento. Diabetes mellitus tipo 2. Exfumador desde hace diez años. Intervenido de cataratas en {{ORG#3:name@health}} en 2019. Sigue controles en su centro de salud con la Dra. {{PER#4:surname}}.
+
+EVOLUCIÓN
+Se inicia antibioterapia intravenosa con buena respuesta. Radiografía de control el {{DATE:day_month}} con resolución parcial del infiltrado. Afebril desde el tercer día. Se comenta el caso con Neumología (Dr. {{PER#5:initial_surname}}), que recomienda control en consulta externa.
+
+DIAGNÓSTICO PRINCIPAL
+Neumonía adquirida en la comunidad, lóbulo inferior derecho.
+
+TRATAMIENTO AL ALTA
+- Amoxicilina/clavulánico 875/125 mg cada 8 horas hasta completar 7 días.
+- Continuar con su medicación habitual.
+- Paracetamol 1 g si fiebre o dolor.
+
+RECOMENDACIONES
+Control por su médico de Atención Primaria en 48-72 horas. Cita en consulta de Neumología el {{DATE:long}} a las 11:20, planta 2, consulta 14. Acudir a Urgencias si empeora la dificultad para respirar.
+
+{{LOC#1:town}}, {{DATE:long}}
+
+Fdo.: {{PER#2:signature}}
+{{JOB}}
+Nº colegiado {{NUM}}

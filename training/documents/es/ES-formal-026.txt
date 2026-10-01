@@ -1,0 +1,14 @@
+[[ORG|Banco Bilbao Vizcaya Argentaria, S.A.]]
+
+CERTIFICADO DE TITULARIDAD DE CUENTA
+
+[[ORG|BBVA]] certifica que la cuenta con IBAN ES67 3955 9494 0080 5586 7657, abierta en la oficina 4412 de [[LOC|Reus]] ([[LOC|Rambla de Miró, 20, 43203 Reus]]) el [[DATE|23/05/2017]], figura a nombre de:
+
+Titular 1: [[PER|JOSEP MARIA ROVIRA BALCELLS]] — NIF 59600577X
+Titular 2: [[PER|FATIMA ZAHRA AMRANI]] — NIE X3808409T
+
+Régimen de disposición: indistinto.
+
+Y para que conste a petición de los interesados, se expide el presente en [[LOC|Tarragona]] el [[DATE|15 de septiembre de 2026]].
+
+Documento emitido electrónicamente. Código de verificación: 7Q2K-88RT-XL40.

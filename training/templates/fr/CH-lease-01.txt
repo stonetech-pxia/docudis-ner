@@ -1,0 +1,36 @@
+#country: CH
+#doctype: lease
+{{ORG#1:legal@property}}
+Gérance d'immeubles
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+Tél. {{PHONE}}
+
+Recommandé
+{{TITLE#2}} {{PER#2:full}}
+{{LOC#2:street}}
+{{LOC#2:postcode_town}}
+
+{{LOC#1:town}}, le {{DATE:long}}
+
+Avis de majoration de loyer
+Objet loué : appartement de 3,5 pièces, {{LOC#2:street}}, {{LOC#2:unit}}
+Propriétaire : {{PER#3:full}}, {{LOC#3:line}}
+
+{{TITLE#2}},
+
+Au nom et pour le compte de {{TITLE#3}} {{PER#3:surname}}, propriétaire, nous vous notifions sur formule officielle agréée par le canton de [[LOC|Vaud]] la modification suivante de votre bail, avec effet au {{DATE:long}} :
+
+Loyer net actuel : {{AMOUNT}}
+Nouveau loyer net : {{AMOUNT}}
+Acompte de chauffage et frais accessoires : {{AMOUNT}} (inchangé)
+
+Motif : hausse du taux hypothécaire de référence publié par l'Office fédéral du logement.
+
+Si vous estimez cette majoration abusive, vous pouvez la contester dans les trente jours auprès de l'autorité de conciliation ({{PUBLIC#2}}).
+
+Nous vous prions d'agréer, {{TITLE#2}}, nos salutations distinguées.
+
+{{ORG#1:name}}
+{{PER#1:full}}
+{{JOB}}

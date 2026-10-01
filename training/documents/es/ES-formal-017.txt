@@ -1,0 +1,45 @@
+[[ORG|HOTEL CALA ESTELLENCS, S.L.]]         CIF: B15628407
+[[LOC|Passeig Marítim, 204]]                 [[LOC|07015 Palma]]
+Convenio: Hostelería de las [[LOC|Illes Balears]]
+
+NÓMINA · Periodo: mensual   Desde: [[DATE|01/08/2026]]   Hasta: [[DATE|31/08/2026]]   Días: 31
+
+Trabajador/a:  [[PER|ANDRADE PEÑA, YESENIA CAROLINA]]
+DNI/NIE:       Y5828007M
+N.A.F.:        07/04790297/96
+Puesto:        Camarera de pisos (nivel IV)
+Contrato:      Fijo discontinuo · alta [[DATE|01/04/2026]]
+Antigüedad:    [[DATE|15/04/2023]]
+Domicilio:     [[LOC|C/ Oms, 30, 3º 2ª]]
+               [[LOC|07003 Palma]]
+IBAN:          ES35 5621 1988 1536 2773 6911
+
+Cód.  Concepto                              Cant.      Precio       Devengos     Deducciones
+001   Salario base                          31,00     52,610       1.630,91
+010   Plus de manutención                                            52,40
+015   Plus de transporte                                             44,20
+022   Horas extra (festivo [[DATE|15/08]])          6,00     17,900         107,40
+030   Prorrata paga verano (junio)                                  135,91
+031   Prorrata paga Navidad                                          135,91
+040   Propina bote compartido                                        61,50
+101   Cotización contingencias comunes                                               94,35
+102   Cotización desempleo                                                           31,11
+103   Cotización formación profesional                                                2,01
+104   Cotización MEI                                                                  2,61
+105   Cotización horas extra                                                          5,05
+110   I.R.P.F.                                   9,00 %                            195,14
+120   Anticipo [[DATE|10/08/2026]]                                                    300,00
+
+                                       TOTAL DEVENGADO:       2.168,23
+                                       TOTAL DEDUCCIONES:                      630,27
+                                       LÍQUIDO A PERCIBIR:    1.537,96
+
+Bases: B.C.C. 2.007,54  ·  B. Desempleo 2.007,54  ·  B. IRPF 2.168,23  ·  Base H. extra 107,40
+
+Vacaciones disfrutadas en el periodo: 0 días. Pendientes: 11 días hasta el [[DATE|31/10/2026]].
+
+Aviso a la plantilla: a partir del [[DATE|1 de octubre]] las nóminas se enviarán sólo por la aplicación del portal del empleado. Dudas: [[PER|Tolo Garau]] (971 402 866, personal@calaestellencs.com).
+
+Recibí,                                              Sello y firma de la empresa
+[[PER|Yesenia C. Andrade Peña]]                         [[PER|Margalida Garau Vicens]]
+                                                     Administración de personal

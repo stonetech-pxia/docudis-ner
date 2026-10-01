@@ -1,0 +1,22 @@
+#country: ES
+#doctype: insurance
+# Correo del asegurado a la aseguradora del hogar por un siniestro de agua
+Asunto: Parte de siniestro — daños por agua, póliza {{REF}}
+
+Buenos días:
+
+Me llamo {{PER#1:full}} y soy titular del seguro de hogar {{REF}} con ustedes. El {{DATE:long}} por la noche se rompió el latiguillo del lavabo del piso de arriba y el agua ha bajado por el techo del baño y del pasillo de mi vivienda, en {{LOC#1:line}}.
+
+La vecina de arriba, {{PER#2:full}}, tiene su seguro con [[ORG|Mapfre España]] y ya ha dado parte; su número de siniestro es {{REF}}. Vino un fontanero de {{ORG#2:legal@trades}} que cortó la fuga y nos dejó un informe firmado por {{PER#3:initial_surname}}.
+
+Daños que he visto:
+- techo de escayola del baño con una mancha grande y la pintura levantada
+- armario empotrado del pasillo hinchado por abajo
+- una alfombra que he tenido que tirar
+
+Adjunto fotos, el informe del fontanero y la factura de la alfombra ({{AMOUNT}}).
+
+Estoy por las mañanas en casa hasta el {{DATE:day_month}}; el perito puede llamarme al {{MOBILE}} o escribirme a {{EMAIL:PER#1}}. Si no estoy, {{PER#4:given}}, que vive conmigo, tiene llaves.
+
+Gracias,
+{{PER#1:given}}

@@ -1,0 +1,16 @@
+PRIVATE PRESCRIPTION
+[[ORG|Lark Rise Dental Care]]
+[[LOC|3 Bridge Street, Stratford-upon-Avon CV37 6AB]]  01789 298 330
+
+Patient: Master [[PER|Rafferty Quennell]]     Age: 11     DOB: [[DATE|22 Jan 2015]]
+Address: [[LOC|Orchard Cottage, Loxley Road, Tiddington CV37 7AE]]
+NHS number: 419 265 7163
+
+Rx  Amoxicillin oral suspension 250 mg/5 ml
+    Sig: 5 ml three times a day for 5 days
+    Supply: 100 ml
+
+Prescriber: [[PER|Beatrix Omondi-Leigh]] BDS   GDC No. 208554
+Signature: [[PER|B. Omondi-Leigh]]            Date: [[DATE|15.09.2026]]
+
+Valid for 6 months. Private prescriptions are not dispensed free of charge.

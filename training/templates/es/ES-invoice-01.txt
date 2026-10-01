@@ -1,0 +1,44 @@
+#country: ES
+#doctype: invoice
+# Factura de un autónomo (fontanería / reformas) a un particular
+{{ORG#1:legal@trades}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+CIF: {{COMPANYID}}
+Tel. {{PHONE}} · Móvil {{MOBILE}}
+{{EMAIL:ORG#1}}
+
+FACTURA Nº {{REF}}
+Fecha de emisión: {{DATE:numeric}}
+Fecha de vencimiento: {{DATE:numeric}}
+
+CLIENTE
+Nombre: {{PER#1:full}}
+NIF: {{NATID}}
+Dirección: {{LOC#2:street}}
+{{LOC#2:unit}}
+{{LOC#2:postcode_town}}
+Teléfono: {{MOBILE}}
+
+Obra: sustitución de bañera por plato de ducha en {{LOC#2:line}}
+Visita técnica realizada el {{DATE:day_month}} por {{PER#2:full}}.
+
+CONCEPTO | UDS. | PRECIO | IMPORTE
+Desmontaje y retirada de bañera | 1 | {{AMOUNT}} | {{AMOUNT}}
+Plato de ducha resina 140x80 | 1 | {{AMOUNT}} | {{AMOUNT}}
+Mampara corredera | 1 | {{AMOUNT}} | {{AMOUNT}}
+Mano de obra (oficial + ayudante) | 14 h | {{AMOUNT}} | {{AMOUNT}}
+Material de fontanería | 1 | {{AMOUNT}} | {{AMOUNT}}
+
+Base imponible: {{AMOUNT}}
+IVA 21 %: {{AMOUNT}}
+TOTAL FACTURA: {{AMOUNT}}
+
+Forma de pago: transferencia bancaria a la cuenta
+{{IBAN}} ({{ORG#2:legal@finance}})
+Indique en el concepto el número de factura.
+
+Garantía de mano de obra de dos años. Para cualquier incidencia contacte con {{PER#2:given}} en el {{MOBILE}}.
+
+Fdo.: {{PER#3:full}}
+{{JOB}}

@@ -1,0 +1,11 @@
+PHARMACIES DE GARDE – SECTEUR [[LOC|ANGERS-EST]] – OCTOBRE 2026
+(de 19 h 30 à 9 h, dimanches et jours fériés toute la journée)
+
+Sam. [[DATE|3 oct.]] / dim. [[DATE|4 oct.]] : [[ORG|Pharmacie Gohier-Nsimba]], [[LOC|14 avenue Pasteur, 49100 Angers]] – 02 41 43 18 26
+Sam. [[DATE|10 oct.]] / dim. [[DATE|11 oct.]] : [[ORG|Pharmacie du Lac de Maine]], [[LOC|Angers]] – 02 41 73 60 02
+Sam. [[DATE|17 oct.]] / dim. [[DATE|18 oct.]] : [[ORG|Pharmacie Ragot & Blouin]], [[LOC|Trélazé]] – 02 41 69 22 47
+Sam. [[DATE|24 oct.]] / dim. [[DATE|25 oct.]] : [[ORG|PHARMACIE DES 3 CLOCHERS]], [[LOC|Saint-Barthélemy-d'Anjou]] – 02 41 93 08 55
+Sam. [[DATE|31 oct.]] / dim. [[DATE|1er nov.]] : [[ORG|Pharmacie Le Floc'h]], [[LOC|Avrillé]] – 02 41 34 71 90
+
+Échanges signalés : Dr [[PER|Blouin]] remplace Dr [[PER|Gohier]] le [[DATE|4 oct.]] (accord du [[DATE|21/09]]).
+Contact planning : [[PER|Laëtitia Gohier]], pharmacienne titulaire.

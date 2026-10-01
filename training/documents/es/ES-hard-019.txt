@@ -1,0 +1,15 @@
+Nota simple informativa – Registro Mercantil de [[LOC|Valladolid]]
+Sociedad: [[ORG|PEDRAJA, OLMEDO Y VELASCO ARQUITECTOS SLP]]
+Hoja VA-38114   NIF B47933125
+Domicilio: [[LOC|C/ Cadena del Esgueva, 18, 1º, 47001 Valladolid]]
+Constitución: [[DATE|22/11/2011]]
+
+Órgano de administración: consejo de administración
+Presidente: [[PER|PEDRAJA MANSO, GONZALO]]
+Secretaria: [[PER|OLMEDO RIVERA, ELVIRA]]
+Consejero: [[PER|VELASCO DE LA HOZ, ALFONSO]]
+Consejero delegado: [[PER|PEDRAJA MANSO, GONZALO]] (nombrado el [[DATE|3 de marzo de 2021]])
+Apoderada: [[PER|FRECHILLA ORTEGA, SARA]], poder de [[DATE|14/06/2024]]
+Auditor: [[ORG|Castilla Revisores 2000 S.L.]]
+
+Última inscripción: 17ª, de [[DATE|8 de septiembre de 2026]] (cese de consejera [[PER|LEAL ZAMORANO, IRENE]]).

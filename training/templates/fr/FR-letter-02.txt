@@ -1,0 +1,17 @@
+#country: FR
+#doctype: letter
+Madame, Monsieur,
+
+Je me permets de vous écrire au sujet du dossier de {{TITLE#2}} {{PER#2:full}}, né(e) le {{DATE:birth}}, dont je suis le tuteur, résidant à l'EHPAD {{ORG#1:name@health}}, {{LOC#1:line}}.
+
+Depuis le {{DATE:day_month}}, les prélèvements de la résidence ont été rejetés par {{ORG#2:legal@finance}} car son ancien compte joint a été clôturé après le décès de son conjoint, {{PER#3:full}}. J'ai transmis le nouveau RIB le {{DATE:numeric}} à {{PER#4:given}} {{PER#4:surname}}, au service comptabilité, mais je reçois aujourd'hui une relance de {{AMOUNT}} avec des frais.
+
+Je vous joins le nouveau RIB (IBAN {{IBAN}}) et la copie du jugement de tutelle ({{PUBLIC#1}}), qui me désigne comme tuteur.
+
+Pourriez-vous annuler les frais de rejet et mettre en place le prélèvement sur le nouveau compte ? Je suis joignable au {{MOBILE}} ou par courriel à {{EMAIL:PER#1}}.
+
+Avec mes remerciements,
+
+{{PER#1:full}}
+{{LOC#2:street}}
+{{LOC#2:postcode_town}}

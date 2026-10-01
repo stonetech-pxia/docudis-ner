@@ -1,0 +1,27 @@
+SCHEDULE A
+MEMBERS, CAPITAL CONTRIBUTIONS AND PERCENTAGE INTERESTS
+
+Operating Agreement of [[ORG|Kessler Amani Voss Builders, LLC]], an [[LOC|Idaho]] limited liability company
+Effective as of [[DATE|June 1, 2025]]          EIN 88-4410273
+
+Member | Notice address | Capital contribution | Percentage interest
+[[PER|KESSLER, Dale R.]] | [[LOC|5120 W Hazelwood Dr, Boise, ID 83703]] | $60,000 cash | 40%
+[[PER|AMANI, Rukiya]] | [[LOC|1877 E Parkcenter Blvd, Apt 210, Boise, ID 83706]] | $45,000 cash | 30%
+[[PER|VOSS, Hendrik]] | [[LOC|412 N Main St, Meridian, ID 83642]] | equipment valued at $30,000 | 20%
+[[ORG|Treasure Valley Tile & Stone Inc.]] | [[LOC|9550 W Emerald St, Boise, ID 83704]] | $15,000 cash | 10%
+
+Manager: [[PER|Dale R. Kessler]]
+Registered agent: [[ORG|Gem State Agent Services, LLC]], [[LOC|800 W Main St, Suite 1460, Boise, ID 83702]]
+Certificate of Organization filed with the [[LOC|Idaho]] Secretary of State on [[DATE|May 22, 2025]].
+Company bank account: [[ORG|Idaho Central Credit Union]], business checking ending 4471.
+
+Transfers: no Member may transfer any interest without the written consent of Members holding a majority of the
+Percentage Interests, excluding the transferring Member (Section 9.2).
+
+IN WITNESS WHEREOF, the Members have signed this Schedule A:
+
+[[PER|Dale R. Kessler]]          Date: [[DATE|6/1/2025]]
+[[PER|Rukiya Amani]]          Date: [[DATE|6/2/2025]]
+[[PER|Hendrik Voss]]          Date: [[DATE|06/03/2025]]
+[[ORG|TREASURE VALLEY TILE & STONE INC.]]
+By: [[PER|Marta Olvera-Quist]], President          Date: [[DATE|06/03/2025]]

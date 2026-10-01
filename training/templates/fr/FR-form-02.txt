@@ -1,0 +1,19 @@
+#country: FR
+#doctype: form
+# Formulaire de contact en ligne d'un bailleur social rempli, court, texte libre à la fin.
+Demande en ligne - {{ORG#1:name@property}}
+Envoyée le {{DATE:numeric}} à 22:31
+
+Civilité : {{TITLE#1}}
+Nom : {{PER#1:surname}}
+Prénom : {{PER#1:given}}
+N° de locataire : {{REF}}
+Résidence : {{LOC#1:street}}, bât. C
+Logement : {{LOC#1:unit}}
+Code postal / Ville : {{LOC#1:postcode_town}}
+Téléphone : {{MOBILE}}
+E-mail : {{EMAIL:PER#1}}
+Motif : Troubles de voisinage
+
+Message :
+Bonjour, depuis le {{DATE:day_month}} le logement au-dessus du mien est occupé par {{PER#2:full}} et il y a du bruit presque toutes les nuits jusqu'à 3 h. J'en ai parlé au gardien, {{PER#3:given}}, qui m'a conseillé de vous écrire. Je travaille de nuit chez {{ORG#2:name@employer}} et je ne peux plus dormir la journée. Merci de me rappeler.

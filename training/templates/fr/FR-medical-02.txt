@@ -1,0 +1,29 @@
+#country: FR
+#doctype: medical
+Bonjour,
+
+je viens de recevoir mes résultats sur le portail du labo et je ne comprends pas tout, est-ce que tu peux m'expliquer ? Je colle le compte rendu :
+
+{{ORG#1:legal@health}} – Laboratoire de biologie médicale
+Site de {{LOC#1:town}} – {{LOC#1:street}}, {{LOC#1:postcode_town}}
+Biologiste responsable : {{PER#1:full}}
+
+Patient : {{PER#2:surname_given}}
+Date de naissance : {{DATE:birth}}
+Dossier n° {{REF}}
+Prescripteur : Dr {{PER#3:full}}
+Prélevé le : {{DATE:numeric}} à 08:12
+Édité le : {{DATE:numeric}}
+
+HÉMATOLOGIE
+Hémoglobine 11,2 g/dL (12,0 – 16,0)
+Ferritine 9 µg/L (15 – 150)
+Plaquettes 284 G/L (150 – 400)
+
+BIOCHIMIE
+Glycémie à jeun 0,94 g/L (0,70 – 1,10)
+TSH 2,31 mUI/L (0,27 – 4,20)
+
+Compte rendu validé par {{PER#4:initial_surname}}, biologiste.
+
+Mon rendez-vous avec le Dr {{PER#3:surname}} n'est que le {{DATE:day_month}}, donc en attendant je voudrais savoir si la ferritine basse c'est grave. Merci !

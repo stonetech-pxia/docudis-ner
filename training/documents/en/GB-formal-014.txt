@@ -1,0 +1,51 @@
+[[ORG|McIlwraith Slaters]]
+Roofing · Slating · Leadwork · Chimney repairs
+[[LOC|41 Dalmarnock Road, Rutherglen, Glasgow G73 1AA]]
+0141 647 2280 | 07700 327 004 | quotes@mcilwraithslaters.scot
+
+QUOTATION
+
+Quote no.   Q-3391
+Date        [[DATE|8th September 2026]]
+Valid until [[DATE|8th November 2026]]
+Prepared by [[PER|Fraser McIlwraith]]
+
+Client      Ms [[PER|Eilidh Brankin]] & Mr [[PER|Tomasz Kowalczyk]]
+Property    [[LOC|2/1, 17 Kildonan Drive]]
+            [[LOC|Partick]]
+            [[LOC|Glasgow G11 7XH]]
+Factor      [[ORG|Clydeview Property Management]], ref KD17/4
+
+Following my inspection on [[DATE|4 September]], I found slipped and missing slates to the rear pitch, cracked mortar to the
+chimney head shared with no. 19 and a failed lead valley. Scaffold is required to the rear elevation (4 storeys).
+
+  Item                                                          £
+  1  Scaffold erect/dismantle, 4 weeks, incl. permit          2,850.00
+  2  Strip and re-slate rear pitch (reuse Scotch slate,       6,420.00
+     new breathable membrane, sarking boards repaired)
+  3  Renew lead valley, code 5                                1,180.00
+  4  Rebuild chimney head, repoint, new flaunching             1,960.00
+  5  Skip hire and waste                                        380.00
+                                                      -----------
+                                           Net               13,790.00
+                                           VAT 20%            2,758.00
+                                           Total             16,548.00
+
+  Share per flat (8 flats, as instructed by factor)            2,068.50
+
+Notes
+- Price assumes access through the back court; [[LOC|Glasgow]] City Council permit fees included for scaffold on pavement.
+- Rotten timbers found after stripping will be charged at £65 per metre plus materials, agreed with the factor first.
+- Work start approx. 3 weeks from acceptance, weather permitting.
+- 10-year workmanship guarantee.
+
+Terms: 25% on acceptance, balance within 14 days of completion. Payment to [[ORG|Bank of Scotland]], sort code 80-22-60,
+account 10442981.
+
+To accept, please sign and return, or reply by e-mail.
+
+Signed ................................  for [[ORG|Clydeview Property Management]]   Date ............
+
+[[PER|Fraser McIlwraith]]
+Director, [[ORG|McIlwraith Slaters Ltd]]
+Registered in [[LOC|Scotland]] SC603118

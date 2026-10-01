@@ -1,0 +1,49 @@
+[[ORG|HILLSBOROUGH PARK PRIMARY SCHOOL]]
+IN-YEAR ADMISSION AND ENROLMENT FORM 2025/26
+In-year admissions are coordinated by [[LOC|Sheffield]] City Council, Admissions Team. Return this form to the school office.
+
+SECTION A – CHILD
+Legal surname: [[PER|NOWAKOWSKA]]
+Legal forename(s): [[PER|ZOFIA ALEKSANDRA]]
+Preferred name: [[PER|Zosia]]
+Date of birth: [[DATE|07/03/2017]]          Sex: F
+Year group applying for: Year 4
+Home address: [[LOC|58 WADSLEY LANE, SHEFFIELD S6 4EB]]
+Date moved to this address: [[DATE|01/08/2025]]
+Home language(s): Polish, English          Ethnicity: White – Other (Polish)
+Previous school: [[ORG|Szkoła Podstawowa nr 14]], [[LOC|Gdańsk]], [[LOC|Poland]]
+Date left previous school: [[DATE|20/06/2025]]
+GP: Dr [[PER|H. ADEYEMI-ROSS]], [[ORG|LOXLEY VALE SURGERY]]
+NHS number: 438 066 8398
+
+SECTION B – PARENT / CARER 1
+Name: [[PER|NOWAKOWSKI, TOMASZ]]          Relationship: Father          Parental responsibility: Yes
+Employer: [[ORG|STEELVALE FASTENERS LTD]]
+Work tel: 0114 496 0033          Mobile: 07911 204 518
+Email: t.nowakowski@wp.pl
+
+SECTION C – PARENT / CARER 2
+Name: [[PER|NOWAKOWSKA, AGNIESZKA]]          Relationship: Mother          Parental responsibility: Yes
+Address if different: same as child
+Mobile: 07911 204 593          Email: aga.nowak88@gmail.com
+
+SECTION D – EMERGENCY CONTACTS (other than parents)
+1. MRS [[PER|JANET HOLLINWORTH]] – Neighbour – 0114 233 8190
+2. [[PER|KAROL WIŚNIEWSKI]] – Uncle – 07487 552 106
+   Address: [[LOC|12 BRADFIELD ROAD]]
+            [[LOC|SHEFFIELD]]
+            [[LOC|S6 2BX]]
+
+SECTION E – SIBLINGS AT THIS SCHOOL
+[[PER|NOWAKOWSKI, JAN]] – Year 1 – Class 1B
+
+SECTION F – MEDICAL / SEN
+Allergies: none known. Glasses for reading. EAL support requested.
+
+DECLARATION
+I confirm that the information given is correct.
+Signed: [[PER|A. Nowakowska]]          Date: [[DATE|11.09.2025]]
+
+OFFICE USE ONLY
+Start date: [[DATE|22/09/2025]]     Class: 4W (Mrs [[PER|Whitcombe]])     Checked by: [[PER|Bev Staniforth]], Office Manager
+UPN requested: Y     Free school meals check: submitted [[DATE|12/09]]

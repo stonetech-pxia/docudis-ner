@@ -1,0 +1,37 @@
+#country: FR
+#doctype: lease
+Objet : Préavis de départ – logement {{LOC#1:street}}
+De : {{PER#1:full}} <{{EMAIL:PER#1}}>
+À : gestion locative <{{EMAIL:ORG#1}}>
+Date : {{DATE:numeric}}
+
+Bonjour {{TITLE#2}} {{PER#2:surname}},
+
+Je vous informe par la présente que je quitterai l'appartement que je loue au {{LOC#1:street}}, {{LOC#1:unit}}, {{LOC#1:postcode_town}}, dont la gestion est assurée par {{ORG#1:name}}.
+
+Le logement se trouvant en zone tendue, mon préavis est réduit à un mois. Il court donc à compter de la réception de ce courrier, soit une libération des lieux au plus tard le {{DATE:long}}.
+
+Je vous propose d'organiser l'état des lieux de sortie le {{DATE:day_month}} en fin de matinée. Vous pouvez me joindre au {{MOBILE}}. {{PER#3:given}}, qui partage le logement, pourra être là si je suis retenu au travail.
+
+Merci de me restituer le dépôt de garantie ({{AMOUNT}}) sur le compte suivant, dans le délai légal :
+IBAN {{IBAN}}
+Ma nouvelle adresse pour tout courrier : {{LOC#2:line}}
+
+Bien cordialement,
+{{PER#1:given}} {{PER#1:surname}}
+
+-------- Message d'origine --------
+De : {{PER#2:full}} <{{EMAIL:PER#2}}>
+Envoyé : {{DATE:short}}
+Objet : Régularisation des charges {{NUM}}
+
+Bonjour {{TITLE#1}} {{PER#1:surname}},
+
+Vous trouverez ci-joint le décompte annuel des charges de la copropriété, transmis par le syndic {{ORG#2:legal@property}}. Le solde en votre faveur de {{AMOUNT}} sera déduit de l'échéance du mois prochain.
+
+Cordialement,
+{{PER#2:initial_surname}}
+{{DEPT}}
+{{ORG#1:legal@property}}
+{{LOC#3:street}} – {{LOC#3:postcode_town}}
+Tél. {{PHONE}} – {{URL:ORG#1}}

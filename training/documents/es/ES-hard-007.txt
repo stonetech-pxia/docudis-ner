@@ -1,0 +1,26 @@
+HOJA DE FIRMAS – CONTROL DE ASISTENCIA
+Acción formativa: Prevención de riesgos laborales en almacén y manejo de carretillas (20 h)
+Entidad organizadora: [[ORG|FORMACIÓN Y EMPLEO CIERZO, S.L.U.]]
+Empresa beneficiaria: [[ORG|TRANSPORTES HERMANOS LAPUENTE ARTAL S.L.]]
+Lugar de impartición: [[LOC|POLÍGONO PLAZA, C/ BARRANCO DEL VAL, NAVE 17, 50197 ZARAGOZA]]
+Sesión: [[DATE|14/09/2026]]  (09:00 – 14:00)
+Formador: [[PER|GIMENO ZUERAS, ALBERTO]]
+Tutora de la empresa: [[PER|ARTAL]] ([[PER|Mª Carmen]]), Dpto. de Recursos Humanos
+
+ Nº  APELLIDOS Y NOMBRE                        DNI/NIE      FIRMA
+ 01  [[PER|LAPUENTE ARTAL JOSÉ ANTONIO]]             13337209S    [firma]
+ 02  [[PER|BERDEJO CASAÑAL DAVID]]                   44231641L    [firma]
+ 03  [[PER|EL MOUSSAOUI ANOUAR]]                     X6331801Q    [firma]
+ 04  [[PER|PUEYO SANTAFÉ SUSANA]]                    78762239G    [firma]
+ 05  [[PER|BADEA COSTIN-ANDREI]]                     X7098984B    no asiste
+ 06  [[PER|MARTÍNEZ DE MORENTIN AYERRA JULIO]]       48722852C    [firma]
+ 07  [[PER|CEBRIÁN LOU MARÍA LUZ]]                   36736370B    [firma]
+ 08  [[PER|SAMBO DJALÓ ADAMA]]                       Z6541970Q    [firma]
+ 09  [[PER|ORÓS VIDAL IGNACIO]]                      18929366K    llega 09:40
+ 10  [[PER|TRAORÉ KONATÉ FATOUMATA]]                 Y1432939F    [firma]
+
+Observaciones: [[PER|BADEA]] justifica ausencia por baja médica (parte del [[DATE|12 de septiembre]]). Recuperará la
+sesión el [[DATE|21/09/2026]] con el grupo de [[LOC|Cuarte de Huerva]].
+
+Firma del formador: [[PER|A. GIMENO]]
+Sello de la empresa: [[ORG|TTES. HNOS. LAPUENTE ARTAL]]

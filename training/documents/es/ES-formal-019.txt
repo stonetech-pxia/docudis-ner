@@ -1,0 +1,50 @@
+[[ORG|HOSPITAL VITHAS GRANADA]]
+Servicio de Cirugía Ortopédica y Traumatología
+[[LOC|Avda. Santa María de la Alhambra, 6]]
+[[LOC|18008 Granada]]
+Tel. 958 302 144 (centralita) · Planta 3ª, hab. 314
+
+INFORME DE ALTA HOSPITALARIA
+
+Datos del paciente
+Nombre: [[PER|Ramón Vílchez Olmedo]]
+Fecha de nacimiento: [[DATE|09/01/1949]]
+Edad: 77 años
+DNI: 63960358A
+Nº historia clínica: 0418822
+Domicilio: [[LOC|Calle Ancha, 17]]
+           [[LOC|18600 Motril]] ([[LOC|Granada]])
+Aseguradora: [[ORG|SegurCaixa Adeslas, S.A. de Seguros y Reaseguros]] · póliza 2211904781
+Persona de contacto: [[PER|Pilar Vílchez Fajardo]] (hija), 628 771 305
+
+Fecha de ingreso: [[DATE|02/09/2026]] · Fecha de alta: [[DATE|08/09/2026]]
+Médico responsable: Dr. [[PER|Antonio Jesús Lorente Moles]]
+
+Motivo de ingreso
+Caída casual en domicilio el [[DATE|2 de septiembre]] con dolor e impotencia funcional en cadera derecha. Trasladado por ambulancia desde [[LOC|Motril]].
+
+Antecedentes personales
+No alergias medicamentosas conocidas. HTA, DM tipo 2 en tratamiento con metformina, FA anticoagulada con apixabán. Prótesis total de rodilla izquierda (2018). Vive con su esposa, [[PER|Carmela]], independiente para las actividades básicas.
+
+Exploración y pruebas complementarias
+Acortamiento y rotación externa del miembro inferior derecho. Rx: fractura subcapital de cuello femoral derecho, Garden IV. Analítica: Hb 12,9 g/dL, creatinina 1,1 mg/dL, INR 1,2.
+
+Evolución y tratamiento
+Tras suspender el apixabán 48 h, el [[DATE|4 de septiembre]] se realiza artroplastia parcial de cadera derecha (prótesis bipolar cementada) sin complicaciones intraoperatorias. Inicia sedestación a las 24 h y deambulación con andador a las 48 h con ayuda de fisioterapia. Herida quirúrgica limpia. Buen control analgésico.
+
+Diagnóstico principal
+Fractura subcapital de fémur derecho (S72.011A).
+
+Tratamiento al alta
+- Paracetamol 1 g/8 h durante 10 días; metamizol 575 mg si dolor.
+- Enoxaparina 40 mg/24 h s.c. hasta el [[DATE|15/09/2026]], después reiniciar apixabán 5 mg/12 h.
+- Continuar resto de medicación habitual.
+- Deambulación con andador; evitar flexión de cadera mayor de 90º.
+- Retirada de grapas en su centro de salud el [[DATE|18 de septiembre]].
+
+Revisión en consultas externas de Traumatología el [[DATE|20 de octubre de 2026]] a las 12:00 con Rx de control. Se envía copia a su médica de familia, Dra. [[PER|Noelia Castillo Rojas]], del Centro de Salud [[LOC|Motril]] Centro, y a la unidad de rehabilitación de [[ORG|Clínica Fisiomotril]].
+
+Firmado electrónicamente:
+[[PER|Antonio Jesús Lorente Moles]]
+FEA Traumatología · Nº col. 181806733
+[[LOC|Granada]], [[DATE|8 de septiembre de 2026]]

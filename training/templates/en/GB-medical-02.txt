@@ -1,0 +1,25 @@
+#country: GB
+#doctype: medical
+{{ORG#1:legal@health}}
+{{LOC#1:street}}, {{LOC#1:postcode_town}}
+Tel {{PHONE}} | {{URL:ORG#1}}
+
+Appointment confirmation
+
+Patient: {{PER#1:full}}
+Date of birth: {{DATE:numeric}}
+Address: {{LOC#2:line}}
+Mobile: {{MOBILE}}
+
+Your appointment for a hygienist visit and check-up:
+Date: {{DATE:long}}
+Time: 10:40
+With: {{PER#2:full}} (Dental Hygienist) and Dr {{PER#3:full}}
+
+Estimated cost: {{AMOUNT}} (Band 1 NHS charge) + {{AMOUNT}} private hygiene
+
+Please arrive 10 minutes early. If you need to cancel, give us 48 hours' notice or a fee of {{AMOUNT}} may be charged.
+
+Kind regards,
+{{PER#4:given}}
+Reception

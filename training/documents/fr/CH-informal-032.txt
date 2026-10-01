@@ -1,0 +1,23 @@
+Chat en direct – [[ORG|Swisscom]] Aide
+Session 4471-0932 · [[DATE|07.10.2025]]
+
+[14:02] Assistant virtuel : Bonjour ! Je suis l'assistant virtuel de [[ORG|Swisscom]]. Comment puis-je vous aider ?
+[14:02] Vous : parler à un humain
+[14:03] Assistant virtuel : Je vous mets en relation avec un conseiller. Temps d'attente estimé : 6 minutes.
+[14:09] [[PER|Dragana]] ([[ORG|Swisscom]]) : Bonjour, je m'appelle [[PER|Dragana]]. Puis-je avoir votre nom et votre numéro de client s'il vous plaît ?
+[14:10] Vous : [[PER|Grégoire Matthey-Doret]], client 3.211.884.07. c'est pour mon déménagement
+[14:10] [[PER|Dragana]] ([[ORG|Swisscom]]) : Merci Monsieur [[PER|Matthey-Doret]]. Je vois votre raccordement actuel au [[LOC|Rue des Fahys 124, 2000 Neuchâtel]]. Quelle est la nouvelle adresse ?
+[14:11] Vous : [[LOC|Chemin des Pavés 7, 2034 Peseux]]. on a la clé le [[DATE|1er novembre]]
+[14:12] Vous : et je veux garder le même numéro fixe 032 725 40 18, c'est possible ? ma mère appelle que sur le fixe lol
+[14:13] [[PER|Dragana]] ([[ORG|Swisscom]]) : Oui, c'est possible puisque vous restez dans la même zone. Je vérifie la disponibilité de la fibre à la nouvelle adresse…
+[14:15] [[PER|Dragana]] ([[ORG|Swisscom]]) : La fibre est disponible. Le transfert peut être planifié pour le [[DATE|31 octobre]] ou le [[DATE|3 novembre]]. Un technicien de notre partenaire [[ORG|Electro-Montage Neuchâtelois SA]] devra peut-être passer pour activer la prise OTO.
+[14:16] Vous : le 3 alors. mais je travaille, ma compagne [[PER|Aline]] sera là. c'est grave si c'est pas moi ?
+[14:16] [[PER|Dragana]] ([[ORG|Swisscom]]) : Pas de problème, une personne majeure suffit. Pouvez-vous me donner un numéro de natel pour le technicien ?
+[14:17] Vous : 079 412 55 83 (moi) ou 078 630 71 29 ([[PER|Aline]])
+[14:18] [[PER|Dragana]] ([[ORG|Swisscom]]) : C'est noté. Le transfert est planifié le [[DATE|03.11.2025]], créneau 8h-12h. Vous recevrez une confirmation par SMS et par e-mail. Autre chose ?
+[14:19] Vous : oui, j'ai payé 2x la facture de septembre (99.90). une fois par e-banking [[ORG|PostFinance]] et une fois par LSV. je peux récupérer ?
+[14:21] [[PER|Dragana]] ([[ORG|Swisscom]]) : Je vois bien les deux paiements du [[DATE|28.09]] et du [[DATE|30.09]]. Le montant de CHF 99.90 sera crédité sur votre prochaine facture. Si vous préférez un remboursement, il faut faire la demande par écrit avec vos coordonnées bancaires.
+[14:22] Vous : crédit sur la facture c'est très bien. merci [[PER|Dragana]] !!
+[14:22] [[PER|Dragana]] ([[ORG|Swisscom]]) : Avec plaisir, bon déménagement Monsieur [[PER|Matthey-Doret]] et belle journée !
+
+Transcription envoyée à g.matthey-doret@bluewin.ch

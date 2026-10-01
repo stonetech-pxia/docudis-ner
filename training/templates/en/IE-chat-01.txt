@@ -1,0 +1,10 @@
+#country: IE
+#doctype: chat
+[{{DATE:numeric}}, 08:12] {{PER#1:full}}: Morning lads, match moved to Sunday 11am, pitch 2 at {{ORG#1:name}} grounds
+[{{DATE:numeric}}, 08:15] {{PER#2:given}}: Is that the one out the {{LOC#1:town}} road?
+[{{DATE:numeric}}, 08:16] {{PER#1:full}}: Yeah, {{LOC#1:line}}. Parking behind the clubhouse
+[{{DATE:numeric}}, 08:20] {{PER#3:full}}: I can bring 3 in the car from {{LOC#2:town}}. {{PER#4:given}} you want a spin?
+[{{DATE:numeric}}, 08:31] {{PER#4:given}}: Go on so, cheers
+[{{DATE:numeric}}, 09:02] {{PER#1:full}}: Subs for the season are {{AMOUNT}}, pay {{PER#5:full}} or transfer to the club account {{IBAN}}. Deadline {{DATE:day_month}}
+[{{DATE:numeric}}, 09:04] {{PER#2:given}}: Sound. Anyone heard how {{PER#6:given}}'s knee is?
+[{{DATE:numeric}}, 09:10] {{PER#3:full}}: Physio at {{ORG#2:name@health}} said 3 weeks

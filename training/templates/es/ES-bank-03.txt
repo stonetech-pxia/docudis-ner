@@ -1,0 +1,12 @@
+#country: ES
+#doctype: bank
+# Aviso por SMS de un cargo y chat con el gestor en la app
+SMS de {{ORG#1:acronym}}:
+{{PER#1:given}}, se ha realizado un cargo de {{AMOUNT}} con su tarjeta ****{{CARD4}} en {{ORG#2:name@retail}} ({{LOC#1:town}}) el {{DATE:day_month}}. Si no lo reconoce, llame al {{PHONE}}.
+
+Chat con su gestor — {{ORG#1:name@finance}}
+[{{DATE:numeric}}, 09:14] {{PER#1:full}}: Hola, me acaba de llegar este aviso y yo no he comprado nada en {{LOC#1:town}}, estoy en casa.
+[{{DATE:numeric}}, 09:17] {{PER#2:full}}: Buenos días, {{PER#1:given}}. Soy {{PER#2:given}}, su gestora. He bloqueado la tarjeta de forma preventiva.
+[{{DATE:numeric}}, 09:18] {{PER#2:full}}: ¿Le importa confirmarme que su dirección sigue siendo {{LOC#2:line}}? Le enviaremos allí la nueva.
+[{{DATE:numeric}}, 09:21] {{PER#1:full}}: Sí, es esa. Mi pareja, {{PER#3:given}}, tiene una tarjeta de la misma cuenta, ¿también hay que cambiarla?
+[{{DATE:numeric}}, 09:24] {{PER#2:full}}: No es necesario. Abrimos la reclamación {{REF}} y el importe se le devolverá en un plazo de 10 días hábiles.

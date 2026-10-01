@@ -1,0 +1,37 @@
+Conversation de groupe « Les [[PER|Le Bihan]] 🦀 »
+
+[[PER|Gwenaëlle Le Bihan]]
+Coucou tout le monde ! Les 90 ans de mamie [[PER|Maryvonne]] c'est le [[DATE|8 mai]], ça tombe un vendredi. On fait ça le samedi [[DATE|9 mai]] ?
+
+[[PER|Erwan Le Bihan]]
+ok pour moi. où ? chez vous à [[LOC|Plougastel]] ou au resto ?
+
+[[PER|Gwenaëlle Le Bihan]]
+j'ai pensé à [[ORG|La Crêperie du Vieux Port]] à [[LOC|Brest]], ils ont une salle à l'étage pour 25. j'ai demandé un devis à la patronne, [[PER|Annick]], elle me répond cette semaine
+
+Tonton [[PER|Ronan]]
+Moi je viens avec [[PER|Sylvie]] et les petits. [[PER|Gaëlle]] vient de [[LOC|Rennes]] en train normalement.
+
+[[PER|Erwan Le Bihan]]
+faut prévenir tante [[PER|Nolwenn]] aussi, elle a pas messenger
+
+[[PER|Gwenaëlle Le Bihan]]
+je l'appelle ce soir. son adresse c'est toujours [[LOC|3 hent Kerhuon, 29470 Plougastel-Daoulas]] ? je veux lui envoyer le carton d'invitation
+
+Tonton [[PER|Ronan]]
+Non elle a déménagé en septembre, maintenant c'est [[LOC|17 rue de Kerfeunteun, 29200 Brest, appartement 12]]
+
+[[PER|Gwenaëlle Le Bihan]]
+merci ! pour le cadeau je propose qu'on fasse une cagnotte, j'ai créé un lien lydia, 20 € par foyer ça vous va ? on lui offre un week-end à [[LOC|Belle-Île]] avec papy [[PER|Job]]
+
+[[PER|Erwan Le Bihan]]
+trop bien 👌 j'ai viré
+
+[[PER|Morgane]]
+Moi aussi ! C'est qui qui l'emmène à [[LOC|Quiberon]] pour le bateau ?
+
+Tonton [[PER|Ronan]]
+Moi je veux bien, je connais bien la route. Mais pas en juillet c'est blindé
+
+[[PER|Gwenaëlle Le Bihan]]
+on verra avec elle. bisous à tous, je vous tiens au courant pour la crêperie 🥞

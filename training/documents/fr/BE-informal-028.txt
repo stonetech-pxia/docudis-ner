@@ -1,0 +1,19 @@
+Objet : Papa - sortie de l'hôpital et la mutuelle
+
+Coucou [[PER|Véro]], coucou [[PER|Thierry]],
+
+Petit point sur papa comme promis. Il sort du [[ORG|CHwapi]] de [[LOC|Tournai]] le [[DATE|6 novembre]] normalement, le Dr [[PER|Vanderplancke]] (le cardiologue, très gentil mais il parle vite) veut encore le garder deux jours pour surveiller la tension.
+
+Ce qu'il faut organiser :
+
+- l'infirmière à domicile matin et soir pendant 3 semaines. J'ai appelé la [[ORG|Croix Jaune et Blanche]], ils peuvent commencer le [[DATE|7/11]]. L'infirmière du secteur s'appelle [[PER|Sophie Degand]], 0476 18 55 02.
+- la mutuelle : papa est chez [[ORG|Solidaris]], n° d'affiliation 710-2231890-44. Il faut leur envoyer l'attestation d'hospitalisation, je m'en occupe. [[PER|Thierry]], tu peux vérifier s'il a une assurance hospitalisation complémentaire via son ancien boulot chez [[ORG|Cartonnerie Vanneste]] ? Je crois qu'il l'avait gardée.
+- la pharmacie : c'est toujours la [[ORG|Pharmacie Lefebvre-Baert]] sur la [[LOC|Grand-Place]] ? Il faudra passer chercher les nouveaux médicaments.
+- les courses : Madame [[PER|Hennebert]], la voisine d'en face, se propose. Elle a déjà le double de la clé de la maison ([[LOC|rue des Chapeliers 19, 7500 Tournai]]).
+
+[[PER|Véro]], je sais que tu viens de [[LOC|Lille]] le weekend, est-ce que tu peux prendre le samedi [[DATE|8 novembre]] ? Moi je prends le dimanche et [[PER|Thierry]] le mercredi soir.
+
+Et on doit vraiment parler de la suite. Le Dr [[PER|Vanderplancke]] a évoqué une résidence-services. Il y en a une bien à [[LOC|Kain]], [[ORG|Les Jardins de l'Escaut]]. Papa ne veut pas en entendre parler bien sûr...
+
+Bisous à vous deux,
+[[PER|Cathy]]

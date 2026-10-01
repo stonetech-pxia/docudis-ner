@@ -1,0 +1,43 @@
+DÉCLARATION DE SINISTRE – DÉGÂT DES EAUX / CONSTAT AMIABLE
+À retourner à : [[ORG|MACIF]] – Centre de gestion sinistres habitation – [[LOC|TSA 60012]] – [[LOC|79060 Niort Cedex 9]]
+
+N° de sociétaire : 18 447 902 L          Contrat : Habitation Formule Intégrale n° HAB-5519073
+Date du sinistre : [[DATE|07/09/2026]]          Heure : vers 22 h          Date de découverte : [[DATE|08/09/2026]]
+
+A. ASSURÉ (déclarant)
+NOM : [[PER|RABEARIVELO]]          Prénom : [[PER|Tiana]]
+Qualité : locataire          Étage : 3e, porte gauche
+Adresse du lieu sinistré : [[LOC|27 rue de la Bourgeonnière, résidence Le Clos Fleuri, bât. B]]
+                           [[LOC|44300 Nantes]]
+Téléphone : 06 49 12 83 07          E-mail : tiana.rabearivelo @ outlook.fr
+IBAN pour l'indemnisation : FR76 6626 6137 7246 4734 8947 189
+
+B. AUTRE PARTIE (logement d'où provient la fuite)
+NOM, Prénom : [[PER|CORVAISIER Loïc]]
+Qualité : propriétaire occupant          Étage : 4e, porte gauche
+Assureur : [[ORG|Groupama Loire Bretagne]]          N° de contrat : inconnu à ce jour
+Téléphone : 07 83 20 64 51
+
+C. GESTIONNAIRE DE L'IMMEUBLE
+Syndic : [[ORG|Cabinet Heurtebise & Madec]]
+[[LOC|5 quai de Versailles]]
+[[LOC|44000 Nantes]]
+Gestionnaire du dossier : [[PER|Aurore Madec]], service copropriété – 02 40 47 18 90
+
+D. CIRCONSTANCES
+Le flexible d'alimentation du lave-linge de M. [[PER|Corvaisier]] s'est rompu en son absence. L'eau s'est infiltrée
+par le plafond de ma salle de bains et de mon couloir. M. [[PER|Corvaisier]], rentré le [[DATE|8 septembre]] au matin, a
+coupé l'arrivée d'eau. Le plombier de la résidence, [[ORG|Plomberie LBR 44]] (M. [[PER|Yohan Lebreton]]), est intervenu
+le jour même : facture n° 2026-0913 de 142,00 € TTC.
+
+E. DOMMAGES CONSTATÉS
+- Plafond et murs de la salle de bains (peinture cloquée, faux plafond PVC affaissé)
+- Parquet stratifié du couloir gonflé sur 6 m²
+- Meuble sous vasque et panier à linge (achetés chez [[ORG|Brico Dépôt]] le [[DATE|15 mars 2023]], facture jointe)
+Estimation provisoire : 1 850 €. Devis demandé à [[ORG|Peinture Ouattara-Hamon]], [[LOC|Rezé]].
+
+F. TÉMOIN
+Mme [[PER|Solène Brosseau-Diakité]], voisine du 3e droite, 06 14 58 27 90
+
+Fait à [[LOC|Nantes]], le [[DATE|9 septembre 2026]]
+Signature de l'assuré : [[PER|T. Rabearivelo]]          Signature de l'autre partie : [[PER|L. Corvaisier]]

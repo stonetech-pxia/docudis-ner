@@ -1,0 +1,29 @@
+#country: GB
+#doctype: bank
+# Customer's fraud complaint e-mail to an app-based bank, with the bank's chat reply pasted underneath
+Subject: Unauthorised payments on my account {{ACCOUNT}} - urgent
+
+To whom it may concern,
+
+I'm writing about three card payments I did not make. They were taken on {{DATE:day_month}} between 02:10 and 02:40:
+
+- {{ORG#2:name@retail}}   {{AMOUNT}}
+- {{ORG#2:name}}          {{AMOUNT}}
+- {{ORG#3:legal@telecom}}  {{AMOUNT}}
+
+My card (ending {{CARD4}}) was in my wallet the whole time. I froze it in the app as soon as I saw the notification and reported it in chat to {{PER#2:given}}, who told me a claim would be opened. That was five days ago and I've heard nothing.
+
+I've also reported it to Action Fraud (crime ref {{REF}}).
+
+Please refund the {{AMOUNT}} and confirm in writing. If I don't hear back within 8 weeks I'll take it to the Financial Ombudsman Service.
+
+{{PER#1:full}}
+{{LOC#1:line}}
+{{MOBILE}}
+
+--- chat transcript attached ---
+[{{DATE:short}} 09:12] {{ORG#1:name@finance}}: Hi {{PER#1:given}}, I'm {{PER#2:given}} from the Fraud team. I can see the card is frozen. Can you confirm your date of birth?
+[{{DATE:short}} 09:13] You: {{DATE:birth}}
+[{{DATE:short}} 09:15] {{ORG#1:name}}: Thanks. I've raised dispute {{REF}}. My colleague {{PER#3:full}} will review it within 15 working days.
+[{{DATE:short}} 09:16] You: Will I get the money back in the meantime?
+[{{DATE:short}} 09:18] {{ORG#1:name}}: I'm not able to promise that, sorry. A new card is on its way to {{LOC#1:postcode_town}}.

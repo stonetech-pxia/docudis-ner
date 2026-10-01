@@ -1,0 +1,38 @@
+#country: ES
+#doctype: support
+#customer e-mail to telecom with quoted agent reply
+De: {{PER#1:full}} <{{EMAIL:PER#1}}>
+Para: {{EMAIL:ORG#1}}
+Fecha: {{DATE:numeric}} 21:03
+Asunto: RE: Incidencia {{REF}} - cobro duplicado
+
+Hola de nuevo:
+
+Sigo sin entender la respuesta. No he contratado ningún servicio adicional. Lo que pasó es que el técnico que vino el {{DATE:long}}, {{PER#3:given}}, instaló el router nuevo y desde entonces me cobran dos líneas. En el extracto de [[ORG|Unicaja]] aparecen dos cargos de {{AMOUNT}} con fecha {{DATE:short}}.
+
+Mis datos otra vez:
+Titular: {{PER#1:full}}
+DNI: {{NATID}}
+Dirección de instalación: {{LOC#1:line}}
+Teléfono de contacto: {{MOBILE}}
+Cuenta de domiciliación: {{IBAN}}
+
+Pido que anulen la segunda línea y me devuelvan lo cobrado de más. Si no, presentaré reclamación ante {{PUBLIC#1}}.
+
+{{PER#1:given}}
+
+-----Mensaje original-----
+De: Atención al Cliente {{ORG#1:name@telecom}} <{{EMAIL:ORG#1}}>
+Enviado el: {{DATE:long}}
+Asunto: Incidencia {{REF}}
+
+Estimado cliente:
+
+Le informamos de que, tras revisar su cuenta, consta el alta de una segunda línea asociada a la tarifa Fibra 600 + Móvil, solicitada desde la tienda {{ORG#2:name@retail}} de {{LOC#2:line}}.
+
+Si no reconoce esta contratación, puede responder a este correo indicando su DNI.
+
+Atentamente,
+{{PER#2:full}}
+{{DEPT}}
+{{ORG#1:legal@telecom}}

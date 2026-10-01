@@ -1,0 +1,54 @@
+From: [[PER|Rudy Vandersmissen]] <rudy.vds@hotmail.be>
+Sent: [[DATE|12 février 2026]] 18:04
+To: Service clientèle [[ORG|Proximus]]
+Subject: RE: Votre plainte 2026/CX/448193 – facturation double
+
+Madame, Monsieur,
+
+Je vous réécris car votre réponse ne règle rien. Je répète les faits une dernière fois, et je mets en copie le Service de Médiation pour les Télécommunications.
+
+1. J'ai résilié mon abonnement internet + TV le [[DATE|15/11/2025]] en passant chez [[ORG|Scarlet]] (numéro de client chez eux : SC-7730215). La portabilité s'est faite le [[DATE|22 novembre]].
+2. Vous avez continué à me facturer 69,99 € en décembre et en janvier, soit 139,98 €, prélevés sur mon compte chez [[ORG|ING Belgique]].
+3. Le décodeur a été rendu au [[ORG|Proximus Shop]] de la [[LOC|rue de la Montagne]] à [[LOC|Charleroi]] le [[DATE|26/11/2025]]. La vendeuse, [[PER|Mélissa]], m'a donné un reçu (je le joins encore une fois).
+
+Mon numéro de client chez vous : 604 118 327. Adresse de facturation : [[LOC|rue du Grand Central 57, 6000 Charleroi]].
+
+Je demande le remboursement des 139,98 € sous dix jours.
+
+[[PER|R. Vandersmissen]]
+0496 34 87 21
+
+---
+
+De : Service clientèle [[ORG|Proximus]]
+Envoyé : [[DATE|9 février 2026]] 10:21
+À : [[PER|Rudy Vandersmissen]]
+Objet : Votre plainte 2026/CX/448193
+
+Cher Monsieur [[PER|Vandersmissen]],
+
+Merci pour votre message. Après vérification, votre contrat a bien été clôturé le [[DATE|22/11/2025]]. Cependant, notre système indique que le décodeur n'a pas été restitué. Des frais de non-restitution de 150 € pourraient vous être facturés.
+
+Nous vous invitons à retourner l'équipement dans un point de vente [[ORG|Proximus]] ou via un colis [[ORG|bpost]] prépayé.
+
+Bien cordialement,
+[[PER|Jonathan]]
+Service clientèle
+
+---
+
+De : Service clientèle [[ORG|Proximus]]
+Envoyé : [[DATE|16 février 2026]] 15:47
+À : [[PER|Rudy Vandersmissen]]
+Objet : RE: RE: Votre plainte 2026/CX/448193
+
+Cher Monsieur [[PER|Vandersmissen]],
+
+Toutes nos excuses. Grâce au reçu du shop de [[LOC|Charleroi]], nous avons retrouvé le décodeur (il avait été enregistré sous le numéro de client d'un autre abonné). Les factures de décembre et janvier sont annulées et le montant de 139,98 € sera remboursé sur votre compte BE dans un délai de 5 à 7 jours ouvrables.
+
+Nous avons également ajouté une note à votre dossier pour qu'aucuns frais de non-restitution ne soient appliqués.
+
+Bien à vous,
+[[PER|Sarah Mestdagh]]
+Team Plaintes – [[ORG|Proximus SA]]
+[[LOC|1030 Bruxelles]]

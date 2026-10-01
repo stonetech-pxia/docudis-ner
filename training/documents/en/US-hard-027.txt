@@ -1,0 +1,47 @@
+[[ORG|Liberty Mutual Insurance]] – Homeowners Property Loss Notice
+
+Claim number: 048177392-01          Policy number: H37-251-904118-40 5
+Date reported: [[DATE|09/15/2025]]          Reported by: insured, by phone to agent
+
+NAMED INSURED
+Name: [[PER|Theodora Vasquez-Brennan]]          Co-insured: [[PER|Liam Brennan]]
+Mailing address: [[LOC|36 Ormond Street]]
+                 [[LOC|Albany, NY 12203]]
+Home phone: (518) 555-0164          Cell: (518) 555-0139
+Email: tvbrennan@nycap.rr.com
+Date of birth: [[DATE|July 30, 1983]]          SSN (last 4): 8133
+
+LOCATION OF LOSS
+Same as mailing address
+
+AGENCY
+[[ORG|Pine Hills Insurance Agency, Inc.]] – producer [[PER|Martin Szabo]]
+[[LOC|1210 Western Ave, Albany, NY 12203]] – (518) 555-0102
+
+LOSS INFORMATION
+Date of loss: [[DATE|September 13, 2025]]          Time: approx. 3:30 a.m.
+Type: Water – sudden and accidental discharge
+Description: Supply line to the second-floor washing machine split overnight. Water came through the kitchen ceiling
+below. Insured shut off the main valve at about 6:45 a.m. when she found it. Emergency water extraction by
+[[ORG|ServiceMaster of the Capital District]] on [[DATE|9/13]], invoice attached ($3,412.50). Kitchen ceiling drywall,
+cabinets and laminate floor damaged. Washing machine is 9 years old (Whirlpool, bought at [[ORG|Lowe's]]).
+
+Was anyone injured? No          Is the home habitable? Yes, kitchen unusable
+Additional living expense requested? Yes – meals, est. $40/day
+
+OTHER PARTIES
+Downstairs tenant (two-family house): [[PER|Keisha Tolliver]], [[LOC|36 Ormond Street, 1st Floor]], (518) 555-0181
+Her contents are not covered by this policy; she has renters insurance with [[ORG|Lemonade]].
+
+MORTGAGEE
+[[ORG|Pioneer Bank]], ISAOA ATIMA, loan no. 7700431926
+
+ADJUSTER ASSIGNMENT
+Field adjuster: [[PER|Craig Ostrowski]], Property Claims, Northeast Region – (518) 555-0171
+Inspection scheduled: Wed. [[DATE|Sept. 17]] between 10 a.m. and 12 p.m.
+
+NOTES
+[[DATE|9/15]] 11:02 – Spoke with insured [[PER|Theodora]]. Advised to keep damaged items and take photos. Explained
+deductible $1,000. Contractor estimate requested from [[ORG|Vasquez & Hurd Restoration]] – no relation per insured.
+[[DATE|9/16]] 09:40 – Tenant Ms. [[PER|Tolliver]] called asking whether her claim goes through us. Referred to her carrier.
+– [[PER|C. Ostrowski]]

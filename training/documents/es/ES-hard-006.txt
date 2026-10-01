@@ -1,0 +1,12 @@
+HOJA DE REPARTO – RUTA 7 ([[LOC|OVIEDO]] NORTE)   Fecha: [[DATE|15/09/2026]]
+Repartidor: [[PER|BLANCO FUEYO, Iván]]   Furgoneta 4417-LKM
+Almacén: [[ORG|Distribuciones Naranco Express]]
+
+Nº | Destinatario | Dirección | Bultos | Firma
+1 | [[PER|Rosa María Cuesta]] | [[LOC|C/ Fuertes Acevedo del Monte, 12, 4º D, 33006 Oviedo]] | 2 | ausente, dejado en [[ORG|Estanco El Cuadro]]
+2 | [[ORG|Sidrería El Llagar de Pinón]] | [[LOC|C/ Gascona Baja, 3, 33001 Oviedo]] | 6 | [[PER|Chus Pinón]]
+3 | [[PER|ÁLVAREZ-QUIRÓS, Belén]] | [[LOC|Pl. de la Llaviada, 1, 1º, 33011 Oviedo]] | 1 | ok
+4 | [[ORG|Óptica Vetusta 2]] | [[LOC|C/ Uría Pequeña, 58, local 3, 33003 Oviedo]] | 3 | [[PER|Tania]] (dependienta)
+5 | [[PER|Kwame Ofori-Menéndez]] | [[LOC|Camino de Villafría, 140, 33008 Oviedo]] | 1 | devolver, no contesta 698 22 01 57
+
+Incidencias: nº 5 reintentar el [[DATE|16/09]]. Avisar a [[PER|Graciela]] en oficina.

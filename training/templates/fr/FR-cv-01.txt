@@ -1,0 +1,37 @@
+#country: FR
+#doctype: cv
+{{PER#1:full}}
+{{JOB}}
+{{LOC#1:street}}, {{LOC#1:postcode_town}}
+{{MOBILE}} | {{EMAIL:PER#1}}
+Permis B – véhiculé(e)
+
+PROFIL
+Neuf ans d'expérience en gestion administrative et comptable dans des PME du secteur du bâtiment. Rigoureux(se), à l'aise avec les outils de paie et la relation fournisseurs.
+
+EXPÉRIENCE PROFESSIONNELLE
+
+{{DATE:short}} – aujourd'hui
+{{JOB}} – {{ORG#1:legal@trades}}, {{LOC#2:town}}
+• Saisie comptable, rapprochements bancaires, préparation du bilan avec le cabinet {{ORG#2:legal@finance}}
+• Suivi de la paie de 24 salariés, déclarations sociales mensuelles (DSN)
+• Relances clients et recouvrement
+
+{{DATE:short}} – {{DATE:short}}
+Assistant(e) administratif(ve) – {{ORG#3:name@retail}}, {{LOC#3:town}}
+• Accueil, facturation, gestion des commandes
+• Remplacement de la responsable des achats pendant son congé
+
+FORMATION
+BTS Comptabilité et gestion – {{ORG#5:name@school}}, {{LOC#3:town}}
+Baccalauréat STMG
+
+COMPÉTENCES
+Sage, EBP, Excel (tableaux croisés dynamiques), Pennylane
+Anglais : niveau B1
+
+CENTRES D'INTÉRÊT
+Trésorier(ère) du club de handball {{ORG#4:name}} depuis six ans ; randonnée.
+
+RÉFÉRENCES
+{{PER#2:full}}, gérant(e) de {{ORG#1:name}} – {{PHONE}}

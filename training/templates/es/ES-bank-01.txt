@@ -1,0 +1,23 @@
+#country: ES
+#doctype: bank
+# Extracto de cuenta copiado de la banca online
+{{ORG#1:legal@finance}}
+Extracto de movimientos
+Titular: {{PER#1:full}}
+Cotitular: {{PER#2:full}}
+Cuenta: {{IBAN}}
+Oficina: {{LOC#1:line}}
+Periodo: {{DATE:numeric}} - {{DATE:numeric}}
+
+Fecha oper. | Fecha valor | Concepto | Importe | Saldo
+{{DATE:numeric}} | {{DATE:numeric}} | NOMINA {{ORG#2:name@employer}} | {{AMOUNT}} | {{AMOUNT}}
+{{DATE:numeric}} | {{DATE:numeric}} | RECIBO [[ORG|ENDESA ENERGIA SAU]] {{REF}} | -{{AMOUNT}} | {{AMOUNT}}
+{{DATE:numeric}} | {{DATE:numeric}} | TRANSFERENCIA A {{PER#3:surname_given}} ALQUILER | -{{AMOUNT}} | {{AMOUNT}}
+{{DATE:numeric}} | {{DATE:numeric}} | BIZUM DE {{PER#4:full}} CENA | {{AMOUNT}} | {{AMOUNT}}
+{{DATE:numeric}} | {{DATE:numeric}} | COMPRA TARJ. {{CARD4}} {{ORG#3:name@retail}} {{LOC#2:town}} | -{{AMOUNT}} | {{AMOUNT}}
+{{DATE:numeric}} | {{DATE:numeric}} | RECIBO {{ORG#4:legal@telecom}} | -{{AMOUNT}} | {{AMOUNT}}
+{{DATE:numeric}} | {{DATE:numeric}} | TRANSF. DE {{PER#2:surname_given}} | {{AMOUNT}} | {{AMOUNT}}
+{{DATE:numeric}} | {{DATE:numeric}} | COMISION MANTENIMIENTO | -{{AMOUNT}} | {{AMOUNT}}
+
+Saldo final: {{AMOUNT}}
+Documento sin validez contractual.

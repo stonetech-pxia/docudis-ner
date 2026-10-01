@@ -1,0 +1,45 @@
+#country: GB
+#doctype: payslip
+# P60 end of year certificate, copied from a scan with OCR spacing
+P60 End of Year Certificate
+Tax year to 5 April 2026
+
+This form shows your total pay for Income Tax purposes in this employment for the year. Any overtime, bonus, commission etc, Statutory Sick Pay, Statutory Maternity Pay, Statutory Paternity Pay, Statutory Shared Parental Pay or Statutory Adoption Pay is included.
+
+Employee's details
+Surname   {{PER#1:surname}}
+Forenames or initials   {{PER#1:given}}
+National Insurance number   {{NATID}}
+Works/payroll number   {{NUM}}
+
+Pay and Income Tax details
+                                   Pay          Tax deducted
+In previous employment(s)          {{AMOUNT}}       {{AMOUNT}}
+In this employment                 {{AMOUNT:big}}   {{AMOUNT}}
+Total for year                     {{AMOUNT:big}}   {{AMOUNT}}
+Final tax code   1257L
+
+National Insurance contributions in this employment
+NIC letter  A   Earnings above PT up to UEL   {{AMOUNT:big}}   Employee's contributions   {{AMOUNT}}
+
+Statutory payments included in the pay 'In this employment' figure above
+Statutory Maternity Pay   {{AMOUNT}}
+
+Other details
+Student Loan deductions in this employment   {{AMOUNT}}
+
+Employer's full name and address
+{{ORG#1:legal@school}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+Employer PAYE reference   {{REF}}
+
+Certificate by Employer/Paying Office:
+This form shows your total pay for Income Tax purposes in this employment for the year.
+Signed on behalf of the employer: {{PER#2:initial_surname}}, {{JOB}}
+Date {{DATE:numeric}}
+
+To the employee: Please keep this certificate in a safe place as you will need it if you have to fill in a tax return. You can also use it to check that your employer is using the correct National Insurance number and deducting the right rate of National Insurance contributions. By law you are required to tell HMRC about any income that is not fully taxed, even if you are not sent a tax return.
+
+Note added by employee before sending to accountant:
+{{PER#3:given}}, this is mine from {{ORG#1:name}}. The SMP covers {{DATE:day_month}} onwards. My new address is {{LOC#2:line}}. {{PER#1:given}}

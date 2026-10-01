@@ -1,0 +1,41 @@
+[[ORG|ÉLEC'TRIC 21]]
+[[PER|Aurélien Bouhafs]] - électricité générale, domotique, IRVE
+[[LOC|9 rue des Ateliers 21800 Chevigny-Saint-Sauveur]]
+06 62 17 40 93 | devis@electric21.fr
+EI - SIREN 798847448 - APE 4321A - qualification Qualifelec E2
+Assurance décennale : [[ORG|SMABTP]], police n° 614.227/8830
+
+                                                    DEVIS n° D26-118
+                                                    du [[DATE|9 septembre 2026]]
+                                                    valable jusqu'au [[DATE|9 novembre 2026]]
+
+Client : M. et Mme [[PER|Ravanel]]
+[[LOC|28 chemin de la Combe Saint-Joseph]]
+[[LOC|21000 Dijon]]
+Contact : [[PER|Solène Ravanel]] 07 81 55 20 36
+
+Objet : installation d'une borne de recharge 7,4 kW et mise aux normes du tableau
+
+Réf.     Désignation                                        Qté  U     PU HT      Total HT
+BR-74    Borne de recharge 7,4 kW monophasée, câble T2      1    u     829,00     829,00
+DIF-40   Interrupteur différentiel 40A type A               1    u      96,50      96,50
+DJ-40    Disjoncteur courbe C 40A                           1    u      31,20      31,20
+CAB-10   Câble R2V 3G10 mm²                                 22   ml      9,80     215,60
+GAI      Goulotte + fixations                               1    ft     58,00      58,00
+TAB      Remplacement tableau 3 rangées pré-équipé          1    u     412,00     412,00
+MO       Main-d'oeuvre (2 techniciens)                      9    h      48,00     432,00
+CONS     Consuel + mise en service                          1    ft    175,00     175,00
+
+                                               Total HT                        2 249,30
+                                               TVA 5,5 % (borne, câble)           59,17
+                                               TVA 20 % (autres postes)          234,15
+                                               Total TTC                       2 542,62 €
+
+Prime ADVENIR déductible estimée : 500,00 €, sous réserve d'éligibilité.
+Acompte de 30 % à la commande, solde à réception des travaux.
+Délai d'intervention : semaine du [[DATE|19 octobre]] ou du [[DATE|26 octobre 2026]].
+
+Bon pour accord, date et signature :
+
+Pour [[ORG|ÉLEC'TRIC 21]]
+[[PER|A. Bouhafs]]

@@ -1,0 +1,13 @@
+#country: ES
+#doctype: support
+#short contact-form message to a home insurer about a claim
+Formulario de contacto - {{ORG#1:name@insurance}}
+
+Nombre: {{PER#1:full}}
+Email: {{EMAIL:PER#1}}
+Teléfono: {{MOBILE}}
+N.º de póliza: {{REF}}
+Motivo: Seguimiento de siniestro
+
+Mensaje:
+Buenas tardes. El {{DATE:long}} di parte de un siniestro por rotura de tubería en mi vivienda de {{LOC#1:line}}. El perito, {{PER#2:full}}, vino el {{DATE:day_month}} y me dijo que la reparación la haría {{ORG#2:legal@trades}}, pero nadie me ha llamado. El techo del vecino de abajo, {{PER#3:full}}, también está dañado y él ya ha dado parte a su compañía. ¿Pueden decirme en qué estado está el expediente? Gracias.

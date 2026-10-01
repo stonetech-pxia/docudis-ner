@@ -1,0 +1,22 @@
+Asunto: FW: Reclamación cargo duplicado - [[ORG|CaixaBank]]
+
+Te lo reenvío, [[PER|Rosendo]], por si lo ves antes que yo. Es lo del cargo doble del hotel de [[LOC|Sevilla]].
+
+---------- Mensaje reenviado ----------
+De: Servicio de Atención al Cliente <sac@caixabank.com>
+Fecha: [[DATE|19 de marzo de 2026]], 12:08
+Para: [[PER|Maricruz Vallejo]] <maricruzvallejo@telefonica.net>
+Asunto: Reclamación cargo duplicado
+
+Estimada clienta:
+
+En relación con su escrito de fecha [[DATE|9 de marzo de 2026]], le informamos de que hemos iniciado el procedimiento de retrocesión del cargo de 486,00 € realizado el [[DATE|28 de febrero]] con su tarjeta terminada en 2245 en el establecimiento [[ORG|HOTEL ALCAZABA TRIANA]], [[LOC|SEVILLA]].
+
+El comercio dispone de 45 días para aportar documentación. Mientras tanto le hemos abonado provisionalmente el importe en su cuenta ES95 0705 2810 4401 3932 2486.
+
+Atentamente,
+Servicio de Atención al Cliente
+[[ORG|CaixaBank, S.A.]]
+
+---------- Mi escrito original ----------
+Buenos días. Soy [[PER|María de la Cruz Vallejo Arenas]], con DNI 13269431H. El [[DATE|28 de febrero]] pagué en el [[ORG|Hotel Alcazaba Triana]] dos noches y me lo han cobrado dos veces. Hablé con el recepcionista, [[PER|Gustavo]], y me dijo que era un error del datáfono y que se anularía solo, pero no. Mi dirección: [[LOC|Calle Doctor Fleming 3, 4º B, 41700 Dos Hermanas]]. Gracias.

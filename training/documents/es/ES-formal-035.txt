@@ -1,0 +1,60 @@
+[[ORG|ASESORÍA ONUBENSE DE EMPRESAS BARRANCO Y ASOCIADOS, S.L.]]
+Fiscal · Laboral · Contable · Jurídico
+[[LOC|Plaza de las Monjas, 3, 2ª planta, oficina 7]]
+[[LOC|21001 Huelva]]
+NIF B21386040
+Tel. 959 247 118 · Fax 959 247 119 · www.barrancoasociados.es
+
+FACTURA
+
+Número:            A-2026/0913
+Fecha de factura:  [[DATE|30 de septiembre de 2026]]
+Periodo facturado: tercer trimestre de 2026 ([[DATE|01/07/2026]] – [[DATE|30/09/2026]])
+Vencimiento:       [[DATE|10/10/2026]]
+
+Facturar a:
+[[ORG|Fresas y Berries Tierra Llana, S.L.]]
+NIF B21704952
+[[LOC|Finca Los Arenales, Ctra. A-494, km 8]]
+[[LOC|21440 Lepe]] ([[LOC|Huelva]])
+A la atención de: Dña. [[PER|Remedios Picón Garrido]], administradora
+
+Detalle de servicios
+------------------------------------------------------------------------------------------
+Código   Concepto                                               Cant.    Precio    Importe
+------------------------------------------------------------------------------------------
+LAB-01   Gestión laboral: nóminas y seguros sociales             3       420,00   1.260,00
+         (media de 46 trabajadores, incluidos temporeros
+         contratados en origen)
+LAB-07   Altas y bajas en Seguridad Social (Sistema RED)        37         6,50     240,50
+LAB-12   Tramitación de 2 expedientes de contratación en          2       95,00     190,00
+         origen (trabajadoras procedentes de [[LOC|Marruecos]])
+FIS-02   Declaraciones trimestrales IVA (303) e IRPF (111,       1       185,00     185,00
+         115) del 3T
+CON-01   Contabilidad mensual                                     3       160,00     480,00
+JUR-04   Asistencia a inspección de trabajo del                   1       350,00     350,00
+         [[DATE|22 de julio]] (D. [[PER|Barranco]])
+------------------------------------------------------------------------------------------
+                                              Base imponible             2.705,50
+                                              IVA 21 %                     568,16
+                                              Retención IRPF 15 %         -405,83
+                                              TOTAL A PAGAR              2.867,83 €
+------------------------------------------------------------------------------------------
+
+Observaciones
+1. La inspección de trabajo del [[DATE|22/07/2026]], realizada en la finca por la Inspección Provincial de Trabajo de [[LOC|Huelva]], concluyó sin propuesta de sanción. El acta se entregó a la Sra. [[PER|Picón]] el [[DATE|5 de agosto]].
+2. Queda pendiente de recibir la documentación de la trabajadora [[PER|Hanane Boukhris]] (pasaporte y visado) para completar su alta.
+3. Las cuotas de la Seguridad Social de septiembre se cargarán en su cuenta el último día hábil de octubre.
+
+Forma de pago: domiciliación bancaria en la cuenta del cliente ES87 1216 9696 4970 5325 2582 (mandato SEPA ref. BAR-0412, firmado el [[DATE|3 de marzo de 2021]]).
+
+Responsable de su cuenta: [[PER|Rocío Domínguez Vázquez]], Área Laboral (rdominguez@barrancoasociados.es, 959 247 118 ext. 22).
+
+[[PER|Andrés Barranco Limón]]
+Socio director
+[[ORG|Barranco y Asociados]]
+
+cc: [[PER|Rocío Domínguez Vázquez]]
+cc: [[PER|Cristóbal Picón Garrido]] (socio, [[ORG|Fresas y Berries Tierra Llana]])
+
+[[ORG|Asesoría Onubense de Empresas Barranco y Asociados, S.L.]] Inscrita en el Registro Mercantil de [[LOC|Huelva]], Tomo 1.107, Libro 0, Folio 45, Hoja H-19812. Colegiado en el Colegio Oficial de Graduados Sociales de [[LOC|Huelva]] nº 21/0288.

@@ -1,0 +1,30 @@
+#country: US
+#doctype: letter
+{{PER#1:full}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+{{MOBILE}} | {{EMAIL:PER#1}}
+
+{{DATE:long}}
+
+{{PER#2:full}}
+{{JOB}}
+{{ORG#1:legal@employer}}
+{{LOC#2:line}}
+
+Dear {{PER#2:given}},
+
+Please accept this letter as formal notice of my resignation from my position as Accounts Receivable Specialist at {{ORG#1:name}}. My last day of work will be {{DATE:long}}, two weeks from today.
+
+I have accepted a position with {{ORG#2:legal@finance}} in {{LOC#3:town}}, which will allow me to be closer to my family.
+
+Over the next two weeks I will finish the month-end close and hand over my open accounts to {{PER#3:full}}. I have also written up the process for the {{ORG#3:name@retail}} account, which {{PER#4:given}} asked about last month.
+
+Thank you for the support you and the team have given me over the past four years. I have learned a great deal, and I hope we stay in touch.
+
+Please send my final paycheck and W-2 to the address above.
+
+Sincerely,
+
+{{PER#1:signature}}
+{{PER#1:full}}

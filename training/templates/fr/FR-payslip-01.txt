@@ -1,0 +1,55 @@
+#country: FR
+#doctype: payslip
+# Bulletin de paie complet d'une PME, tableau aplati, long.
+BULLETIN DE PAIE
+Période du {{DATE:numeric}} au {{DATE:numeric}}
+Paiement le {{DATE:numeric}} par virement
+
+Employeur
+{{ORG#1:legal@employer}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+SIRET : {{COMPANYID}}  Code NAF : 4332A
+URSSAF : {{PUBLIC#1}}
+Convention collective : Bâtiment ouvriers (entreprises de plus de 10 salariés)
+
+Salarié
+{{PER#2:full}}
+{{LOC#2:street}}
+{{LOC#2:postcode_town}}
+Matricule : {{NUM}}
+N° de sécurité sociale : {{NATID}}
+Né(e) le : {{DATE:birth}}
+Emploi : {{JOB}}
+Niveau III position 2, coefficient 230
+Date d'entrée : {{DATE:numeric}}
+Ancienneté : 4 ans 7 mois
+
+Rubrique | Base | Taux | Montant salarial | Part patronale
+Salaire de base | 151,67 | {{AMOUNT}} | {{AMOUNT}} |
+Heures supplémentaires 25 % | {{NUM}} | {{AMOUNT}} | {{AMOUNT}} |
+Prime de panier | {{NUM}} | {{AMOUNT}} | {{AMOUNT}} |
+Indemnité de trajet zone 3 | {{NUM}} | {{AMOUNT}} | {{AMOUNT}} |
+SALAIRE BRUT | | | {{AMOUNT}} |
+Santé - Sécurité sociale maladie | {{AMOUNT}} | 7,00 | | {{AMOUNT}}
+Complémentaire santé {{ORG#2:name@insurance}} | {{AMOUNT}} | | {{AMOUNT}} | {{AMOUNT}}
+Prévoyance [[ORG|PRO BTP]] | {{AMOUNT}} | 1,32 | {{AMOUNT}} | {{AMOUNT}}
+Retraite sécurité sociale plafonnée | {{AMOUNT}} | 6,90 | {{AMOUNT}} | {{AMOUNT}}
+Retraite complémentaire T1 | {{AMOUNT}} | 4,01 | {{AMOUNT}} | {{AMOUNT}}
+Assurance chômage | {{AMOUNT}} | 4,00 | | {{AMOUNT}}
+CSG déductible | {{AMOUNT}} | 6,80 | {{AMOUNT}} |
+CSG/CRDS non déductible | {{AMOUNT}} | 2,90 | {{AMOUNT}} |
+Congés intempéries BTP | {{AMOUNT}} | | | {{AMOUNT}}
+TOTAL DES COTISATIONS | | | {{AMOUNT}} | {{AMOUNT}}
+
+NET À PAYER AVANT IMPÔT : {{AMOUNT}}
+Impôt sur le revenu prélevé à la source : taux personnalisé 3,2 %, montant {{AMOUNT}}
+NET PAYÉ : {{AMOUNT}}
+Net social : {{AMOUNT}}
+Cumul imposable annuel : {{AMOUNT}}
+
+Congés payés (gérés par la caisse [[ORG|CIBTP]]) : acquis N-1 : 30 j - pris : 12 j
+Virement sur le compte {{IBAN}}
+
+Dans votre intérêt et pour vous aider à faire valoir vos droits, conservez ce bulletin de paie sans limitation de durée.
+Établi par {{PER#3:initial_surname}}, {{DEPT}}, {{EMAIL:PER#3}}

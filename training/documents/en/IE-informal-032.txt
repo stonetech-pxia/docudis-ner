@@ -1,0 +1,24 @@
+From: [[PER|Ruairí Ó Flaithearta]] <ruairi@cladachdigital.ie>
+To: [[PER|Saoirse Kenny]] <saoirse@cladachdigital.ie>, [[PER|Tomasz Zielinski]] <tomasz@cladachdigital.ie>
+Date: Wed [[DATE|13 May 2026]] 11:26
+Subject: [[ORG|Corrib Outdoor]] site - where we're at
+
+Hey both,
+
+Quick one after the call with [[PER|Niall]] and [[PER|Bríd]] from [[ORG|Corrib Outdoor]] this morning.
+
+- they want the new shop live before the bank holiday, so realistically [[DATE|29 May]]. I told them that's tight but doable if they get us the product photos by Friday
+- [[PER|Bríd]] is doing the photos herself (!!) in the shop on [[LOC|Quay Street]]. [[PER|saoirse]] can you send her the spec again, she lost it
+- they changed payment provider, it's [[ORG|Stripe]] now not [[ORG|Elavon]], [[PER|tomasz]] that's you
+- delivery: they only ship within the Republic for now. Click & collect from the shop is [[LOC|22 Quay Street, Galway H91 WK2E]], and they want the warehouse address in [[LOC|Oranmore]] kept OFF the site
+
+Invoice for phase 1 (€4,800 + VAT) went out on [[DATE|2 May]], [[PER|Niall]] says it's with their accountant, [[PER|Hilary]] at [[ORG|Dervan & Keogh]], and should be paid end of month.
+
+I'm off Friday, [[PER|Saoirse]] you're point of contact. [[PER|Niall]]'s mobile is 087 336 1904 if anything's urgent.
+
+[[PER|R]]
+
+--
+[[ORG|Cladach Digital]]
+[[LOC|2nd Floor, 7 Merchants Road]]
+[[LOC|Galway H91 T8C3]]

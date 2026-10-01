@@ -1,0 +1,54 @@
+#country: CH
+#doctype: invoice
+# Devis d'un garage suisse, envoyé en pièce jointe, texte copié.
+{{ORG#1:legal@trades}}
+Carrosserie - Mécanique - Pneus
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+Tél. {{PHONE}} | {{URL:ORG#1}}
+N° IDE {{COMPANYID}} TVA
+
+{{LOC#2:town}}, le {{DATE:long}}
+
+{{TITLE#1}}
+{{PER#1:full}}
+{{LOC#2:street}}
+{{LOC#2:postcode_town}}
+
+DEVIS N° {{REF}}
+Véhicule : Škoda Octavia Combi, plaques {{PLATE}}
+Kilométrage : {{NUM}} km
+Réception du véhicule : {{DATE:short}}, par {{PER#2:full}}
+
+{{TITLE#1}},
+
+Suite à votre passage à l'atelier et au constat établi avec votre assurance [[ORG|La Mobilière]], nous avons le plaisir de vous soumettre notre offre pour la remise en état de votre véhicule.
+
+Pos. | Désignation | Quantité | Prix CHF
+1 | Pare-chocs arrière, pièce d'origine | 1 | {{AMOUNT}}
+2 | Capteur de stationnement arrière | 2 | {{AMOUNT}}
+3 | Peinture et vernis, 2 éléments | 1 | {{AMOUNT}}
+4 | Main-d'œuvre carrosserie (h) | {{NUM}} | {{AMOUNT}}
+5 | Contrôle géométrie | 1 | {{AMOUNT}}
+6 | Véhicule de remplacement (jours) | {{NUM}} | {{AMOUNT}}
+
+Total hors TVA : {{AMOUNT}}
+TVA 8,1 % : {{AMOUNT}}
+Total TTC : {{AMOUNT}}
+
+Délai de réalisation : environ cinq jours ouvrables après réception des pièces. Ce devis est valable jusqu'au {{DATE:numeric}}.
+La franchise de {{AMOUNT}} reste à votre charge conformément à votre police. Le solde sera facturé directement à l'assureur, à l'attention de {{PER#3:full}}, expert sinistres.
+
+Pour accepter ce devis, merci de le retourner signé à {{EMAIL:ORG#1}} ou de nous appeler.
+
+Avec nos meilleures salutations.
+
+{{PER#4:full}}
+{{JOB}}
+
+{{PER#2:initial_surname}}
+Chef d'atelier
+
+Bon pour accord, lieu et date : ........................  Signature : ........................
+
+Coordonnées bancaires : [[ORG|PostFinance]], IBAN {{IBAN}}

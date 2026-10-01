@@ -1,0 +1,11 @@
+[[ORG|ROSE CITY LINEN SUPPLY]] – ROUTE 7 MANIFEST – Thu [[DATE|09/18/2025]]
+Driver: [[PER|NGUYEN, Bao]]     Truck 14     Out 06:10
+
+STOP | CUSTOMER | ADDRESS | ATTN
+1 | [[ORG|Pho Hoa Mai 2]] | [[LOC|6804 NE Sandy Blvd, Portland, OR 97213]] | [[PER|Linh]]
+2 | [[ORG|Bellwether Barber Co.]] | [[LOC|2230 SE Hawthorne Blvd, Portland, OR 97214]] | [[PER|Marcus Tillery]]
+3 | [[ORG|Dr. Yoon's Family Dental]] | [[LOC|4125 N Mississippi Ave, Portland, OR 97217]] | [[PER|Sheryl]]
+4 | [[ORG|The Quarter Moon]] | [[LOC|915 SW 2nd Ave, Portland, OR 97204]] | back door
+
+Stop 3: call [[PER|Sheryl]] at (503) 555-0148 before 9am.
+Checked out by [[PER|R. Paskett]], Dispatch

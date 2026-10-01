@@ -1,0 +1,40 @@
+#country: ES
+#doctype: bank
+# Certificado de titularidad y oferta de hipoteca (FEIN resumida) de una caja rural
+{{ORG#1:legal@finance}}
+Oficina {{NUM}} — {{LOC#1:street}}
+{{LOC#1:postcode_town}}
+Tel. {{PHONE}}
+
+CERTIFICADO DE TITULARIDAD DE CUENTA
+
+{{PER#1:full}}, en calidad de {{JOB}} de la oficina {{NUM}} de {{ORG#1:name@finance}},
+
+CERTIFICA:
+
+Que la cuenta con IBAN {{IBAN}} y BIC {{BIC}} figura abierta en esta entidad desde el {{DATE:long}}, siendo sus titulares:
+
+- {{PER#2:surname_given}}, con NIF {{NATID}}, fecha de nacimiento {{DATE:birth}}
+- {{PER#3:surname_given}}, con NIE {{NATID}}, fecha de nacimiento {{DATE:birth}}
+
+Domicilio a efectos de notificaciones: {{LOC#2:line}}
+
+Y para que conste a petición de los interesados, a efectos de su presentación ante {{PUBLIC#2}}, se expide el presente en {{LOC#1:town}} a {{DATE:long}}.
+
+Fdo.: {{PER#1:initial_surname}}
+
+--------------------------------------------------------------
+
+FICHA EUROPEA DE INFORMACIÓN NORMALIZADA (extracto)
+Prestamista: {{ORG#1:legal@finance}}
+Intermediario: {{ORG#3:legal@property}}, {{LOC#3:line}}
+Solicitantes: {{PER#2:full}} y {{PER#3:full}}
+Inmueble: vivienda en {{LOC#4:street}}, {{LOC#4:postcode_town}}
+Tasadora: [[ORG|Tinsa Tasaciones Inmobiliarias, S.A.U.]], valor de tasación {{AMOUNT:big}}
+Importe del préstamo: {{AMOUNT:big}}
+Plazo: 30 años
+Tipo de interés: fijo 2,85 % TIN, TAE 3,41 %
+Cuota mensual: {{AMOUNT}}
+Vinculación: nómina domiciliada y seguro de hogar con [[ORG|RGA Seguros Generales Rural]]
+Validez de la oferta: hasta el {{DATE:long}}
+Gestor: {{PER#4:full}} · {{EMAIL:PER#4}}

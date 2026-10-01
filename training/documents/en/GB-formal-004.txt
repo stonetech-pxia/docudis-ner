@@ -1,0 +1,65 @@
+[[ORG|Aviva Insurance Limited]]
+Home Insurance Policy Schedule
+
+Policy number:          HH-44 918 2703
+Schedule issued:        [[DATE|22 July 2026]]
+Reason for issue:       Renewal
+Period of cover:        [[DATE|01/08/2026]] to [[DATE|31/07/2027]] (both dates inclusive)
+Arranged through:       [[ORG|Pennard & Loosemore Insurance Brokers Ltd]], [[LOC|14 Castle Street, Shrewsbury SY1 2BQ]]
+Broker contact:         [[PER|Ffion Loosemore]], Account Executive, 01743 360 918
+
+POLICYHOLDER(S)
+Name:                   Mr [[PER|Declan Aspinall-Rusu]]
+Joint policyholder:     Mrs [[PER|Ioana Aspinall-Rusu]]
+Date of birth:          [[DATE|09/11/1981]] / [[DATE|17/04/1984]]
+Correspondence address: [[LOC|The Old Forge]]
+                        [[LOC|Cressage]]
+                        [[LOC|Shrewsbury SY5 6AE]]
+
+INSURED PROPERTY
+Address:                as correspondence address
+Type:                   Detached house, 4 bedrooms, built c.1890
+Construction:           Brick and stone walls, slate roof (15% flat roof, felt)
+Listed building:        Grade II
+Flood area:             Within 200m of the [[LOC|River Severn]] - see endorsement E14
+Occupancy:              Owner occupied, not left unoccupied more than 60 consecutive days
+
+SECTION                              SUM INSURED        EXCESS
+Buildings                            £620,000           £350 (£1,000 escape of water)
+Contents                             £85,000            £250
+  of which high risk items limit     £28,000
+  single article limit               £3,000
+Personal possessions (away)          £6,000             £100
+Accidental damage - buildings        included           £350
+Accidental damage - contents         not included       -
+Legal expenses                       £100,000           nil
+Home emergency                       included           nil
+
+Specified items
+  Diamond solitaire ring                                £7,400
+  Omega Seamaster wristwatch                             £4,150
+  Bicycle, Canyon Endurace (frame no. WSBC614 023 88K)    £2,300
+
+ENDORSEMENTS
+E14  Flood excess. The excess for loss or damage caused by flood is increased to £2,500.
+E27  Unoccupancy. Cover for theft, malicious damage and escape of water ceases after 60 days unoccupied.
+E31  Listed building. Rebuild to be carried out with materials approved by [[LOC|Shropshire]] Council Conservation Team.
+
+PREMIUM
+Annual premium (incl. Insurance Premium Tax at 12%)    £1,284.62
+Payment method: Direct debit, 11 instalments of £116.78 from [[DATE|1 August 2026]]
+Account holder: [[PER|D. Aspinall-Rusu]]   Sort code 20-45-77   Account ending 0917
+
+NO CLAIMS
+Years without a claim: 6. Previous claim: storm damage to garage roof, settled [[DATE|3rd March 2020]].
+
+IMPORTANT
+Read this schedule together with your policy booklet (HOME-PB-0526). Tell us within 14 days if any detail is wrong or if you
+plan building work over £30,000. Failure to disclose may affect your cover.
+
+Claims helpline (24 hours): 0800 015 1498
+To make a complaint, contact [[ORG|Pennard & Loosemore]] or us first. If not resolved, you may refer it to the Financial
+Ombudsman Service, [[LOC|Exchange Tower, London E14 9SR]].
+
+[[ORG|Aviva Insurance Limited]]. Registered in [[LOC|Scotland]] No. 2116. Registered office: [[LOC|Pitheavlis, Perth PH2 0NH]]. Authorised by
+the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority.

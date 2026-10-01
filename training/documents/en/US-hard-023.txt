@@ -1,0 +1,33 @@
+[[ORG|DESERT PALMS AUT0 GLASS]]
+EMPL0YMENT APPLICATI0N          An Equa1 0pportunity Emp1oyer
+
+Last Name  [[PER|VILLASEÑ0R]]          First  [[PER|Aure1io]]          M.I.  J
+Socia1 Security No.  525-59-8522
+Present Address  [[LOC|4418 E. Ft. Lowe11 Rd]]
+City  [[LOC|Tucs0n]]          State  [[LOC|AZ]]          Zip  [[LOC|857l2]]
+Phone  (520) 555-O134          Emai1  aurelio.v @outlook.com
+Position applied for  Auto G1ass Insta11er
+Date you can start  [[DATE|1O/06/2025]]          Desired pay  $22/hr
+Are you 18 or o1der?  Y          Va1id driver's 1icense?  Y  AZ
+
+EMPL0YMENT HIST0RY (1ast emp1oyer first)
+1. Emp1oyer  [[ORG|Sonoran Windshie1d Pros]]
+   Address  [[LOC|3100 N Stone Ave, Tucson AZ 85705]]
+   Supervisor  [[PER|Rick De1ahunt]]          Dates  Mar 2021 - Aug 2025
+   Reason for 1eaving  shop c1osed
+2. Emp1oyer  [[ORG|Home Dep0t]] #0467, [[LOC|0racle Rd]]
+   Supervisor  [[PER|Tammy 0choa]]-
+   [[PER|Lindell]]          Dates  2018 - 2021
+   Reason for 1eaving  better pay
+
+EDUCATI0N
+High Schoo1  [[ORG|Amphitheater High Schoo1]]          Graduated  Y
+Co11ege / Trade  [[ORG|Pima Community Co11ege]] - Automotive Tech certificate
+
+REFERENCES (not re1atives)
+Fr. [[PER|Benedict Kowa1czyk]], [[ORG|St. Ambrose Parish]]   (520) 555-0199
+[[PER|Yolanda Pacheco-Ruiz]], neighbor, 8 yrs   (520) 555-0122
+
+I certify that the information on this app1ication is true and comp1ete.
+Signature  [[PER|A. Vi11aseñor]]          Date  [[DATE|9/l8/25]]
+0ffice use: interviewed by [[PER|Chuy]] on [[DATE|9/22]]

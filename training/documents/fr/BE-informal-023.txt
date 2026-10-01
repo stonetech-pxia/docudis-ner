@@ -1,0 +1,18 @@
+[[PER|Kevin Dumoulin]]
+t'as eu le garage ?
+
+[[PER|Amandine Leruth]]
+oui le gars de [[ORG|Garage Colignon]] à [[LOC|Jambes]]. c'est l'embrayage, 1 150 € 😭
+
+[[PER|Kevin Dumoulin]]
+ouille. demande un 2e devis chez [[PER|Toni]] à [[LOC|Salzinnes]], [[LOC|rue des Brasseurs 88]], il m'a fait le mien pour 800
+
+[[PER|Amandine Leruth]]
+il prend les rendez-vous par téléphone ?
+
+[[PER|Kevin Dumoulin]]
+0472 58 13 90, dis que tu viens de ma part. il est fermé le lundi
+sinon t'as besoin d'une voiture en attendant ? maman peut te prêter la Yaris jusqu'au [[DATE|20 mai]]
+
+[[PER|Amandine Leruth]]
+t'es un amour. je passe chez elle à [[LOC|Namur]] demain

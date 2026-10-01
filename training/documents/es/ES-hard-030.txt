@@ -1,0 +1,19 @@
+SERVIClO EXTREMEÑO DE SALUD
+Centro de Sa1ud [[LOC|Plasencia]] II - Consu1torio [[LOC|La Data]]
+
+INF0RME DE DERIVACION A ESPECIALIZADA
+
+Paciente: [[PER|MORCILLO GRANDE, AUREA]]
+CIP: EX O447128O3   F. nac.: [[DATE|28/O2/1952]]   Edad 74
+Domici1io: [[LOC|C/ Berrocal de la Vera, 8, 1° A, 1O6OO P1asencia]]
+Te1f.: 927 41 O5 82
+
+Médico remitente: Dr. [[PER|Jesús Trejo Bermejo]], nº co1eg. 1O/O44213
+Fecha: [[DATE|O3/O9/2O26]]
+
+Motivo: dolor mecánico de rodi11a derecha de 6 meses, limi-
+tación a la f1exión. Rx: gonartrosis grado III.
+Tratamiento actua1: paraceta-mol 1 g/8h, condroitina.
+Se deriva a Traumato1ogía de1 [[ORG|Hospita1 Virgen del Puerto]].
+Acompaña a la paciente su hija, [[PER|Mª Angeles Serradi11a]]
+(te1. 6O8 71 49 33).

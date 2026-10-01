@@ -1,0 +1,13 @@
+[[ORG|Laboratoire Valais-Analyses SA]]
+[[LOC|Avenue de la Gare 29, 1950 Sion]] · 027 329 14 80
+
+Patiente : [[PER|Zufferey-Bonvin Mathilde]]   Née le : [[DATE|17.08.1966]]
+Médecin : Dr [[PER|Stéphane Fournier-Rudaz]], [[LOC|Martigny]]
+Prélèvement : [[DATE|16.09.2026]] 08:05
+
+TSH           2,84    mU/L      (0,27 - 4,20)
+T4 libre     15,1     pmol/L    (12,0 - 22,0)
+HbA1c         6,1  *  %         (< 5,7)
+Vitamine D   48       nmol/L    (75 - 250) *
+
+Validé le [[DATE|16.09.2026]] par [[PER|C. Imhof]], biologiste FAMH

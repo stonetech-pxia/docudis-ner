@@ -1,0 +1,35 @@
+{
+  "name": "xlm-roberta-base-ner-docudis",
+  "source": "Fine-tune of Davlan/xlm-roberta-base-ner-hrl (AFL-3.0) on training/out/train.jsonl; see training/GUIDE.md and docs/ner-finetune-scope.md",
+  "model": "model_quantized.onnx",
+  "tokenizer": {
+    "kind": "sentencepiece",
+    "file": "tokenizer.json"
+  },
+  "labels": [
+    "O",
+    "B-DATE",
+    "I-DATE",
+    "B-PER",
+    "I-PER",
+    "B-ORG",
+    "I-ORG",
+    "B-LOC",
+    "I-LOC"
+  ],
+  "labelMap": {
+    "PER": "PERSON",
+    "ORG": "COMPANY",
+    "LOC": "ADDRESS",
+    "DATE": "DATE"
+  },
+  "maxTokens": 256,
+  "stride": 32,
+  "threshold": 0.5,
+  "padId": 1,
+  "inputs": {
+    "ids": "input_ids",
+    "mask": "attention_mask"
+  },
+  "output": "logits"
+}

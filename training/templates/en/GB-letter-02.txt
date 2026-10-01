@@ -1,0 +1,16 @@
+#country: GB
+#doctype: letter
+{{LOC#1:street}}
+{{LOC#1:town}}
+{{DATE:long}}
+
+Dear {{PER#1:given}} and {{PER#2:given}},
+
+Thank you both so much for coming down for Mum's 80th on {{DATE:day_month}}. She hasn't stopped talking about it. The cake from {{ORG#1:name@hospitality}} was a triumph, and {{PER#3:given}} is still finding confetti in the conservatory.
+
+{{PER#5:full}} rang from {{LOC#3:town}} the next day to apologise for missing it - the new hip is doing much better.
+
+I've put the photos on a memory stick and will post it to {{LOC#2:street}} this week - let me know if you've moved yet! If so, text me the new address on {{MOBILE}}.
+
+Love,
+{{PER#4:given}}

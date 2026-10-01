@@ -1,0 +1,17 @@
+#country: GB
+#doctype: support
+Live chat transcript - {{ORG#1:name@telecom}} Help
+Chat ID: {{REF}}  Started: {{DATE:numeric}} 19:02
+
+{{ORG#1:name}} Assistant: Hi! I'm the virtual assistant. What can I help with today?
+You: my broadband has been dropping every evening for a week
+{{ORG#1:name}} Assistant: I'll connect you to an adviser.
+{{PER#1:given}} (Adviser): Hi, you're through to {{PER#1:given}}. Can I take your full name and the first line of your address please?
+You: {{PER#2:full}}, {{LOC#1:street}}
+{{PER#1:given}} (Adviser): Thanks {{PER#2:given}}. And the postcode?
+You: {{LOC#1:postcode_town}}
+{{PER#1:given}} (Adviser): Perfect. I can see an open fault in your area, our engineers expect it to be fixed by {{DATE:day_month}}. I've added a credit of {{AMOUNT}} to your account {{ACCOUNT}}.
+You: ok thanks. my partner {{PER#3:full}} is also on the account, can they call if it's still down?
+{{PER#1:given}} (Adviser): Yes, {{PER#3:given}} is listed as an authorised user. Anything else?
+You: no that's all
+{{PER#1:given}} (Adviser): Thanks for chatting with {{ORG#1:name}}. Have a good evening!

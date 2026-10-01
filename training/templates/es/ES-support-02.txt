@@ -1,0 +1,20 @@
+#country: ES
+#doctype: support
+#live chat transcript with an online shop
+Transcripción del chat - {{ORG#1:legal@retail}}
+Fecha: {{DATE:short}}
+
+[18:02] Sistema: Te atiende {{PER#2:given}}.
+[18:02] {{PER#2:given}}: ¡Hola! ¿En qué puedo ayudarte?
+[18:03] {{PER#1:given}}: hola, hice un pedido el {{DATE:day_month}} y me ha llegado la talla equivocada
+[18:03] {{PER#2:given}}: Vaya, lo siento. ¿Me dices el número de pedido y el nombre del titular?
+[18:04] {{PER#1:given}}: {{REF}}, a nombre de {{PER#1:full}}
+[18:05] {{PER#2:given}}: Gracias, {{PER#1:given}}. Veo el pedido: zapatillas talla 42, entregado por {{ORG#2:name@transport}} en {{LOC#1:line}}. ¿Qué talla pediste?
+[18:05] {{PER#1:given}}: la 44, y además la caja venía abierta
+[18:06] {{PER#2:given}}: Te genero una devolución gratuita. Te llegará una etiqueta a {{EMAIL:PER#1}}. Puedes dejar el paquete en cualquier punto de recogida o en nuestra tienda de {{LOC#2:line}}.
+[18:07] {{PER#1:given}}: y el reembolso? pagué con la tarjeta acabada en {{CARD4}}
+[18:07] {{PER#2:given}}: Se abonará {{AMOUNT}} en esa tarjeta en 5-7 días hábiles desde que recibamos el paquete. Si prefieres el cambio por la 44, te la reservo ahora.
+[18:08] {{PER#1:given}}: mejor el cambio, gracias
+[18:08] {{PER#2:given}}: Hecho. Referencia del cambio: {{REF}}. ¿Algo más?
+[18:09] {{PER#1:given}}: no, gracias
+[18:09] Sistema: {{PER#2:given}} ha cerrado la conversación.

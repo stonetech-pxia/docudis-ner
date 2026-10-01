@@ -1,0 +1,40 @@
+DECLARACIÓN DE SINIESTRO – SEGURO DE HOGAR
+Compañía: [[ORG|Mapfre España]]     Nº póliza: 0962-HGR-4471830
+Mediador: [[ORG|Correduría Turia Seguros 3000 S.L.]] – código 21874
+
+DATOS DEL TOMADOR / ASEGURADO
+Nombre y apellidos: [[PER|Adrián Casterà Bolufer]]
+NIF: 27506519Z
+Domicilio del riesgo: [[LOC|C/ Pintor Vicent Nàcher, 31, pta. 14, 46023 Valencia]]
+Teléfono: 699 51 03 72     Email: acastera@ono.com
+
+DATOS DEL SINIESTRO
+Fecha de ocurrencia: [[DATE|28/08/2026]]    Hora aprox.: 03:40
+Fecha en que se conoció: [[DATE|28/08/2026]]
+Tipo: daños por agua (rotura de tubería de la vivienda superior)
+Descripción: Durante la madrugada se rompió el latiguillo de la lavadora del piso de arriba (pta. 17), propiedad de
+Dña. [[PER|Lucía Ferrandis]]. El agua ha dañado el techo de la cocina y del pasillo y el parqué del salón. Avisé a la
+vecina a las 7:00 y a la administración de fincas ([[ORG|Administraciones Alborada]], Sr. [[PER|Peiró]]).
+
+¿Ha intervenido algún profesional? Sí
+Empresa: [[ORG|Fontanería Hnos. Sanchis]]    Tel. 963 30 12 48    Factura nº 2026-0417, importe 186,34 €
+
+TERCEROS IMPLICADOS
+1. [[PER|Ferrandis Micó, Lucía]] – [[LOC|C/ Pintor Vicent Nàcher, 31, pta. 17, 46023 Valencia]]
+   Aseguradora: [[ORG|Allianz Seguros]]   póliza nº desconocida
+2. Comunidad de propietarios, administrada por [[ORG|Administraciones Alborada]]
+
+TESTIGOS
+[[PER|Nerea Soler]], pareja del asegurado, mismo domicilio.
+
+DAÑOS RECLAMADOS (estimación)
+- Pintura techos cocina y pasillo: 640,00 €
+- Sustitución parqué salón (22 m²): 1.980,00 €
+- Limpieza y secado: 210,00 €
+Total estimado: 2.830,00 €
+
+Cuenta para la indemnización: ES75 7701 9458 9789 3857 5196 (titular: [[PER|ADRIÁN CASTERÀ BOLUFER]])
+
+Declaro que los datos son ciertos.
+[[LOC|València]], [[DATE|29 d'agost de 2026]]
+Firma: [[PER|A. Casterà]]

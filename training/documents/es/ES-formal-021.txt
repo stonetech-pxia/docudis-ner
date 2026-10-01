@@ -1,0 +1,17 @@
+[[ORG|GESTIÓN DE FINCAS CHAMBERÍ ALONSO & RUBIO, S.L.]]
+[[LOC|C/ Fuencarral, 139, 4º dcha.]] · [[LOC|28010 Madrid]]
+
+RECIBO DE ARRENDAMIENTO
+Nº recibo: 2026-10-0561          Mes: octubre 2026
+Emitido: [[DATE|25/09/2026]]      Cargo en cuenta: [[DATE|01/10/2026]]
+
+Propietario:  [[PER|Mercedes Alonso de Linaje]]
+Inquilino:    [[PER|Nicolae Popescu]]
+Inmueble:     [[LOC|C/ Galileo, 58, 2º int. izda., 28015 Madrid]]
+
+Renta ........................... 1.050,00
+Comunidad ...........................  85,00
+Tasa de basuras (prorrata) ..........   9,40
+TOTAL ........................... 1.144,40 €
+
+Domiciliado en ES88 5918 1693 2883 3272 6550.

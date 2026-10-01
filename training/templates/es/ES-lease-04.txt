@@ -1,0 +1,36 @@
+#country: ES
+#doctype: lease
+#burofax from a tenant's lawyer about a commercial lease, formal
+BUROFAX
+
+REMITENTE:
+{{PER#1:full}}
+{{ORG#1:legal@legal}}
+{{LOC#1:street}}
+{{LOC#1:unit}}
+{{LOC#1:postcode_town}}
+
+DESTINATARIO:
+{{ORG#2:legal@property}}
+A la atención de {{TITLE#3}} {{PER#3:full}}, administrador único
+{{LOC#2:line}}
+
+En {{LOC#1:town}}, a {{DATE:long}}
+
+Muy señor mío:
+
+Me dirijo a usted en nombre y representación de mi cliente, {{ORG#3:legal@hospitality}}, con CIF {{COMPANYID}}, arrendataria del local comercial situado en {{LOC#3:line}}, en virtud del contrato suscrito con {{ORG#2:name@property}} el {{DATE:long}}.
+
+Como bien conoce, desde el pasado {{DATE:day_month}} el local sufre filtraciones de agua procedentes de la cubierta del edificio, que han obligado a cerrar la terraza interior y han causado daños en la cámara frigorífica valorados en {{AMOUNT:big}}, según el informe pericial de {{PER#4:full}}, perito de {{ORG#4:legal@insurance}}, que se acompaña.
+
+Pese a las comunicaciones remitidas por el gerente de mi cliente, {{PER#5:full}}, los días {{DATE:numeric}} y {{DATE:numeric}}, no consta que la propiedad haya iniciado reparación alguna.
+
+Por la presente le REQUIERO para que en el plazo de QUINCE DÍAS naturales proceda a la reparación de la cubierta, advirtiéndole de que, en caso contrario, mi cliente ejercerá las acciones que le correspondan ante {{PUBLIC#1}}, incluida la reducción proporcional de la renta de {{AMOUNT}} mensuales y la reclamación de los daños sufridos.
+
+Quedo a su disposición en el teléfono {{PHONE}} o en {{EMAIL:PER#1}} (referencia de expediente {{REF}}).
+
+Atentamente,
+
+{{PER#1:initial_surname}}
+{{JOB}}
+Colegiado n.º {{NUM}}

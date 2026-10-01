@@ -1,0 +1,30 @@
+[[ORG|HARLOW FOLD DISTRIBUTION LIMITED]]                                  PAYSLIP
+[[LOC|Avonmouth Way, Bristol BS11 8DD]]                         PAYE Ref: 961/HF40218
+
+Employee:   [[PER|TREMAYNE, Keziah]]              Emp No: 00731          Dept: Goods In
+NI Number:  YP 09 51 58 D                  Tax Code: 1257L        NI Cat: A
+Pay Date:   [[DATE|28/08/2026]]                   Period: M05          Pay Method: BACS
+Address:    [[LOC|Flat 3, 18 Filwood Broadway]]
+            [[LOC|Knowle West]]
+            [[LOC|Bristol BS4 1JN]]
+
+PAYMENTS                  Units     Rate       Amount     DEDUCTIONS              Amount
+Basic Pay                 162.50    12.85    2,088.13     PAYE Tax                 196.80
+Overtime x1.5              14.00    19.28      269.92     Employee NIC              96.42
+Night Premium              38.00     1.60       60.80     Pension (NEST) 5%        104.39
+Holiday Pay                 7.50    12.85       96.38     Student Loan Plan 2       22.00
+                                                          Canteen                   18.40
+
+Gross Pay            2,515.23     Total Deductions         438.01
+                                  NET PAY                2,077.22
+
+YEAR TO DATE      Taxable Pay 11,902.44   Tax 983.60   Employee NIC 471.15   Pension 519.88
+Employer NIC this period: 258.17   Employer pension: 62.63
+
+Paid to: [[ORG|Nationwide]]Sort code **-**-78   Acct ****1203
+
+Holiday entitlement remaining: 14.5 days (year ends [[DATE|31 March]])
+
+Messages:
+Site closed [[DATE|25/12/2026]] to [[DATE|28/12/2026]]. Queries about this payslip to [[PER|Graham Pettifer-Oduya]], Payroll,
+payroll@harlowfold.co.uk or ext. 2214. Your line manager for Goods In is [[PER|Rhiannon Blaskett]].

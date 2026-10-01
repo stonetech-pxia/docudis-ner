@@ -1,0 +1,74 @@
+#country: FR
+#doctype: lease
+CONTRAT DE LOCATION
+Logement nu à usage de résidence principale
+(Loi n° 89-462 du 6 juillet 1989)
+
+I. DÉSIGNATION DES PARTIES
+
+Le bailleur :
+{{TITLE#1}} {{PER#1:full}}
+Né(e) le {{DATE:birth}} à {{LOC#3:town}}
+Demeurant {{LOC#1:street}}
+{{LOC#1:postcode_town}}
+Téléphone : {{MOBILE}}
+Courriel : {{EMAIL:PER#1}}
+
+Représenté par son mandataire :
+{{ORG#1:legal@property}}
+{{LOC#2:street}}, {{LOC#2:postcode_town}}
+Carte professionnelle n° {{REF}} (autorité de délivrance : {{PUBLIC#2}})
+SIRET : {{COMPANYID}}
+
+Le locataire :
+{{TITLE#2}} {{PER#2:full}}, né(e) le {{DATE:birth}}
+{{TITLE#3}} {{PER#3:full}}, né(e) le {{DATE:birth}}
+ci-après dénommés « le locataire »
+
+II. OBJET DU CONTRAT
+
+Adresse du logement : {{LOC#4:street}}
+{{LOC#4:unit}}
+{{LOC#4:postcode_town}}
+Type d'habitat : immeuble collectif
+Surface habitable : {{NUM}} m²
+Nombre de pièces principales : {{NUM}}
+Annexes : cave n° {{NUM}}, place de stationnement n° {{NUM}}
+
+III. DATE DE PRISE D'EFFET ET DURÉE
+
+Date de prise d'effet : {{DATE:long}}
+Durée du contrat : trois ans, renouvelable tacitement.
+
+IV. CONDITIONS FINANCIÈRES
+
+Loyer mensuel hors charges : {{AMOUNT}}
+Provision sur charges : {{AMOUNT}}
+Total mensuel : {{AMOUNT}}
+Paiement le 5 de chaque mois par virement sur le compte :
+Titulaire : {{PER#1:full}}
+IBAN : {{IBAN}}
+BIC : {{BIC}}
+
+Dépôt de garantie : {{AMOUNT}}, versé à la signature.
+
+V. GARANTIES
+
+Caution solidaire : {{TITLE#4}} {{PER#4:full}}, demeurant {{LOC#3:line}}, qui se porte caution pour les obligations de {{PER#2:given}} {{PER#2:surname}} dans la limite de {{AMOUNT:big}}.
+
+VI. ASSURANCE
+
+Le locataire justifie d'une assurance habitation souscrite auprès de {{ORG#3:legal@insurance}}, contrat n° {{REF}}.
+
+Fait à {{LOC#4:town}}, le {{DATE:long}}, en trois exemplaires.
+
+Le bailleur (ou son mandataire)
+{{PER#5:full}}
+{{JOB}}, {{ORG#1:name}}
+
+Les locataires
+« Lu et approuvé »
+{{PER#2:signature}}        {{PER#3:signature}}
+
+La caution
+{{PER#4:initial_surname}}

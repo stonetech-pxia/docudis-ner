@@ -1,0 +1,21 @@
+#country: ES
+#doctype: medical
+#dermatology consultation report with referral, medium
+CONSULTA DE DERMATOLOGÍA
+Dra. {{PER#1:full}}
+{{ORG#1:legal@health}} - {{LOC#1:line}}
+
+Paciente: {{PER#2:full}} | F. nac.: {{DATE:birth}} | DNI: {{NATID}}
+Aseguradora: {{ORG#2:legal@insurance}} | Póliza: {{REF}}
+Remitida por: Dr. {{PER#3:initial_surname}} (Medicina General)
+Fecha de consulta: {{DATE:numeric}}
+
+Motivo: lesión pigmentada en espalda que ha cambiado de tamaño en los últimos meses. Su madre, {{PER#4:full}}, fue tratada de un melanoma en 2015.
+
+Exploración: lesión de 7 mm, bordes irregulares, dos tonalidades. Dermatoscopia sugestiva de lesión atípica.
+
+Juicio clínico: nevus displásico a descartar melanoma.
+
+Plan: extirpación con margen de 2 mm y estudio anatomopatológico. Se deriva a Cirugía Dermatológica, Dr. {{PER#5:full}}, en {{ORG#3:name@health}} ({{LOC#3:street}}, {{LOC#3:postcode_town}}), con cita el {{DATE:long}}. Resultados en consulta a las tres semanas.
+
+Firmado: {{PER#1:initial_surname}}

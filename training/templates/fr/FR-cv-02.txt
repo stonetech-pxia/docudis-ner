@@ -1,0 +1,24 @@
+#country: FR
+#doctype: cv
+Salut, tu peux m'aider à améliorer mon CV pour une alternance ? Voilà ce que j'ai pour l'instant :
+
+{{PER#1:given}} {{PER#1:surname}}
+19 ans – {{LOC#1:town}} ({{LOC#1:region}})
+{{EMAIL:PER#1}} / {{MOBILE}}
+
+Recherche : alternance BTS MCO à partir de septembre
+
+Formation
+- Bac pro Commerce, lycée professionnel de {{LOC#1:town}}, mention bien
+- Brevet des collèges
+
+Expériences
+- Été dernier : vendeur en saison chez {{ORG#1:name@retail}} au centre commercial de {{LOC#2:town}}, encaissement, mise en rayon
+- Stage de 6 semaines chez {{ORG#2:legal@retail}} (tuteur : {{PER#2:full}}) du {{DATE:numeric}} au {{DATE:numeric}}
+- Baby-sitting pour des voisins
+
+Qualités : ponctuel, souriant, travail en équipe
+Langues : anglais scolaire, espagnol notions
+Loisirs : foot en club ({{ORG#3:name}}), jeux vidéo
+
+J'ai mis {{PER#2:surname}} comme référence, c'est bien ou il vaut mieux mettre mon prof principal, {{TITLE#3}} {{PER#3:surname}} ?

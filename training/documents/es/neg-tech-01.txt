@@ -1,0 +1,35 @@
+Actualiza el firmware a la versión 7.21.4 antes de conectar la báscula. La 6.18.2 tenía un fallo con el bluetooth.
+
+El manual dice compilación 12.03.19, pero en pantalla me sale 12.03.21. ¿Cuál es la buena?
+
+Referencia del recambio: 4.55.08 (rueda trasera). La anterior, 4.55.06, ya no se fabrica.
+
+La app pide Android 9.0 o superior. El móvil tiene la 8.1 y no deja instalar.
+
+Resolución del sensor: 3.40.12 mm por paso. En el modelo antiguo era 3.40.09.
+
+He probado con la plantilla 2.14.7 y con la 2.15.0 y las dos dan el mismo error al exportar.
+
+Norma UNE 1.09.24 apartado tercero: el ensayo se repite si la desviación supera el dos por ciento.
+
+En la etiqueta del cargador pone 5.12.03 y en la caja 5.12.30. Uno de los dos está mal impreso.
+
+El cargo de administrador único quedó vacante tras la junta. Nadie quiso asumirlo.
+
+Los administradores solidarios pueden firmar por separado; los mancomunados, no.
+
+El apoderado general tiene firma reconocida, el apoderado solidario solo hasta cierto importe.
+
+Ceses y dimisiones se publican en la misma sección que los nombramientos.
+
+Jueves y viernes cerramos a las dos. Lunes, martes y miércoles hacemos jornada partida.
+
+El sorteo fue un jueves, pero el acta se firmó el lunes siguiente.
+
+Socio único no significa que la empresa sea pequeña; significa que solo hay una participación.
+
+El liquidador único responde ante los acreedores igual que el consejo.
+
+Adm. Unico: [[PER|QUEROL BASTIDA NURIA]]. El cargo consta en la escritura de la versión 3.02.11 del modelo.
+
+Liquidador Unico: [[PER|OLMEDO ZARRANZ IGNACIO]]. Jueves 5 de marzo se publicó el acuerdo.

@@ -1,0 +1,16 @@
+[[ORG|Cabinet médical de la Vieille Ville]]
+Dresse [[PER|Anne-Catherine Choffat]], médecine interne générale FMH
+[[LOC|Rue du 23-Juin 8, 2800 Delémont]] · 032 422 71 35
+
+ORDONNANCE                                  [[LOC|Delémont]], [[DATE|17.09.2026]]
+
+Pour : [[PER|Kilian Theurillat]], [[DATE|09.12.2011]]
+[[LOC|Rue de la Préfecture 4, 2800 Delémont]]
+
+Ventolin Evohaler 100 µg : 2 bouffées si gêne respiratoire, et 15 min avant le sport
+Fluticasone 125 µg : 1 bouffée matin et soir, 3 mois
+Chambre d'inhalation AeroChamber : 1
+
+À renouveler 2 fois.
+
+[[PER|A.-C. Choffat]]

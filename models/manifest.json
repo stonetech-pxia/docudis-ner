@@ -1,0 +1,30 @@
+{
+  "_comment": "Where tool/fetch_models.py gets the model binaries. Each file is pinned to a Hugging Face revision and checked against its SHA-256. `files` maps the name in assets/models/<folder>/ to the path in the HF repo.",
+  "models": {
+    "xlmr_ner_docudis": {
+      "repo": "leonx1995/docudis-ner-xlmr",
+      "revision": "643983cab826b79c9a36af43ce3f6e22a0846f3f",
+      "private": true,
+      "files": {
+        "model_quantized.onnx": { "path": "model_quantized.onnx", "sha256": "eab0d6ee49fa25cf4f4d2f3f642eb58d5dc528f50051b90a07ec6e8c6f63fb36" },
+        "tokenizer.json": { "path": "tokenizer.json", "sha256": "f7c244bbeaacbe18b50a3a69f1ebf23bd4d83a91d7f6dd1df775af2c6423dba4" }
+      }
+    },
+    "xlmr_ner_hrl": {
+      "repo": "tjruesch/xlm-roberta-base-ner-hrl-onnx",
+      "revision": "c460d3b8fedc898fed4e6f4b879cb67ad4fb04f9",
+      "files": {
+        "model_quantized.onnx": { "path": "onnx/model_quantized.onnx", "sha256": "fa6ce51b0f642ca452372e916902124fdf3bdc48957010241fccaefb9ca5f64f" },
+        "tokenizer.json": { "path": "tokenizer.json", "sha256": "69564b696052886ed0ac63fa393e928384e0f8caada38c1f4864a9bfbf379c15" }
+      }
+    },
+    "distilbert_ner_hrl": {
+      "repo": "Xenova/distilbert-base-multilingual-cased-ner-hrl",
+      "revision": "c2a4dbf593c57f47004c5bc2d3770d311aee9c43",
+      "files": {
+        "model_int8.onnx": { "path": "onnx/model_int8.onnx", "sha256": "92977e4b2335a2ee2fb95225e32fd0743a608091856b245c27d9001772023b06" },
+        "tokenizer.json": { "path": "tokenizer.json", "sha256": "bf1b59b7b11c95f194f51708d918eea378e09d05f84c0e1656dc5180e8117088" }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Docudis NER
+Copyright 2026 the Docudis contributors
+
+This product includes software derived from DocCloak.Core.
+DocCloak.Core
+Copyright 2026 Witold Lojek
+
+The DocCloak.Core attribution and license are preserved in
+NOTICE-DocCloak.Core and LICENSE-DocCloak.Core.
+
+The NER models referenced in models/ are not part of this repository and keep
+their own licenses (Academic Free License 3.0, see models/README.md).

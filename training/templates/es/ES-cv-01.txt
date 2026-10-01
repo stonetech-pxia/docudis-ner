@@ -1,0 +1,47 @@
+#country: ES
+#doctype: cv
+#classic long CV, administrative profile, references at the end
+CURRICULUM VITAE
+
+DATOS PERSONALES
+Nombre y apellidos: {{PER#1:full}}
+Fecha de nacimiento: {{DATE:birth}}
+Lugar de nacimiento: {{LOC#2:town}} ({{LOC#2:region}})
+DNI: {{NATID}}
+Dirección: {{LOC#1:street}}, {{LOC#1:unit}}
+{{LOC#1:postcode_town}}
+Teléfono: {{MOBILE}}
+Correo: {{EMAIL:PER#1}}
+Carné de conducir B, vehículo propio
+
+PERFIL
+Técnica administrativa con más de diez años de experiencia en contabilidad, facturación y atención a proveedores. Acostumbrada a trabajar con SAP y A3, organizada y resolutiva.
+
+EXPERIENCIA PROFESIONAL
+
+2017 - actualidad
+{{ORG#1:legal@retail}} - {{LOC#3:town}}
+Administrativa contable
+- Gestión de cobros y pagos, conciliaciones bancarias con [[ORG|Banco Santander]] y [[ORG|BBVA]].
+- Preparación de la documentación para la gestoría {{ORG#2:name@legal}} y para {{PUBLIC#3}}.
+- Coordinación de un equipo de tres personas.
+
+2012 - 2017
+{{ORG#3:legal@trades}} - {{LOC#2:town}}
+Auxiliar administrativa
+- Facturación a clientes y control de albaranes.
+- Atención telefónica y recepción.
+
+FORMACIÓN
+2010 - 2012  Técnico Superior en Administración y Finanzas, {{ORG#4:name@school}}
+2014         Curso de Contabilidad Avanzada (120 h), {{PUBLIC#1}}
+
+IDIOMAS
+Español: nativo. Inglés: B2 (First Certificate). Valenciano: nivel medio.
+
+INFORMÁTICA
+Paquete Office (Excel avanzado), SAP FI, A3con, Contaplus.
+
+REFERENCIAS
+{{PER#2:full}}, {{JOB}}, {{ORG#1:name@retail}} - {{PHONE}}
+{{PER#3:full}}, antigua responsable en {{ORG#3:name@trades}} - {{EMAIL:PER#3}}

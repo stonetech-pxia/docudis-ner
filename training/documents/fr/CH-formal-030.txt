@@ -1,0 +1,51 @@
+[[ORG|Horlogerie Brassard-Lüthi SA]]
+Ressources humaines
+[[LOC|Route des Acacias 54]]
+[[LOC|1227 Carouge]]
+IDE CHE-409.516.737
+
+DÉCOMPTE DE SALAIRE                               Septembre 2026
+Confidentiel
+
+Collaboratrice      [[PER|Amandine Perrenoud-Oyelaran]]
+Adresse             [[LOC|Avenue Wendt 31]]
+                    [[LOC|1203 Genève]]
+N° AVS              756.4829.1037.53
+N° personnel        4417
+Date de naissance   [[DATE|02.06.1990]]
+Entrée              [[DATE|01.02.2018]]
+Fonction            Horlogère rhabilleuse, atelier SAV
+Taux d'activité     80 %
+État civil          mariée, 1 enfant
+Impôt à la source   non (permis C)
+
+                                               Base          Taux       Montant CHF
+Salaire mensuel                                                          6'240.00
+13e salaire (1/12 provisionné, versé en décembre)                             -
+Allocation familiale (1 enfant, [[LOC|Genève]])                                      311.00
+Indemnité repas                                                            180.00
+Salaire brut                                                             6'731.00
+
+AVS/AI/APG                                 6'240.00       5,30 %          -330.70
+Assurance chômage (AC)                     6'240.00       1,10 %           -68.65
+Assurance maternité [[LOC|Genève]]                6'240.00       0,046 %           -2.85
+LPP caisse de pension                                                     -412.30
+AANP accidents non professionnels          6'240.00       1,24 %           -77.40
+Perte de gain maladie                      6'240.00       0,75 %           -46.80
+Total des déductions                                                      -938.70
+
+Salaire net                                                              5'792.30
+Remboursement frais formation ([[DATE|12.09.2026]])                          245.00
+Montant versé                                                     CHF    6'037.30
+
+Versement le [[DATE|25.09.2026]] sur le compte auprès de [[ORG|PostFinance]]
+
+Caisse de pension : [[ORG|Fondation de prévoyance Brassard-Lüthi]]
+Assureur LAA : [[ORG|Suva]], agence de [[LOC|Genève]]
+Perte de gain : [[ORG|Helvetia Assurances]]
+Caisse de compensation AVS : FER CIAM 106.1, [[LOC|Genève]]
+
+Vacances : solde au [[DATE|30.09.2026]] : 11,5 jours
+Heures supplémentaires : +6,25 h (à récupérer d'ici le [[DATE|31.12.2026]])
+
+Questions : [[PER|Nicolas Brassard]], responsable RH, +41 22 342 17 60

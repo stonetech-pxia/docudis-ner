@@ -1,0 +1,46 @@
+#country: GB
+#doctype: invoice
+# Dental practice invoice forwarded by e-mail, with the practice manager's cover note and the patient's question quoted
+From: {{PER#1:full}} <{{EMAIL:ORG#1}}>
+To: {{PER#2:full}} <{{EMAIL:PER#2}}>
+Date: {{DATE:long}}
+Subject: RE: Invoice {{REF}} - query about the hygienist charge
+
+Dear {{TITLE#2}} {{PER#2:surname}},
+
+Thank you for getting in touch. I have checked your treatment notes with {{PER#3:full}}. The hygienist appointment on {{DATE:day_month}} was booked as a private appointment because your NHS course of treatment with {{PER#4:full}} had already closed on {{DATE:short}}. That is why it appears separately on the invoice below.
+
+If you would rather settle it in two instalments, just reply to this e-mail and I will set that up. You can also pay by card over the phone on {{PHONE}}.
+
+Kind regards,
+
+{{PER#1:full}}
+{{JOB}}
+{{ORG#1:legal@health}}
+{{LOC#1:line}}
+
+----- Original message -----
+From: {{PER#2:full}} <{{EMAIL:PER#2}}>
+Sent: {{DATE:numeric}}
+To: reception at {{ORG#1:name}}
+Subject: Invoice {{REF}} - query about the hygienist charge
+
+Hi, I've just received the attached invoice and I don't understand why the scale and polish is charged at the private rate. I thought everything was covered under band 2. Could someone explain? Thanks, {{PER#2:given}}
+
+----- Invoice -----
+{{ORG#1:name}}
+Patient: {{PER#2:full}}
+Date of birth: {{DATE:birth}}
+Address: {{LOC#2:line}}
+Patient no.: {{NUM}}
+
+Date            Treatment                              Clinician               Fee
+{{DATE:short}}  NHS Band 2 course (fillings x2)        {{PER#4:initial_surname}}      {{AMOUNT}}
+{{DATE:short}}  Hygienist scale and polish (private)   {{PER#3:initial_surname}}      {{AMOUNT}}
+{{DATE:short}}  Intraoral X-ray x2                     {{PER#4:initial_surname}}      included
+
+Total charges: {{AMOUNT}}
+Paid on the day: {{AMOUNT}}
+Balance outstanding: {{AMOUNT}}
+
+Payment by bank transfer: sort code {{SORTCODE}}, account {{ACCOUNT}}, reference {{REF}}.

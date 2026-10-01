@@ -1,0 +1,58 @@
+[[ORG|Kestrelmoor Plumbing & Heating Ltd]]
+[[LOC|Unit 9, Tannery Court, Kirkstall Road]]
+[[LOC|Leeds LS4 2QP]]
+Tel: 0113 496 0721   Mob: 07700 914 386
+accounts@kestrelmoorph.co.uk   www.kestrelmoorph.co.uk
+VAT Reg No: GB 318 4472 09
+
+                                                    INVOICE
+
+Invoice No:     KPH-24817
+Invoice Date:   [[DATE|14/08/2026]]
+Due Date:       [[DATE|13/09/2026]]
+Job Ref:        J-5530
+Customer No:    C0914
+
+Bill to:
+Mrs [[PER|Parveen Choudhry-Lowe]]
+[[LOC|42 Headingley Mount]]
+[[LOC|Leeds LS6 3EL]]
+
+Site address: as above
+Attended: [[DATE|11 August 2026]] and [[DATE|12 August 2026]]
+Engineer: [[PER|Dale Offiong]] (Gas Safe ID 604419)
+
+Description                                           Qty   Unit        Net
+Remove existing back boiler and fire front              1   450.00    450.00
+Supply Worcester Bosch Greenstar 30i combi              1  1,385.00  1,385.00
+Magnetic system filter 22mm                             1    96.50     96.50
+Powerflush, 9 radiators                                 1   380.00    380.00
+Flue kit + condensate pipework                          1   142.00    142.00
+Labour (2 engineers x 2 days)                          32    48.00  1,536.00
+Building Control notification fee                       1    35.00     35.00
+
+                                               Subtotal       £4,024.50
+                                               VAT @ 20%        £804.90
+                                               TOTAL DUE      £4,829.40
+
+Deposit received [[DATE|28/07/2026]]:                           -£1,000.00
+BALANCE OUTSTANDING                                            £3,829.40
+
+Payment by BACS to:
+Account name: [[ORG|Kestrelmoor Plumbing & Heating Ltd]]
+Sort code: 92-27-78   Account no: 26153056
+IBAN: GB29 NWBK 9227 7826 1530 56
+Please quote KPH-24817 as the payment reference.
+
+Your boiler is registered with the manufacturer for a 10-year guarantee, subject to an annual service. [[PER|Dale]] will
+contact you before [[DATE|12 August 2027]] to book the first one. Any queries about this invoice, ring [[PER|Sian]] in the office
+on 0113 496 0721 (Mon to Fri, 8.30 to 4.30).
+
+Thank you for your custom.
+
+[[PER|Sian Mulgrew-Adeyemi]]
+Office Manager
+
+[[ORG|Kestrelmoor Plumbing & Heating Ltd]]. Registered in [[LOC|England]] and [[LOC|Wales]] No. 11820467.
+Registered office: [[LOC|3 Bayton Lane, Yeadon, Leeds LS19 7TT]]. Late payments may incur interest under the Late Payment of
+Commercial Debts (Interest) Act 1998.

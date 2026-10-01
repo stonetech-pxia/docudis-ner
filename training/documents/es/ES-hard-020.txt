@@ -1,0 +1,42 @@
+FORMULARIO DE ALTA DE PROVEEDOR / ACREEDOR
+Cliente: [[ORG|Hotel Miramar Cambrils Platja S.A.]] – Departamento de Compras
+Rellenar en mayúsculas y devolver a compras@miramarcambrils.cat
+
+1. DATOS FISCALES
+Razón social: [[ORG|CARNS I EMBOTITS FONTCUBERTA-RIBÓ, S.L.]]
+Nombre comercial: [[ORG|FONTCUBERTA 1952]]
+NIF: B43577209
+Domicilio fiscal: [[LOC|CTRA. DE MONTBLANC, KM 3,2, NAU 4]]
+                  [[LOC|43206 REUS]] ([[LOC|TARRAGONA]])
+Domicilio de entrega de facturas (si es distinto): [[LOC|APARTAT DE CORREUS 118, 43200 REUS]]
+Epígrafe IAE: 419.1    Régimen IVA: general
+
+2. PERSONAS DE CONTACTO
+Comercial:      [[PER|RIBÓ SALVADÓ, JORDI]] – 619 204 887 – jribo@fontcuberta1952.cat
+Administración: [[PER|NÚRIA FONTCUBERTA]]
+                Responsable de administración y facturación
+                977 31 44 06 – administracio@fontcuberta1952.cat
+Pedidos urgentes (fines de semana): [[PER|Hamid]] (repartidor), 632 518 070
+
+3. DATOS BANCARIOS
+Entidad: [[ORG|CaixaBank]]
+IBAN: ES07 8232 9230 0141 9362 6413
+Titular: [[ORG|Carns i Embotits Fontcuberta-Ribó S.L.]]
+Se adjunta certificado de titularidad bancaria de fecha [[DATE|10/09/2026]].
+
+4. CONDICIONES
+Forma de pago: transferencia a 60 días fecha factura, días de pago 10 y 25.
+Pedido mínimo: 150 €. Portes pagados.
+
+5. DECLARACIÓN
+D./Dña. [[PER|Jordi Ribó Salvadó]], con DNI 66940062B, en calidad de administrador solidario de la empresa arriba
+indicada, declara que los datos anteriores son ciertos y se compromete a comunicar cualquier cambio.
+
+Lugar y fecha: [[LOC|Reus]], [[DATE|11 de setembre de 2026]]
+Firma y sello: [[PER|J. Ribó]]
+
+A RELLENAR POR EL HOTEL
+Código de proveedor: P-004471    Alta realizada por: [[PER|Montserrat Pujals]] (Compras)
+Validado por: [[PER|PUJOL VENTURA, Enric]], Director Financiero    Fecha: [[DATE|15.09.2026]]
+Centro de coste: F&B / cocina central
+Observaciones: sustituye a [[ORG|Embotits Vall del Siurana]] a partir del [[DATE|1 de octubre]].

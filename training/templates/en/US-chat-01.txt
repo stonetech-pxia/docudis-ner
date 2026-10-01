@@ -1,0 +1,9 @@
+#country: US
+#doctype: chat
+{{PER#1:given}}: hey are you still ok to pick up the kids from {{ORG#1:name@school}} on thursday? I have a dentist appt at 3:30
+{{PER#2:given}}: yes! {{PER#3:given}} has soccer till 4:15 though so I'll grab {{PER#4:given}} first then swing by the field
+{{PER#1:given}}: you're a lifesaver. I added you to the pickup list, the front office just needs your ID. their number is {{PHONE}} if anything comes up
+{{PER#2:given}}: perfect. Want me to drop them at your place or {{PER#5:given}}'s?
+{{PER#1:given}}: mine, {{LOC#1:street}}. code for the side gate is 4471
+{{PER#2:given}}: 👍 also the fundraiser money, I venmo'd {{AMOUNT}} to {{PER#6:full}} for the bake sale, is that right?
+{{PER#1:given}}: yep that's the treasurer, they said it's due {{DATE:day_month}}

@@ -1,0 +1,59 @@
+[[ORG|MACIF]]
+Assurance automobile - CONDITIONS PARTICULIÈRES
+Avenant n° 3 - édité le [[DATE|02/09/2026]]
+
+Votre interlocuteur : Point d'accueil de [[LOC|Caen]]
+[[LOC|6 avenue de la Côte de Nacre, 14000 Caen]]
+Tél. 09 69 39 49 49 (appel non surtaxé)
+
+SOUSCRIPTEUR
+Nom, prénom          : [[PER|LEROUVILLOIS Gaëtan]]
+Adresse              : [[LOC|11 rue des Chanoines]]
+                       [[LOC|14000 Caen]]
+Date de naissance    : [[DATE|19/12/1977]]
+Profession           : infirmier
+Sociétaire n°        : 1 873 406 52 D
+Contrat n°           : 21 654 008 7 A 012
+
+CONDUCTEURS DÉSIGNÉS
+Principal      : [[PER|Gaëtan Lerouvillois]]   permis B obtenu le [[DATE|03/07/1996]]   bonus 0,50 depuis 13 ans
+Secondaire     : [[PER|Priscilla Lerouvillois-Adjanohoun]]   née le [[DATE|27/08/1980]]   permis B obtenu le [[DATE|14/05/1999]]
+Occasionnel    : [[PER|Noé Lerouvillois]]   né le [[DATE|05/03/2007]]   permis B obtenu le [[DATE|21/06/2025]] (jeune conducteur, surprime 50 %)
+
+VÉHICULE ASSURÉ
+Marque / modèle      : Peugeot 2008 1.2 PureTech 130 EAT8 Allure
+Immatriculation      : GK-418-TR
+1re mise en circulation : [[DATE|28/02/2022]]
+Usage                : vie privée et trajet travail
+Stationnement de nuit : garage clos, [[LOC|11 rue des Chanoines, 14000 Caen]]
+Kilométrage annuel déclaré : 12 000 km
+Crédit / location    : LOA [[ORG|Stellantis Financial Services]], fin prévue le [[DATE|31/03/2027]]
+
+FORMULE : Intégrale
+Garanties                                     Franchise              Plafond
+Responsabilité civile                         néant                  illimité (corporels)
+Défense pénale et recours                     néant                  20 000 €
+Dommages tous accidents                       350 € (+ 600 € JC)     valeur à dire d'expert
+Vol - incendie - forces de la nature          350 €                  valeur à dire d'expert
+Bris de glace                                 60 € (0 € réparation)  frais réels
+Assistance 0 km                               néant                  -
+Garantie du conducteur                        seuil 10 % IPP         400 000 €
+Véhicule de remplacement                      -                      8 jours
+
+COTISATION ANNUELLE TTC
+Période du [[DATE|1er octobre 2026]] au [[DATE|30 septembre 2027]]
+Prime nette                                              768,42 €
+Taxes et contributions                                   254,91 €
+dont contribution FGAO                                     8,10 €
+Total                                                  1 023,33 €
+Prélèvement mensuel (10 échéances de 102,33 €) le 8 de chaque mois
+Compte débité : FR76 2485 1856 9694 5502 3846 915
+
+Motif de l'avenant : ajout d'un conducteur occasionnel ([[PER|Noé]]) à compter du [[DATE|5 septembre 2026]].
+
+Déclaration du souscripteur : le souscripteur certifie l'exactitude des déclarations ci-dessus. Toute fausse déclaration intentionnelle entraîne la nullité du contrat (art. L113-8 du Code des assurances).
+
+Fait à [[LOC|Niort]], le [[DATE|2 septembre 2026]]
+Pour la [[ORG|MACIF]], le directeur général
+
+[[ORG|MACIF]] - [[ORG|Mutuelle Assurance des Commerçants et Industriels de France et des Cadres et Salariés de l'Industrie et du Commerce]] - société d'assurance mutuelle à cotisations variables - [[LOC|1 rue Jacques Vandier, 79000 Niort]] - entreprise régie par le Code des assurances. Autorité de contrôle : ACPR, [[LOC|4 place de Budapest, CS 92459, 75436 Paris cedex 09]].

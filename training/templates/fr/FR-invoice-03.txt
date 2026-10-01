@@ -1,0 +1,20 @@
+#country: FR
+#doctype: invoice
+# Note d'honoraires d'un cabinet dentaire, courte.
+{{ORG#1:name@health}}
+Dr {{PER#1:full}} - Dr {{PER#2:initial_surname}}
+Chirurgiens-dentistes
+{{LOC#1:line}} - {{PHONE}}
+
+Note d'honoraires du {{DATE:numeric}}
+Patient : {{PER#3:full}}, né(e) le {{DATE:birth}}
+N° de sécurité sociale : {{NATID}}
+Mutuelle : {{ORG#2:name@insurance}}
+
+{{DATE:short}} - HBMD043 Couronne céramo-métallique dent 36 - {{AMOUNT}} (base remb. {{AMOUNT}})
+{{DATE:short}} - HBQK002 Radio rétro-alvéolaire - {{AMOUNT}}
+Dépassement d'honoraires : {{AMOUNT}}
+Total réglé par carte bancaire (**** {{CARD4}}) : {{AMOUNT}}
+
+Acquittée. Pour la clinique, {{PER#4:signature}}
+{{JOB}}

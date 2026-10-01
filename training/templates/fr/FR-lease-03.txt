@@ -1,0 +1,23 @@
+#country: FR
+#doctype: lease
+QUITTANCE DE LOYER N° {{REF}}
+
+Bailleur : {{PER#1:full}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+
+Locataire : {{TITLE#2}} {{PER#2:full}}
+Logement : {{LOC#2:street}}, {{LOC#2:postcode_town}}
+
+Je soussigné(e) {{PER#1:full}}, propriétaire du logement désigné ci-dessus, déclare avoir reçu de {{TITLE#2}} {{PER#2:surname}} la somme de {{AMOUNT}} au titre du paiement du loyer et des charges pour la période du {{DATE:numeric}} au {{DATE:numeric}}, et lui en donne quittance, sous réserve de tous mes droits.
+
+Détail du règlement :
+Loyer : {{AMOUNT}}
+Charges : {{AMOUNT}}
+Aide au logement versée directement ({{PUBLIC#2}}) : {{AMOUNT}}
+Reste réglé par le locataire : {{AMOUNT}}
+
+Date du paiement : {{DATE:short}}
+
+Fait à {{LOC#1:town}}, le {{DATE:numeric}}
+{{PER#1:signature}}

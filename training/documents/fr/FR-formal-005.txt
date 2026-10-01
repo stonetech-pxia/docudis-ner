@@ -1,0 +1,18 @@
+Docteur [[PER|Gwenaëlle Morvan-Achard]]
+Médecin généraliste
+[[LOC|3 place Viarme]] - [[LOC|44000 Nantes]]
+Tél. 02 40 47 15 88
+Conventionnée secteur 1 - carte Vitale acceptée
+
+[[LOC|Nantes]], le [[DATE|16/09/2026]]
+
+M. [[PER|TRAN-MERCIER Anh]]
+Né le [[DATE|04/11/1972]] - 53 ans - 81 kg
+
+Amoxicilline 1 g : 1 cp matin et soir pendant 7 jours
+Paracétamol 1 g : 1 cp si douleur, max 3 par jour, espacer de 6 h
+Bain de bouche chlorhexidine 0,12 % : 2 fois par jour, 5 jours
+
+Contrôle chez le dentiste, Dr [[PER|Loïc Brénéol]], dès que possible.
+
+[[PER|G. Morvan-Achard]]

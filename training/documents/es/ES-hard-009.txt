@@ -1,0 +1,26 @@
+[[ORG|TALLERES MECANICOS CHAN-VILARIÑO S.L]]
+[[LOC|Rúa da Estrada Ve11a, 88, 36214 Vigo]] ([[LOC|Pontevedra]])
+CIF B36O41882  Tlf 986 2O 44 71
+ta11eres.chanvi1ariño @ te1efonica.net
+
+FACTURA N° F-26/O1193       Fecha: [[DATE|O2/O9/2O26]]
+
+C1iente: [[PER|FERNANDEZ LOUREIRO, BREIXO]]
+NIF: 91588557G
+Dirección: [[LOC|Trav. de Ba1aídos Alto, 5, 3°B]]
+[[LOC|36210 VIGO]]
+Vehícu1o: Seat Leon 2156-HJT   Km: 148.3O2
+
+Concepto                                   Imp.
+Sustituc. embrague comp1eto (kit          412,5O
+Va1eo) + vo1ante bimasa
+Mano de obra 6,5 h x 42,OO                 273,OO
+Liquido de frenos DOT4                      18,9O
+                          BASE             7O4,4O
+                          IVA 21%          147,92
+                          T0TAL            852,32
+
+Forma de pago: tarjeta ****3176
+Rea1izado por: [[PER|Manue1 Chan]] / revisado: [[PER|X. Vi1ariño]]
+Garantia 12 meses o 2O.OOO km desde [[DATE|O2/O9/2O26]].
+Gracias por su confianza

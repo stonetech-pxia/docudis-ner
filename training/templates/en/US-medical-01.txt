@@ -1,0 +1,35 @@
+#country: US
+#doctype: medical
+{{ORG#1:legal@health}}
+{{LOC#1:line}}
+Phone {{PHONE}}  Fax {{PHONE}}
+
+AFTER VISIT SUMMARY
+
+{{PER#1:full}}   DOB: {{DATE:numeric}}   MRN: {{REF}}
+Visit date: {{DATE:long}}
+Provider: {{PER#2:full}}, MD - Pediatrics
+Guardian present: {{PER#3:full}} (mother)
+
+Reason for visit: 4-year well child check, ear pain x 3 days
+
+Diagnoses:
+- Acute otitis media, right ear
+- Well child exam
+
+Medications prescribed:
+- Amoxicillin 400 mg/5 mL, 7.5 mL by mouth twice daily for 10 days
+  Sent to pharmacy: {{ORG#2:name@retail}}, {{LOC#2:line}}
+
+Immunizations given today: DTaP, IPV, MMR, Varicella
+
+Vitals: Height 104 cm, Weight 17.2 kg, Temp 100.4 F
+
+Instructions:
+Give the full course of antibiotics even if {{PER#1:given}} feels better. Ibuprofen as needed for pain. Call us if fever lasts more than 48 hours.
+
+Next appointment: {{DATE:long}} at 9:15 AM with {{PER#4:full}}, PA-C
+
+Insurance: [[ORG|Blue Cross Blue Shield]]   Member ID: {{NUM}}   Copay collected: {{AMOUNT}}
+
+Questions? Message our nurse line through the patient portal or call {{PHONE}}.

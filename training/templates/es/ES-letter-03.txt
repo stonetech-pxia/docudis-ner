@@ -1,0 +1,36 @@
+#country: ES
+#doctype: letter
+#voluntary resignation letter to employer
+{{PER#1:full}}
+{{LOC#1:line}}
+DNI: {{NATID}}
+
+{{ORG#1:legal@employer}}
+{{DEPT}}
+A/A {{TITLE#2}} {{PER#2:full}}
+{{LOC#2:street}}
+{{LOC#2:postcode_town}}
+
+En {{LOC#2:town}}, a {{DATE:long}}
+
+Asunto: Comunicación de baja voluntaria
+
+Estimada {{PER#2:given}}:
+
+Por medio de la presente le comunico mi decisión de causar baja voluntaria en {{ORG#1:name@employer}}, donde presto servicios como {{JOB}} desde el {{DATE:long}}.
+
+De acuerdo con el preaviso de quince días previsto en el convenio, mi último día de trabajo será el {{DATE:long}}.
+
+Durante este tiempo me comprometo a dejar documentados los proyectos en curso y a traspasar mis tareas a {{PER#3:full}}, tal como hablamos con {{PER#4:initial_surname}} en la reunión del lunes.
+
+Le ruego que me envíen la liquidación y el certificado de empresa a {{EMAIL:PER#1}}, y que la nómina final se ingrese en la cuenta habitual ({{IBAN}}).
+
+Quiero agradecerle la confianza depositada en mí durante estos años.
+
+Atentamente,
+
+{{PER#1:signature}}
+
+Recibí:
+Fecha: {{DATE:numeric}}
+Firma y sello de la empresa

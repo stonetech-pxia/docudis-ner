@@ -1,0 +1,15 @@
+# Real organisations that a test document names and training text may name too.
+# The isolation check blocks any training text that repeats a person or company of a test set, because
+# repeating an invented test entity inflates the benchmark. A real bank, insurer or airline is different:
+# it exists outside both sets and appears wherever a real document would name it. Add such a name here,
+# one per line, case-insensitive. Add ONLY names of organisations that exist in the real world; never a
+# person, and never an entity invented for a test document. The bundled Wikidata list
+# (packages/docudis_engine/lists/companies.json) already covers most, mainly for GB, US, FR and ES.
+Aviva Insurance Limited
+Bank of Ireland
+HSBC UK
+Crédit Agricole Pyrénées Gascogne
+MAAF Assurances
+Société Générale
+PRO BTP
+UPV/EHU

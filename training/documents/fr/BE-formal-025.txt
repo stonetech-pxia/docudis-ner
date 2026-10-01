@@ -1,0 +1,49 @@
+ÉTAT DES LIEUX D'ENTRÉE (extrait)
+
+Bien : appartement 2 chambres
+Adresse : [[LOC|Rue de la Brasserie 71]]
+[[LOC|2e étage, porte droite]]
+[[LOC|1050 Ixelles]]
+
+Bailleur : [[PER|Cornelis Van Hecke]], [[LOC|Avenue Brugmann 403, 1180 Uccle]]
+Représenté par : [[ORG|Immo Châtelain & Blondeel SPRL]], agent immobilier IPI 508.214
+Preneurs : [[PER|Marwa El Idrissi]] et [[PER|Thibaut Delvaux]]
+Expert désigné de commun accord : [[PER|Laurence Michiels]], géomètre-expert, [[LOC|Rue Américaine 90, 1050 Ixelles]]
+
+Bail signé le [[DATE|20/08/2026]] - prise de cours le [[DATE|1er septembre 2026]] - durée 3 ans
+Loyer mensuel : 1.180,00 EUR - charges forfaitaires : 90,00 EUR
+Garantie locative : 2.360,00 EUR sur compte bloqué ouvert auprès de [[ORG|ING Belgique]]
+Enregistrement du bail : SPF Finances, bureau de sécurité juridique de [[LOC|Bruxelles]]
+
+Visite effectuée le [[DATE|31 août 2026]] de 9 h 00 à 11 h 40, en présence de Mme [[PER|El Idrissi]] et de M. [[PER|Arnaud Blondeel]] pour le bailleur.
+
+Relevé des compteurs
+Électricité (EAN 541448820040178521) : jour 18.402 / nuit 11.936
+Gaz : 7.215,344 m³
+Eau ([[ORG|Vivaqua]]) : 344,18 m³
+
+Hall d'entrée
+Sol : carrelage 30x30 beige, bon état, un carreau fêlé près de la porte (photo 4)
+Murs : peinture blanche, bon état, traces de chevilles (3) côté vestiaire
+Plafond : peinture blanche, bon état
+Porte d'entrée : blindée, 3 clés + 1 badge, fonctionne
+
+Séjour
+Sol : parquet chêne, rayures légères devant la fenêtre
+Murs : peinture blanc cassé, auréole jaunâtre 20 cm sous la fenêtre gauche (photo 7)
+Châssis : PVC double vitrage, un joint à remplacer
+Radiateur : vanne thermostatique fonctionne
+
+Cuisine
+Plan de travail stratifié, brûlure ronde 4 cm à droite de la plaque
+Taque vitrocéramique 4 zones, fonctionne ; hotte, filtre neuf
+Frigo encastrable : fonctionne, bac à légumes fendu
+
+Salle de bain
+Baignoire émaillée, joint silicone noirci, à renouveler par le bailleur avant le [[DATE|30/09/2026]]
+Meuble lavabo : porte gauche désaxée
+
+Fait à [[LOC|Ixelles]], le [[DATE|31/08/2026]], en trois exemplaires.
+
+L'expert                     Pour le bailleur               Les preneurs
+[[PER|L. Michiels]]                  [[PER|A. Blondeel]]                    [[PER|Marwa El Idrissi]]   [[PER|T. Delvaux]]

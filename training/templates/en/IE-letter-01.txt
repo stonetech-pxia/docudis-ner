@@ -1,0 +1,28 @@
+#country: IE
+#doctype: letter
+{{ORG#1:legal@school}}
+{{LOC#1:line}}
+Roll No. {{NUM}}
+Tel: {{PHONE}}  Email: {{EMAIL:ORG#1}}
+
+{{DATE:long}}
+
+Dear Parent/Guardian of {{PER#1:full}},
+
+Re: Transition Year trip to {{LOC#2:town}}, {{DATE:day_month}} - {{DATE:day_month}}
+
+We are delighted to confirm that {{PER#1:given}} has a place on this year's Transition Year field trip. Students will travel by coach with {{ORG#2:legal@transport}}, leaving the school at 8.00 a.m., and will stay at {{ORG#3:name@hospitality}}, {{LOC#3:line}}.
+
+The total cost is {{AMOUNT}}. A deposit of {{AMOUNT}} was due on {{DATE:long}}; the balance of {{AMOUNT}} can be paid through the school app or by transfer to:
+Account name: Parents' Council, {{ORG#1:name}}
+IBAN: {{IBAN}}
+Please use your child's name and class as the reference.
+
+The teachers travelling are {{PER#2:full}} (trip leader), {{PER#3:full}} and {{PER#4:full}}. On the trip, the emergency contact number is {{MOBILE}}.
+
+Please return the consent and medical form to the school office by Friday. If your child has any allergies or takes medication, list them on the form and talk to {{TITLE#2}} {{PER#2:surname}} directly.
+
+Yours sincerely,
+
+{{PER#5:full}}
+Principal

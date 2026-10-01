@@ -1,0 +1,20 @@
+#country: IE
+#doctype: support
+To: {{EMAIL:ORG#1}}
+Subject: Meter reading dispute - account {{ACCOUNT}}
+
+Hello,
+
+My name is {{PER#1:full}} and I moved into {{LOC#1:unit}}, {{LOC#1:street}}, {{LOC#1:postcode_town}} on {{DATE:long}}. My latest bill from {{ORG#1:name@utility}} is for {{AMOUNT}}, which is based on an estimated reading and covers a period when the previous tenant, {{PER#2:full}}, was still living there.
+
+I took a photo of the meter the day I got the keys (reading 048213, attached) and the letting agent, {{PER#3:full}} of {{ORG#2:legal@property}}, can confirm the date.
+
+Please reissue the bill from my move-in date and set up direct debit from IBAN {{IBAN}}.
+
+MPRN: {{NUM}}
+Phone: {{MOBILE}}
+
+If this isn't resolved I will take it to the [[ORG|Commission for Regulation of Utilities]].
+
+Regards,
+{{PER#1:initial_surname}}

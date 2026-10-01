@@ -1,0 +1,41 @@
+#country: US
+#doctype: insurance
+# Health plan Explanation of Benefits, THIS IS NOT A BILL
+{{ORG#1:legal@insurance}}
+{{LOC#1:po_box}}
+{{LOC#1:postcode_town}}
+
+EXPLANATION OF BENEFITS - THIS IS NOT A BILL
+
+Statement date: {{DATE:long}}
+Member: {{PER#1:full}}
+Member ID: {{NUM}}   Group #: {{NUM}}
+Employer group: {{ORG#2:legal@employer}}
+
+{{PER#1:full}}
+{{LOC#2:street}}
+{{LOC#2:postcode_town}}
+
+Claim for: {{PER#3:full}} (dependent)
+Claim #: {{REF}}
+Provider: {{ORG#3:legal@health}}
+Rendering provider: {{PER#4:full}}, MD
+Service address: {{LOC#3:line}}
+
+Date of service   Service                          Billed      Allowed     Plan paid   You owe
+{{DATE:numeric}}  Office visit, new patient          {{AMOUNT}}    {{AMOUNT}}    {{AMOUNT}}    {{AMOUNT}}
+{{DATE:numeric}}  Allergy skin testing (40 tests)    {{AMOUNT}}    {{AMOUNT}}    {{AMOUNT}}    {{AMOUNT}}
+{{DATE:numeric}}  Spirometry                         {{AMOUNT}}    {{AMOUNT}}    {{AMOUNT}}    {{AMOUNT}}
+Totals                                             {{AMOUNT}}    {{AMOUNT}}    {{AMOUNT}}    {{AMOUNT}}
+
+Your deductible: {{AMOUNT}} of {{AMOUNT}} met for the plan year.
+Out-of-pocket maximum: {{AMOUNT}} of {{AMOUNT:big}} met.
+
+Remark code PR-2: The amount you owe is your coinsurance (20%). Your provider may bill you for this amount.
+Remark code N130: Spirometry was reduced to the in-network allowed amount.
+
+Appeal rights: If you disagree with this decision, you or someone acting for you, such as {{PER#1:given}}'s spouse {{PER#2:full}}, may file an appeal within 180 days of {{DATE:long}}. Write to:
+Appeals Unit
+{{LOC#4:po_box}}
+{{LOC#4:postcode_town}}
+or call Member Services at {{PHONE}}.

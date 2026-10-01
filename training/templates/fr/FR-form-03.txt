@@ -1,0 +1,38 @@
+#country: FR
+#doctype: form
+# Bulletin d'adhésion à un club sportif, avec certificat médical et autorisation parentale, mise en page à deux colonnes aplatie.
+Association sportive du {{ORG#1:name@school}} - section handball
+Affiliée à la [[ORG|Fédération française de handball]] - {{LOC#1:line}}
+{{URL:ORG#1}} - {{EMAIL:ORG#1}}
+
+BULLETIN D'ADHÉSION SAISON 2026/2027
+
+Licencié(e)
+NOM : {{PER#1:surname}}    Prénom : {{PER#1:given}}
+Né(e) le : {{DATE:birth}}    à : {{LOC#2:town}}
+Adresse : {{LOC#3:street}}
+{{LOC#3:postcode_town}}
+Catégorie : moins de 15 ans    Taille de maillot : S
+Tél. : {{MOBILE}}    E-mail : {{EMAIL:PER#2}}
+
+Représentant légal (pour les mineurs)
+{{TITLE#2}} {{PER#2:full}}, {{MOBILE}}
+
+Certificat médical
+Délivré le {{DATE:numeric}} par le Dr {{PER#3:initial_surname}}, {{ORG#2:name@health}}, {{LOC#4:postcode_town}}
+
+Cotisation
+Licence + adhésion : {{AMOUNT}}
+Réduction famille (2e enfant, {{PER#4:given}} déjà inscrit(e)) : -{{AMOUNT}}
+Pass'Sport : -{{AMOUNT}}
+Reste à payer : {{AMOUNT}}
+Règlement : 3 chèques [[ORG|Crédit Agricole]] n° {{NUM}}, {{NUM}}, {{NUM}}, encaissés le {{DATE:day_month}}, le {{DATE:day_month}} et le {{DATE:day_month}}
+
+Droit à l'image : oui
+Autorisation de transport par un autre parent lors des déplacements : oui
+
+Je soussigné(e) {{PER#2:full}}, responsable légal de {{PER#1:given}}, autorise mon enfant à pratiquer le handball au sein de l'association.
+Fait à {{LOC#3:town}}, le {{DATE:numeric}}
+{{PER#2:signature}}
+
+Cadre réservé à l'association : dossier reçu par {{PER#5:full}}, {{JOB}}, le {{DATE:short}}. Licence saisie le {{DATE:short}}.

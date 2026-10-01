@@ -1,0 +1,20 @@
+#country: ES
+#doctype: cv
+#short hospitality CV pasted as plain text
+{{PER#1:full}} | Camarero / Ayudante de cocina
+{{MOBILE}} · {{EMAIL:PER#1}} · {{LOC#1:town}}
+
+EXPERIENCIA
+Temporada 2024 y 2025 - Camarero de sala, {{ORG#1:legal@hospitality}} ({{LOC#2:town}}). Servicio de terraza con 40 mesas, cobro en TPV.
+2022-2023 - Ayudante de cocina, {{ORG#2:name@hospitality}} ({{LOC#1:town}}). Cuarto frío y emplatado, a cargo del chef {{PER#2:full}}.
+2021 - Repartidor, {{ORG#3:name@retail}}.
+
+FORMACIÓN
+Carné de manipulador de alimentos (vigente hasta {{DATE:numeric}}).
+ESO, {{ORG#4:name@school}}.
+
+IDIOMAS
+Español y árabe nativos, inglés intermedio, francés básico.
+
+Disponibilidad inmediata, también fines de semana.
+Referencia: {{PER#3:given}} {{PER#3:surname}} (encargada en {{ORG#1:name@hospitality}}) - {{PHONE}}

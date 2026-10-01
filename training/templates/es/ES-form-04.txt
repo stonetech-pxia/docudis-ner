@@ -1,0 +1,44 @@
+#country: ES
+#doctype: form
+# Solicitud de ayuda / beca pública con declaración responsable
+SOLICITUD DE AYUDA PARA LIBROS DE TEXTO Y MATERIAL ESCOLAR
+Órgano al que se dirige: {{PUBLIC#1}}
+Nº de expediente: {{REF}}
+
+1. DATOS DE LA PERSONA SOLICITANTE
+Primer apellido: {{PER#1:surname}}
+Nombre: {{PER#1:given}}
+NIF/NIE: {{NATID}}
+Fecha de nacimiento: {{DATE:birth}}
+Domicilio: {{LOC#1:street}}
+Localidad: {{LOC#1:town}}   Código postal y municipio: {{LOC#1:postcode_town}}
+Provincia: {{LOC#1:region}}
+Teléfono: {{PHONE}}   Móvil: {{MOBILE}}
+Correo electrónico: {{EMAIL:PER#1}}
+
+2. DATOS DEL ALUMNADO
+Alumno/a 1: {{PER#2:full}}, fecha de nacimiento {{DATE:birth}}
+Centro: {{ORG#1:legal@school}}, curso 3º de Primaria
+Alumno/a 2: {{PER#3:full}}, fecha de nacimiento {{DATE:birth}}
+Centro: {{ORG#2:name@school}}, curso 1º de ESO
+
+3. UNIDAD FAMILIAR
+Otro progenitor: {{PER#4:surname_given}}, NIF {{NATID}}
+Ingresos de la unidad familiar en el ejercicio anterior: {{AMOUNT}}
+Nº de miembros: 4
+
+4. DATOS BANCARIOS PARA EL ABONO
+Titular: {{PER#1:full}}
+IBAN: {{IBAN}}
+
+5. DECLARACIÓN RESPONSABLE
+La persona abajo firmante declara que los datos consignados son ciertos, que no ha recibido otras ayudas para la misma finalidad y que autoriza a la administración a consultar sus datos tributarios ante la Agencia Tributaria.
+
+En {{LOC#1:town}}, a {{DATE:long}}
+
+Fdo.: {{PER#1:full}}
+
+A cumplimentar por el centro educativo:
+Visto bueno de la dirección — {{PER#5:full}}
+{{JOB}}
+Sello del centro {{ORG#1:name@school}}, {{DATE:numeric}}

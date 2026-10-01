@@ -1,0 +1,32 @@
+#country: GB
+#doctype: cv
+Can you rewrite this cover letter to sound more confident and cut it to one page? Keep the facts.
+
+---
+
+{{PER#1:full}}
+{{LOC#1:street}}, {{LOC#1:postcode_town}}
+{{MOBILE}}
+{{EMAIL:PER#1}}
+
+{{DATE:long}}
+
+{{PER#2:full}}
+{{DEPT}}
+{{ORG#1:legal@finance}}
+{{LOC#2:line}}
+
+Dear {{TITLE#2}} {{PER#2:surname}},
+
+Application for Graduate Data Analyst (job ref {{REF}})
+
+I am writing to apply for the Graduate Data Analyst role advertised on your careers page. I graduated this summer from {{ORG#2:name@school}} with a 2:1 in Economics, and my dissertation, supervised by Dr {{PER#3:full}}, used open data from the [[ORG|Office for National Statistics]] to model regional house prices.
+
+Last year I completed a ten-week internship at {{ORG#3:legal@insurance}} in {{LOC#3:town}}, where I built a dashboard in Power BI that the claims team still uses. My manager there, {{PER#4:full}}, has agreed to act as a referee.
+
+Alongside my degree I worked twenty hours a week at {{ORG#4:name@hospitality}}, which taught me to stay organised and to deal with people politely when things go wrong.
+
+I would welcome the chance to discuss my application. I am available for interview at any time and could start on {{DATE:long}}.
+
+Yours sincerely,
+{{PER#1:full}}

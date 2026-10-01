@@ -1,0 +1,19 @@
+#country: CH
+#doctype: medical
+{{ORG#1:legal@health}}
+Cabinet de pédiatrie
+{{LOC#1:street}}, {{LOC#1:postcode_town}}
+{{PHONE}} – {{EMAIL:ORG#1}}
+
+CERTIFICAT MÉDICAL
+
+Je soussigné(e), Dr {{PER#1:full}}, médecin FMH en pédiatrie, certifie avoir examiné ce jour l'enfant {{PER#2:full}}, né(e) le {{DATE:birth}}, domicilié(e) chez ses parents, {{TITLE#3}} {{PER#3:full}} et {{TITLE#4}} {{PER#4:full}}, {{LOC#2:line}}.
+
+Son état de santé ne lui permet pas de fréquenter l'école ni de participer au camp de ski organisé du {{DATE:short}} au {{DATE:short}} par l'établissement {{ORG#2:name@school}}.
+
+Certificat établi à la demande des parents pour faire valoir ce que de droit, notamment auprès de l'assurance {{ORG#3:legal@insurance}} (police n° {{REF}}) pour le remboursement des frais de camp.
+
+{{LOC#1:town}}, le {{DATE:long}}
+
+Dr {{PER#1:initial_surname}}
+N° GLN {{NUM}}

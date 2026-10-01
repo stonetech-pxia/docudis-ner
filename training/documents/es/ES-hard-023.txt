@@ -1,0 +1,18 @@
+ALBARAN DE ENTREGA   N° A-7731
+Proveedor: [[ORG|MATERIALES BOROBIA Y ARANA, S.L.]]
+[[LOC|Pol. Ind. Las Casas, calle C, parc. 12, 42005 Soria]]
+Tlf. 975 22 81 O4
+
+Fecha: [[DATE|O7/O9/2O26]]
+Cliente: [[ORG|CONSTRUCCIONES HNOS. ROMERA]]
+0bra: [[LOC|C/ Coso de San Blas, 3, 42OO2 Soria]]
+Recibe: [[PER|ROMERA Luis]] / encargado
+
+Ref.     Descripcion                  Cant.
+LAD-7    Ladri11o perforado 24x11,5   1.2OO
+CEM-42   Cemento gris 42,5R saco 25kg    4O
+ARE-O4   Arena 0/4 lavada (Tn)          6
+
+Conductor: [[PER|Abdelkader B.]]   Matrícu1a camión 5528-JZD
+Observ.: fa1tan 8 sacos, se entregan el [[DATE|9/9]]
+Firma recibí: [[PER|L. Romera]]

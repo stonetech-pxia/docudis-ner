@@ -1,0 +1,53 @@
+[[ORG|FBD Insurance plc]]
+[[LOC|FBD House, Bluebell, Dublin 12]]
+
+MOTOR INSURANCE - SCHEDULE AND CERTIFICATE INFORMATION
+
+Policy No.            MPC 7741 0386
+Issued by             [[ORG|FBD Insurance]] local office, [[LOC|Newport Road, Castlebar, Co. Mayo]]
+Local contact         [[PER|Colm Durkan]], Customer Advisor, 094 902 4470
+Date issued           [[DATE|20.08.2026]]
+Period of insurance   [[DATE|01.09.2026]] to [[DATE|31.08.2027]], both days inclusive
+
+POLICYHOLDER
+Name                  [[PER|Máire Gallagher-Osei]]
+Address               [[LOC|Carrowbeg]]
+                      [[LOC|Westport Road]]
+                      [[LOC|Castlebar]]
+                      [[LOC|Co. Mayo F23 KD84]]
+Date of birth         [[DATE|06.06.1979]]
+Occupation            Secondary school teacher
+Licence               Full Irish, held 26 years
+
+VEHICLE
+Registration          211-MO-4428
+Make/Model            Skoda Octavia Combi 2.0 TDI
+Value                 €18,500
+Use                   Social, domestic and pleasure, commuting, business use by policyholder
+Garaged at            address above
+
+DRIVERS
+Named driver 1        [[PER|Máire Gallagher-Osei]] (policyholder)
+Named driver 2        [[PER|Kwabena Osei]], born [[DATE|14.10.1976]], full licence, 21 years
+Named driver 3        [[PER|Niamh Gallagher-Osei]], born [[DATE|30.01.2007]], learner permit - must be accompanied
+
+COVER                 Comprehensive
+Excess                €300 own damage; windscreen claims excess nil
+No claims bonus       9+ years, protected
+Endorsements          E05 Learner driver; E12 Windscreen cover limited to €1,000
+
+PREMIUM
+Annual premium                            €1,036.40
+Government levy (Insurance Compensation Fund 2%)     incl.
+Less farm member discount                  -€78.00
+Total payable                               €958.40
+Paid in full by card on [[DATE|28 August 2026]]. Previous insurer: [[ORG|Aviva Direct Ireland]], policy ended [[DATE|31/08/2026]].
+
+Your motor certificate is enclosed. From 2026 you are not required to display an insurance disc on the windscreen, but you
+must carry proof of insurance and give it to a member of An Garda Síochána on request.
+
+In the event of an accident call [[ORG|FBD]] Claims on 1890 300 300 (24 hours). Do not admit liability. Glass damage: call
+[[ORG|Autoglass Ireland]] on 1800 301 301.
+
+[[ORG|FBD Insurance plc]] is regulated by the Central Bank of Ireland. Registered in [[LOC|Ireland]] No. 159597. Registered
+office: [[LOC|FBD House, Bluebell, Dublin 12]].

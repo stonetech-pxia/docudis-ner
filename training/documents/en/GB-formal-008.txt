@@ -1,0 +1,49 @@
+[[ORG|Thorpe Hamlet Medical Practice]]
+[[LOC|Rosary Road]]
+[[LOC|Norwich NR1 4DA]]
+Tel 01603 612 944   Fax 01603 612 950
+Practice code D82619
+
+[[DATE|9 September 2026]]
+
+Dr [[PER|Nkechi Ferris-Amadi]]
+Consultant Rheumatologist
+Rheumatology Outpatients
+[[ORG|Norfolk and Norwich University Hospital]]
+[[LOC|Colney Lane]]
+[[LOC|Norwich NR4 7UY]]
+
+Dear Dr [[PER|Ferris-Amadi]],
+
+Re:  Mrs [[PER|Glenys Harcastle]]   DOB [[DATE|14/05/1958]]   NHS No. 434 706 8611
+     [[LOC|12 Telegraph Lane East, Norwich NR1 4AW]]
+     Tel 07700 562 018
+
+Thank you for seeing this 68-year-old retired school librarian with a four-month history of symmetrical small joint pain
+and early morning stiffness lasting around two hours. Both wrists and the MCP joints of the index and middle fingers are
+swollen and tender. She has had to give up volunteering at the [[ORG|Fairhaven Community Garden]] because she cannot grip.
+
+Bloods on [[DATE|28 August]]: CRP 34, ESR 41, rheumatoid factor positive (62 IU/mL), anti-CCP awaited. FBC normal apart from
+Hb 116. eGFR 78. X-rays of hands and feet requested at [[ORG|Spire Norwich Hospital]] were reported as periarticular osteopenia
+only.
+
+Past history: hypothyroidism, left total hip replacement (2019), cataract surgery. She lives with her husband [[PER|Roy]], who
+has early Parkinson's disease, and she is his main carer.
+
+Current medication:
+Levothyroxine 100 micrograms once daily
+Naproxen 500 mg twice daily with omeprazole 20 mg (started [[DATE|2 July 2026]])
+Paracetamol 1 g up to four times daily as required
+
+Allergies: penicillin (rash).
+
+I would be grateful for your assessment and advice about starting a DMARD. She is worried about the effect of any treatment
+on her ability to look after [[PER|Roy]], and I have told her you will discuss this.
+
+Yours sincerely,
+
+Dr [[PER|Oisín Pellow]]
+GP Partner
+GMC 7091154
+
+cc: Mrs [[PER|G. Harcastle]] (patient copy)

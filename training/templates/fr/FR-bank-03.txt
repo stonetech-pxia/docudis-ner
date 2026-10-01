@@ -1,0 +1,38 @@
+#country: FR
+#doctype: bank
+# Messagerie sécurisée : échange avec la conseillère pour un prêt immobilier, liste de pièces.
+Messagerie sécurisée - {{ORG#1:name@finance}}
+
+Message de votre conseiller, {{PER#1:full}} - {{DATE:numeric}} à 09:12
+Objet : Votre projet d'achat au {{LOC#2:street}}, {{LOC#2:town}}
+
+Bonjour {{PER#2:given}} et {{PER#3:given}},
+
+Suite à notre rendez-vous de mardi, je vous confirme que votre dossier de prêt immobilier peut être présenté au comité. Pour mémoire :
+- Prix du bien : {{AMOUNT:big}}
+- Apport personnel : {{AMOUNT}}
+- Montant emprunté : {{AMOUNT:big}} sur 25 ans
+- Assurance emprunteur déléguée auprès de {{ORG#2:legal@insurance}}
+
+Pièces manquantes :
+1. Les trois derniers bulletins de salaire de {{PER#3:full}} (employeur : {{ORG#3:name@employer}})
+2. L'avis d'imposition reçu de la Direction générale des Finances publiques
+3. Le compromis signé chez {{TITLE#4}} {{PER#4:full}}, notaire à {{LOC#3:town}}
+4. Un RIB du compte ouvert chez [[ORG|Boursorama]]
+
+Le compromis prévoit une condition suspensive d'obtention du prêt jusqu'au {{DATE:long}}, il ne faut donc pas tarder.
+
+Bien à vous,
+{{PER#1:initial_surname}}
+{{JOB}}
+Agence {{LOC#1:town}} - {{PHONE}}
+
+---
+
+Réponse de {{PER#2:full}} - {{DATE:numeric}} à 21:47
+
+Bonsoir {{TITLE#1}} {{PER#1:surname}},
+Merci. Je vous envoie ce soir les bulletins de {{PER#3:given}} et l'avis d'imposition. Pour le compromis, l'étude de {{TITLE#4}} {{PER#4:surname}} nous le renvoie signé lundi.
+Notre adresse actuelle reste {{LOC#4:line}} jusqu'à la signature.
+Bonne soirée,
+{{PER#2:given}}

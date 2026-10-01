@@ -1,0 +1,41 @@
+#country: ES
+#doctype: lease
+#room rental in a shared flat, informal wording
+CONTRATO DE ALQUILER DE HABITACIÓN
+
+Fecha: {{DATE:short}}
+Lugar: {{LOC#1:town}}
+
+PROPIETARIO/A
+Nombre: {{PER#1:full}}
+DNI: {{NATID}}
+Teléfono: {{MOBILE}}
+Email: {{EMAIL:PER#1}}
+
+INQUILINO/A
+Nombre: {{PER#2:full}}
+Pasaporte / NIE: {{NATID}}
+Fecha de nacimiento: {{DATE:birth}}
+Nacionalidad: italiana
+Teléfono: {{MOBILE}}
+Estudios: máster en {{ORG#2:name@school}}
+
+VIVIENDA
+Dirección: {{LOC#1:street}}
+Piso: {{LOC#1:unit}}
+CP y ciudad: {{LOC#1:postcode_town}}
+Habitación: la del fondo, con balcón, amueblada (cama, escritorio, armario).
+Zonas comunes compartidas con {{PER#3:given}} y {{PER#4:given}}, que ya viven en el piso.
+
+CONDICIONES
+1. Entrada: {{DATE:day_month}}. Salida prevista: {{DATE:day_month}}.
+2. Precio: {{AMOUNT}} al mes, gastos de luz, agua, gas e internet incluidos hasta {{AMOUNT}}; lo que pase se divide entre los tres.
+3. Pago: antes del día 5 por Bizum al {{MOBILE}} o transferencia a {{IBAN}}.
+4. Fianza: {{AMOUNT}}, que se devolverá al salir si todo está en orden.
+5. No se permiten mascotas ni fumar dentro del piso. Las visitas que se queden a dormir se avisan antes al grupo.
+6. Preaviso para dejar la habitación: 30 días.
+
+Firmado,
+
+{{PER#1:signature}}                    {{PER#2:signature}}
+Propietario/a                          Inquilino/a

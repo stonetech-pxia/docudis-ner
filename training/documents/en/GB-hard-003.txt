@@ -1,0 +1,34 @@
+GMS1        Fami1y Doctor Services Registration
+[[ORG|Montpe1ier Hea1th Centre]]
+[[LOC|Bath Bui1dings, Bristo1 BS6 5PT]]
+
+Patient's detai1s   P1ease comp1ete in BLOCK CAPITALS and tick as appropriate
+Surname       [[PER|0SEI-LAMBERT]]
+First names   [[PER|KWAME DAVlD]]
+Previous surname   -
+Date of birth   [[DATE|2l/06/2001]]      Ma1e [x]
+NHS No   431 459 3873
+Town and country of birth   [[LOC|Kumasi]], [[LOC|Ghana]]
+Home address   [[LOC|F1at 2, 19 Chesterfie1d Road]]
+[[LOC|St Andrews, Bristo1]]
+Postcode   [[LOC|BS6 5DL]]
+Te1ephone   07845 21O 663
+Emai1   kwame.osei1ambert @ yahoo.co.uk
+
+P1ease he1p us trace your previous medica1 records by providing the fo11owing informa-
+tion.
+Your previous address in UK   [[LOC|44 Dawlish Road, Se1ly Oak]]
+[[LOC|Birming]]-
+[[LOC|ham B29 7AG]]
+Name of previous doctor while at that address   Dr [[PER|R. Achterberg]]
+Address of previous doctor   [[ORG|Grange Road Surgery]], [[LOC|Birmingham]]
+
+If you are returning from the Armed Forces   n/a
+If you are registering a chi1d under 5   n/a
+
+Emergency contact / next of kin   [[PER|Abena 0sei]] (mother)   0121 4l4 8830
+
+0rgan donation   YES - a11 organs
+
+Signed   [[PER|K 0sei-Lambert]]          Date   [[DATE|O4/09/2025]]
+Practice use: reg by [[PER|Tamsin]] (Reception)   GP a11ocated: Dr [[PER|Ferreira-Nash]]

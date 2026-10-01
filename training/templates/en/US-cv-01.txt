@@ -1,0 +1,28 @@
+#country: US
+#doctype: cv
+{{PER#1:full}}
+{{LOC#1:postcode_town}} · {{PHONE}} · {{EMAIL:PER#1}} · linkedin.com/in/{{NUM}}
+
+SUMMARY
+Registered nurse with 7 years in emergency and urgent care. BLS, ACLS and PALS certified. Bilingual English/Spanish.
+
+LICENSES
+RN, {{LOC#1:region}} Board of Nursing, License No. {{NUM}}, exp. {{DATE:numeric}}
+
+EXPERIENCE
+{{ORG#1:legal@health}} - {{LOC#2:town}}
+Charge Nurse, Emergency Department | 2021 - Present
+• Lead a team of 8 RNs and 3 techs on 12-hour night shifts in a 36-bed Level II trauma ED
+• Reduced door-to-triage time by 22% by piloting a split-flow model with Dr. {{PER#2:full}}
+• Precept new graduate nurses; 11 completed orientation in 2024
+
+{{ORG#2:name@health}} - {{LOC#3:town}}
+Staff RN, Urgent Care | 2018 - 2021
+• Assessed and treated up to 60 walk-in patients per shift
+
+EDUCATION
+BSN, {{ORG#3:name@school}}, 2018 - magna cum laude
+
+REFERENCES
+{{PER#3:full}}, {{JOB}}, {{ORG#1:name}} - {{PHONE}}
+{{PER#4:full}}, Clinic Manager, {{ORG#2:name}} - {{EMAIL:PER#4}}

@@ -1,0 +1,50 @@
+[[PER|Anjali Rathore-Pilkington]]
+[[LOC|26 Beechwood Crescent]]
+[[LOC|Hessle]]
+[[LOC|East Yorkshire HU13 9LD]]
+07700 183 552
+a.rathore.p@outlook.com
+
+Claims Department
+[[ORG|Direct Line Insurance]]
+[[LOC|Churchill Court, Westmoreland Road]]
+[[LOC|Bromley BR1 1DP]]
+
+[[DATE|2 September 2026]]
+
+Policy number: DLM 40 771 925 6
+Claim reference: MC-2608-66104
+Vehicle: Vauxhall Corsa, registration YH19 KZT
+
+Dear Sir or Madam,
+
+Re: Claim for damage to my vehicle, incident on [[DATE|16 August 2026]]
+
+I am writing to follow up my telephone call of [[DATE|17 August]], when I reported the incident to your adviser [[PER|Kieran]].
+
+At around 18:40 on Sunday [[DATE|16 August]] my car was parked outside my home on [[LOC|Beechwood Crescent]] when it was hit by a
+white van reversing out of the driveway at number 31. The driver, Mr [[PER|Lennox Harrowby]], of [[LOC|31 Beechwood Crescent]],
+admitted responsibility at the scene and gave me his insurer's details ([[ORG|Admiral]], policy P-7719042). My neighbour
+Mrs [[PER|Wendy Ellingham]] witnessed the collision and has agreed to give a statement; her number is 01482 640 297.
+
+The rear offside door and wheel arch are dented and the tail light is broken. I obtained a repair estimate from
+[[ORG|Anlaby Road Body Repairs Ltd]], [[LOC|412 Anlaby Road, Hull HU3 6QP]], dated [[DATE|20/08/2026]], for £1,846.20 including VAT
+(copy enclosed). Your approved repairer, [[ORG|Humberside Accident Repair Centre]], has not yet contacted me.
+
+Since the incident I have been using a hire car from [[ORG|Enterprise Rent-A-Car]] at my own expense (£32.50 a day from
+[[DATE|18 August]]), as your adviser told me a courtesy car was not available.
+
+Please could you:
+1. confirm that the claim is being handled as non-fault and that my no claims discount (9 years) is protected;
+2. arrange for the repair to go ahead without further delay;
+3. tell me how to claim back the hire charges and my £250 excess from the third party's insurer.
+
+I would be grateful for a reply within 14 days. If I do not hear from you by [[DATE|16 September 2026]] I will raise a formal
+complaint.
+
+Yours faithfully,
+
+[[PER|Anjali Rathore-Pilkington]]
+
+Enclosures: repair estimate, 6 photographs, hire agreement HR-55803
+cc: Mr [[PER|L. Harrowby]]

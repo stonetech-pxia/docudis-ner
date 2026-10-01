@@ -1,0 +1,38 @@
+#country: IE
+#doctype: bank
+# Mortgage approval in principle letter from a real Irish bank, mid length
+[[ORG|Bank of Ireland]]
+Mortgage Centre
+{{LOC#3:line}}
+
+{{DATE:long}}
+
+{{PER#1:full}} and {{PER#2:full}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+{{LOC#1:region}}
+
+Application number: {{REF}}
+
+Dear {{PER#1:given}} and {{PER#2:given}},
+
+Mortgage Approval in Principle
+
+We are pleased to tell you that your application has been approved in principle for a mortgage of up to {{AMOUNT:big}} over a term of 30 years, to purchase a home in {{LOC#4:region}}.
+
+This approval in principle is valid for six months from the date of this letter, until {{DATE:long}}. It is not a formal offer of a loan. Before we can issue a Loan Offer we will need:
+
+- a valuation of the property by a valuer from our panel;
+- confirmation of your deposit of {{AMOUNT:big}}, including the gift from {{PER#3:full}} (a signed gift letter will be required);
+- your most recent P60 or Employment Detail Summary from Revenue for {{PER#2:given}}, and a salary certificate from {{ORG#1:legal@employer}} for {{PER#1:given}};
+- details of your solicitor.
+
+Your mortgage adviser is {{PER#4:full}}, who you can reach on {{PHONE}} or at {{EMAIL:PER#4}}.
+
+Warning: If you do not keep up your repayments you may lose your home.
+
+Yours sincerely,
+
+{{PER#4:signature}}
+{{JOB}}
+[[ORG|Bank of Ireland]] is regulated by the Central Bank of Ireland.

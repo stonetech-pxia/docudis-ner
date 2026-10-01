@@ -1,0 +1,30 @@
+#country: FR
+#doctype: support
+Bonjour, peux-tu m'aider à répondre à ce mail de mon fournisseur d'électricité ? Je trouve qu'ils exagèrent.
+
+-----
+De : Service Client {{ORG#1:name@utility}} <{{EMAIL:ORG#1}}>
+Date : {{DATE:long}}
+À : {{EMAIL:PER#1}}
+Objet : Votre réclamation – Référence client {{ACCOUNT}}
+
+{{TITLE#1}} {{PER#1:surname}},
+
+Nous accusons réception de votre réclamation du {{DATE:numeric}} concernant la facture de régularisation d'un montant de {{AMOUNT}} pour votre logement situé :
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+
+Après analyse, cette facture a été établie sur la base d'un relevé réel du compteur transmis par le gestionnaire de réseau [[ORG|Enedis]] le {{DATE:day_month}}. Les factures précédentes reposaient sur des index estimés, ce qui explique l'écart constaté.
+
+Nous vous proposons un échéancier en six mensualités de {{AMOUNT}}, prélevées sur le compte {{IBAN}}.
+
+Si cette réponse ne vous satisfait pas, vous pouvez saisir le médiateur national de l'énergie.
+
+Nous restons à votre écoute au {{PHONE}}.
+
+{{PER#2:full}}
+{{DEPT}}
+{{ORG#1:legal@utility}} – {{LOC#2:line}}
+-----
+
+Pour info, j'ai emménagé le {{DATE:short}} et l'ancien occupant, {{PER#3:full}}, avait donné un relevé à son départ. Donc les estimations ne devraient concerner que quelques mois.

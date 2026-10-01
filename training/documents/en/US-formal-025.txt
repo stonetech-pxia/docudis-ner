@@ -1,0 +1,42 @@
+[[ORG|Lake Nokomis Clinical Laboratory]]
+[[LOC|4801 Cedar Ave S, Minneapolis, MN 55417]]     CLIA 24D0917734
+Laboratory Director: [[PER|Hyun-woo Carlsen]], MD, PhD      Client Services (612) 555-0184
+
+FINAL REPORT
+
+PATIENT                                  ORDERING PROVIDER
+[[PER|Abernathy-Yang, Leonora]]                  [[PER|Tessaly Fairweather]], NP
+DOB: [[DATE|12/07/1988]]   Age: 37   Sex: F        [[ORG|Minnehaha Parkway Women's Health]]
+MRN: LNC-2280417                         [[LOC|5021 Nicollet Ave]]
+Phone: (651) 555-0139                    [[LOC|Minneapolis, MN 55419]]
+Address: [[LOC|922 Jefferson Ave]]               NPI 1639472855
+         [[LOC|St Paul, MN 55102]]
+Insurance: [[ORG|HealthPartners]] #HP88104772
+
+Accession: 26-251-0443      Collected: [[DATE|09/08/2026]] 07:55     Received: [[DATE|09/08/2026]] 10:20
+Reported: [[DATE|09/09/2026]] 14:12     Specimen: serum, whole blood, urine     Fasting: Y
+
+COMPREHENSIVE METABOLIC PANEL
+  Glucose                 104  H    mg/dL      70-99
+  BUN                      11       mg/dL      6-20
+  Creatinine             0.74       mg/dL      0.57-1.00
+  Sodium                  140       mmol/L     134-144
+  Potassium               4.1       mmol/L     3.5-5.2
+  Calcium                 9.4       mg/dL      8.7-10.2
+  Albumin                 4.3       g/dL       3.9-4.9
+  ALT                      19       IU/L       0-32
+LIPID PANEL
+  Total cholesterol       226  H    mg/dL      100-199
+  HDL                      58       mg/dL      >39
+  LDL (calc)              148  H    mg/dL      0-99
+  Triglycerides           101       mg/dL      0-149
+THYROID
+  TSH                   5.620  H    uIU/mL     0.450-4.500
+  Free T4                0.98       ng/dL      0.82-1.77
+URINALYSIS
+  hCG, urine qualitative  Negative
+
+Comment: TSH elevated with normal free T4. Recommend repeat TSH with TPO antibodies in 6-8 weeks.
+Previous TSH [[DATE|03/02/2026]]: 4.880.
+
+Results released to patient portal [[DATE|Sept 9, 2026]]. Verified by [[PER|R. Oyelaran]], MLS(ASCP).

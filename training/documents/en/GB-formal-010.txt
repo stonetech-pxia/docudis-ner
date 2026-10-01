@@ -1,0 +1,35 @@
+[[ORG|Royal Devon University Healthcare NHS Foundation Trust]]
+Pathology - Clinical Biochemistry & Haematology
+[[ORG|Royal Devon & Exeter Hospital]], [[LOC|Barrack Road, Exeter EX2 5DW]]
+Enquiries 01392 402 935
+
+LABORATORY REPORT                                                   Page 1 of 1
+
+Patient:      [[PER|PENHALIGON, Morwenna Jane]]
+DOB:          [[DATE|03/10/1972]]       Sex: F
+NHS No:       464 397 8937         Hosp No: RD3308172
+Address:      [[LOC|Chy an Dour, Trebarwith Road]], [[LOC|Crediton EX17 3JQ]]
+Requested by: Dr [[PER|A. Szymańska]]    Location: [[ORG|Crediton Health Centre]]
+Collected:    [[DATE|07-Sep-2026]] 09:12      Received: [[DATE|07-Sep-2026]] 13:40
+Authorised:   [[DATE|08-Sep-2026]] 10:05 by [[PER|Hugo Tresidder-Blanc]], Clinical Scientist
+Lab No:       26.BH.0914477
+
+TEST                      RESULT     UNITS        REF RANGE        FLAG
+Haemoglobin               121        g/L          115 - 165
+White cell count          6.8        x10^9/L      4.0 - 11.0
+Platelets                 402        x10^9/L      150 - 400        H
+Ferritin                  9          ug/L         13 - 150         L
+Vitamin B12               312        ng/L         197 - 771
+Folate                    4.1        ug/L         >3.8
+Sodium                    139        mmol/L       133 - 146
+Potassium                 4.4        mmol/L       3.5 - 5.3
+Creatinine                68         umol/L       45 - 84
+eGFR                      >90        mL/min/1.73m2
+ALT                       22         U/L          <33
+TSH                       2.31       mU/L         0.27 - 4.20
+HbA1c                     39         mmol/mol     <42
+
+Comment: Low ferritin consistent with iron deficiency. Suggest coeliac serology if not already done. Previous ferritin
+[[DATE|12 March 2026]]: 14 ug/L.
+
+Copy to: Dr [[PER|Agata Szymańska]], [[ORG|Crediton Health Centre]], [[LOC|Union Road, Crediton EX17 3AP]]

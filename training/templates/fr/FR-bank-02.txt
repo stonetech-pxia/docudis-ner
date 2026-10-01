@@ -1,0 +1,23 @@
+#country: FR
+#doctype: bank
+# Relevé de compte en ligne copié, liste d'opérations aplatie.
+{{ORG#1:name@finance}} - Relevé de compte courant
+Relevé n° {{NUM}} du {{DATE:numeric}} au {{DATE:numeric}}
+{{PER#1:full}}
+{{LOC#1:line}}
+IBAN : {{IBAN}}  BIC : {{BIC}}
+
+Solde au {{DATE:numeric}} : {{AMOUNT}}
+
+Date | Libellé | Débit | Crédit
+{{DATE:short}} | VIR SEPA RECU DE {{ORG#2:legal@employer}} SALAIRE | | {{AMOUNT}}
+{{DATE:short}} | PRLV SEPA {{ORG#3:name@utility}} ECH {{REF}} | {{AMOUNT}} |
+{{DATE:short}} | CB {{ORG#4:name@retail}} {{LOC#2:town}} CARTE {{CARD4}} | {{AMOUNT}} |
+{{DATE:short}} | VIR INST EMIS VERS {{PER#2:full}} LOYER | {{AMOUNT}} |
+{{DATE:short}} | CB [[ORG|SNCF]] CONNECT | {{AMOUNT}} |
+{{DATE:short}} | VIR RECU DE {{PER#3:full}} REMB RESTO | | {{AMOUNT}}
+{{DATE:short}} | RETRAIT DAB {{LOC#2:town}} | {{AMOUNT}} |
+{{DATE:short}} | COTISATION CARTE | {{AMOUNT}} |
+
+Total des opérations : {{AMOUNT}} | {{AMOUNT}}
+Nouveau solde au {{DATE:numeric}} : {{AMOUNT}}

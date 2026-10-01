@@ -1,0 +1,14 @@
+#country: ES
+#doctype: chat
+#WhatsApp family group export about grandmother's appointment
+[{{DATE:numeric}}, 08:47] {{PER#1:given}}: Buenos días familia. Os recuerdo que la abuela tiene la revisión de la vista el {{DATE:day_month}} en {{ORG#1:name@health}}
+[{{DATE:numeric}}, 08:49] {{PER#2:given}}: Yo ese día trabajo de mañana 😕
+[{{DATE:numeric}}, 08:50] {{PER#3:given}} {{PER#3:surname}}: Yo la puedo llevar. A qué hora es?
+[{{DATE:numeric}}, 08:52] {{PER#1:given}}: A las 10:30. Está en {{LOC#1:line}}, al lado del mercado
+[{{DATE:numeric}}, 08:52] {{PER#1:given}}: Hay que llevar la tarjeta sanitaria y el informe del Dr. {{PER#4:surname}}
+[{{DATE:numeric}}, 08:55] {{PER#3:given}} {{PER#3:surname}}: Vale. La recojo en su casa a las 10
+[{{DATE:numeric}}, 09:10] {{PER#2:given}}: Gracias {{PER#3:given}} ❤️ Yo me encargo de ir a la farmacia a por las gotas
+[{{DATE:numeric}}, 09:12] {{PER#5:full}}: Soy {{PER#5:given}}, la vecina de la abuela, {{PER#1:given}} me ha añadido al grupo. Si necesitáis que alguien se quede con ella por la tarde, contad conmigo. Mi número es el {{MOBILE}}
+[{{DATE:numeric}}, 09:15] {{PER#1:given}}: Muchísimas gracias {{PER#5:given}}!!
+[{{DATE:numeric}}, 13:40] {{PER#2:given}}: Por cierto, me ha llegado carta de {{PUBLIC#2}} para la abuela, lo del IBI de la casa de {{LOC#2:town}}. Alguien sabe si está domiciliado?
+[{{DATE:numeric}}, 13:44] {{PER#1:given}}: Sí, en su cuenta de [[ORG|Ibercaja]]. No hay que hacer nada

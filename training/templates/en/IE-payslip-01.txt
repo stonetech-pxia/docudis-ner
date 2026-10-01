@@ -1,0 +1,23 @@
+#country: IE
+#doctype: payslip
+# Irish weekly payslip, compact
+{{ORG#1:legal@retail}} - Payslip
+Employee: {{PER#1:surname_given}}     PPSN: {{NATID}}
+Payroll no: {{NUM}}     Week 38     Pay date: {{DATE:short}}
+Store: {{LOC#1:town}}     Manager: {{PER#2:initial_surname}}
+
+Gross                   {{AMOUNT}}
+  Basic 37.5 hrs        {{AMOUNT}}
+  Sunday premium        {{AMOUNT}}
+PAYE                    {{AMOUNT}}
+USC                     {{AMOUNT}}
+PRSI (class A1)         {{AMOUNT}}
+Pension                 {{AMOUNT}}
+Net pay                 {{AMOUNT}}
+
+Tax credits this period {{AMOUNT}}   Cut-off point {{AMOUNT}}
+Cumulative gross {{AMOUNT:big}}   Cumulative tax {{AMOUNT}}
+Paid to IBAN {{IBAN}}
+
+RPN received from Revenue on {{DATE:day_month}}.
+Queries: {{PER#3:full}}, Payroll, {{LOC#2:line}}, {{PHONE}}.

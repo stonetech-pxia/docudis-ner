@@ -1,0 +1,49 @@
+#country: US
+#doctype: form
+# Apartment rental application, typed into a property manager's form
+RENTAL APPLICATION - {{ORG#1:legal@property}}
+Property applied for: {{LOC#1:street}}
+{{LOC#1:unit}}
+{{LOC#1:postcode_town}}
+Desired move-in date: {{DATE:numeric}}   Monthly rent: {{AMOUNT}}
+
+APPLICANT
+Full legal name: {{PER#1:full}}
+Other names used: none
+Date of birth: {{DATE:birth}}   SSN: {{NATID}}
+Driver's license #: {{NUM}}   State: {{LOC#2:region}}
+Cell: {{MOBILE}}   Email: {{EMAIL:PER#1}}
+
+CO-APPLICANT
+Full legal name: {{PER#2:full}}
+Date of birth: {{DATE:birth}}   SSN: {{NATID}}
+Cell: {{MOBILE}}
+
+OTHER OCCUPANTS
+{{PER#3:given}}, age 7
+
+RESIDENCE HISTORY
+Current address: {{LOC#2:line}}
+Dates: {{DATE:numeric}} to present   Rent: {{AMOUNT}}
+Landlord: {{PER#4:full}}   Phone: {{PHONE}}
+Reason for leaving: job relocation
+
+Previous address: {{LOC#3:line}}
+Landlord / manager: {{ORG#2:name@property}}   Phone: {{PHONE}}
+
+EMPLOYMENT
+Applicant employer: {{ORG#3:legal@employer}}
+Position: {{JOB}}   Start date: {{DATE:numeric}}   Gross monthly income: {{AMOUNT}}
+Supervisor: {{PER#5:full}}   Phone: {{PHONE}}
+Co-applicant employer: {{ORG#4:name@health}}   Position: {{JOB}}
+
+EMERGENCY CONTACT
+{{PER#6:full}}, {{LOC#4:town}}, {{PHONE}}
+
+PETS: 1 cat   VEHICLES: {{PLATE}}
+Have you ever been evicted? No   Filed for bankruptcy? No
+
+I authorize {{ORG#1:name}} to obtain a credit report and verify the information above.
+Applicant signature: {{PER#1:signature}}   Date: {{DATE:numeric}}
+Co-applicant signature: {{PER#2:signature}}   Date: {{DATE:numeric}}
+Application fee {{AMOUNT}} paid, receipt {{REF}}

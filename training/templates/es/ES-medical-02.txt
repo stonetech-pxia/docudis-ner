@@ -1,0 +1,23 @@
+#country: ES
+#doctype: medical
+#appointment reminder e-mail from a private clinic, short
+De: {{ORG#1:name@health}} <{{EMAIL:ORG#1}}>
+Para: {{EMAIL:PER#1}}
+Asunto: Recordatorio de su cita - {{DATE:short}}
+
+Hola, {{PER#1:given}}:
+
+Le recordamos su cita en {{ORG#1:legal@health}}:
+
+Especialidad: Fisioterapia
+Profesional: {{PER#2:full}}
+Día: {{DATE:long}}
+Hora: 17:45
+Centro: {{LOC#1:line}}
+
+Si viene a través de su seguro con {{ORG#2:name@insurance}}, traiga la tarjeta y la autorización n.º {{REF}}.
+
+Para cancelar o cambiar la cita responda a este correo o llame al {{PHONE}} con al menos 24 horas de antelación.
+
+Un saludo,
+{{PER#3:given}} - Recepción

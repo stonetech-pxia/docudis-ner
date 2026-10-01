@@ -1,0 +1,29 @@
+#country: BE
+#doctype: form
+# Déclaration de changement d'adresse auprès d'une commune belge, plusieurs membres du ménage.
+{{PUBLIC#1}}
+Service Population - Déclaration de changement d'adresse
+
+Date de la déclaration : {{DATE:numeric}}
+
+Ancienne adresse : {{LOC#2:line}}
+Nouvelle adresse : {{LOC#1:street}}
+Boîte : {{LOC#1:unit}}
+Code postal et commune : {{LOC#1:postcode_town}}
+Date d'emménagement : {{DATE:numeric}}
+
+Membres du ménage qui déménagent
+1. {{PER#1:surname_given}} - né(e) le {{DATE:birth}} - NN {{NATID}} - personne de référence
+2. {{PER#2:surname_given}} - né(e) le {{DATE:birth}} - NN {{NATID}} - conjoint(e)
+3. {{PER#3:surname_given}} - né(e) le {{DATE:birth}} - NN {{NATID}} - enfant
+
+Propriétaire / bailleur : {{PER#4:full}}, {{LOC#3:line}}
+Contrat de bail enregistré le {{DATE:numeric}}
+
+Téléphone : {{MOBILE}}
+E-mail : {{EMAIL:PER#1}}
+
+Contrôle de résidence effectué par l'agent de quartier {{PER#5:initial_surname}} le {{DATE:short}}.
+Avis favorable.
+
+Signature du déclarant : {{PER#1:signature}}

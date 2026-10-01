@@ -1,0 +1,50 @@
+BULLETIN DE PAIE
+
+Employeur                                   Salarié
+[[ORG|Boulangerie Marchetti SAS]]                   Mme [[PER|BENHADJ-ROUX Samira]]
+[[LOC|52 rue Paul Bert]]                            [[LOC|9 montée des Carmélites]]
+[[LOC|69003 Lyon]]                                  [[LOC|69001 Lyon]]
+SIRET : 01293150700011
+Code NAF : 1071C                            N° SS : 2 88 05 31 167 273 24
+Convention collective : Boulangerie-pâtisserie artisanale (IDCC 843)
+                                            Emploi : Vendeuse qualifiée
+                                            Coefficient : 170
+                                            Entrée le : [[DATE|02/03/2021]]
+                                            Née le : [[DATE|17/05/1988]] à [[LOC|Muret]]
+                                            Matricule : 00084
+
+Période du [[DATE|01/08/2026]] au [[DATE|31/08/2026]]          Paiement le [[DATE|31/08/2026]] par virement
+
+Rubrique                         Base        Taux       Gain        Retenue
+Salaire de base               151,67     13,1200    1 989,91
+Heures supp. 25 %               8,00     16,4000      131,20
+Majoration dimanche             7,00      6,5600       45,92
+Indemnité repas               21 jours    3,9800       83,58
+Absence congés payés (5 j)                                          -
+Indemnité CP                                           491,40
+Salaire brut                                         2 658,43
+
+Santé - complémentaire    2 658,43                                 38,20
+[[ORG|Harmonie Mutuelle]] contrat n° HM-551208
+Prévoyance                2 658,43      0,65 %                     17,28
+Retraite T1               2 658,43      4,01 %                    106,60
+Assurance chômage             -           -                         -
+CSG déductible            2 612,91      6,80 %                    177,68
+CSG/CRDS non déductible   2 612,91      2,90 %                     75,77
+Exonération heures supp.                                           -24,08
+
+Net à payer avant impôt                              2 267,04
+Impôt sur le revenu  taux personnalisé 3,1 %                       70,28
+Net payé                                             2 196,76 €
+
+Cumuls annuels   Brut 19 804,11   Net imposable 17 115,02   Heures 1 213,36
+Congés : acquis N-1 25,0  pris 17,0  solde 8,0 / acquis N 20,0
+
+Virement sur FR76 7419 6812 1119 5653 7833 887
+Taux transmis par la DGFiP le [[DATE|14/07/2026]].
+
+Pour vous aider à faire valoir vos droits, conservez ce bulletin de paie sans limitation de durée.
+Rubrique dédiée sur www.service-public.fr
+
+Établi par [[ORG|Cabinet Aurélien Brizard Expertise]] pour le compte de [[ORG|Boulangerie Marchetti SAS]]
+Contact paie : [[PER|Thibault Marchetti]], gérant - 04 78 60 12 33

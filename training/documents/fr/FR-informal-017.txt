@@ -1,0 +1,22 @@
+Hello [[PER|Salomé]],
+
+J'espère que tout va bien à [[LOC|Lisbonne]] ! Petit souci administratif : j'ai reçu à l'appart un courrier de la CAF de l'[[LOC|Isère]] à ton nom, je l'ai ouvert parce que c'était marqué "urgent" (désolée 🙈). En gros ils disent que tu as trop perçu d'APL entre septembre et décembre parce que tu n'as pas déclaré ton départ, et ils te réclament 684 €.
+
+Je te recopie l'essentiel :
+
+"Madame [[PER|OKONKWO-BLANCHARD Salomé]]
+[[LOC|7 rue Très-Cloîtres]]
+[[LOC|38000 Grenoble]]
+N° allocataire : 2841507 J
+Objet : notification d'indu
+Montant : 684,00 €
+À rembourser avant le [[DATE|28/02/2026]]"
+
+Il y a un numéro, le 32 30, et tu peux contester via ton espace en ligne. Si tu veux que je t'envoie le scan dis-moi.
+
+Autre truc : Mr [[PER|Gallo]], le proprio, demande ta nouvelle adresse pour te renvoyer ta part de la caution (310 €). Je lui donne laquelle ? Celle de tes parents à [[LOC|Voiron]] ou la tienne au [[LOC|Portugal]] ?
+
+Et [[PER|Enzo]] de [[ORG|Grenoble Déménagement Express]] a appelé pour le carton de livres que tu as laissé au garde-meuble de [[LOC|Échirolles]], il faut le récupérer avant le [[DATE|15 mars]] sinon ils facturent un mois de plus.
+
+Gros bisous, tu me manques,
+[[PER|Jo]]

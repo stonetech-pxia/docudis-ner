@@ -1,0 +1,40 @@
+#country: GB
+#doctype: insurance
+# Motor insurance renewal schedule from a broker, field blocks
+{{ORG#1:legal@insurance}}
+{{LOC#1:line}}
+Authorised and regulated by the Financial Conduct Authority. FRN {{NUM}}.
+
+MOTOR INSURANCE - RENEWAL SCHEDULE
+
+Policy number: {{REF}}
+Policyholder: {{TITLE#2}} {{PER#2:full}}
+Address: {{LOC#2:street}}
+         {{LOC#2:postcode_town}}
+Date of birth: {{DATE:birth}}
+Occupation: {{JOB}}
+Period of insurance: {{DATE:long}} to {{DATE:long}} (both days inclusive)
+
+Vehicle
+Registration: {{PLATE}}
+Make/model: Skoda Octavia 1.5 TSI SE L Estate
+Kept overnight at: home address, on a private driveway
+Annual mileage: 9,000
+
+Drivers
+1. {{PER#2:full}} (policyholder) - Full UK licence, 14 years
+2. {{PER#3:full}} - date of birth {{DATE:birth}} - spouse - Full UK licence, 11 years
+3. {{PER#4:full}} - date of birth {{DATE:birth}} - child - Full UK licence, 1 year
+
+Cover: Comprehensive. Use: social, domestic and pleasure including commuting.
+Compulsory excess {{AMOUNT}}   Voluntary excess {{AMOUNT}}
+Additional excess for driver 3 {{AMOUNT}}
+No claims discount: 9 years (protected)
+
+Premium
+Annual premium {{AMOUNT}} including Insurance Premium Tax
+Monthly by Direct Debit: 11 instalments of {{AMOUNT}} from account ending {{CARD4}}
+
+Underwritten by {{ORG#2:legal@insurance}}. Claims line (24 hours): {{PHONE}}.
+
+Please check these details carefully. If anything is wrong, contact your adviser {{PER#5:full}} on {{PHONE}} or {{EMAIL:PER#5}} before {{DATE:day_month}}.

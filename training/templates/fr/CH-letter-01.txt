@@ -1,0 +1,27 @@
+#country: CH
+#doctype: letter
+{{PER#1:full}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+
+{{ORG#1:legal@insurance}}
+Service sinistres
+{{LOC#2:po_box}}
+{{LOC#2:postcode_town}}
+
+{{LOC#1:town}}, le {{DATE:long}}
+
+Police ménage n° {{REF}} – déclaration de dégât d'eau
+
+Madame, Monsieur,
+
+Le {{DATE:day_month}}, une conduite a cédé dans l'appartement de ma voisine du dessus, {{TITLE#2}} {{PER#2:full}}. L'eau a endommagé le parquet de mon salon ainsi qu'un canapé acheté l'an passé chez {{ORG#2:name@retail}} (facture jointe, {{AMOUNT}}).
+
+La gérance {{ORG#3:legal@property}} a mandaté l'entreprise {{ORG#4:legal@trades}} pour les réparations du bâtiment; son technicien, {{TITLE#3}} {{PER#3:surname}}, est passé le lendemain et a constaté les dégâts.
+
+Je vous saurais gré de bien vouloir ouvrir un dossier et me faire savoir si un expert passera. Pour un éventuel versement : {{IBAN}}, au nom de {{PER#1:full}}.
+
+Avec mes meilleures salutations,
+
+{{PER#1:signature}}
+Tél. {{MOBILE}}

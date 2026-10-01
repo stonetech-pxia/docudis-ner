@@ -1,0 +1,50 @@
+#country: GB
+#doctype: bank
+# Letter from a real high-street bank about a joint account after a death, formal, long
+[[ORG|Nationwide Building Society]]
+Bereavement Services
+{{LOC#3:po_box}}
+{{LOC#3:postcode_town}}
+
+Private and confidential
+{{TITLE#1}} {{PER#1:full}}
+{{LOC#1:unit}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+
+{{DATE:long}}
+
+Our reference: {{REF}}
+
+Dear {{TITLE#1}} {{PER#1:surname}},
+
+Estate of the late {{PER#2:full}}
+
+Please accept our sincere condolences on the death of your father. Thank you for sending us a copy of the death certificate, which we have now returned to you by recorded delivery.
+
+We have registered the death on the following accounts held in the name of {{PER#2:initial_surname}}:
+
+Account type                 Account number    Balance at {{DATE:day_month}}
+FlexDirect current account   {{ACCOUNT}}           {{AMOUNT}}
+Loyalty Single Access ISA    {{ACCOUNT}}           {{AMOUNT:big}}
+Joint savings (with {{PER#3:full}})  {{ACCOUNT}}     {{AMOUNT}}
+
+The joint savings account will pass automatically to the surviving account holder, {{PER#3:full}}, and does not form part of the estate. We will write to {{PER#3:given}} separately at {{LOC#2:line}}.
+
+As the total held in {{PER#2:surname}}'s sole name is below our threshold, we can release the funds without a Grant of Probate. To do this, we need:
+
+1. The enclosed Statutory Declaration, signed by you as executor in front of a solicitor or commissioner for oaths.
+2. Proof of your identity and address.
+3. Details of the account the money should be paid into. This should be in your name or in the name of the estate, for example the client account of {{ORG#1:legal@legal}}, if {{PER#4:full}} at that firm is acting for you.
+
+Regular payments from the current account have been stopped. A Direct Debit to {{ORG#2:name@utility}} was returned unpaid on {{DATE:day_month}}; you may wish to contact them.
+
+If you have any questions, please call me on {{PHONE}} (Monday to Friday, 9am to 5pm) or e-mail {{EMAIL:PER#5}}. Please quote the reference above.
+
+Yours sincerely,
+
+{{PER#5:signature}}
+{{JOB}}
+Bereavement Services
+
+[[ORG|Nationwide Building Society]] is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority.

@@ -1,0 +1,34 @@
+#country: US
+#doctype: support
+Subject: Re: Ticket #{{REF}} - Charged twice for annual membership
+
+Hi {{PER#1:given}},
+
+Thanks for looking into this. To answer your questions:
+
+Account holder: {{PER#2:full}}
+Account email: {{EMAIL:PER#2}}
+Billing address: {{LOC#1:line}}
+Card: Visa ending {{CARD4}}
+Charges: {{AMOUNT}} on {{DATE:numeric}} and {{AMOUNT}} again on {{DATE:numeric}}
+
+The second charge happened when {{PER#3:full}}, who shares the account with me, tried to join the family plan from a phone. No one got a confirmation email. My bank ([[ORG|Chase]]) says the charge has posted and I have to dispute it with you first.
+
+Please refund the duplicate charge and confirm in writing. If it's easier to talk, I'm free after 3pm Central at {{MOBILE}}.
+
+Thanks,
+{{PER#2:given}}
+
+-----Original Message-----
+From: {{PER#1:full}} <{{EMAIL:ORG#1}}>
+Sent: {{DATE:long}}
+Subject: Ticket #{{REF}} - Charged twice for annual membership
+
+Hello {{PER#2:given}},
+
+I'm sorry for the trouble! So I can locate the account, could you send the account email, billing ZIP and the last four digits of the card?
+
+Best,
+{{PER#1:full}}
+{{DEPT}}
+{{ORG#1:legal@retail}}

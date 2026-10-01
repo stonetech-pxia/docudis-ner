@@ -1,0 +1,7 @@
+#country: FR
+#doctype: chat
+Salut, j'ai reçu ce SMS bizarre, c'est une arnaque tu crois ?
+
+« {{ORG#1:name@finance}} : Bonjour {{PER#1:given}}, une opération de {{AMOUNT}} a été bloquée sur votre carte ****{{CARD4}}. Si vous n'êtes pas à l'origine, contactez votre conseiller {{PER#2:full}} au {{PHONE}}. »
+
+Le truc c'est que la personne qui gère mon compte, c'est {{PER#3:full}}, à l'agence de {{LOC#1:town}}, pas {{PER#2:surname}}. Et j'ai jamais donné mon numéro à cette banque, je suis chez [[ORG|Crédit Agricole]] depuis le {{DATE:numeric}}.

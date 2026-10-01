@@ -1,0 +1,27 @@
+[[ORG|Microtechnique Jeanneret-Aebischer SA]]
+[[LOC|Rue des Parcs 115]]
+[[LOC|2000 Neuchâtel]]
+Tél. +41 32 724 66 10 · www.mja-precision.ch
+IDE CHE-158.302.447
+
+CERTIFICAT DE TRAVAIL
+
+Nous certifions que Madame [[PER|Laetitia Robert-Grandpierre]], née le [[DATE|25 octobre 1987]], originaire de [[LOC|Val-de-Travers]], a travaillé au sein de notre entreprise du [[DATE|1er mars 2016]] au [[DATE|31 août 2026]], d'abord en qualité de technicienne en contrôle qualité, puis, dès le [[DATE|1er janvier 2021]], comme responsable du laboratoire de métrologie de notre site de [[LOC|Marin-Epagnier]].
+
+Dans cette dernière fonction, rattachée au département Qualité et placée sous la responsabilité de M. [[PER|Philippe Aebischer-Monnat]], elle avait notamment pour tâches :
+- la conduite d'une équipe de quatre techniciens ;
+- l'étalonnage des moyens de mesure et la gestion du parc (environ 900 instruments) ;
+- la mise en place de la mesure tridimensionnelle sans contact, en collaboration avec la [[ORG|Haute École Arc]] ;
+- la préparation et le suivi des audits de certification ISO 9001 et ISO 13485 ;
+- la formation des nouveaux collaborateurs aux méthodes de contrôle.
+
+Mme [[PER|Robert-Grandpierre]] a accompli ses tâches avec une grande compétence, beaucoup de rigueur et un engagement constant, à notre entière satisfaction. Elle a su gagner la confiance de ses collègues, de ses supérieurs ainsi que de nos clients, en particulier lors des audits menés par [[ORG|Straumann]] en [[LOC|Allemagne]] et en [[LOC|Suisse]]. Son comportement a toujours été irréprochable.
+
+Mme [[PER|Robert-Grandpierre]] nous quitte de son plein gré afin de relever un nouveau défi professionnel. Nous regrettons son départ et lui adressons nos vœux les meilleurs pour son avenir.
+
+[[LOC|Neuchâtel]], le [[DATE|31 août 2026]]
+
+[[ORG|Microtechnique Jeanneret-Aebischer SA]]
+
+[[PER|Corinne Jeanneret]]                   [[PER|Philippe Aebischer-Monnat]]
+Directrice générale                 Responsable Qualité

@@ -1,0 +1,54 @@
+[[ORG|Aviva]] – Motor Claim Form
+Policy number: AVM-4471-889320          Claim reference: CLM/25/0661784
+Please answer every question. An incomplete form may delay your claim.
+
+1. POLICYHOLDER
+Title: Mr          Full name: [[PER|Ravinder Singh Bassan]]
+Address: [[LOC|112 Mauldeth Road West, Chorlton, Manchester M21 7RL]]
+Occupation: Pharmacist          Employer: [[ORG|Chorlton Green Pharmacy]]
+Date of birth: [[DATE|19 April 1979]]
+Telephone: 0161 881 4402          Mobile: 07702 118 350
+Email: rsbassan@btinternet.com
+National Insurance number: SA 64 89 23 C
+
+2. YOUR VEHICLE
+Make/model: Skoda Octavia Estate 2.0 TDI          Registration: MA19 KXV
+Where is the vehicle now? At the repairer (see section 8)
+
+3. DRIVER AT THE TIME OF THE ACCIDENT
+Name: [[PER|Harpreet Kaur Bassan]]          Relationship to policyholder: spouse
+Date of birth: [[DATE|02/12/1981]]          Licence held since: 2001
+Driving licence number: BASSA812021HK9WX
+
+4. THE INCIDENT
+Date: [[DATE|06/09/2025]]          Time: 17:40
+Location: junction of [[LOC|Barlow Moor Road]] and [[LOC|Wilbraham Road]], [[LOC|Manchester]]
+Weather: dry, light traffic
+What happened? I was driving north on [[LOC|Barlow Moor Road]] at about 25 mph. A silver Ford Fiesta pulled out
+of [[LOC|Wilbraham Road]] without stopping and hit our front nearside wing. The other driver apologised at the scene
+and said she had not seen us because of the parked bus.
+
+5. THIRD PARTY
+Name: MS [[PER|DONNA FAIRCLOUGH]]
+Address: [[LOC|3 Hawthorn Grove, Stretford M32 8JN]]
+Telephone: 07598 330 117
+Vehicle: Ford Fiesta, reg YF68 PLU          Insurer: [[ORG|Admiral]] (policy number not given)
+Injuries: none reported
+
+6. WITNESSES
+[[PER|Tomasz Rybak]] – cyclist – 07555 010 882
+[[PER|Leanne O'Hare]] – works at [[ORG|Chorlton Cycles & Repair]], [[LOC|Wilbraham Road]] – 0161 862 0930
+
+7. POLICE
+Did the police attend? Yes – [[LOC|Greater Manchester]] Police, incident log 1734 of [[DATE|06/09/2025]], officer PC 9921
+
+8. REPAIRER
+[[ORG|M21 Bodyworks]]
+[[LOC|Unit 3, Merseybank Industrial Estate]]
+[[LOC|Manchester M21 0HR]]
+Contact: [[PER|Gaz Whitlock]], Workshop Manager – 0161 445 7702
+Estimate: £2,846.10 inc. VAT
+
+9. DECLARATION
+I declare that the information above is true and that I have not withheld any material fact.
+Signed: [[PER|R. S. Bassan]]          Date: [[DATE|8 Sept 2025]]

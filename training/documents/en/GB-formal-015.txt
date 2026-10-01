@@ -1,0 +1,86 @@
+[[ORG|Quayside Analytics Ltd]]
+[[LOC|Level 3, The Sandhill Building]]
+[[LOC|22 Sandhill]]
+[[LOC|Newcastle upon Tyne NE1 3JF]]
+www.quaysideanalytics.co.uk
+
+STRICTLY PRIVATE AND CONFIDENTIAL
+Mr [[PER|Adewale Thistlethwaite]]
+[[LOC|15 Cragside Gardens]]
+[[LOC|Killingworth]]
+[[LOC|Newcastle upon Tyne NE12 6XT]]
+
+[[DATE|1 September 2026]]
+
+Dear [[PER|Adewale]],
+
+Offer of employment - Senior Data Engineer
+
+Following your interviews with [[PER|Lucinda Ferreira-Rowntree]] and me on [[DATE|19 August]] and [[DATE|26 August]], I am
+delighted to offer you the position of Senior Data Engineer with [[ORG|Quayside Analytics Ltd]] ("the Company"). This offer
+is subject to the conditions in section 9.
+
+1. Start date and continuous employment
+Your employment will start on [[DATE|5 October 2026]]. No previous employment counts towards your period of continuous
+employment.
+
+2. Place of work
+Our [[LOC|Newcastle]] office at the address above. You may work from home up to three days a week under our hybrid working
+policy. You may occasionally be asked to travel to client sites, mainly in [[LOC|Leeds]] and [[LOC|Edinburgh]].
+
+3. Salary
+£62,000 per annum, paid monthly in arrears on the last working day of the month by credit transfer. Your salary will be
+reviewed each April; the first review will be in April 2027.
+
+4. Hours
+37.5 hours a week, normally 9.00am to 5.30pm Monday to Friday with a one-hour lunch break, with flexibility agreed with your
+manager.
+
+5. Holidays
+27 days a year plus bank holidays. The holiday year runs from [[DATE|1 January]] to [[DATE|31 December]]. In 2026 your
+entitlement is pro rata: 7 days.
+
+6. Pension
+You will be enrolled in the company's group personal pension with [[ORG|Scottish Widows]]. The Company contributes 6% of basic
+salary where you contribute at least 4%.
+
+7. Benefits
+Private medical insurance with [[ORG|Bupa]] (you only), life assurance at 4x salary, a cycle-to-work scheme and an annual
+training budget of £1,500.
+
+8. Probation and notice
+There is a probationary period of six months. During probation either party may end employment on one week's notice.
+After probation the notice period is three months on either side.
+
+9. Conditions
+This offer is conditional on:
+ - two satisfactory references, one from your current employer, [[ORG|Tynegate Logistics plc]];
+ - proof of your right to work in the [[LOC|UK]] (please bring your passport on your first day);
+ - a basic DBS check.
+
+10. Payroll details
+Please complete the enclosed new starter form with your National Insurance number (SZ 00 35 58 D is the number we
+hold from your application; tell us if it is wrong), bank details and emergency contact, and return it to
+[[PER|Nadia Ellerby]] in People Operations, people@quaysideanalytics.co.uk.
+
+Your line manager will be [[PER|Lucinda Ferreira-Rowntree]], Head of Data Platform. Your full terms and conditions are set out
+in the enclosed statement of main terms, which together with this letter forms your contract of employment.
+
+Please sign and return one copy by [[DATE|11 September 2026]] to accept this offer.
+
+We are all looking forward to working with you.
+
+Yours sincerely
+
+[[PER|Gideon Hallworth]]
+Chief Technology Officer
+For and on behalf of [[ORG|Quayside Analytics Ltd]]
+
+--------------------------------------------------------------------------------
+I accept the offer of employment on the terms set out above.
+
+Signed: ________________________     Name: [[PER|Adewale Thistlethwaite]]     Date: ______________
+
+cc: [[PER|N. Ellerby]], People Operations; [[PER|L. Ferreira-Rowntree]]
+
+[[ORG|Quayside Analytics Ltd]], registered in [[LOC|England]] and [[LOC|Wales]] no. 10977412. Registered office: [[LOC|22 Sandhill, Newcastle upon Tyne NE1 3JF]].

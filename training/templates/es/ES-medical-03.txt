@@ -1,0 +1,37 @@
+#country: ES
+#doctype: medical
+#occupational mutual: sick-leave follow-up letter to a worker
+{{ORG#1:legal@insurance}}
+Mutua colaboradora con la Seguridad Social n.º {{NUM}}
+{{LOC#1:line}}
+
+{{TITLE#1}} {{PER#1:full}}
+{{LOC#2:street}}
+{{LOC#2:unit}}
+{{LOC#2:postcode_town}}
+
+{{LOC#1:town}}, {{DATE:long}}
+
+Asunto: Citación a reconocimiento médico
+N.º de expediente: {{REF}}
+DNI: {{NATID}}
+N.º de afiliación: {{TAXID}}
+Empresa: {{ORG#2:legal@employer}}
+
+Estimado/a {{TITLE#1}} {{PER#1:surname}}:
+
+En relación con el proceso de incapacidad temporal que inició el {{DATE:long}}, y en ejercicio de las funciones de seguimiento que nos atribuye la normativa, le citamos a reconocimiento médico en nuestro centro asistencial:
+
+Fecha: {{DATE:long}}
+Hora: 09:10
+Lugar: {{LOC#3:line}}
+Facultativo: Dra. {{PER#2:full}}
+
+Le rogamos que traiga los informes médicos de que disponga, en particular el informe de la resonancia realizada en {{ORG#3:name@health}} y el parte de su médico de cabecera. Si no puede acudir por causa justificada, debe comunicarlo antes de la fecha indicada al {{PHONE}} o a {{EMAIL:ORG#1}}.
+
+Le informamos de que la incomparecencia injustificada puede dar lugar a la extinción de la prestación, lo que se comunicará al Instituto Nacional de la Seguridad Social y a {{PUBLIC#2}}.
+
+Atentamente,
+
+{{PER#3:full}}
+{{DEPT}}

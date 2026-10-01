@@ -1,0 +1,63 @@
+[[ORG|Wensum Lodge Care Home]] — Application for Employment
+Post applied for: Night Care Assistant          Vacancy ref: WL/NCA/0925
+Please complete in black ink or type. CVs are not accepted in place of this form.
+
+SECTION 1 – PERSONAL DETAILS
+Title: Mrs
+Surname: [[PER|MWANGI-HOLT]]
+Forename(s): [[PER|Esther Wanjiru]]
+Previous surname(s): [[PER|Holt]]
+Address line 1: [[LOC|27 Colman Road]]
+Address line 2: [[LOC|Eaton]]
+Town: [[LOC|Norwich]]
+Postcode: [[LOC|NR4 7AW]]
+Telephone (home): 01603 552 184
+Mobile: 07961 330 257
+Email: esther.mwangiholt@gmail.com
+National Insurance No: HA 05 72 51 C
+Date of birth: [[DATE|02/11/1987]]
+Do you require a work permit to work in the UK? No
+Do you hold a full driving licence? Yes
+
+SECTION 2 – EMPLOYMENT HISTORY (most recent first)
+Employer: [[ORG|Bluebell Domiciliary Care]]
+Address: [[LOC|Unit 6, Hellesdon Park Road, Norwich NR6 5DR]]
+Job title: Care Worker
+From: [[DATE|01/04/2021]]     To: present
+Main duties: personal care, medication prompts, end-of-life care, care plans on the Birdie app
+Reason for leaving: looking for permanent night shifts
+
+Employer: [[ORG|Tesco Stores Ltd]]
+Address: [[LOC|Blue Boar Lane, Sprowston, Norwich NR7 8AB]]
+Job title: Customer Assistant (nights)
+From: [[DATE|15/09/2016]]     To: [[DATE|31/03/2021]]
+Reason for leaving: career change
+
+Gaps in employment: none
+
+SECTION 3 – TRAINING
+Care Certificate (completed [[DATE|12 July 2021]]), Level 3 Diploma in Adult Care (in progress),
+Moving and Handling refresher with [[ORG|Anglia Care Skills]] on [[DATE|4th March 2025]].
+
+SECTION 4 – REFERENCES
+One must be your current or most recent employer.
+1. Name: [[PER|Gareth Pinnock]]
+   Position: Registered Manager
+   Organisation: [[ORG|Bluebell Domiciliary Care]]
+   Tel: 01603 418 770    Email: gpinnock@bluebellcare.co.uk
+   May we contact before interview? Yes
+2. Name: [[PER|Shirin Vahedi]]
+   Position: Night Shift Manager
+   Organisation: [[ORG|Tesco Stores Ltd]], [[LOC|Sprowston]]
+   Tel: 07488 902 316
+   May we contact before interview? No
+
+SECTION 5 – DISCLOSURE
+An enhanced check will be requested from the Disclosure and Barring Service. Have you any unspent convictions? No
+
+DECLARATION
+I confirm the information on this form is true and complete.
+Signed: [[PER|E. W. Mwangi-Holt]]          Date: [[DATE|9 Sept 2025]]
+
+FOR OFFICE USE
+Received: [[DATE|10/09/2025]]   Shortlisted: Y   Interview: [[DATE|18/09/2025]] 10:30 with [[PER|Lorraine Pask]] (Deputy Manager)

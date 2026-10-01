@@ -1,0 +1,28 @@
+#general · Slack export
+
+[[PER|Lucía Quintanilla]]  9:02
+buenos días! recordad que hoy viene la gente de [[ORG|Bravant Consultores]] a lo de la auditoría de ciberseguridad
+
+[[PER|Hugo Rebollo]]  9:05
+a qué hora? tengo daily con los de [[ORG|Tecnalis]] a las 10
+
+[[PER|Lucía Quintanilla]]  9:06
+a las 11:30 en la sala grande. viene [[PER|Estíbaliz]] (la responsable) y un técnico, creo que [[PER|Marcos Peral]]
+
+[[PER|javi.m]]  9:11
+@[[PER|Lucía]] les dejo el portátil de pruebas? el del inventario IT-0442
+
+[[PER|Lucía Quintanilla]]  9:12
+sí porfa. y [[PER|hugo]] pásales el informe de accesos de enero
+
+[[PER|Hugo Rebollo]]  9:12
+👍 lo tengo del [[DATE|1 de enero]] al [[DATE|31 de enero]]. lo subo al drive
+
+[[PER|Paula Ferreras]]  9:40
+os recuerdo también que el [[DATE|6 de marzo]] cambiamos de oficina, la nueva dirección es [[LOC|Calle de Juan Bravo 51, planta 3, 28006 Madrid]]. el mensajero de [[ORG|SEUR]] viene a por las cajas el jueves [[DATE|5 de marzo]]
+
+[[PER|javi.m]]  9:41
+nos llevamos la cafetera verdad??
+
+[[PER|Paula Ferreras]]  9:41
+la cafetera es sagrada [[PER|javi]]

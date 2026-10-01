@@ -1,0 +1,23 @@
+[[PER|Ambrose Kittering]]
+[[LOC|The Laurels, 5 Seafield Road]]
+[[LOC|Colwyn Bay LL29 7HH]]
+
+[[DATE|14 September 2026]]
+
+To: [[PER|Shauna Delacroix-Hughes]]
+[[LOC|Flat 2, 40 Abergele Road]]
+[[LOC|Colwyn Bay LL29 7PA]]
+
+Dear [[PER|Shauna]],
+
+Notice of access for repairs
+
+Following your report of damp in the bathroom, [[ORG|Conwy Roofing & Leadwork]] will replace the flat roof above your flat on
+[[DATE|22 September]] and [[DATE|23 September]], 8am to 4pm. They will need to come inside on the first morning to check the
+ceiling. [[PER|Gethin]] from the firm will ring you on 07700 440 915 the day before.
+
+Please let me know if this is a problem.
+
+Kind regards,
+[[PER|Ambrose Kittering]]
+Landlord

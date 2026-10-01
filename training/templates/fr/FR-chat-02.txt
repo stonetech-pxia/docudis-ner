@@ -1,0 +1,18 @@
+#country: FR
+#doctype: chat
+Groupe « Parents CM2 B »
+
+{{PER#1:full}}
+Bonsoir à tous, petit rappel : la sortie au musée est le {{DATE:day_month}}, il faut rendre l'autorisation signée à {{TITLE#2}} {{PER#2:surname}} avant vendredi.
+
+{{PER#3:given}}
+Merci ! Et pour la participation de {{AMOUNT}}, on paye comment ?
+
+{{PER#1:given}}
+Par virement à la coopérative scolaire : IBAN {{IBAN}}, en indiquant le nom de l'enfant. Ou en liquide dans une enveloppe.
+
+{{PER#4:full}}
+Je peux accompagner si besoin, je suis en congé ce jour-là 🙂
+
+{{PER#1:given}}
+Super {{PER#4:given}}, je transmets à l'enseignant(e) !

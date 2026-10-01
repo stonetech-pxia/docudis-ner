@@ -1,0 +1,16 @@
+/target/
+.DS_Store
+*.log
+__pycache__/
+
+# Model binaries downloaded with tool/fetch_models.py; model.json specs stay tracked.
+models/**/*.onnx
+models/**/tokenizer.json
+models/**/vocab.txt
+models/**/config.json
+models/**/tokenizer_config.json
+models/**/label_map.json
+models/**/special_tokens_map.json
+
+# Generated training data (large; rebuild with training/build.py)
+training/out/

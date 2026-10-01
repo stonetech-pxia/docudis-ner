@@ -1,0 +1,42 @@
+[[ORG|Scioto Valley Fabrication, Inc.]]                                    Earnings Statement
+[[LOC|2250 Refugee Rd]]
+[[LOC|Columbus, OH 43207]]
+
+Pay Period: [[DATE|08/24/2026]] - [[DATE|09/06/2026]]         Pay Date: [[DATE|09/11/2026]]          Check No: DD-0088124
+
+Employee                                   Employee ID: 40317
+[[PER|DEVEREAUX-OKONKWO, JALEN M]]
+[[LOC|1187 Oakwood Ave Apt 2B]]
+[[LOC|Columbus OH 43206]]
+SSN: XXX-XX-8888
+Filing Status: Single    Federal Allowances: per 2020+ W-4    OH Exemptions: 1    School District: [[LOC|Columbus]] City 2503
+
+EARNINGS           Rate      Hours     This Period      YTD
+Regular           27.40      80.00        2,192.00   38,088.60
+Overtime          41.10       9.50          390.45    4,685.40
+Shift Diff         1.25      80.00          100.00    1,650.00
+Safety Bonus                                 150.00      450.00
+GROSS PAY                                  2,832.45   44,874.00
+
+TAXES                               This Period      YTD
+Federal Income Tax                       262.18    4,108.92
+Social Security                          172.33    2,738.33
+Medicare                                  40.30      640.43
+OH State Income Tax                       64.71    1,013.66
+[[LOC|Columbus]] City Tax (2.5%)                  69.90    1,107.94
+
+DEDUCTIONS                          This Period      YTD
+Medical - PPO Employee+Child              96.15    1,634.55
+Dental                                    11.40      193.80
+401(k) 6%                                170.00    2,692.44
+Union Dues - Local 1054                   38.00      646.00
+
+NET PAY                                  1,967.38
+
+Direct Deposit: [[ORG|Huntington National Bank]]  Acct XXXXXX4127   1,867.38
+                [[ORG|Kemba Financial Credit Union]]  Acct XXXXXX0591     100.00
+
+PTO Balance: 46.5 hrs    Sick: 22.0 hrs
+Supervisor: [[PER|Ray Kowalik]]    HR Contact: [[PER|Destiny Albright-Hume]], (614) 555-0192
+
+Plant closed Monday, [[DATE|September 7]] (Labor Day) - holiday pay included in Regular.

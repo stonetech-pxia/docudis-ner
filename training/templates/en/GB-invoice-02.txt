@@ -1,0 +1,54 @@
+#country: GB
+#doctype: invoice
+# Energy bill, first page, copied from the online account PDF
+{{ORG#1:legal@utility}}
+{{LOC#1:po_box}}
+{{LOC#1:postcode_town}}
+
+Your energy bill
+Bill date: {{DATE:long}}
+Account number: {{ACCOUNT}}
+Bill number: {{REF}}
+
+{{TITLE#2}} {{PER#2:full}}
+{{LOC#2:unit}}
+{{LOC#2:street}}
+{{LOC#2:postcode_town}}
+
+Supply address: {{LOC#2:line}}
+
+Hello {{PER#2:given}},
+
+Here's your bill for the period {{DATE:day_month}} to {{DATE:long}}.
+
+Summary
+Balance brought forward                     {{AMOUNT}}
+Payments received - thank you              -{{AMOUNT}}
+Electricity charges this period             {{AMOUNT}}
+Gas charges this period                     {{AMOUNT}}
+VAT at 5%                                   {{AMOUNT}}
+Balance now                                 {{AMOUNT}} in credit
+
+Electricity
+Meter serial {{NUM}}   Previous reading 41872 (actual) Present reading 42310 (actual)
+Units used 438 kWh at 24.50p/kWh
+Standing charge 91 days at 60.12p/day
+
+Gas
+Meter serial {{NUM}}   Previous reading 08833 (estimated) Present reading 09021 (actual)
+Units used 2091 kWh at 6.24p/kWh
+Standing charge 91 days at 31.43p/day
+
+Your Direct Debit
+We'll collect {{AMOUNT}} on or around {{DATE:day_month}} from the account ending {{CARD4}}.
+Account holder: {{PER#2:initial_surname}} and {{PER#3:initial_surname}}
+
+Anyone else on the account
+Second account holder: {{PER#3:full}}
+Contact number on file: {{MOBILE}}
+
+Moving home? Tell us at least 48 hours before you go. Call {{PHONE}}, Monday to Friday 8am to 8pm, or e-mail {{EMAIL:ORG#1}}.
+
+If you're not happy with how we've dealt with a complaint, you can contact the Energy Ombudsman after eight weeks.
+
+{{ORG#1:name}} is a trading name of {{ORG#1:legal}}. Registered in England and Wales, company number {{COMPANYID}}. Registered office: {{LOC#3:line}}. VAT number {{VAT}}.

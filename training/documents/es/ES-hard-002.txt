@@ -1,0 +1,19 @@
+AYUNTAMlENTO DE [[LOC|SALAMANCA]]
+Negociado de Padrón Municipal de Habitantes
+
+SOLICITUD DE ALTA EN EL PADRON
+Nº expediente: PAD-2026/0O4417
+
+Apel1idos y nombre: [[PER|VALDUNCIEL REBOLLO, NOELIA]]
+DNl / NIE: 63750731K     Fecha nac.: [[DATE|O9/11/1987]]
+Lugar nac.: [[LOC|Ciudad Rodrigo]] ([[LOC|Sa1amanca]])
+Domicilio: [[LOC|C/ Fuente del Rebollar, 7, 2º B, 37OO2 Salamanca]]
+Tel.: 623 1O8 554   e-mail: noelia.valdunciel @hotmail.es
+
+Personas que se empadronan en el mismo domici-
+lio:
+1. [[PER|Sandro Valdunciel Ribeiro]] (hijo) - f. nac. [[DATE|22/O3/2O15]]
+2. [[PER|Ribeiro Tavares, Fábio]] (pareja) - NIE Y2927312R
+
+Autoriza al titular de la vivienda: D. [[PER|Marcelino Hernández Sendín]]
+Firma y fecha: [[LOC|Sa1amanca]], [[DATE|1O de septiembre de 2O26]]

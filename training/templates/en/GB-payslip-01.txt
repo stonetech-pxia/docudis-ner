@@ -1,0 +1,39 @@
+#country: GB
+#doctype: payslip
+# Monthly payslip, flattened table from a payroll PDF
+{{ORG#1:legal@employer}}
+{{LOC#1:line}}
+PAYSLIP - PRIVATE AND CONFIDENTIAL
+
+Employee: {{PER#1:full}}
+Employee no: {{NUM}}
+Department: {{DEPT}}
+Job title: {{JOB}}
+NI number: {{NATID}}
+Tax code: 1257L   NI category: A
+Pay date: {{DATE:numeric}}
+Tax period: Month 6
+Home address: {{LOC#2:line}}
+
+PAYMENTS                    Units    Rate      Amount
+Basic salary                                   {{AMOUNT}}
+Overtime x1.5               6.00     {{AMOUNT}}    {{AMOUNT}}
+Shift allowance                                {{AMOUNT}}
+
+DEDUCTIONS
+PAYE income tax                                {{AMOUNT}}
+Employee NIC                                   {{AMOUNT}}
+Pension (salary sacrifice) 5%                  {{AMOUNT}}
+Student loan plan 2                            {{AMOUNT}}
+Cycle to work scheme                           {{AMOUNT}}
+
+Gross pay: {{AMOUNT}}     Total deductions: {{AMOUNT}}     NET PAY: {{AMOUNT}}
+
+YEAR TO DATE
+Taxable pay {{AMOUNT:big}}   Tax paid {{AMOUNT}}   Employee NIC {{AMOUNT}}   Employer pension {{AMOUNT}}
+
+Paid by BACS to sort code {{SORTCODE}}, account ending {{CARD4}}.
+Pension provider: {{ORG#2:name@finance}}. Holiday remaining: 14.5 days.
+
+Messages: Please check your details. Changes of bank or address must be sent to {{PER#2:full}} in {{DEPT}} by the 10th of the month ({{EMAIL:PER#2}}, ext. {{NUM}}).
+Employer PAYE ref: {{REF}}   Accounts office ref: {{REF}}

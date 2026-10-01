@@ -1,0 +1,23 @@
+#country: ES
+#doctype: lease
+#agency e-mail about renewal and rent update, short
+De: {{PER#1:full}} <{{EMAIL:ORG#1}}>
+Para: {{EMAIL:PER#2}}
+Fecha: {{DATE:numeric}} 10:42
+Asunto: Renovación contrato {{LOC#1:street}} - actualización de renta
+
+Buenos días, {{PER#2:given}}:
+
+Le escribo desde {{ORG#1:legal@property}} en nombre de la propiedad, {{TITLE#3}} {{PER#3:full}}, para recordarle que su contrato de alquiler de la vivienda de {{LOC#1:street}}, {{LOC#1:unit}}, vence el {{DATE:long}}.
+
+La propietaria desea renovar en las mismas condiciones, salvo la actualización anual de la renta, que pasaría de {{AMOUNT}} a {{AMOUNT}} al mes a partir del {{DATE:day_month}}.
+
+Si está de acuerdo, le enviaré el anexo para firma electrónica. Cualquier duda puede llamarme al {{PHONE}} o pasar por la oficina de {{LOC#2:line}}, de lunes a viernes de 9:30 a 14:00.
+
+Un saludo cordial,
+
+{{PER#1:full}}
+{{JOB}}
+{{ORG#1:name@property}}
+{{LOC#2:street}} · {{LOC#2:postcode_town}}
+Tel. {{PHONE}} · {{URL:ORG#1}}

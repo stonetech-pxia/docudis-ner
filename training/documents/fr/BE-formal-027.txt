@@ -1,0 +1,38 @@
+[[ORG|Centre Hospitalier Val-de-Sambre]]
+Service de pneumologie
+[[LOC|Rue de Montigny 88]]
+[[LOC|6000 Charleroi]]
+Secrétariat : 071 92 45 60 - pneumo@chvs.be
+
+Dr [[PER|Olivier Hanset]]
+Pneumologue - consultations lundi, mercredi et vendredi
+
+[[LOC|Charleroi]], le [[DATE|10/09/2026]]
+
+Dr [[PER|Isabelle Bruyninckx]]
+Médecin généraliste
+[[LOC|Rue Paul Pastur 15]]
+[[LOC|6040 Jumet]]
+
+Concerne : M. [[PER|Luigi Scarcella]] - [[DATE|22/03/1958]]
+[[LOC|Rue de la Providence 3, 6030 Marchienne-au-Pont]]
+
+Chère Consœur,
+
+Je vous remercie de m'avoir adressé votre patient, ancien ouvrier sidérurgiste retraité, fumeur sevré depuis 2019 (40 paquets-années), pour une dyspnée d'effort progressive depuis le printemps.
+
+Les épreuves fonctionnelles respiratoires du [[DATE|3 septembre]] montrent un syndrome obstructif modéré : VEMS 1,62 L (58 % de la valeur prédite), rapport VEMS/CVF 0,61, sans réversibilité significative après bronchodilatateur. La DLCO est abaissée à 64 %. Le scanner thoracique réalisé le [[DATE|5 septembre 2026]] objective un emphysème centrolobulaire à prédominance apicale et un nodule de 6 mm du lobe supérieur droit, d'aspect non suspect.
+
+Il s'agit donc d'une BPCO de stade GOLD 2, groupe B.
+
+Je propose :
+- tiotropium/olodaterol 2,5/2,5 µg, 2 inhalations le matin (technique vérifiée en consultation)
+- revalidation respiratoire au [[ORG|Centre de Revalidation Les Hêtres]] à [[LOC|Gosselies]], 3 fois par semaine pendant 12 semaines
+- vaccinations antigrippale et antipneumococcique à jour
+- scanner de contrôle du nodule dans 12 mois, soit vers septembre 2027
+
+Je reverrai M. [[PER|Scarcella]] dans trois mois, avec de nouvelles EFR. Son épouse, Mme [[PER|Rosaria Scarcella-Dimarco]], souhaite être tenue informée ; le patient a donné son accord.
+
+Bien confraternellement,
+
+Dr [[PER|O. Hanset]]

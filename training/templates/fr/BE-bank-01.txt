@@ -1,0 +1,21 @@
+#country: BE
+#doctype: bank
+# Avis de débit / confirmation de virement belge avec communication structurée, court.
+[[ORG|Belfius Banque]]
+Confirmation de votre virement
+
+Donneur d'ordre : {{PER#1:full}}
+Compte : {{IBAN}}
+Exécuté le : {{DATE:numeric}}
+
+Bénéficiaire : {{ORG#1:legal@property}}
+Adresse : {{LOC#1:line}}
+Compte bénéficiaire : {{IBAN}}
+BIC : {{BIC}}
+Montant : {{AMOUNT}}
+Communication structurée : {{REF}}
+
+Communication libre : Charges copropriété appartement {{LOC#2:unit}}, {{LOC#2:street}} - {{PER#1:surname}} / {{PER#2:surname}}
+
+Signé électroniquement via itsme par {{PER#1:initial_surname}} le {{DATE:short}}.
+Votre agence : {{LOC#3:postcode_town}}

@@ -1,0 +1,58 @@
+[[ORG|State Farm Fire and Casualty Company]]
+Claims Office - [[LOC|PO Box 106169]]
+[[LOC|Atlanta, GA 30348-6169]]
+
+[[DATE|September 4, 2026]]
+
+[[PER|Augustin Pelletier-Mbeki]]
+[[PER|Harriet Pelletier-Mbeki]]
+[[LOC|2718 Via Vista Dr]]
+[[LOC|Tucson, AZ 85716]]
+
+Claim Number:     03-81C7-44Q
+Policy Number:    93-GH-7714-2
+Date of Loss:     [[DATE|August 11, 2026]]
+Type of Loss:     Wind / Hail
+
+Dear Mr. and Mrs. [[PER|Pelletier-Mbeki]]:
+
+Thank you for allowing us to inspect your home following the monsoon storm of [[DATE|August 11]]. Our field adjuster,
+[[PER|Esteban Ruvalcaba]], met with you and your contractor, [[PER|Wade Tillinghast]] of [[ORG|Sonoran Summit Roofing, LLC]],
+at the property on [[DATE|August 19]].
+
+Based on the inspection, we have prepared the enclosed estimate. A summary follows:
+
+  Coverage A - Dwelling
+    Roof: remove and replace tile underlayment, south slope          $14,388.21
+    Stucco repair, east elevation                                      $1,922.40
+    Gutters and downspouts                                               $846.00
+    Replacement Cost Value (RCV)                                      $17,156.61
+    Less depreciation (recoverable)                                   -$3,204.77
+    Actual Cash Value (ACV)                                           $13,951.84
+    Less deductible (2% of Coverage A, $412,000)                      -$8,240.00
+    Net ACV payment                                                    $5,711.84
+
+  Coverage B - Other Structures
+    Backyard ramada, shade cloth                                         $610.00
+    Deductible already satisfied                                           $0.00
+
+  Total payment issued                                                 $6,321.84
+
+We are not able to pay for the damage to the pool heater. Our inspection found the unit failed because of long-term
+corrosion and wear, which is excluded under Section I - Losses Not Insured, item 2.b of your Homeowners Policy.
+
+The check will be made payable to [[PER|Augustin Pelletier-Mbeki]], [[PER|Harriet Pelletier-Mbeki]] and your mortgage
+company, [[ORG|Vantage West Credit Union]], loan ending 4419, as required by the mortgage clause. Recoverable depreciation of
+$3,204.77 may be claimed once repairs are complete, if you submit the final invoice within 2 years of the date of loss.
+
+If you have additional information about the pool heater, or disagree with our decision, please contact me. You may also
+contact the [[LOC|Arizona]] Department of Insurance and Financial Institutions, [[LOC|100 N 15th Ave, Suite 261, Phoenix, AZ 85007]].
+
+Sincerely,
+
+[[PER|Lorraine Castellanos-Webb]]
+Claim Specialist
+(844) 555-0172 ext. 3318
+statefarmfireclaims@statefarm.com
+
+cc: [[ORG|Sonoran Summit Roofing, LLC]], Attn: [[PER|W. Tillinghast]]

@@ -1,0 +1,11 @@
+RENT RECEIPT
+
+Date: [[DATE|9/1/2026]]                     Receipt #: 1177
+Received from: [[PER|Nalani Brightwater]]
+Amount: $1,380.00  (Money order #26-400871)
+For: Rent, [[DATE|Sept 1]] - [[DATE|Sept 30]], 2026
+Property: [[LOC|688 Cherokee St, Apt 3, Denver, CO 80204]]
+Balance due: $0.00
+
+Received by: [[PER|Arvid Lundqvist-Moreno]], Owner
+[[ORG|Lundqvist Rentals]], (303) 555-0114

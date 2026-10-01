@@ -1,0 +1,20 @@
+#country: GB
+#doctype: chat
+{{PER#1:full}}
+Hi, is the bike still available?
+{{DATE:short}}
+
+{{PER#2:full}}
+Yes still here. Collection only from {{LOC#1:postcode_town}}
+
+{{PER#1:full}}
+Great. Would you take {{AMOUNT}}? I can come tomorrow after work, about 6
+
+{{PER#2:full}}
+Can do {{AMOUNT}}, it was serviced at {{ORG#1:name@retail}} on {{DATE:day_month}} and has new tyres. Address is {{LOC#1:line}}. Ring the top bell, my flatmate {{PER#3:given}} might answer if I'm late
+
+{{PER#1:full}}
+Deal. Cash or bank transfer?
+
+{{PER#2:full}}
+Either. If transfer it's {{PER#2:initial_surname}}, {{SORTCODE}} / {{ACCOUNT}}. My number is {{MOBILE}} if you get lost

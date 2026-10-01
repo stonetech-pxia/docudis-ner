@@ -1,0 +1,36 @@
+[[PER|Hugo Brizolet]] et [[PER|Léa Santamaria]]
+[[LOC|8 rue Neuve Saint-Pierre]]
+[[LOC|33800 Bordeaux]]
+Tél. 06 71 24 58 90
+hugo.brizolet@laposte.net
+
+[[ORG|MAIF]]
+Gestion sinistres habitation
+[[LOC|200 avenue Salvador Allende]]
+[[LOC|79038 Niort]]
+
+[[LOC|Bordeaux]], le [[DATE|14 septembre 2026]]
+
+Objet : déclaration de sinistre dégât des eaux
+Sociétaire n° 2718304 V - contrat Raqvam n° 00486-551-09
+
+Madame, Monsieur,
+
+Nous vous déclarons un dégât des eaux survenu dans notre logement dans la nuit du [[DATE|10 septembre]] au [[DATE|11 septembre]].
+
+Une canalisation d'alimentation encastrée dans le mur de la salle de bains s'est rompue. L'eau s'est répandue dans le couloir et la chambre, et a traversé le plancher vers l'appartement du dessous, occupé par Mme [[PER|Colette Arramendy]]. Nous avons coupé l'arrivée d'eau vers 2 h du matin et prévenu le syndic, le [[ORG|Cabinet Laffargue Immobilier]], dès l'ouverture.
+
+L'entreprise [[ORG|Aquitaine Dépannage Services]] est intervenue le [[DATE|11/09/2026]] pour la réparation provisoire (facture jointe : 312,40 € TTC). Le constat amiable dégât des eaux a été rempli et signé avec Mme [[PER|Arramendy]] le [[DATE|12 septembre]] ; vous en trouverez une copie ci-jointe.
+
+Dommages constatés chez nous :
+- parquet chêne du couloir et de la chambre gondolé (environ 18 m²)
+- bas des cloisons et plinthes à reprendre
+- un matelas et un tapis hors d'usage (achetés en juin 2023 chez [[ORG|Maison Lannelongue Literie]])
+
+Nous restons disponibles pour la visite d'un expert. [[PER|Léa]] est joignable en semaine après 17 h au 06 18 33 04 27.
+
+Nous vous prions d'agréer, Madame, Monsieur, nos salutations distinguées.
+
+[[PER|Hugo Brizolet]]        [[PER|Léa Santamaria]]
+
+PJ : constat amiable, facture [[ORG|Aquitaine Dépannage Services]], 9 photos

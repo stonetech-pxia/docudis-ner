@@ -1,0 +1,28 @@
+#country: GB
+#doctype: bank
+# Current account statement, transactions flattened, copied from online banking
+Statement for {{TITLE#1}} {{PER#1:full}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+
+Account: Everyday Current Account
+Sort code: {{SORTCODE}}   Account number: {{ACCOUNT}}
+IBAN: {{IBAN}}   BIC: {{BIC}}
+Statement period: {{DATE:long}} to {{DATE:long}}
+
+Date       Description                                   Paid out     Paid in      Balance
+{{DATE:day_month}}   Balance brought forward                                                 {{AMOUNT}}
+{{DATE:day_month}}   DD {{ORG#2:name@utility}}                     {{AMOUNT}}                  {{AMOUNT}}
+{{DATE:day_month}}   FPI {{PER#2:full}} RENT SHARE                          {{AMOUNT}}      {{AMOUNT}}
+{{DATE:day_month}}   CARD {{ORG#3:name@retail}} {{LOC#3:town}}       {{AMOUNT}}                  {{AMOUNT}}
+{{DATE:day_month}}   SO {{PER#3:initial_surname}} LANDLORD         {{AMOUNT}}                  {{AMOUNT}}
+{{DATE:day_month}}   BGC {{ORG#4:legal@employer}} SALARY                   {{AMOUNT}}      {{AMOUNT}}
+{{DATE:day_month}}   FPO {{PER#4:full}} REF {{REF}}             {{AMOUNT}}                  {{AMOUNT}}
+{{DATE:day_month}}   CARD {{ORG#5:name@hospitality}}                   {{AMOUNT}}                  {{AMOUNT}}
+{{DATE:day_month}}   Arranged overdraft interest                   {{AMOUNT}}                  {{AMOUNT}}
+{{DATE:day_month}}   Balance carried forward                                                 {{AMOUNT}}
+
+Money in {{AMOUNT}}   Money out {{AMOUNT}}
+
+Your deposit is eligible for protection by the Financial Services Compensation Scheme.
+If you have a complaint, call us on {{PHONE}} or write to Customer Relations, {{LOC#4:line}}.

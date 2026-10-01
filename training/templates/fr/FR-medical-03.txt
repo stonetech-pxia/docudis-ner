@@ -1,0 +1,30 @@
+#country: FR
+#doctype: medical
+ARRÊT DE TRAVAIL – AVIS D'ARRÊT DE TRAVAIL
+Volet 3 – À conserver par l'assuré(e)
+
+Identification de l'assuré(e)
+Nom : {{PER#1:surname}}
+Prénom : {{PER#1:given}}
+N° d'immatriculation : {{NATID}}
+Adresse : {{LOC#1:street}}
+{{LOC#1:postcode_town}}
+Organisme d'affiliation : {{PUBLIC#1}}
+
+Employeur
+{{ORG#1:legal@employer}}
+{{LOC#2:line}}
+SIRET {{COMPANYID}}
+
+Prescription
+Arrêt initial
+Du {{DATE:numeric}} au {{DATE:numeric}} inclus
+Sorties autorisées sans restriction d'horaire : non
+Motif médical : (confidentiel, volets 1 et 2)
+
+Praticien
+Dr {{PER#2:full}}
+{{ORG#2:name@health}}
+{{LOC#3:street}}, {{LOC#3:postcode_town}}
+N° AM {{NUM}}
+Date : {{DATE:numeric}}

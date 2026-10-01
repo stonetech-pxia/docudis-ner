@@ -1,0 +1,52 @@
+#country: GB
+#doctype: insurance
+# Home insurance escape-of-water claim: loss adjuster's letter, long prose
+{{ORG#3:legal@insurance}}
+Chartered Loss Adjusters
+{{LOC#3:street}}
+{{LOC#3:postcode_town}}
+T {{PHONE}}   E {{EMAIL:ORG#3}}
+
+{{TITLE#1}} {{PER#1:full}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+
+{{DATE:long}}
+
+Your insurer: {{ORG#1:legal@insurance}}
+Policy number: {{REF}}
+Claim number: {{REF}}
+Our reference: {{REF}}
+Date of loss: {{DATE:long}}
+
+Dear {{TITLE#1}} {{PER#1:surname}},
+
+Escape of water - kitchen and rear reception room
+
+Thank you for meeting me at the property on {{DATE:day_month}}, together with your neighbour {{PER#2:full}}, who first noticed the water coming through the party wall. I am writing to confirm what we discussed and what happens next.
+
+Cause
+The leak came from a failed compression joint on the cold feed to the dishwasher. The plumber you called out, {{PER#3:full}} of {{ORG#2:legal@trades}}, has confirmed this in the invoice dated {{DATE:short}} and repaired the joint the same day. The plumber's charge for trace and access, {{AMOUNT}}, is covered under your policy and will be reimbursed in full.
+
+Damage
+- Kitchen: laminate floor lifted throughout, base units swollen along the sink run, plasterboard wet to 400 mm.
+- Rear reception room: carpet and underlay saturated, skirting boards damaged.
+- Contents: rug, bookcase and two dining chairs.
+
+Drying
+{{ORG#4:name@trades}} will install drying equipment on {{DATE:day_month}}. Please leave the dehumidifiers running; the additional electricity cost will be reimbursed at a flat rate of {{AMOUNT}} per week.
+
+Settlement
+Our current estimate of the claim is {{AMOUNT:big}} for buildings and {{AMOUNT}} for contents, less your policy excess of {{AMOUNT}}. Your buildings policy is in joint names with {{PER#4:full}}, so we will need both of you to sign the settlement form. If the property is mortgaged, please let us know the lender, as they may need to be named on the payment.
+
+Your neighbour's property at {{LOC#2:line}} also has some staining to the wall. {{PER#2:full}} should report this to their own insurer; I have given them my details.
+
+If you have any questions, please call me directly on {{MOBILE}}.
+
+Yours sincerely
+
+{{PER#5:initial_surname}} ACILA
+{{JOB}}
+for and on behalf of {{ORG#3:name}}
+
+cc: {{ORG#1:name}}, Home Claims

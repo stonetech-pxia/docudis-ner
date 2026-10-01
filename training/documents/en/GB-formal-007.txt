@@ -1,0 +1,13 @@
+RENT RECEIPT                                   No. 0412
+
+Received from:   [[PER|Delphine Achterberg]]
+Property:        [[LOC|Ground Floor Flat, 61 Clarendon Road]]
+                 [[LOC|Southsea PO4 0SE]]
+The sum of:      £925.00 (nine hundred and twenty-five pounds)
+Being rent for:  period [[DATE|1 September 2026]] - [[DATE|30 September 2026]]
+Paid by:         bank transfer on [[DATE|01/09/26]]
+Arrears:         nil
+
+Landlord: [[PER|Winston Okereke-Fairbairn]]
+[[LOC|4 Marmion Avenue, Southsea PO5 2BS]]
+Signed: [[PER|W. Okereke-Fairbairn]]     Date: [[DATE|2 Sept 2026]]

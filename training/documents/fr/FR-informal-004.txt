@@ -1,0 +1,59 @@
+De : [[PER|Clémentine Hurtaud]] <clem.hurtaud44@laposte.net>
+À : Service Client [[ORG|Bouygues Telecom]] <reponse-client@serviceclient.bouyguestelecom.fr>
+Date : [[DATE|23 janv. 2026]], 21:47
+Objet : RE: RE: Votre demande n° 7741-208-553 - Coupure internet
+
+Bonsoir,
+
+Je me permets de répondre encore une fois parce que manifestement personne ne lit mes messages. Ça fait maintenant TROIS semaines que je n'ai plus internet. Je télétravaille 3 jours par semaine et je suis obligée d'aller au coworking de mon beau-frère ([[ORG|La Cantine du Hangar]], pour ne pas le citer) pour bosser.
+
+Pour rappel :
+- titulaire : [[PER|Clémentine Hurtaud-Poirier]]
+- adresse de la ligne : [[LOC|4 allée des Hortensias]]
+[[LOC|Résidence Les Iris, bât. C]]
+[[LOC|44300 Nantes]]
+- n° client 1.08.447.219
+- tél fixe 02 40 59 81 26 / portable 07 62 14 90 33
+
+Le technicien devait passer le [[DATE|15/01]], il n'est jamais venu. Le [[DATE|20/01]] un sous-traitant ([[ORG|Réseaux Atlantique Services]] je crois) m'a appelée pour me dire qu'il fallait "une intervention sur le boîtier dans la rue" et qu'il n'avait pas d'autorisation de la mairie de [[LOC|Nantes]]. Depuis, silence radio.
+
+Je demande :
+1. une date d'intervention ferme
+2. le remboursement de l'abonnement (39,99 €/mois) depuis le [[DATE|2 janvier]]
+3. qu'on arrête de me répondre avec des messages automatiques
+
+Cordialement,
+[[PER|Clémentine Hurtaud-Poirier]]
+
+> Le [[DATE|21/01/2026]] à 10:12, Service Client [[ORG|Bouygues Telecom]] a écrit :
+>
+> Bonjour Madame [[PER|Hurtaud-Poirier]],
+>
+> Nous sommes désolés pour la gêne occasionnée. Votre dossier a bien été transmis à notre service technique, qui reviendra vers vous dans les meilleurs délais.
+>
+> Nous restons à votre disposition.
+> [[PER|Kévin]]
+> Conseiller Relation Client
+>
+>> Le [[DATE|18/01/2026]] à 19:05, [[PER|Clémentine Hurtaud]] a écrit :
+>>
+>> Bonjour, toujours pas de connexion, le voyant de la box est rouge. Le technicien n'est pas venu jeudi. Merci de me rappeler au 07 62 14 90 33.
+>> [[PER|C. Hurtaud-Poirier]]
+
+---
+
+De : Service Client [[ORG|Bouygues Telecom]]
+Date : [[DATE|26 janv. 2026]], 14:30
+Objet : RE: RE: RE: Votre demande n° 7741-208-553 - Coupure internet
+
+Bonjour Madame,
+
+Je fais suite à votre message et je vous présente nos excuses pour ce délai. J'ai repris personnellement votre dossier.
+
+Une équipe de notre partenaire interviendra le mardi [[DATE|3 février 2026]] entre 8h et 12h au niveau du point de raccordement situé à l'angle de la [[LOC|rue du Bocage]] et de l'[[LOC|allée des Hortensias]]. L'autorisation de voirie a été obtenue auprès de [[LOC|Nantes]] Métropole.
+
+Un geste commercial de 119,97 € correspondant à trois mois d'abonnement sera appliqué sur votre prochaine facture. En attendant, je vous ai activé 100 Go de données supplémentaires sur votre ligne mobile 07 62 14 90 33.
+
+Bien cordialement,
+[[PER|Nadia Ferhat-Lopez]]
+Service Réclamations

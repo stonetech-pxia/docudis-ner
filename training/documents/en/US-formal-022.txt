@@ -1,0 +1,41 @@
+[[ORG|Hawthorne Bridge Family Dentistry, PC]]
+[[LOC|3120 SE Belmont St, Suite 200]]
+[[LOC|Portland, OR 97214]]
+Phone (503) 555-0148   Fax (503) 555-0149
+billing@hawthornebridgedental.com
+
+PATIENT STATEMENT
+
+Statement date:      [[DATE|09/10/2026]]
+Account #:           HBD-60271
+Amount due:          $412.60
+Pay by:              [[DATE|10/10/2026]]
+
+Responsible party:
+[[PER|Marisol Quintanilla-Brandt]]
+[[LOC|4417 NE Going St]]
+[[LOC|Portland, OR 97218]]
+
+Patient: [[PER|Quintanilla-Brandt, Theo]]     DOB [[DATE|03/14/2012]]
+Primary insurance: [[ORG|Delta Dental of Oregon]], Member ID 9048812277, Group 00417
+Subscriber: [[PER|Marisol Quintanilla-Brandt]]
+
+Date        Provider        Code    Description                         Charge   Ins Paid   Adj     Pt Due
+[[DATE|07/22/2026]]  Dr. [[PER|Okafor]]       D0120   Periodic oral evaluation             68.00     54.40    0.00    13.60
+[[DATE|07/22/2026]]  [[PER|K. Lindqvist]] RDH  D1120   Prophylaxis - child                  92.00     73.60    0.00    18.40
+[[DATE|07/22/2026]]  [[PER|K. Lindqvist]] RDH  D0274   Bitewings - four films               84.00     67.20    0.00    16.80
+[[DATE|08/05/2026]]  Dr. [[PER|Okafor]]       D2392   Resin composite, 2 surf, post       265.00    132.50   14.50   118.00
+[[DATE|08/05/2026]]  Dr. [[PER|Okafor]]       D2392   Resin composite, 2 surf, post       265.00    132.50   14.50   118.00
+[[DATE|08/05/2026]]  Dr. [[PER|Okafor]]       D1351   Sealant, per tooth (x2)             128.00      0.00    0.00   128.00
+                                                                                               -------
+                                                                     Previous balance          0.00
+                                                                     Total patient due       412.60
+
+Note from our office: sealants were denied by [[ORG|Delta Dental]] as a frequency limitation (last placed [[DATE|6/2/2023]]).
+You may appeal within 180 days. Call [[PER|Brianna]] at our front desk if you would like us to send the appeal for you.
+
+Treating dentist: [[PER|Chidinma Okafor]], DMD
+Hygienist: [[PER|Kajsa Lindqvist]], RDH
+
+Payment options: pay online at hawthornebridgedental.com/pay, call with a card, or mail a check payable to
+[[ORG|Hawthorne Bridge Family Dentistry]] to the address above. We accept [[ORG|CareCredit]].

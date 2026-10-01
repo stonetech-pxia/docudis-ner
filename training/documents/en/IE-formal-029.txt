@@ -1,0 +1,48 @@
+[[ORG|Ó Flatharta Electrical Ltd]]
+RECI Registered Electrical Contractor No. 0044812
+[[LOC|Unit 6, Liosbán Business Park]]
+[[LOC|Tuam Road]]
+[[LOC|Galway H91 T2K7]]
+Tel: 091 771 408   Mobile: 087 316 2250
+Email: office@oflathartaelectrical.ie
+CRO No. 604319
+
+INVOICE                                              Invoice No: 2026-0391
+                                                     Date: [[DATE|10/09/2026]]
+                                                     Terms: 21 days
+
+Customer:
+[[PER|Nuala Keaveney-Brandão]]
+[[LOC|Cnoc na Gréine]]
+[[LOC|Bearna]]
+[[LOC|Co. Galway H91 C8W4]]
+
+Job: Rewire of kitchen and utility, EV charger installation
+Carried out: [[DATE|1st September]] - [[DATE|4th September 2026]]
+Electrician: [[PER|Pádraig Ó Flatharta]]   Apprentice: [[PER|Jakub Nowicki]]
+
+  Qty  Description                                             Unit €     Total €
+   1   Consumer unit upgrade, 18-way, RCBO protection          640.00      640.00
+  14   Double sockets, supply and fit                           48.00      672.00
+   6   LED downlighters, fire rated                             32.50      195.00
+   1   Cooker circuit 10mm, new isolator                       210.00      210.00
+   1   7kW EV charger (Zappi v2.1), incl. earth rod            895.00      895.00
+   1   Labour, 3.5 days (2 persons)                           1,540.00    1,540.00
+   1   Safe Electric Completion Certificate                     60.00       60.00
+
+                                        Net (goods & services)          4,212.00
+                                        VAT @ 13.5%                       568.62
+                                        TOTAL                            4,780.62
+                                        Less SEAI grant (EV charger)     -300.00
+                                        Less deposit paid [[DATE|20/08/2026]]  -1,000.00
+                                        BALANCE DUE                      3,480.62
+
+Payment by EFT to [[ORG|Bank of Ireland]], [[LOC|Eyre Square, Galway]]. Account name: [[ORG|Ó Flatharta Electrical Ltd]].
+BIC BOFIIE2D. Please use the invoice number as your reference; full account details are printed on your quote.
+
+The SEAI grant application (ref EVHC-26-118804) was submitted on your behalf on [[DATE|5 September]]. [[PER|Aoife]] in the
+office will let you know when it is approved.
+
+Go raibh maith agat,
+[[PER|Pádraig Ó Flatharta]]
+Director

@@ -1,0 +1,11 @@
+#country: ES
+#doctype: insurance
+# Recibo de prima de un seguro de decesos, corto
+{{ORG#1:legal@insurance}} — Recibo de prima
+Tomador: {{PER#1:surname_given}}  NIF {{NATID}}
+Domicilio: {{LOC#1:line}}
+Asegurados: {{PER#1:full}}, {{PER#2:full}}, {{PER#3:given}} {{PER#3:surname}}
+Póliza {{REF}} · Periodo {{DATE:numeric}} a {{DATE:numeric}}
+Prima neta {{AMOUNT}} · Impuestos {{AMOUNT}} · Total {{AMOUNT}}
+Cargo en cuenta {{IBAN}} el {{DATE:numeric}}
+Su agente: {{PER#4:full}}, tel. {{MOBILE}}

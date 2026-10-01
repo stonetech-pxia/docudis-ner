@@ -1,0 +1,20 @@
+[[ORG|Clínica Veterinària La Plana]]
+[[LOC|Av. Francesc Tàrrega, 25]] · [[LOC|12540 Vila-real]] · 964 526 318
+NIF: B72441652
+
+FACTURA 26-3108           [[DATE|11/09/2026]]
+Cliente: [[PER|Nuria Broch Gil]] · DNI 14838082T
+[[LOC|C/ Sant Pasqual, 83, 2º, 12540 Vila-real]]
+Paciente: "Tofu", gato europeo, 4 años
+
+Consulta urgencias             45,00
+Ecografía abdominal            60,00
+Sondaje uretral + sedación     95,00
+Hospitalización 24 h           70,00
+Medicación (Meloxicam oral)    12,40
+Base imp.                     282,40
+IVA 21 %                       59,30
+TOTAL                         341,70 €
+
+Veterinario: [[PER|Pau Mezquita Ortells]] (col. CS-1433)
+Revisión: [[DATE|18/09/2026]]

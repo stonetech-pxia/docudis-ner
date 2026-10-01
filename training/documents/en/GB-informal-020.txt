@@ -1,0 +1,47 @@
+[[ORG|Monzo]] in-app chat - exported [[DATE|28/05/2026]]
+
+[[DATE|27 May 2026]]
+
+Me, 21:04
+Hi, I've got a payment on my card I don't recognise. £349.99 to something called "TKX*ONLINEMKT" on [[DATE|25 May]]. I haven't bought anything that expensive. Card ending 9674.
+
+[[ORG|Monzo]], 21:06
+Hi there, you're chatting with [[PER|Eilidh]] 👋 I'm sorry to hear that. I've frozen the card for now so nothing else can go out. Can you confirm the full card number shown in the app is 4788 7930 3141 9674?
+
+Me, 21:07
+yes that's it
+
+[[ORG|Monzo]], 21:10
+Thanks. Have you shared your card details anywhere recently, or does anyone else have access to your phone?
+
+Me, 21:12
+not that I know of. my flatmate [[PER|Adwoa]] uses my laptop sometimes but she wouldn't. I did order a phone case from some site on [[DATE|20th May]], maybe that?
+
+[[ORG|Monzo]], 21:15
+That could be it. I've raised a dispute for the £349.99 and ordered you a replacement card to your address on file, [[LOC|Flat 9, 2 Brewer Street, Glasgow G3 7LA]]. It should arrive in 2 to 3 working days.
+
+Me, 21:16
+great. also, there's a transfer I'm expecting from my dad, [[PER|Kenneth Ure]], £500, will it still come in while the card's frozen?
+
+[[ORG|Monzo]], 21:17
+Yes, freezing the card doesn't stop money coming into the account.
+
+Me, 21:18
+ok good. he's sending from his [[ORG|HSBC]] account, GB53 HBUK 0289 5596 8952 01, is it ok if I give him my new details or do they stay the same
+
+[[ORG|Monzo]], 21:20
+Your account number and sort code stay the same, only the card changes. Please don't share his bank details in the chat though, just to be safe!
+
+Me, 21:20
+oops sorry. thanks [[PER|Eilidh]]
+
+[[ORG|Monzo]], 21:21
+No problem [[PER|Rowan]]. You'll get an update on the dispute by [[DATE|10 June]] at the latest. Anything else I can help with?
+
+Me, 21:21
+no that's all, thank you!
+
+[[DATE|28 May 2026]]
+
+[[ORG|Monzo]], 09:02
+Morning [[PER|Rowan]], [[PER|Hamza]] here from the disputes team. The merchant has refunded the £349.99, you should see it in your feed. The replacement card was posted this morning.

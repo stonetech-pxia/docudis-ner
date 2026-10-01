@@ -1,0 +1,35 @@
+#country: GB
+#doctype: cv
+Curriculum Vitae
+
+Name: {{PER#1:full}}
+Address: {{LOC#1:line}}
+Telephone: {{MOBILE}}
+Email: {{EMAIL:PER#1}}
+Date of birth: {{DATE:birth}}
+Nationality: British
+
+Personal statement
+I am a caring and reliable person looking for a part-time role as a healthcare assistant. For the last six years I have looked after my father at home, and I want to use what I have learned to help others. I am calm under pressure and good with people who are confused or frightened.
+
+Work history
+{{DATE:numeric}} - {{DATE:numeric}}  Care Assistant (bank), {{ORG#1:legal@health}}, {{LOC#2:town}}
+Personal care, meals and medication prompts for residents with dementia. Night shifts.
+
+{{DATE:numeric}} - {{DATE:numeric}}  Sales Assistant, {{ORG#2:name@retail}}, {{LOC#2:town}}
+Tills, stock, opening and closing the shop.
+
+Voluntary work
+Befriender with {{ORG#3:name}} (weekly visits to an older gentleman living alone)
+
+Training
+Care Certificate (all 15 standards) - completed {{DATE:long}}
+Level 2 Food Hygiene
+First Aid at Work
+
+Hobbies
+Swimming, sewing, and helping at my church's lunch club.
+
+References
+{{TITLE#2}} {{PER#2:full}}, {{JOB}}, {{ORG#1:name}}, {{LOC#3:line}}, {{PHONE}}
+{{TITLE#4}} {{PER#4:full}}, family friend, {{MOBILE}}

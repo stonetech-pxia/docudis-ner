@@ -1,0 +1,31 @@
+#country: GB
+#doctype: insurance
+# Pet insurance claim form, filled in, short
+PET CLAIM FORM - {{ORG#1:name@insurance}}
+
+Section 1 - Policyholder
+Policy no: {{REF}}
+Name: {{PER#1:full}}
+Postcode / town: {{LOC#1:postcode_town}}
+Phone: {{MOBILE}}
+Email: {{EMAIL:PER#1}}
+
+Section 2 - Pet
+Name: Biscuit   Species: dog   Breed: Cockapoo   Date of birth: {{DATE:numeric}}
+
+Section 3 - Claim
+Condition: ear infection, left ear
+First signs noticed: {{DATE:numeric}}
+Treatment dates: {{DATE:numeric}} and {{DATE:numeric}}
+Amount claimed: {{AMOUNT}}
+Pay: the vet directly
+
+Section 4 - Vet to complete
+Practice: {{ORG#2:legal@health}}
+Address: {{LOC#2:line}}
+Treating vet: {{PER#2:full}} MRCVS
+Previously registered with: {{ORG#3:name@health}} until {{DATE:day_month}}
+
+Declaration: I confirm the information is correct.
+Signed: {{PER#1:signature}}     Date: {{DATE:short}}
+Vet stamp and signature: {{PER#2:initial_surname}}

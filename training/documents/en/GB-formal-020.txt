@@ -1,0 +1,22 @@
+[[ORG|Carnmoney Lodge Care Home Ltd]]   [[LOC|52 Doagh Road, Newtownabbey BT36 6AX]]   Payroll 028 9084 3321
+------------------------------------------------------------------------------------------------
+Name          [[PER|Nomvula Ferguson-Dlamini]]          Staff No   CL-0418
+Job           Senior Care Assistant (nights)      NI No      WG 70 36 80 D
+Pay date      [[DATE|04/09/2026]]                          Tax Code   1257L W1/M1
+Tax period    Week 23                             NI Letter  A
+------------------------------------------------------------------------------------------------
+Hours/Payments                   Hrs     Rate      £          Deductions              £
+Basic nights                    36.0    13.40    482.40       Income Tax            43.40
+Sleep-in allowance               2 x    45.00     90.00       National Insurance    22.95
+Bank holiday enhancement        12.0     6.70     80.40       Pension (5%)          29.71
+Training (Moving & Handling)     3.0    12.60     37.80       Union - [[ORG|UNISON]]         3.61
+------------------------------------------------------------------------------------------------
+Gross                                            690.60       Total deductions      99.67
+Net pay                                                                            590.93
+------------------------------------------------------------------------------------------------
+Year to date: Gross 13,944.20  Tax 882.60  NI 461.40  Pension 597.68
+Paid to: [[ORG|Danske Bank]] acct ending 7702
+
+Home address on file: [[LOC|19 Monkstown Avenue, Newtownabbey, Co. Antrim BT37 0HU]]
+Manager: [[PER|Ciarán McAleese]]      Payroll: [[PER|Heather Loughran]]
+Your AccessNI renewal is due [[DATE|30 November 2026]]. Please see [[PER|Heather]] before then.

@@ -1,0 +1,35 @@
+[[ORG|Clínica Neurológica Irati]]
+[[LOC|Avenida de Pío XII, 36, 2ª planta]]
+[[LOC|31008 Pamplona]] / [[LOC|Iruña]]
+Tel. 948 177 402 · citas@clinicairati.com
+
+INFORME DE CONSULTA
+
+Paciente: [[PER|ARREGUI ZABALZA, KOLDO]]
+Fecha de nacimiento: [[DATE|22/11/1964]]
+DNI: 79001200H
+Nº historia: 20413
+Fecha de consulta: [[DATE|10/09/2026]]
+Médico remitente: Dra. [[PER|Maite Oyarzun Lacalle]] (Centro de Salud de [[LOC|Tafalla]])
+
+Motivo de consulta
+Paciente de 61 años remitido por temblor de reposo en mano derecha de unos ocho meses de evolución, con lentitud progresiva para abrocharse la ropa, según refiere su esposa, [[PER|Arantxa]], que le acompaña.
+
+Antecedentes
+HTA en tratamiento con enalapril 10 mg. Colecistectomía en [[ORG|Hospital San Juan de Dios de Pamplona]] en marzo de 2015. Exfumador desde 2010. Trabaja como agricultor en [[LOC|Olite]].
+
+Exploración
+Temblor de reposo 4-5 Hz en MSD, rigidez en rueda dentada leve, bradicinesia en tapping derecho. Marcha con disminución del braceo derecho. Resto sin hallazgos.
+
+Juicio clínico
+Síndrome parkinsoniano de predominio derecho, probable enfermedad de Parkinson idiopática, estadio 1 de Hoehn y Yahr.
+
+Plan
+- DaTSCAN, solicitado en [[ORG|Clínica Universidad de Navarra]].
+- Inicio de rasagilina 1 mg/día.
+- Fisioterapia; se facilita contacto de [[ORG|Fisioterapia Ultzama]] ([[LOC|Burlada]]).
+- Revisión en tres meses, cita el [[DATE|14 de diciembre de 2026]] a las 10:30.
+
+[[PER|Iñaki Goñi Urrutia]]
+Neurología
+Nº colegiado 31/06112

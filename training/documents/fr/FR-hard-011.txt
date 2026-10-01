@@ -1,0 +1,14 @@
+[[ORG|FORM'OCCITANIE SÉCURITÉ]] – organisme de formation n° 76 34 09812 34
+Feuille d'émargement – Sauveteur Secouriste du Travail (SST), formation initiale
+Lieu : [[LOC|salle 2, 410 rue de la Castelle, 34070 Montpellier]]
+Formatrice : [[PER|RIBEIRO Manon]]
+Client : [[ORG|Clinique vétérinaire des Garrigues]], [[LOC|Castelnau-le-Lez]]
+
+| Stagiaire | Fonction | Lun. [[DATE|05/10]] matin | Lun. [[DATE|05/10]] après-midi | Mar. [[DATE|06/10]] matin |
+| [[PER|AZOULAY Nathan]] | ASV | [[PER|N. Azoulay]] | [[PER|N. Azoulay]] | [[PER|N. Azoulay]] |
+| [[PER|BOUSQUET-FARAH Inès]] | vétérinaire | [[PER|Bousquet]] | [[PER|Bousquet]] | ABSENTE |
+| [[PER|Cabrol, Julien]] | accueil | [[PER|J. Cabrol]] | [[PER|J. Cabrol]] | [[PER|J. Cabrol]] |
+| [[PER|MAZET Anne-Sophie]] | ASV | [[PER|Mazet]] | [[PER|Mazet]] | [[PER|Mazet]] |
+
+Absence de Mme [[PER|Bousquet-Farah]] justifiée (garde).
+Signature formatrice : [[PER|Manon R.]]

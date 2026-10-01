@@ -1,0 +1,31 @@
+Titre : Dépassement d'honoraires pas annoncé chez un spécialiste, normal ?
+
+Publié par petite_fourmi37 - [[DATE|02/04/2026]]
+
+Bonjour,
+
+Je voudrais un avis avant d'aller plus loin. Mon mari ([[PER|Olivier]]) a été opéré du genou le [[DATE|12 février]] à la [[ORG|Clinique du Val de Loire]] à [[LOC|Tours]] par le Dr [[PER|Raphaël Montagnon]], chirurgien orthopédiste. Au rendez-vous pré-op on nous avait parlé d'un dépassement "d'environ 300 €". On a reçu une facture de 850 € de dépassement, plus 190 € pour l'anesthésiste (Dr [[PER|Hsu]], que personne n'avait mentionné).
+
+Rien n'a été signé, pas de devis écrit. La secrétaire, une dame très gentille qui s'appelle [[PER|Véronique]], nous a dit au téléphone que "c'est toujours comme ça".
+
+La mutuelle ([[ORG|MGEN]]) rembourse 200 % BR, donc il nous reste environ 600 € à charge.
+
+- Est-ce qu'un devis écrit n'était pas obligatoire au-dessus de 70 € ?
+- On écrit à qui, au médecin, à la clinique, à la CPAM d'[[LOC|Indre-et-Loire]] ?
+- Le conseil de l'ordre peut faire quelque chose ?
+
+Merci à ceux qui prendront le temps de répondre.
+
+---
+
+Réponse de Bruno_ex_infirmier - [[DATE|02/04/2026]]
+
+Oui, au-delà de 70 € de dépassement, l'information écrite préalable est obligatoire. Écrivez d'abord au Dr [[PER|Montagnon]] en recommandé en demandant de ramener le dépassement au montant annoncé oralement. En copie : la direction de la clinique. S'il refuse, la CPAM peut faire une conciliation, et le conseil départemental de l'ordre des médecins aussi.
+
+Pour l'anesthésiste c'est plus compliqué, il aurait dû vous voir en consultation pré-anesthésique, vérifiez sur le compte ameli si elle a été facturée.
+
+---
+
+Réponse de petite_fourmi37 - [[DATE|03/04/2026]]
+
+Merci [[PER|Bruno]]. Effectivement la consultation pré-anesthésique a été faite le [[DATE|4/02]], par un autre médecin (Dr [[PER|Oyelaran-Mercier]]) et pas le Dr [[PER|Hsu]]. Je vais écrire aux deux.

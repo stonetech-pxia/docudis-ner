@@ -1,0 +1,19 @@
+#country: CH
+#doctype: cv
+{{PER#1:full}}
+{{LOC#1:street}} · {{LOC#1:postcode_town}}
+{{MOBILE}} · {{EMAIL:PER#1}}
+Permis C · Date de naissance : {{DATE:birth}}
+
+Expérience
+{{JOB}}, {{ORG#1:legal@hospitality}}, {{LOC#1:town}} – depuis {{DATE:short}}
+Gestion d'une brigade de 7 personnes, carte de saison, commandes et contrôle HACCP.
+
+Cuisinier(ère), {{ORG#2:name@hospitality}}, {{LOC#2:town}} – {{DATE:short}} au {{DATE:short}}
+
+Formation
+CFC de cuisinier, {{ORG#3:name@school}}, {{LOC#2:town}}
+Brevet fédéral de chef de cuisine (en cours)
+
+Références sur demande :
+{{PER#2:full}}, directeur(trice), {{ORG#1:name}}, {{PHONE}}

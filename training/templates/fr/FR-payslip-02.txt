@@ -1,0 +1,13 @@
+#country: FR
+#doctype: payslip
+# Attestation d'emploi CESU d'une particulière employeur, très courte.
+Attestation d'emploi - Cesu
+Employeur : {{TITLE#1}} {{PER#1:full}}, {{LOC#1:line}}
+N° Cesu : {{NUM}}
+Salarié(e) : {{PER#2:full}}, {{LOC#2:line}}
+N° de sécurité sociale : {{NATID}}
+Garde d'enfant à domicile, {{NUM}} heures déclarées du {{DATE:short}} au {{DATE:short}}
+Salaire net horaire : {{AMOUNT}} - Salaire net versé : {{AMOUNT}}
+Dont congés payés : {{AMOUNT}}
+Prélèvement à la source : {{AMOUNT}}
+Montant réglé à {{PER#2:given}} le {{DATE:numeric}} sur son compte [[ORG|La Banque Postale]]

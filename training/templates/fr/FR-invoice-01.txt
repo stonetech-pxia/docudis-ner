@@ -1,0 +1,44 @@
+#country: FR
+#doctype: invoice
+# Facture d'artisan plombier, en-tête, bloc client, tableau aplati, mentions légales.
+{{ORG#1:legal@trades}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+Tél. {{PHONE}} - {{EMAIL:ORG#1}}
+SIRET {{COMPANYID}} - TVA intracom. {{VAT}}
+
+FACTURE N° {{REF}}
+Date : {{DATE:numeric}}
+
+Client :
+{{TITLE#2}} {{PER#2:full}}
+{{LOC#2:street}}
+{{LOC#2:unit}}
+{{LOC#2:postcode_town}}
+
+Adresse du chantier : {{LOC#3:line}}
+Intervention du {{DATE:short}}, technicien : {{PER#1:given}} ({{PER#1:full}})
+
+Désignation | Qté | P.U. HT | Total HT
+Recherche de fuite sous évier | 1 | {{AMOUNT}} | {{AMOUNT}}
+Remplacement siphon PVC 40 mm | 1 | {{AMOUNT}} | {{AMOUNT}}
+Main d'œuvre (h) | {{NUM}} | {{AMOUNT}} | {{AMOUNT}}
+Déplacement zone 2 | 1 | {{AMOUNT}} | {{AMOUNT}}
+
+Total HT : {{AMOUNT}}
+TVA 10 % : {{AMOUNT}}
+Total TTC : {{AMOUNT}}
+Acompte versé le {{DATE:short}} : {{AMOUNT}}
+Reste à payer : {{AMOUNT}}
+
+Règlement à réception par virement :
+Titulaire : {{ORG#1:legal@trades}}
+IBAN {{IBAN}} - BIC {{BIC}}
+Banque : [[ORG|Crédit Mutuel]]
+
+En cas de retard de paiement, pénalités au taux de trois fois le taux d'intérêt légal et indemnité forfaitaire de 40 € pour frais de recouvrement.
+Assurance décennale : [[ORG|MAAF Assurances]], contrat n° {{REF}}.
+
+Merci de votre confiance, {{TITLE#2}} {{PER#2:surname}}.
+{{PER#3:signature}}
+{{JOB}}

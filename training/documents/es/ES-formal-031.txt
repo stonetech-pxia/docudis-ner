@@ -1,0 +1,37 @@
+CERTIFICADO DE RETENCIONES E INGRESOS A CUENTA DEL IMPUESTO SOBRE LA RENTA DE LAS PERSONAS FÍSICAS
+(Rendimientos del trabajo · artículo 108 del Reglamento del IRPF)
+
+Ejercicio: 2025
+
+DATOS DEL PAGADOR
+Nombre o razón social: [[ORG|ACEITES SIERRA MÁGINA, S. COOP. AND.]]
+NIF: F23067143
+Domicilio fiscal: [[LOC|Carretera de Jimena, km 2,3]]
+                  [[LOC|23400 Úbeda]] ([[LOC|Jaén]])
+
+DATOS DEL PERCEPTOR
+Apellidos y nombre: [[PER|TORRES ORTEGA, MANUEL JESÚS]]
+NIF: 60903810V
+Domicilio: [[LOC|C/ Real de San Nicolás, 7]]
+           [[LOC|23400 Úbeda]]
+Situación familiar: 2 (cónyuge a cargo)
+Fecha de nacimiento: [[DATE|28/02/1980]]
+
+RENDIMIENTOS DEL TRABAJO
+                                          Dinerarios      Especie
+Íntegros satisfechos                      24.918,60          0,00
+Retenciones practicadas                    2.143,00          0,00
+Gastos deducibles (cotizaciones S.S.)      1.623,46
+Contrato: fijo discontinuo (campaña de aceituna [[DATE|1 de noviembre]] – [[DATE|28 de febrero]] y envasado)
+Reducción por movilidad geográfica: no
+
+OTRAS PRESTACIONES
+Dietas exceptuadas de gravamen: 312,00 € (desplazamientos a la almazara de [[LOC|Bedmar]])
+
+Y para que conste y surta efectos ante la Agencia Estatal de Administración Tributaria, se expide el presente certificado en [[LOC|Úbeda]], a [[DATE|20 de enero de 2026]].
+
+[[PER|Josefa Moral Cazorla]]
+Gerente
+[[ORG|Aceites Sierra Mágina, S. Coop. And.]]
+
+Nota: los datos coinciden con los declarados en el modelo 190. Para cualquier corrección, contacte con la asesoría de la cooperativa, [[ORG|Asesores Loma de Úbeda, S.L.]] (953 750 214, laboral@asesoreslomaubeda.es), a la atención de [[PER|Sergio Anguita]].

@@ -1,0 +1,42 @@
+[[ORG|LABORATOIRE BIOPÔLE FLANDRES]]
+Site principal - [[LOC|118 boulevard de la Liberté, 59000 Lille]]
+Biologiste responsable : Dr [[PER|Fatoumata Keïta-Leblond]]
+Tél. 03 20 57 09 64 - resultats@biopole-flandres.fr
+SELAS au capital de 120 000 € - SIRET 08014424900028
+
+COMPTE RENDU D'ANALYSES
+
+Patient      : [[PER|DERVAUX Maxence]]
+Né le        : [[DATE|21/10/1999]]    Sexe : M
+Adresse      : [[LOC|27 rue de Wazemmes, 59000 Lille]]
+N° dossier   : 2609-15-0412
+Prélevé le   : [[DATE|15/09/2026]] à 07:52 (à jeun)
+Reçu le      : [[DATE|15/09/2026]] à 09:10
+Édité le     : [[DATE|15/09/2026]] à 16:34
+Prescripteur : Dr [[PER|Rémi Joubaud]], [[LOC|Roubaix]]
+Copie        : Dr [[PER|Inès Ferrandou]]
+
+HÉMATOLOGIE
+                                  Résultat     Unités      Valeurs de référence    Antériorité ([[DATE|02/03/2026]])
+Hématies                          5,02         T/L         4,28 - 5,79             4,96
+Hémoglobine                       14,6         g/dL        13,4 - 16,7             14,3
+Hématocrite                       43,1         %           39,2 - 48,6             42,8
+VGM                               85,9         fL          78,0 - 98,0             86,3
+Leucocytes                        8,9          G/L         3,6 - 10,5              7,4
+Plaquettes                        246          G/L         150 - 400               231
+
+BIOCHIMIE
+Glycémie à jeun                   0,97         g/L         0,70 - 1,05
+Créatinine                        88           µmol/L      64 - 104
+DFG (CKD-EPI)                     > 90         mL/min
+Cholestérol total                 2,31  H      g/L         < 2,00                  2,18
+HDL                               0,49         g/L         > 0,40
+LDL calculé                       1,58  H      g/L         < 1,60 selon risque
+Triglycérides                     1,21         g/L         < 1,50
+ALAT                              42    H      UI/L        < 41
+Ferritine                         196          µg/L        30 - 400
+
+Commentaire : légère élévation isolée des ALAT, à contrôler dans 3 mois.
+
+Validé par Dr [[PER|F. Keïta-Leblond]], biologiste médicale
+Examens accrédités COFRAC n° 8-3412, portée disponible sur www.cofrac.fr

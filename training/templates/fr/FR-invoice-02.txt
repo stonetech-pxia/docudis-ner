@@ -1,0 +1,63 @@
+#country: FR
+#doctype: invoice
+# Facture d'électricité et de gaz d'un fournisseur alternatif, texte copié depuis l'espace client (long).
+{{ORG#1:name@utility}}
+Votre facture d'électricité et de gaz
+
+Facture du {{DATE:long}}
+N° de facture : {{REF}}
+Référence client : {{ACCOUNT}}
+Période de consommation : du {{DATE:short}} au {{DATE:short}}
+
+Titulaire du contrat
+{{TITLE#1}} {{PER#1:full}}
+{{LOC#1:street}}
+{{LOC#1:unit}}
+{{LOC#1:postcode_town}}
+
+Adresse de livraison : {{LOC#2:line}}
+Co-titulaire : {{TITLE#2}} {{PER#2:full}}
+
+Montant total à payer : {{AMOUNT}}
+Prélevé le {{DATE:day_month}} sur le compte {{IBAN}}
+
+Détail de votre facture
+
+ÉLECTRICITÉ - Offre Heures Creuses Verte
+Point de livraison (PDL) : {{NUM}}
+Puissance souscrite : 9 kVA
+Index relevé le {{DATE:numeric}} par {{PER#3:full}}, technicien [[ORG|Enedis]]
+Heures pleines : {{NUM}} kWh x {{AMOUNT}} = {{AMOUNT}}
+Heures creuses : {{NUM}} kWh x {{AMOUNT}} = {{AMOUNT}}
+Abonnement (2 mois) : {{AMOUNT}}
+Acheminement : {{AMOUNT}}
+Accise sur l'électricité : {{AMOUNT}}
+Contribution tarifaire d'acheminement : {{AMOUNT}}
+Sous-total électricité TTC : {{AMOUNT}}
+
+GAZ NATUREL - Offre Prix Fixe 2 ans
+Point de comptage (PCE) : {{NUM}}
+Consommation estimée : {{NUM}} kWh
+Distributeur : [[ORG|GRDF]]
+Consommation : {{AMOUNT}}
+Abonnement : {{AMOUNT}}
+Accise sur le gaz naturel : {{AMOUNT}}
+Sous-total gaz TTC : {{AMOUNT}}
+
+Total TVA : {{AMOUNT}}
+Total TTC : {{AMOUNT}}
+Déjà réglé par mensualités : {{AMOUNT}}
+Solde : {{AMOUNT}}
+
+Votre échéancier
+{{DATE:day_month}} : {{AMOUNT}}
+{{DATE:day_month}} : {{AMOUNT}}
+{{DATE:day_month}} : {{AMOUNT}}
+
+Bonjour {{PER#1:given}},
+votre consommation est en baisse de 8 % par rapport à la même période l'an dernier. Pour toute question, notre équipe (aujourd'hui {{PER#4:given}}) vous répond du lundi au samedi au {{PHONE}} (appel non surtaxé) ou par e-mail à {{EMAIL:ORG#1}}.
+
+En cas de litige non résolu sous deux mois, vous pouvez saisir le Médiateur national de l'énergie.
+Chèque énergie : envoyez-le à {{ORG#1:legal@utility}}, Service Clients, {{LOC#3:po_box}}, {{LOC#3:postcode_town}}.
+{{ORG#1:legal@utility}} - SA au capital de {{AMOUNT:big}} - RCS {{LOC#4:town}} {{COMPANYID}}
+Siège social : {{LOC#4:line}}

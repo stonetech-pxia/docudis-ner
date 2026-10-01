@@ -1,0 +1,50 @@
+[[ORG|Permanent TSB p.l.c.]]
+Mortgage Operations
+[[LOC|56-59 St Stephen's Green]]
+[[LOC|Dublin 2]]
+[[LOC|D02 H489]]
+
+Ms [[PER|Róisín Delahunt]]
+Mr [[PER|Obinna Carrothers]]
+[[LOC|11 Ashgrove Meadows]]
+[[LOC|Naas]]
+[[LOC|Co. Kildare W91 P6E2]]
+
+[[DATE|15 September 2026]]
+
+Mortgage account number: 90-4471-2268
+Property: as above
+
+Dear Ms [[PER|Delahunt]] and Mr [[PER|Carrothers]],
+
+Your fixed interest rate is ending
+
+Your 5-year fixed rate of 2.95% ends on [[DATE|31 October 2026]]. Unless you choose a new rate before then, your mortgage will
+move to our variable rate, currently 4.40%.
+
+Your current position:
+  Balance outstanding at [[DATE|14/09/2026]]      €262,418.07
+  Remaining term                               23 years 2 months
+  Current monthly repayment                    €1,229.52
+  Estimated repayment on variable rate         €1,428.10
+  Loan-to-value (based on valuation [[DATE|02/04/2021]])   71%
+
+Rates available to you:
+  Option   Rate    APRC    Monthly repayment
+  3-yr fixed   3.60%   4.28%   €1,338.46
+  5-yr fixed   3.45%   4.20%   €1,318.93
+  Variable     4.40%   4.49%   €1,428.10
+
+To choose a fixed rate, sign the enclosed Rate Selection Form and return it in the reply-paid envelope by
+[[DATE|17 October 2026]], or call our Mortgage Centre on 0818 502 424.
+
+If you are having difficulty with your repayments, please contact us as soon as possible. Information on the Mortgage
+Arrears Resolution Process is available on our website and from the Central Bank of Ireland.
+
+Yours sincerely,
+
+[[PER|Declan Ó Riordáin]]
+Mortgage Servicing Manager
+
+Warning: If you do not keep up your repayments you may lose your home.
+[[ORG|Permanent TSB p.l.c.]] is regulated by the Central Bank of Ireland. Registered in [[LOC|Ireland]], No. 222332.

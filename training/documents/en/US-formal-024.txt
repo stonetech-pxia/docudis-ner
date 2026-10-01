@@ -1,0 +1,62 @@
+RESIDENTIAL LEASE AGREEMENT
+State of [[LOC|Texas]]
+
+1. PARTIES. This Residential Lease Agreement ("Lease") is entered into on [[DATE|August 28, 2026]] between
+[[ORG|Barton Springs Terrace LLC]], a Texas limited liability company ("Landlord"), acting through its property manager
+[[ORG|Pecan Street Residential Management, Inc.]], and the following tenant(s) ("Tenant"):
+
+   Tenant 1: [[PER|Ximena Arredondo-Pike]]      DOB: [[DATE|11/02/1997]]    Phone: (512) 555-0163
+   Tenant 2: [[PER|Caleb Wojtowicz]]            DOB: [[DATE|05/19/1996]]    Phone: (512) 555-0177
+
+   Occupant (minor): none
+   Emergency contact for Tenant 1: [[PER|Rosaura Arredondo]] (mother), [[LOC|McAllen, TX]], (956) 555-0120
+
+2. PROPERTY. Landlord leases to Tenant the dwelling at:
+   [[LOC|1904 S Lamar Blvd, Unit 318]]
+   [[LOC|Austin, TX 78704]]
+   including one reserved parking space (No. 41) and storage cage B-12 (the "Premises").
+
+3. TERM. The Lease begins on [[DATE|September 15, 2026]] and ends at 11:59 p.m. on [[DATE|September 14, 2027]]. Tenant must
+   give at least 60 days' written notice of intent to move out before the end date. If no notice is given, the Lease
+   continues month-to-month.
+
+4. RENT. Monthly rent is $2,145.00, due on or before the 1st day of each month. Rent for [[DATE|September 15]] through
+   [[DATE|September 30, 2026]] is prorated at $1,072.50 and is due at signing. Rent is paid through the resident portal or by
+   cashier's check to the management office at [[LOC|2600 S Congress Ave, Suite 110, Austin, TX 78704]].
+
+5. LATE CHARGES. If rent is not received by 11:59 p.m. on the 3rd day of the month, Tenant will pay an initial late charge of
+   $75.00 plus $15.00 per day, not to exceed $225.00 total (Tex. Prop. Code § 92.019).
+
+6. SECURITY DEPOSIT. Tenant has paid a security deposit of $2,145.00. The deposit will be refunded, less lawful deductions,
+   within 30 days after Tenant surrenders the Premises and gives a written forwarding address.
+
+7. UTILITIES. Tenant pays electricity ([[ORG|Austin Energy]]), internet and renter's insurance. Landlord bills water, wastewater
+   and trash back to Tenant monthly on a ratio utility billing basis through [[ORG|Conservice]].
+
+8. RENTER'S INSURANCE. Tenant must keep liability coverage of at least $100,000 for the whole term and name Landlord as an
+   interested party. Current policy: [[ORG|Lemonade Insurance Company]], policy LP-7701-8837-22.
+
+9. PETS. One dog permitted: "Biscuit", mixed breed, 38 lbs. Pet deposit $400.00 (refundable), pet rent $35.00 per month.
+
+10. REPAIRS. Tenant must submit all repair requests in writing through the resident portal, except in an emergency
+    (flooding, gas leak, no heat below 35°F, electrical hazard), which must be called in to (512) 555-0101 at any time.
+
+11. GUARANTY. [[PER|Hollis Wojtowicz]] of [[LOC|4410 Harvest Moon Dr, Round Rock, TX 78665]], guarantees Tenant 2's
+    obligations under the separate Guaranty signed [[DATE|August 27, 2026]].
+
+12. SPECIAL PROVISIONS. Landlord will repaint the second bedroom before move-in. Community pool closes for
+    resurfacing from [[DATE|Oct 1]] to [[DATE|Nov 15]], 2026. Carpet cleaning at move-out is not required if Tenant leaves the
+    Premises in the condition received, normal wear and tear excepted.
+
+SIGNATURES
+
+Landlord: [[ORG|Barton Springs Terrace LLC]]
+By its manager, [[ORG|Pecan Street Residential Management, Inc.]]
+
+By: [[PER|Donovan Achterhof]]                       Date: [[DATE|08/28/2026]]
+    Community Manager
+
+Tenant: [[PER|Ximena Arredondo-Pike]]               Date: [[DATE|08/28/2026]]
+Tenant: [[PER|Caleb Wojtowicz]]                     Date: [[DATE|08/28/2026]]
+
+Leasing agent: [[PER|Marisa Tuiasosopo]], TREC License #714502

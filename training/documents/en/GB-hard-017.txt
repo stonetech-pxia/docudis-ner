@@ -1,0 +1,11 @@
+[[ORG|Little Acorns @ Hartcliffe]] – Collection Authorisation
+
+Child: [[PER|Ellis-Rae Thornbury]]          Room: Pre-school (Owls)
+Authorised adult for Friday [[DATE|26 Sept]] only:
+Name: [[PER|Marcia Dunkley]]          Relationship: grandmother
+Password: bluebird
+Photo ID seen by: [[PER|Precious]] (Room Leader)
+
+Parent: [[PER|Shannon Thornbury]]          Mobile: 07788 419 002
+Address unchanged: [[LOC|60 Hareclive Road, Bristol BS13 0JN]]
+Signed: [[PER|S Thornbury]]          Date: [[DATE|24/9/25]]

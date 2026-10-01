@@ -1,0 +1,44 @@
+SOLICITUD DE AYUDA AL ESTUDIO – CONVOCATORIA PROPIA 2026/27
+[[ORG|Fundación Alhambra Genil para la Educación]] – en colaboración con la [[ORG|Universidad de Granada]]
+
+A. DATOS DEL SOLICITANTE
+Apellidos: [[PER|EL IDRISSI MORENO]]
+Nombre: [[PER|YASMINA]]
+DNI/NIE: 54359898L          Sexo: M
+Fecha de nacimiento: [[DATE|2 de febrero de 2006]]
+Lugar de nacimiento: [[LOC|Motril]] ([[LOC|Granada]])
+Domicilio durante el curso: [[LOC|C/ Real de Cartuja Baja, 31, piso 3, hab. 2, 18012 Granada]]
+Domicilio familiar: [[LOC|C/ Nueva del Varadero, 6, 18613 Motril]]
+Teléfono: 644 190 372      Correo: yasmina.elidrissi @ correo.ugr.es
+
+B. ESTUDIOS
+Titulación: Grado en Enfermería, 3er curso
+Centro: [[ORG|Facultad de Ciencias de la Salud]] – [[ORG|UGR]]
+Nota media del expediente: 8,21
+¿Ha disfrutado de beca del Ministerio de Educación el curso anterior? Sí (cuantía fija ligada a la renta)
+
+C. UNIDAD FAMILIAR (a [[DATE|31 de diciembre de 2025]])
+Parentesco | Apellidos y nombre | NIF | Situación laboral
+Padre  | [[PER|El Idrissi, Rachid]]          | X9578941Q | jornalero agrícola, [[ORG|Cooperativa Tropical Costa Motril]]
+Madre  | [[PER|Moreno Castillo, Encarna]]    | 27519139F | limpiadora, [[ORG|Limpiezas Azahar Sur S.L.]] (media jornada)
+Hermano| [[PER|El Idrissi Moreno, Anas]]     | 64222310P | estudiante (ESO), [[ORG|IES Varadero Sur]]
+Abuela | [[PER|Castillo Ruiz, Dolores]]      | 66703143S | pensionista
+
+Ingresos totales de la unidad familiar (IRPF 2025): 21.480,36 €
+
+D. DATOS BANCARIOS
+IBAN: ES64 0121 4312 1965 4275 0853 (titular: la solicitante)
+
+E. MOTIVACIÓN (máx. 10 líneas)
+Soy la primera de mi familia en estudiar en la universidad. Este verano he trabajado en [[ORG|Heladería Los Italianos 2]] de
+[[LOC|Salobreña]] para pagar la residencia, pero con el alquiler de la habitación (310 €/mes a Doña [[PER|Amparo Jiménez]],
+propietaria) no me alcanza para las prácticas en el [[ORG|Hospital Universitario San Cecilio]], que empiezan el
+[[DATE|5 de octubre]] y me obligan a desplazarme a diario. Mi tutora de prácticas es [[PER|Remedios Aguilera]].
+
+F. DOCUMENTACIÓN APORTADA
+[X] Copia DNI/NIE de todos los miembros   [X] Certificado de empadronamiento emitido por el Ayuntamiento de [[LOC|Motril]]
+[X] Declaración IRPF 2025                 [X] Certificado académico ([[DATE|20/07/2026]])
+
+Declaro bajo mi responsabilidad que los datos consignados son ciertos.
+En [[LOC|Granada]], a [[DATE|17 de septiembre de 2026]]
+Firma: [[PER|Yasmina El Idrissi]]

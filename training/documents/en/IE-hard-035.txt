@@ -1,0 +1,33 @@
+[[ORG|BRIDGEFOOT & LARKIN DATA SERVICES DAC]]
+Company number: 698214
+FORM B10 – NOTIFICATION OF CHANGE AMONG DIRECTORS OR SECRETARY
+
+Registered office
+[[LOC|Block C, Iveagh Court]]
+[[LOC|Harcourt Road]]
+[[LOC|Dublin 2]]
+[[LOC|D02 YT22]]
+
+Presented by: [[ORG|Mulcahy Ferris Company Secretarial Ltd]], [[LOC|3 Herbert Place, Dublin 2, D02 PX60]]
+
+PARTICULARS OF DIRECTORS FOLLOWING THE CHANGE
+Surname | Forename(s) | Former names | Date of birth | Nationality | Business occupation | Residential address
+[[PER|LARKIN]] | [[PER|Emmet Francis]] | none | [[DATE|09/05/1981]] | Irish | Company director | [[LOC|22 Anglesea Road, Ballsbridge, Dublin 4, D04 X9K3]]
+[[PER|BRIDGEFOOT]] | [[PER|Helena Mary]] | [[PER|CUSACK]] | [[DATE|27/11/1978]] | Irish | Chartered accountant | [[LOC|Glenmore, Kilmacud Road Upper, Dundrum, Dublin 14, D14 R2W8]]
+[[PER|IRIARTE ZUBELDIA]] | [[PER|Maite]] | none | [[DATE|03/02/1985]] | Spanish | Software architect | [[LOC|Calle de Urbieta 18, 3º dcha., 20006 San Sebastián, Spain]]
+
+CHANGES
+1. Appointment of [[PER|IRIARTE ZUBELDIA MAITE]] as director with effect from [[DATE|1 September 2025]].
+   Consent to act signed by [[PER|Maite Iriarte]] on [[DATE|28 August 2025]].
+2. Resignation of [[PER|O'DONOVAN, Cathal Brendan]] as director with effect from [[DATE|31/08/2025]].
+   Letter of resignation from Mr [[PER|O'Donovan]] held at the registered office.
+
+SECRETARY (no change)
+[[ORG|Mulcahy Ferris Company Secretarial Ltd]] – contact [[PER|Orla Ferris]], Senior Company Secretarial Executive
+
+EEA RESIDENT DIRECTOR
+[[PER|Emmet Larkin]] and [[PER|Helena Bridgefoot]] are resident in [[LOC|Ireland]]; no bond required.
+
+Signed: [[PER|Emmet Larkin]], Director          Date: [[DATE|05/09/2025]]
+Signed: [[PER|H. Bridgefoot]], Director         Date: [[DATE|05/09/2025]]
+To be delivered to the Companies Registration Office within 14 days of the change.

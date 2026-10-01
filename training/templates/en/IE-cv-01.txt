@@ -1,0 +1,22 @@
+#country: IE
+#doctype: cv
+{{PER#1:surname_given}}
+{{LOC#1:street}}, {{LOC#1:town}}, {{LOC#1:region}}
+{{MOBILE}} / {{EMAIL:PER#1}}
+
+Career objective: Experienced chef de partie seeking a sous chef position in a busy restaurant or hotel kitchen.
+
+Employment
+{{ORG#1:legal@hospitality}}, {{LOC#2:town}} - Chef de Partie (Sauce/Grill), {{DATE:short}} to date
+{{ORG#2:name@hospitality}}, {{LOC#3:town}} - Commis Chef, {{DATE:short}} to {{DATE:short}}
+Summer work: {{ORG#3:name@retail}} deli counter, {{LOC#1:town}}
+
+Education
+Level 6 Certificate in Culinary Arts, {{ORG#4:name@school}}
+Leaving Certificate, {{ORG#5:name@school}}, {{LOC#1:town}}
+
+Certificates: HACCP Level 2, Manual Handling, Allergen Awareness (FSAI)
+
+Languages: English, Irish (conversational), Polish (basic)
+
+Referees available on request - Head Chef {{PER#2:full}} ({{ORG#1:name}}) and {{PER#3:full}}, owner of {{ORG#2:name}}.

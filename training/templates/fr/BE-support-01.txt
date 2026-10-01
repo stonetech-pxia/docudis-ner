@@ -1,0 +1,19 @@
+#country: BE
+#doctype: support
+Bonjour,
+
+Je reviens vers vous concernant mon dossier {{REF}}. Le technicien de {{ORG#1:legal@trades}}, {{PER#2:full}}, est passé le {{DATE:long}} pour la chaudière, mais la pièce commandée n'est toujours pas arrivée. Nous sommes sans chauffage avec deux enfants en bas âge.
+
+Mes coordonnées :
+{{PER#1:surname_given}}
+{{LOC#1:street}}
+{{LOC#1:unit}}
+{{LOC#1:postcode_town}}
+GSM {{MOBILE}}
+N° client {{ACCOUNT}}
+
+Le contrat d'entretien a été souscrit via {{ORG#2:name@utility}} et est payé chaque mois par domiciliation ({{IBAN}}).
+
+Merci de me donner une date précise ; sinon je m'adresserai au [[ORG|Test-Achats]] et à l'Ombudsman.
+
+{{PER#1:given}}

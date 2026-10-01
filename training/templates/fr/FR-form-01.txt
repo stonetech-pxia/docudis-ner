@@ -1,0 +1,50 @@
+#country: FR
+#doctype: form
+# Dossier d'inscription périscolaire rempli, champs un par ligne, deux responsables légaux.
+DOSSIER UNIQUE D'INSCRIPTION - ACCUEIL PÉRISCOLAIRE ET CANTINE
+{{PUBLIC#1}} - Service Enfance Jeunesse
+Année scolaire 2026-2027
+
+ENFANT
+Nom : {{PER#1:surname}}
+Prénom : {{PER#1:given}}
+Date de naissance : {{DATE:birth}}
+Lieu de naissance : {{LOC#3:town}}
+École fréquentée : {{ORG#1:name@school}}
+Classe : CE2
+Allergies / PAI : arachide (PAI signé le {{DATE:numeric}})
+
+RESPONSABLE LÉGAL 1
+Nom et prénom : {{PER#2:full}}
+Adresse : {{LOC#2:street}}
+Code postal et ville : {{LOC#2:postcode_town}}
+Téléphone portable : {{MOBILE}}
+Courriel : {{EMAIL:PER#2}}
+Profession : {{JOB}}
+Employeur : {{ORG#2:legal@employer}}
+Téléphone professionnel : {{PHONE}}
+
+RESPONSABLE LÉGAL 2
+Nom et prénom : {{PER#3:full}}
+Adresse (si différente) : {{LOC#4:line}}
+Téléphone portable : {{MOBILE}}
+Courriel : {{EMAIL:PER#3}}
+Profession : {{JOB}}
+
+N° allocataire CAF : {{NUM}}   Quotient familial : {{NUM}}
+Régime : général
+
+PERSONNES AUTORISÉES À VENIR CHERCHER L'ENFANT
+1. {{PER#4:full}}, grand-parent - {{MOBILE}}
+2. {{PER#5:full}}, voisin(e) - {{MOBILE}}
+
+MÉDECIN TRAITANT
+Dr {{PER#6:full}}, {{LOC#5:line}} - {{PHONE}}
+
+Assurance scolaire / responsabilité civile : [[ORG|MAE]], contrat n° {{REF}}
+
+Mode de paiement : prélèvement mensuel sur le compte {{IBAN}} (titulaire : {{PER#2:full}})
+
+Je soussigné(e) {{PER#2:full}} certifie l'exactitude des renseignements ci-dessus et autorise le personnel d'animation à prendre toute mesure d'urgence.
+Fait à {{LOC#2:town}}, le {{DATE:numeric}}
+Signature : {{PER#2:signature}}

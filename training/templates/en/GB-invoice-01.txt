@@ -1,0 +1,42 @@
+#country: GB
+#doctype: invoice
+# Tradesman's invoice, plain text as pasted from a PDF
+{{ORG#1:legal@trades}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+Tel: {{PHONE}}  |  Mob: {{MOBILE}}
+{{EMAIL:ORG#1}}
+VAT Reg No: {{VAT}}
+
+INVOICE
+
+Invoice No: {{REF}}
+Date: {{DATE:short}}
+Job date: {{DATE:day_month}}
+
+Bill to:
+{{TITLE#2}} {{PER#2:full}}
+{{LOC#2:street}}
+{{LOC#2:postcode_town}}
+
+Site address: as above
+
+Description                                   Qty   Unit     Total
+Call-out and diagnosis                        1     {{AMOUNT}}   {{AMOUNT}}
+Replace kitchen mixer tap (supplied)          1     {{AMOUNT}}   {{AMOUNT}}
+Isolation valve 15mm                          2     {{AMOUNT}}   {{AMOUNT}}
+Labour (hours)                                3     {{AMOUNT}}   {{AMOUNT}}
+
+Subtotal: {{AMOUNT}}
+VAT @ 20%: {{AMOUNT}}
+TOTAL DUE: {{AMOUNT}}
+
+Work carried out by {{PER#1:full}}, checked by {{PER#3:given}}.
+Payment within 14 days please. Bank transfer to:
+Account name: {{ORG#1:name}}
+Sort code: {{SORTCODE}}   Account: {{ACCOUNT}}
+Please quote {{REF}} as the reference.
+
+Thanks for your custom,
+{{PER#1:signature}}
+{{JOB}}

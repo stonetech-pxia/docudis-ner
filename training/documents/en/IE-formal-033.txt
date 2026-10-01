@@ -1,0 +1,77 @@
+TENANCY AGREEMENT
+(Residential Tenancies Acts 2004 to 2022 - Rent Pressure Zone: [[LOC|Dublin City]])
+
+Date of agreement:   [[DATE|1st September 2026]]
+
+LANDLORD
+Name:                [[PER|Gráinne Stapleton-Oduro]]
+Address:             [[LOC|Rathmore House]]
+                     [[LOC|Kill Lane]]
+                     [[LOC|Foxrock, Dublin 18]]
+                     [[LOC|D18 V2N6]]
+Phone:               086 204 7719
+RTB landlord no.:    L-2019-118420
+
+AGENT
+[[ORG|Grand Canal Property Partners]], [[LOC|3 Charlemont Place, Dublin 2, D02 K7Y1]]
+Contact: [[PER|Niamh Ferriter]], Lettings Manager, 01 478 3310, lettings@grandcanalpp.ie
+
+TENANTS
+1. [[PER|Luca Benedetti-Kavanagh]], born [[DATE|24/07/1993]], PPSN on file
+2. [[PER|Aisling Benedetti-Kavanagh]], born [[DATE|02/12/1994]]
+
+PREMISES
+[[LOC|Apartment 22, Block C]]
+[[LOC|The Maltings, Bonham Street]]
+[[LOC|Dublin 8]]
+[[LOC|D08 W5P3]]
+Two-bedroom apartment, 3rd floor, BER B2 (cert. no. 118004772), with parking space 57.
+
+1. TERM
+The tenancy begins on [[DATE|15 September 2026]] and is for a fixed term of 12 months, ending on [[DATE|14 September 2027]].
+The tenancy is a tenancy of unlimited duration under Part 4 of the Residential Tenancies Act 2004, subject to the grounds
+for termination set out in that Act.
+
+2. RENT
+2.1 Rent is €2,360.00 per month, payable monthly in advance on the 15th of each month by standing order to the Agent's
+    client account with [[ORG|Bank of Ireland]] (account details provided separately).
+2.2 The rent was last set on [[DATE|15 September 2024]] at €2,275.00. The new rent complies with the Rent Pressure Zone
+    formula. The calculation is set out in the Schedule.
+2.3 The next rent review will not take place before [[DATE|15 September 2027]].
+
+3. DEPOSIT AND ADVANCE RENT
+The Tenants have paid a deposit of €2,360.00 and no advance rent. The deposit will be returned promptly at the end of the
+tenancy, less any amount for rent arrears or damage beyond normal wear and tear.
+
+4. REGISTRATION
+The Landlord will register this tenancy with the Residential Tenancies Board within one month of its start.
+
+5. TENANTS' OBLIGATIONS
+The Tenants will:
+(a) pay the rent on time and any charges for electricity (account with [[ORG|Electric Ireland]]), gas ([[ORG|Bord Gáis Energy]]),
+    broadband and bin collection;
+(b) not cause damage beyond normal wear and tear, and notify the Agent of any repair needed;
+(c) allow the Landlord access for inspections at reasonable intervals on 24 hours' notice;
+(d) not behave, or allow visitors to behave, in a way that is anti-social;
+(e) comply with the house rules of [[ORG|The Maltings Management Company CLG]], managed by [[ORG|Liffeyside Estates Ltd]].
+
+6. LANDLORD'S OBLIGATIONS
+The Landlord will:
+(a) allow the Tenants peaceful and exclusive occupation;
+(b) carry out repairs to the structure and interior in line with the Housing (Standards for Rented Houses) Regulations;
+(c) insure the Premises;
+(d) reimburse the Tenants for repairs they carry out that are the Landlord's responsibility, where the Landlord has not
+    responded within a reasonable time.
+
+7. INVENTORY
+An inventory with photographs was agreed at check-in on [[DATE|14/09/2026]] with [[PER|Niamh]] from the Agent's office.
+
+SIGNED
+
+Landlord:  [[PER|G. Stapleton-Oduro]]            Date: [[DATE|01/09/2026]]
+Tenant:    [[PER|Luca Benedetti-Kavanagh]]         Date: [[DATE|01/09/2026]]
+Tenant:    [[PER|Aisling Benedetti-Kavanagh]]      Date: [[DATE|01/09/2026]]
+Witness:   [[PER|Eamon Tierney]], solicitor, [[ORG|Tierney & Whelan Solicitors]], [[LOC|40 Upper Baggot Street, Dublin 4]]
+
+SCHEDULE - RPZ calculation
+Previous rent €2,275.00 x (1 + 2% x 2 years) capped at HICP ... = €2,366.00 maximum. Rent set: €2,360.00.

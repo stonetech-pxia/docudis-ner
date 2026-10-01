@@ -1,0 +1,19 @@
+#country: CH
+#doctype: support
+Bonjour {{PER#1:given}},
+
+Nous avons bien reçu votre demande de résiliation, déposée le {{DATE:numeric}} dans notre boutique partenaire {{ORG#2:name@retail}} à {{LOC#3:town}}.
+
+Titulaire : {{TITLE#1}} {{PER#1:full}}
+Adresse : {{LOC#1:line}}
+Contrat : abonnement mobile {{REF}}
+Date de fin souhaitée : {{DATE:long}}
+
+Votre contrat étant soumis à une durée minimale, la résiliation prendra effet au {{DATE:long}}. Les frais de sortie anticipée s'élèvent à {{AMOUNT}}.
+
+Pour transférer votre numéro {{MOBILE}} vers un autre opérateur, veuillez contacter ce dernier avant cette date.
+
+Meilleures salutations
+{{PER#2:initial_surname}}
+{{DEPT}}
+{{ORG#1:legal@telecom}}, {{LOC#2:po_box}}, {{LOC#2:postcode_town}}

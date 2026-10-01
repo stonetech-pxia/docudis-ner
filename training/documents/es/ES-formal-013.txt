@@ -1,0 +1,56 @@
+[[ORG|REFORMES TERRADELLES 2004, S.L.]]
+[[LOC|Carrer de la Rutlla, 118, nau 3]]
+[[LOC|17002 Girona]]
+NIF B46193827 · 972 405 219 · 639 882 017
+pressupostos@reformesterradelles.cat
+
+PRESUPUESTO Nº P-26-0233
+Fecha: [[DATE|09/09/2026]]
+Validez: 30 días
+
+CLIENTE
+Nombre:     [[PER|Ferran Bosch i Pujadas]]
+            [[PER|Laia Comas Riera]]
+DNI:        99392560S / 18572166B
+Obra:       [[LOC|Carrer Nou, 15, 2n 1a]]
+            [[LOC|17600 Figueres]]
+Contacto:   676 204 551 · fbosch.pujadas@gmail.com
+Visita técnica realizada el [[DATE|3 de setembre]] por [[PER|Jordi Terradelles]]
+
+DESCRIPCIÓN DE LOS TRABAJOS: reforma integral de baño (4,2 m²)
+
+Cap.  Partida                                              Ud.    Med.    P. unit.     Total
+01    Demolición de alicatado y pavimento, retirada a       m²     18,6     14,50       269,70
+      contenedor y canon de vertedero
+02    Fontanería: nueva red de agua fría/caliente en        ud      1,0    640,00       640,00
+      multicapa y desagües PVC
+03    Plato de ducha resina 120x80, mampara fija            ud      1,0    585,00       585,00
+04    Alicatado gres porcelánico 30x60 (material            m²     14,4     46,00       662,40
+      incluido hasta 22 €/m²)
+05    Pavimento gres antideslizante C3                      m²      4,2     52,00       218,40
+06    Mueble lavabo 80 cm + espejo LED                      ud      1,0    410,00       410,00
+07    Inodoro suspendido con bastidor                       ud      1,0    395,00       395,00
+08    Electricidad: 3 puntos de luz, 2 enchufes,            ud      1,0    280,00       280,00
+      extractor
+09    Pintura techo plástica antihumedad                    m²      4,2      9,50        39,90
+10    Limpieza final y gestión de residuos                  ud      1,0    120,00       120,00
+
+                                              Suma de ejecución material      3.620,40
+                                              IVA 10 % (vivienda particular)    362,04
+                                              TOTAL PRESUPUESTO               3.982,44
+
+CONDICIONES
+- Forma de pago: 40 % a la aceptación, 40 % al terminar alicatado, 20 % a la entrega.
+- Plazo de ejecución estimado: 12 días laborables. Inicio previsto a partir del [[DATE|19 de octubre de 2026]], sujeto a disponibilidad de material del proveedor [[ORG|Ceràmiques Empordà]].
+- Cualquier partida no incluida se valorará aparte. Las licencias municipales (comunicación previa al Ajuntament de [[LOC|Figueres]]) corren a cargo del cliente.
+- Seguro de responsabilidad civil con [[ORG|Allianz, Compañía de Seguros y Reaseguros, S.A.]], póliza 048-7720193.
+
+Datos bancarios: ES90 9585 4246 0691 1849 4150
+
+Aceptación del cliente:                         Por la empresa:
+
+
+Fdo.: ____________________                      [[PER|Jordi Terradelles Masó]]
+                                                Gerente
+
+[[ORG|Reformes Terradelles 2004, S.L.]] – Inscrita en el Registre Mercantil de [[LOC|Girona]], tom 2.981, foli 112, full GI-51177.

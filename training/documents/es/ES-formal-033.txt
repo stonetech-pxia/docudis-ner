@@ -1,0 +1,18 @@
+[[ORG|Policlínica Atlántico Vigo]]
+[[LOC|Rúa Venezuela, 54, 36203 Vigo]]
+
+HOJA DE DERIVACIÓN A ESPECIALISTA
+
+A: Servicio de Cardiología — Dra. [[PER|Paula Comesaña Iglesias]]
+De: Dr. [[PER|Óscar Lorenzo Piñeiro]], Medicina Interna
+Fecha: [[DATE|18/09/2026]]
+Prioridad: preferente
+
+Paciente: [[PER|SEOANE DOMÍNGUEZ, ROSALINDA]] · F. nac. [[DATE|03/04/1956]] · Tel. 986 437 219
+Tarjeta sanitaria: SGSS 1840277-3 · Mutua: [[ORG|Asisa]]
+
+Motivo: palpitaciones y disnea de esfuerzo de un mes de evolución. ECG del [[DATE|16 de septiembre]]: fibrilación auricular con respuesta ventricular a 112 lpm, no conocida. Se inicia bisoprolol 2,5 mg. CHA2DS2-VASc 3.
+
+Solicito: ecocardiograma y valoración de anticoagulación.
+
+Firma: [[PER|Ó. Lorenzo]]

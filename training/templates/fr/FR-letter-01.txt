@@ -1,0 +1,30 @@
+#country: FR
+#doctype: letter
+{{PER#1:full}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+{{MOBILE}}
+{{EMAIL:PER#1}}
+
+{{ORG#1:legal@employer}}
+À l'attention de {{TITLE#2}} {{PER#2:full}}
+{{DEPT}}
+{{LOC#2:street}}
+{{LOC#2:postcode_town}}
+
+Lettre recommandée avec accusé de réception
+{{LOC#1:town}}, le {{DATE:long}}
+
+Objet : démission
+
+{{TITLE#2}} {{PER#2:surname}},
+
+Je vous informe par la présente de ma décision de démissionner du poste de {{JOB}} que j'occupe au sein de {{ORG#1:name}} depuis le {{DATE:long}}.
+
+Conformément à la convention collective applicable, mon préavis est d'un mois. Il débutera à la date de première présentation de ce courrier. Je souhaiterais toutefois, si cela vous convient, être dispensé(e) d'une partie de ce préavis afin de rejoindre mon nouvel employeur le {{DATE:day_month}}. Mon responsable direct, {{PER#3:full}}, est informé de cette demande.
+
+Je vous remercie de bien vouloir me remettre, à l'issue du contrat, mon certificat de travail, mon solde de tout compte et l'attestation destinée à {{PUBLIC#3}}.
+
+Je vous prie d'agréer, {{TITLE#2}}, l'expression de mes salutations distinguées.
+
+{{PER#1:signature}}

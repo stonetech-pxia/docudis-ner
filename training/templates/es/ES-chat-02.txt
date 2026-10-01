@@ -1,0 +1,13 @@
+#country: ES
+#doctype: chat
+#tenant and landlord on WhatsApp, short
+{{PER#1:full}}
+{{DATE:short}}
+
+{{PER#2:given}}: Hola {{PER#1:given}}, soy {{PER#2:given}}, la inquilina de {{LOC#1:street}}. Se ha roto el termo, no sale agua caliente desde ayer
+{{PER#1:given}}: Hola! Vaya... Le digo a {{PER#3:given}} de {{ORG#1:name@trades}} que pase a verlo
+{{PER#1:given}}: Te va bien mañana por la mañana?
+{{PER#2:given}}: Sí, estoy en casa hasta las 13h
+{{PER#1:given}}: Perfecto. Te llamará del {{PHONE}}
+{{PER#2:given}}: Gracias! Y otra cosa, este mes te hago la transferencia el día 3 que cobro tarde
+{{PER#1:given}}: Sin problema

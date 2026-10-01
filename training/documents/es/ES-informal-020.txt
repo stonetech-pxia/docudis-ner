@@ -1,0 +1,8 @@
+[[[DATE|21/05/2026]], 08:47] Abuela [[PER|Pili]]: Buenos dias familia 🌻🌻
+[[[DATE|21/05/2026]], 08:50] Tito [[PER|Quique]]: buenos días mamá
+[[[DATE|21/05/2026]], 09:30] Abuela [[PER|Pili]]: Recordar que el [[DATE|7 de junio]] es la comunion de [[PER|Mikel]] en la iglesia de [[LOC|San Lorenzo]] a las 12 y luego comemos en el [[ORG|Restaurante La Cepa]] de [[LOC|Logroño]]
+[[[DATE|21/05/2026]], 09:31] Abuela [[PER|Pili]]: [[PER|Ainhoa]] dice que confirmeis antes del 25
+[[[DATE|21/05/2026]], 09:45] [[PER|Ainhoa]]: gracias mamá. el restaurante está en [[LOC|calle Laurel 19]], para los que venís de fuera hay parking en la [[LOC|plaza del Mercado]]
+[[[DATE|21/05/2026]], 09:46] Tito [[PER|Quique]]: nosotros somos 4, [[PER|Leire]] viene con el novio
+[[[DATE|21/05/2026]], 10:02] [[PER|Leire]]: papaaa que no es mi novio 🙄
+[[[DATE|21/05/2026]], 10:02] Tito [[PER|Quique]]: bueno pues con [[PER|Unai]]

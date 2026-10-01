@@ -1,0 +1,50 @@
+[[ORG|SD Worx]] - secrétariat social agréé pour le compte de :
+[[ORG|Brasserie du Val de Vesdre SA]]
+[[LOC|Rue des Tanneurs 12]]
+[[LOC|4800 Verviers]]
+N° d'entreprise 0861.254.387 - CP 118.03
+
+FICHE DE PAIE                                          Période : août 2026
+Date de paiement : [[DATE|31/08/2026]]                          Feuille 1/1
+
+Travailleur :   [[PER|MOUREAUX Anthony]]
+                [[LOC|Rue de Hodimont 219, boîte 3]]
+                [[LOC|4800 Verviers]]
+Numéro de registre national : 85.07.14-263.84
+Date de naissance : [[DATE|14/07/1985]]
+Date d'entrée : [[DATE|01/04/2014]]
+Statut : ouvrier - temps plein 38 h/semaine - catégorie 5
+Fonction : opérateur de soutirage
+Situation familiale : cohabitant légal, 2 enfants à charge
+Matricule : 00271
+
+Code   Libellé                                   Nombre      Taux        Montant
+1010   Heures prestées                            159,60     19,8421     3.166,80
+1060   Prime d'équipe (2 pauses) 8 %              159,60      1,5874       253,35
+1210   Jours fériés ([[DATE|15/08/2026]])              7,60     19,8421       150,80
+1310   Petit chômage                                 -          -             -
+       Total brut                                                       3.570,95
+2000   Cotisation personnelle ONSS 13,07 %      3.859,55                  -504,44
+       (base majorée à 108 % ouvriers)
+2100   Bonus à l'emploi                                                     0,00
+       Imposable                                                        3.066,51
+3000   Précompte professionnel                                           -541,20
+3010   Réduction enfants à charge                                         +77,00
+3100   Cotisation spéciale sécurité sociale                               -18,42
+4000   Chèques-repas (21 x 1,09 €) part travailleur                       -22,89
+4100   Intervention trajets domicile-travail vélo (18 x 2,4 km)            +12,10
+4200   Avance du [[DATE|14/08/2026]]                                              -300,00
+
+NET À PAYER                                                             2.273,10 EUR
+Versé sur le compte du travailleur le [[DATE|31/08/2026]]
+
+Chèques-repas : 21 titres de 8,00 € crédités sur la carte [[ORG|Pluxee]]
+Pécule de vacances : versé par la caisse de vacances de l'ONVA
+Assurance groupe : [[ORG|AG Insurance]], police n° 04.715.228
+
+Solde vacances 2026 : 20 jours légaux, 8 pris
+Prochaine visite médicale du travail : [[DATE|12 novembre 2026]] ([[ORG|Mensura]], [[LOC|Liège]])
+
+Pour toute question concernant votre paie, adressez-vous à Mme [[PER|Virginie Lejeune-Ancion]], service du personnel, 087 29 48 10.
+
+[[ORG|SD Worx]] - [[LOC|Rue de Fragnée 2 bte 1, 4000 Liège]]

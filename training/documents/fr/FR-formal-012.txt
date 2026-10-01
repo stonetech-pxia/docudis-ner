@@ -1,0 +1,40 @@
+[[ORG|Clinique Mutualiste des Alpes du Nord]]
+Service de cardiologie
+[[LOC|15 rue du Docteur Hermite]]
+[[LOC|38000 Grenoble]]
+Secrétariat : 04 76 70 38 21 - Fax : 04 76 70 38 29
+
+Dr [[PER|Laurent Guichardan]]
+Cardiologue - ancien chef de clinique
+
+                                     Dr [[PER|Nathalie Bessonnat-Rey]]
+                                     Médecin généraliste
+                                     [[LOC|2 place de la Mairie]]
+                                     [[LOC|38320 Eybens]]
+
+[[LOC|Grenoble]], le [[DATE|15/09/2026]]
+
+Chère consœur,
+
+J'ai revu en consultation le [[DATE|14 septembre]] votre patiente, Mme [[PER|Josiane Crétinon]], née le [[DATE|30/01/1951]], pour le suivi de sa fibrillation atriale paroxystique découverte en avril 2025.
+
+Mme [[PER|Crétinon]] est asymptomatique depuis notre dernière rencontre, en dehors de quelques palpitations brèves en fin de journée. Pas de dyspnée, pas de douleur thoracique, pas de malaise. Elle marche 40 minutes par jour.
+
+Examen : PA 138/82 mmHg aux deux bras, FC 64/min, régulière. Auscultation sans particularité. Pas d'œdème.
+ECG : rythme sinusal, PR 190 ms, QRS fins, pas de trouble de la repolarisation.
+Holter ECG des 24 h du [[DATE|2 septembre 2026]] : 3 épisodes de FA de moins de 4 minutes, charge < 1 %.
+Échographie transthoracique : FEVG 60 %, OG modérément dilatée (38 mL/m²), pas de valvulopathie significative.
+
+Score CHA2DS2-VASc à 3 (âge, sexe, HTA). L'anticoagulation reste donc indiquée.
+
+Conclusion et proposition :
+- poursuite de l'apixaban 5 mg matin et soir
+- bisoprolol 2,5 mg le matin, inchangé
+- bilan biologique (créatinine, NFS) tous les 6 mois
+- prochain rendez-vous dans un an avec Holter, plus tôt en cas de récidive symptomatique
+
+Je reste à votre disposition et vous prie de croire, chère consœur, à l'assurance de mes sentiments confraternels.
+
+Dr [[PER|L. Guichardan]]
+
+Copie : Mme [[PER|Josiane Crétinon]], [[LOC|7 allée des Mésanges, 38400 Saint-Martin-d'Hères]]

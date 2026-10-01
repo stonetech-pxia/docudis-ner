@@ -1,0 +1,12 @@
+Maman
+Aujourd'hui 17:02
+[[PER|Nathan]] t'as bien pris rdv chez le dentiste ? le dr [[PER|Lecomte-Arnaud]] m'a rappelée, il a une place le [[DATE|3 mars]] à 9h15
+
+Moi 17:10
+oui oui c bon j'ai eu sa secrétaire, [[PER|Sandrine]] je crois. c le [[DATE|03/03]] mais à 11h pas 9h
+
+Maman 17:11
+Ok. Oublie pas ta carte vitale et l'attestation mutuelle [[ORG|Harmonie Mutuelle]], ils l'ont demandée la dernière fois. Cabinet au [[LOC|6 place du Marché-Couvert]], pas l'ancien
+
+Moi 17:13
+jsais maman 🙄 bisous

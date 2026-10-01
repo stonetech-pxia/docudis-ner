@@ -1,0 +1,39 @@
+#country: GB
+#doctype: letter
+{{PER#1:full}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+{{EMAIL:PER#1}}
+
+{{DATE:long}}
+
+{{PUBLIC#2}}
+Planning Department
+{{LOC#2:line}}
+
+Application reference: {{REF}}
+Site: {{LOC#3:street}}, {{LOC#3:postcode_town}}
+Applicant: {{ORG#1:legal@property}}
+
+Dear Sir or Madam,
+
+I write to object to the above application for the demolition of the former garage and the erection of a three-storey block of nine flats.
+
+I have lived next door to the site for eleven years. My objections are:
+
+1. Overlooking. The rear balconies on the second floor would look directly into my garden and kitchen, and into the bedroom of my neighbour, {{PER#2:full}}, at number 14.
+
+2. Parking. The scheme provides four spaces for nine flats. The road is already full every evening, and the bus stop outside the site is often blocked.
+
+3. Drainage. The garage forecourt flooded twice last winter. The flood risk assessment by {{ORG#2:legal@trades}} does not mention this.
+
+I also note that the site notice was only put up on {{DATE:long}}, which leaves residents less than the full 21 days to respond.
+
+I would be grateful if my objection could be reported to the planning committee, and I ask to be notified of the meeting date so that I can speak. My ward councillor, Cllr {{PER#3:full}}, has been copied into this letter.
+
+Yours faithfully,
+
+{{PER#1:signature}}
+{{PER#1:full}}
+
+cc: Cllr {{PER#3:initial_surname}}

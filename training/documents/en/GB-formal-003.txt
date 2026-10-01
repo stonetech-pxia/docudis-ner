@@ -1,0 +1,25 @@
+[[ORG|HSBC UK Bank plc]]
+[[LOC|PO Box 6201]]
+[[LOC|Coventry CV3 9FQ]]
+
+Mr [[PER|Tobias Venn-Achebe]]
+[[LOC|7 Lorne Street]]
+[[LOC|Lincoln LN5 8QS]]
+
+[[DATE|3 September 2026]]
+
+Our ref: DOR/7731-204
+
+Dear Mr [[PER|Venn-Achebe]]
+
+Your Bank Account ending 3582 - notice of dormancy
+
+We have not seen any activity on your account (IBAN GB07 HBUK 0405 6861 3582 89) since [[DATE|19 February 2024]]. If
+there is no customer-initiated transaction before [[DATE|4 December 2026]] the account will be marked dormant.
+
+To keep it active, make a payment, a withdrawal or call us on 03457 404 404.
+
+Yours sincerely
+
+[[PER|Mairead Colqhoun]]
+Customer Account Services

@@ -1,0 +1,20 @@
+#country: BE
+#doctype: medical
+From: {{PER#1:full}} <{{EMAIL:PER#1}}>
+To: accueil <{{EMAIL:ORG#1}}>
+Subject: Re: Rendez-vous kiné + attestation mutuelle
+
+Bonjour,
+
+Merci pour le rappel. Je confirme la séance de jeudi à 17h30 avec {{PER#2:given}}. Est-ce que vous pouvez me donner l'attestation de soins pour les séances de mars ? Ma mutuelle ({{PUBLIC#2}}) me la demande pour le remboursement, mon numéro de registre national est le {{NATID}}.
+
+Bonne journée,
+{{PER#1:given}}
+
+> Le {{DATE:numeric}}, {{ORG#1:name}} a écrit :
+> Bonjour {{TITLE#1}} {{PER#1:surname}},
+> Nous vous rappelons votre rendez-vous de kinésithérapie avec {{PER#2:full}} au cabinet de {{LOC#2:street}}, {{LOC#2:postcode_town}}.
+> En cas d'empêchement, merci de prévenir au moins 24h à l'avance au {{PHONE}}, faute de quoi la séance sera facturée ({{AMOUNT}}).
+> {{PER#3:full}}
+> {{JOB}}
+> {{ORG#1:legal@health}} – n° INAMI {{NUM}}

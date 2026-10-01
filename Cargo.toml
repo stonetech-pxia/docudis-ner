@@ -1,0 +1,17 @@
+[workspace]
+members = [
+    "crates/docudis-ner",
+]
+resolver = "2"
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+repository = "https://github.com/stonetech-pxia/docudis-ner"
+
+[workspace.dependencies]
+docudis-core = { git = "https://github.com/stonetech-pxia/docudis-core.git", rev = "fb41dd1406cda4e98c3ab71914fc731d29e67ffb" }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+tokenizers = { version = "0.22", default-features = false, features = ["fancy-regex"] }

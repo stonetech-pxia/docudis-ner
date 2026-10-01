@@ -1,0 +1,38 @@
+[[PER|Ronan Quilty-Mensah]]
+[[LOC|Apt 14, Riverpoint Court]]
+[[LOC|Bishop's Quay]]
+[[LOC|Limerick V94 E2X1]]
+085 772 3019 · ronanqm@gmail.com
+
+[[DATE|16 September 2025]]
+
+Ms [[PER|Treasa Hanrahan]]
+HR Business Partner
+[[ORG|Shannonside Medtech Ltd]]
+[[LOC|Unit 7, Raheen Business Park]]
+[[LOC|Limerick V94 K5R2]]
+
+Re: Quality Engineer – Ref SM-QE-114
+
+Dear Ms [[PER|Hanrahan]],
+
+I am writing to apply for the Quality Engineer role advertised on your careers page on [[DATE|8th September]].
+
+Since February 2021 I have worked as a QA Technician at [[ORG|Castletroy Precision Moulding]], a supplier of
+catheter components to medical device manufacturers in the [[LOC|Mid-West]]. I run first-article inspections, maintain the
+CMM programmes and lead the monthly CAPA review with the Operations Manager. Last year I led the validation of two new
+Engel presses, including IQ/OQ/PQ protocols and the final report signed off on [[DATE|30/05/2024]].
+
+I hold a B.Eng. in Mechanical Engineering from [[ORG|TUS]] ([[ORG|Technological University of the Shannon]]) and a
+Green Belt in Lean Six Sigma completed with [[ORG|Mid-West Lean Academy]] in [[LOC|Ennis]].
+
+I live in [[LOC|Limerick]] city and could start after one month's notice. My referees are:
+- [[PER|Liam Carew]], Plant Manager, [[ORG|Castletroy Precision Moulding]] – 061 339 204
+- Dr [[PER|Nkechi Brophy]], Lecturer, Department of Mechanical Engineering, [[ORG|TUS]] – nkechi.brophy@tus.ie
+
+I hold a Stamp 4 permission and do not need sponsorship. Thank you for your time; I would welcome the chance to
+discuss the role.
+
+Yours sincerely,
+
+[[PER|Ronan Quilty-Mensah]]

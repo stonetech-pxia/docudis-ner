@@ -1,0 +1,21 @@
+#country: FR
+#doctype: insurance
+# Attestation d'assurance habitation pour un bailleur, courte et formelle.
+{{ORG#1:legal@insurance}}
+{{LOC#1:line}}
+
+ATTESTATION D'ASSURANCE MULTIRISQUE HABITATION
+
+Nous soussignés, {{ORG#1:legal@insurance}}, attestons que :
+{{TITLE#2}} {{PER#2:full}}, né(e) le {{DATE:birth}}
+demeurant {{LOC#2:street}}, {{LOC#2:unit}}, {{LOC#2:postcode_town}}
+
+est titulaire du contrat n° {{REF}} (formule Essentielle, locataire) garantissant les risques locatifs (incendie, dégâts des eaux, explosion) ainsi que la responsabilité civile vie privée, pour le logement situé à l'adresse ci-dessus.
+
+Période de validité : du {{DATE:numeric}} au {{DATE:numeric}}, sous réserve du paiement des cotisations.
+
+Attestation délivrée pour servir et valoir ce que de droit, à la demande de l'assuré, pour être remise à l'agence {{ORG#2:name@property}}, gestionnaire du bien pour le compte de {{TITLE#3}} {{PER#3:full}}.
+
+Fait à {{LOC#1:town}}, le {{DATE:long}}
+Pour la compagnie, {{PER#4:signature}}
+{{DEPT}}

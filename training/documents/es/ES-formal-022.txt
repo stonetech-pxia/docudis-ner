@@ -1,0 +1,33 @@
+[[ORG|TALLERES MOURELLE]]
+Mecánica · Electricidad · Neumáticos
+[[LOC|Rúa Ramón Ferreiro, 91]] – [[LOC|27002 Lugo]]
+Titular: [[PER|Xosé Manuel Mourelle Vázquez]] · NIF 88297592V
+Tel. 982 250 713 · WhatsApp 690 418 226
+Taller autorizado nº 27-00412 (Xunta de [[LOC|Galicia]])
+
+FACTURA        T-2026-00697
+Data / Fecha   [[DATE|17.09.2026]]
+
+Cliente:       [[PER|Uxía Lamas Rodríguez]]
+NIF:           32745196G
+Enderezo:      [[LOC|Lugar de Pacios, 4]]
+               [[LOC|27400 Monforte de Lemos]]
+Vehículo:      Citroën Berlingo 1.6 HDi · Matrícula 7129 GTK · Km 184.320
+Orden de reparación nº 1188 (entrada [[DATE|15.09.2026]])
+
+Ref.       Descripción                               Ud.    P/U       Dto.   Importe
+KIT-DIST   Kit distribución + bomba de agua          1     189,50     5%     180,03
+REF-G12    Anticongelante G12 5 l                    1      21,90      -      21,90
+FIL-AC     Filtro de aceite                          1       8,75      -       8,75
+AC-5W30    Aceite 5W30 (litros)                      5       9,20      -      46,00
+MO         Mano de obra (h)                          4,5    42,00      -     189,00
+
+                                   Base imponible          445,68
+                                   IVA 21 %                 93,59
+                                   Total                   539,27 €
+
+Garantía: 3 meses o 2.000 km en la mano de obra, según el Real Decreto 1457/1986.
+Recogido por: [[PER|Uxía Lamas]] el [[DATE|17 de septiembre]].
+Pago: tarjeta · **** 6502
+
+Mecánico: [[PER|Brais Mourelle]]

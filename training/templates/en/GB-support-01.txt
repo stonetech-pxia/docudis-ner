@@ -1,0 +1,33 @@
+#country: GB
+#doctype: support
+From: {{PER#1:full}} <{{EMAIL:PER#1}}>
+To: {{EMAIL:ORG#1}}
+Subject: Complaint - order {{REF}} delivered damaged, refund not processed
+
+Hello,
+
+I am writing for the third time about order {{REF}}, a three-seater sofa bought on {{DATE:long}} for {{AMOUNT}} and paid on my card ending {{CARD4}}.
+
+It was delivered on {{DATE:long}} by {{ORG#2:legal@transport}}. The driver, {{PER#2:given}}, left it on the pavement and the frame was cracked when we unwrapped it. I sent photos the same day. On {{DATE:day_month}} your colleague {{PER#3:given}} promised a full refund within 5 working days. Nothing has arrived.
+
+Delivery address: {{LOC#1:line}}
+Phone: {{MOBILE}}
+
+Under the Consumer Rights Act 2015 I am entitled to a refund for goods that are not of satisfactory quality. If I do not receive it within 14 days, I will make a claim through my bank and refer the matter to [[ORG|Citizens Advice]].
+
+Regards,
+{{PER#1:full}}
+
+---
+From: {{ORG#1:name}} Customer Care <{{EMAIL:ORG#1}}>
+Sent: {{DATE:short}}
+To: {{PER#1:full}}
+
+Dear {{PER#1:given}},
+
+Thank you for your patience. I'm sorry to hear about the damage to your sofa. I have raised this with our returns team and will update you within 48 hours.
+
+Kind regards,
+{{PER#3:full}}
+{{DEPT}}
+{{ORG#1:legal@retail}} | Registered in England and Wales No. {{COMPANYID}} | {{LOC#2:line}}

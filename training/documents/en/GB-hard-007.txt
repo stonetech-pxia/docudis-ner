@@ -1,0 +1,38 @@
+[[ORG|HARGREAVE OYELEYE McCRUDDEN LIMITED]]
+Company number: 11482093
+
+CONFIRMATION STATEMENT – made up to [[DATE|31 August 2025]]
+
+Registered office address
+[[LOC|2nd Floor]]
+[[LOC|9 Portland Square]]
+[[LOC|Bristol]]
+[[LOC|BS2 8ST]]
+
+Principal business activity (SIC): 71122 – Engineering related scientific and technical consulting activities
+
+STATEMENT OF CAPITAL
+Class of shares: Ordinary     Number allotted: 300     Aggregate nominal value: £300.00     Total unpaid: £0.00
+
+SHAREHOLDERS AT THE CONFIRMATION DATE
+Name | Address | Shares held | Transfers in period
+[[PER|HARGREAVE, Simon Peter]] | [[LOC|The Old Forge, Church Lane, Winterbourne, Bristol BS36 1SE]] | 100 Ordinary | none
+[[PER|OYELEYE, Adetutu Folasade]] | [[LOC|44 Cotham Brow, Bristol BS6 6AR]] | 100 Ordinary | none
+[[PER|McCRUDDEN, Niall Joseph]] | [[LOC|7 Saltings Close, Portishead BS20 7DZ]] | 90 Ordinary | 10 transferred out
+[[ORG|HOM Employee Trustees Ltd]] | registered office as above | 10 Ordinary | 10 transferred in on [[DATE|01/04/2025]]
+
+DIRECTORS
+[[PER|Simon Peter HARGREAVE]] – appointed [[DATE|4 July 2018]] – Chartered Engineer
+[[PER|Adetutu Folasade OYELEYE]] – appointed [[DATE|4 July 2018]] – Chartered Engineer
+[[PER|Niall Joseph McCRUDDEN]] – appointed [[DATE|2 January 2020]] – Finance Director
+
+COMPANY SECRETARY
+[[ORG|Clifton Corporate Services LLP]], [[LOC|18 Whiteladies Road, Bristol BS8 1PD]]
+
+PERSONS WITH SIGNIFICANT CONTROL
+Mr [[PER|Simon Peter Hargreave]] – born March 1971 – nationality British – ownership of shares 25% to 50%
+Mrs [[PER|Adetutu Folasade Oyeleye]] – born October 1976 – nationality British – ownership of shares 25% to 50%
+
+Note from the secretary: [[PER|Tutu]] and [[PER|Simon]] have confirmed no change of residential address. [[PER|Niall]]'s
+service address remains the registered office. Lodged with Companies House on [[DATE|12/09/2025]] by [[PER|N. McCrudden]].
+Authentication code held by [[PER|Harriet Coyle-Mensah]], Partner, [[ORG|Clifton Corporate Services LLP]].

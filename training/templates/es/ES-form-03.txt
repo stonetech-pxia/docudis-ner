@@ -1,0 +1,14 @@
+#country: ES
+#doctype: form
+# Formulario de inscripción a una escuela de verano, copiado de la web
+Inscripción campamento urbano — {{ORG#1:name@school}}
+Semana(s): del {{DATE:day_month}} al {{DATE:day_month}}
+
+Nombre del niño/a: {{PER#1:full}}
+Fecha de nacimiento: {{DATE:birth}}
+Alergias: frutos secos
+Madre/padre/tutor 1: {{PER#2:full}} · {{MOBILE}} · {{EMAIL:PER#2}}
+Madre/padre/tutor 2: {{PER#3:full}} · {{MOBILE}}
+Personas autorizadas a recogerlo: {{PER#4:full}} (familiar), {{PER#3:given}}
+Domicilio: {{LOC#1:line}}
+Pago: {{AMOUNT}} por transferencia a {{IBAN}}

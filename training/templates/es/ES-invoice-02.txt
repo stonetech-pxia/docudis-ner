@@ -1,0 +1,42 @@
+#country: ES
+#doctype: invoice
+# Factura de electricidad de una comercializadora grande, pegada desde el PDF
+[[ORG|Iberdrola Clientes, S.A.U.]]
+Apartado de Correos 61.017 - 28080 [[LOC|Madrid]]
+
+Datos del titular
+{{PER#1:surname_given}}
+{{LOC#1:street}}
+{{LOC#1:unit}}
+{{LOC#1:postcode_town}} ({{LOC#1:region}})
+
+FACTURA DE ELECTRICIDAD
+Nº factura: {{REF}}
+Fecha de emisión: {{DATE:long}}
+Periodo de facturación: del {{DATE:numeric}} al {{DATE:numeric}} (31 días)
+Fecha de cargo: {{DATE:numeric}}
+
+RESUMEN
+Potencia: {{AMOUNT}}
+Energía consumida: {{AMOUNT}}
+Impuesto sobre la electricidad: {{AMOUNT}}
+Alquiler del contador: {{AMOUNT}}
+IVA: {{AMOUNT}}
+TOTAL A PAGAR: {{AMOUNT}}
+
+DATOS DEL CONTRATO
+Titular: {{PER#1:full}}  NIF: {{NATID}}
+Dirección de suministro: {{LOC#1:line}}
+CUPS: ES0021000{{NUM}}4471KL0F
+Contrato de acceso: {{REF}}
+Distribuidora: [[ORG|i-DE Redes Eléctricas Inteligentes, S.A.U.]]
+Potencia contratada punta: 4,6 kW
+Tarifa: Plan Estable
+
+Forma de pago: domiciliación bancaria
+Entidad: {{ORG#2:name@finance}}
+IBAN: {{IBAN}}
+
+Averías de la distribuidora: 900 171 171 (24 horas)
+Para reclamaciones puede dirigirse a la Junta Arbitral de Consumo de {{LOC#1:region}}.
+Consumo del mismo periodo del año anterior: 212 kWh. Su consumo medio diario ha sido de 6,8 kWh.

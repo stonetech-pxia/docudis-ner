@@ -1,0 +1,48 @@
+#country: ES
+#doctype: bank
+# Carta de un banco grande sobre reclamación de comisiones, con respuesta del cliente en el mismo correo
+De: {{PER#1:full}} <{{EMAIL:PER#1}}>
+Para: Servicio de Atención al Cliente <atencioncliente@bbva.com>
+Fecha: {{DATE:long}}
+Asunto: RE: Su reclamación {{REF}}
+
+Buenas tardes:
+
+Les contesto a su carta, que copio abajo. No estoy de acuerdo: la comisión de descubierto se cobró el mismo día en que entró mi nómina, y el descubierto duró menos de tres horas. Adjunto el justificante del abono de {{ORG#2:legal@employer}} del {{DATE:day_month}}.
+
+Si no me devuelven el importe, presentaré la reclamación ante el Banco de España.
+
+{{PER#1:given}} {{PER#1:surname}}
+DNI {{NATID}}
+{{LOC#1:line}}
+Tel. {{MOBILE}}
+
+----- Mensaje original -----
+De: [[ORG|Banco Bilbao Vizcaya Argentaria, S.A.]]
+Servicio de Atención al Cliente
+Apartado de Correos 1598, 28080 [[LOC|Madrid]]
+
+{{LOC#2:town}}, {{DATE:long}}
+
+{{TITLE#1}} {{PER#1:full}}
+{{LOC#1:street}}
+{{LOC#1:unit}}
+{{LOC#1:postcode_town}}
+
+Referencia: {{REF}}
+Cuenta: {{IBAN}}
+
+Estimado/a cliente:
+
+Hemos recibido su escrito de fecha {{DATE:numeric}}, en el que solicita la devolución de la comisión por descubierto de {{AMOUNT}} y los intereses deudores de {{AMOUNT}} liquidados el {{DATE:day_month}}.
+
+Tras revisar el caso con su oficina de {{LOC#2:town}}, cuyo director es {{PER#2:full}}, le informamos de que ambos cargos se ajustan a las condiciones del contrato firmado el {{DATE:numeric}}, en las que se establece una comisión máxima por descubierto de {{AMOUNT}}.
+
+No obstante, como gesto comercial, procederemos a abonar el 50 % de la comisión en los próximos días.
+
+Si no está de acuerdo con esta resolución, puede dirigirse al Departamento de Conducta de Mercado y Reclamaciones del Banco de España, [[LOC|C/ Alcalá, 48, 28014 Madrid]].
+
+Atentamente,
+
+{{PER#3:full}}
+{{DEPT}}

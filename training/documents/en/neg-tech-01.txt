@@ -1,0 +1,29 @@
+The app updated itself to 7.21.4 overnight and now the widget is gone. Rolling back to 6.18.2 fixed it.
+
+Firmware 12.03.19 on the box, 12.03.21 on the screen. I assume the box is out of date.
+
+Spare part reference 4.55.08 is the rear wheel; 4.55.06 was the old one and is discontinued.
+
+Build 2.14.7 crashes on export. Build 2.15.0 does the same, so it is not the update.
+
+The torque spec is 3.40.12 Nm per bolt, down from 3.40.09 in the previous revision.
+
+Our licence covers version 5.12.03 only. Anything above 5.12.30 needs a new key.
+
+Standard BS 1.09.24 clause three says the test is repeated if the reading drifts.
+
+The chart uses release 9.4.1 on the left and 10.0.2 on the right, so the scales differ.
+
+Sole director is a role, not a name; a company can have one and still have five shareholders.
+
+Joint and several liquidators may act alone. Joint liquidators may not.
+
+Appointments and resignations go in the same section of the notice.
+
+We are closed Thursday and Friday. Monday through Wednesday we open late.
+
+The draw was on a Thursday but the paperwork was signed the following Monday.
+
+Joint Liquidator: [[PER|Ruth Ellacott]]. The appointment is recorded in release 3.02.11 of the register export.
+
+Sole director: [[PER|Abiodun Fadipe]]. Thursday's notice repeated the figure from version 4.7.2.

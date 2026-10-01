@@ -1,0 +1,30 @@
+#country: ES
+#doctype: letter
+#citizen's written complaint to the town hall about noise
+{{PER#1:full}}
+DNI {{NATID}}
+{{LOC#1:street}}, {{LOC#1:unit}}
+{{LOC#1:postcode_town}}
+Tel. {{MOBILE}} · {{EMAIL:PER#1}}
+
+AL {{PUBLIC#1}}
+Área de Medio Ambiente
+{{LOC#2:line}}
+
+{{LOC#1:town}}, {{DATE:long}}
+
+ASUNTO: Queja por ruidos del establecimiento {{ORG#1:name@hospitality}}
+
+Muy señores míos:
+
+Soy vecino del inmueble situado encima del bar {{ORG#1:legal@hospitality}}, en la planta baja de {{LOC#1:street}}. Desde su reapertura el {{DATE:day_month}}, el local funciona con la puerta abierta y música a alto volumen hasta pasadas las dos de la madrugada, incluso entre semana.
+
+He hablado en varias ocasiones con el encargado, {{PER#2:given}} {{PER#2:surname}}, sin resultado. También lo han hecho otros vecinos, entre ellos {{TITLE#3}} {{PER#3:full}}, del segundo, y {{PER#4:full}}, presidenta de la comunidad, que firma conmigo este escrito. La Policía Local acudió los días {{DATE:numeric}} y {{DATE:numeric}} (diligencias {{REF}}).
+
+Por todo ello SOLICITO que se realice una medición de ruido desde mi vivienda, se compruebe si el local cuenta con licencia para música amplificada y, en su caso, se adopten las medidas que procedan.
+
+Adjunto grabaciones y un listado de firmas de 14 vecinos.
+
+Atentamente,
+
+{{PER#1:signature}}                    {{PER#4:signature}}

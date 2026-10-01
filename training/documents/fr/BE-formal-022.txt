@@ -1,0 +1,37 @@
+[[ORG|Menuiserie Dethier-Collignon SRL]]
+Châssis bois & alu - escaliers - parquets
+[[LOC|Rue du Grand Feu 38]]
+[[LOC|5100 Jambes]]
+T 081 30 72 45 - info@dethier-collignon.be
+TVA BE 0472.839.168 - RPM [[LOC|Namur]]
+
+FACTURE                                             N° 2026/0587
+Date facture : [[DATE|10/09/2026]]
+Date d'échéance : [[DATE|10/10/2026]]
+Votre référence : chantier [[LOC|Wépion]]
+
+Client :
+Monsieur et Madame [[PER|Quentin Lamboray]] - [[PER|Sophie Gérardy]]
+[[LOC|Chaussée de Dinant 1174]]
+[[LOC|5100 Wépion]]
+
+Description                                             Quantité      Prix unit.       Total
+Fourniture et pose porte-fenêtre bois méranti 2 vantaux    1          2.340,00       2.340,00
+Fenêtre oscillo-battante 100 x 120                         3            685,00       2.055,00
+Double vitrage Ug 1,0 feuilleté                          6,8 m²          -        (compris)
+Démontage et évacuation anciens châssis                    4             75,00         300,00
+Finitions intérieures (chambranles)                        1            410,00         410,00
+
+                                                    Total HTVA                  5.105,00
+                                                    TVA 6 % (logement > 10 ans)   306,30
+                                                    Total TVAC                  5.411,30 EUR
+                                                    Acompte reçu le [[DATE|02/06/2026]]  -1.600,00
+                                                    Solde à payer               3.811,30 EUR
+
+Paiement à 30 jours sur le compte de [[ORG|Menuiserie Dethier-Collignon]] auprès de [[ORG|Belfius]]
+Communication structurée : +++091/2345/67853+++
+
+Attestation TVA 6 % signée par le client le [[DATE|28 mai 2026]] (jointe au dossier).
+Travaux réalisés du [[DATE|25 août]] au [[DATE|3 septembre 2026]] par [[PER|Benoît Dethier]] et [[PER|Kevin Hanquet]].
+
+Conditions générales au verso. En cas de non-paiement à l'échéance, un intérêt de retard de 10 % l'an et une indemnité forfaitaire de 10 % (minimum 50 €) seront dus de plein droit. Tout litige relève des tribunaux de l'arrondissement de [[LOC|Namur]].

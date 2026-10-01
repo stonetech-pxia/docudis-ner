@@ -1,0 +1,33 @@
+SOLICITUD DE EMPLEO – TEMPORADA / FIJO DISCONTINUO
+[[ORG|Grupo Hotelero Can Picafort Mar]] · [[ORG|Hotel Ses Dunes]] 4* · [[ORG|Aparthotel Sa Marina Blava]]
+
+Puesto al que opta:  [ ] Recepción  [X] Pisos  [ ] Cocina  [ ] Bar / sala  [ ] Mantenimiento
+Hotel preferido: [[ORG|Sa Marina Blava]]
+
+DATOS PERSONALES
+Apellido 1: [[PER|Olmos]]        Apellido 2: [[PER|Vidal]]        Nombre: [[PER|Francisca]] ([[PER|Xisca]])
+Fecha nac.: [[DATE|11-01-1979]]    Nacionalidad: española    DNI: 29286390F
+Nº Seguridad Social: 43/72199286/43
+Dirección: [[LOC|C/ des Molí d'en Garrit, 14, baixos]]
+Municipio: [[LOC|Muro]]   C.P.: [[LOC|07440]]   Isla: [[LOC|Mallorca]]
+Tel.: 971 53 90 17 / 699 01 47 22       E-mail: xisca.olmos79@hotmail.com
+¿Carné de conducir? Sí     ¿Vehículo propio? Sí
+
+EXPERIENCIA (últimos tres empleos)
+Empresa                               | Puesto               | Desde      | Hasta      | Motivo baja
+[[ORG|Hoteles Alcúdia Bay 2000 S.A.]]           | camarera de pisos    | [[DATE|01/05/2022]] | [[DATE|31/10/2025]] | fin temporada
+[[ORG|Limpiezas Na Bet & Fills]]                | limpiadora           | [[DATE|15/11/2019]] | [[DATE|30/04/2022]] | cambio de empresa
+[[ORG|Agroturisme Son Toni Rotger]]             | gobernanta           | 2015       | 2019       | cierre del negocio
+
+¿Algún familiar trabaja en el grupo? Sí – [[PER|Joan Vidal Serra]] (cuñado), mantenimiento en [[ORG|Hotel Ses Dunes]].
+
+Idiomas: catalán (nativo), castellano (nativo), alemán (básico, hablado).
+
+¿Quién la recomienda? [[PER|Margalida Ferrer]], gobernanta general.
+
+Disponibilidad: a partir del [[DATE|1 de marzo de 2027]].
+
+Autorizo el tratamiento de mis datos para procesos de selección de [[ORG|Grupo Hotelero Can Picafort Mar S.L.]]
+[[LOC|Muro]], [[DATE|18/09/2026]]      Firma: [[PER|F. Olmos V.]]
+
+USO INTERNO – Entrevistada por: [[PER|Rafel Cladera]], jefe de RR. HH., el [[DATE|22/09/2026]]. Apta. Nivel 3.

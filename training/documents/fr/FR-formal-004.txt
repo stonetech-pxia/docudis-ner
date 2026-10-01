@@ -1,0 +1,17 @@
+QUITTANCE DE LOYER - août 2026
+
+Bailleur : [[PER|Mireille Tessandier]], [[LOC|22 rue Bayard, 31000 Toulouse]]
+Locataire : [[PER|Awa Diallo-Perrin]]
+Logement : [[LOC|15 rue des Blanchers, 2e étage gauche, 31000 Toulouse]]
+
+Je soussignée [[PER|Mireille Tessandier]], propriétaire du logement désigné ci-dessus, déclare avoir reçu de Mme [[PER|Diallo-Perrin]] la somme de 690,00 € au titre du loyer et des charges pour la période du [[DATE|1er août]] au [[DATE|31 août 2026]].
+
+Loyer : 620,00 €
+Provision sur charges : 70,00 €
+Total : 690,00 €
+Réglé par virement le [[DATE|04/08/2026]].
+
+Fait à [[LOC|Toulouse]], le [[DATE|5 août 2026]]
+[[PER|Mireille Tessandier]]
+
+Cette quittance annule tout reçu donné pour acompte.

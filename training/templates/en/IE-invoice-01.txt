@@ -1,0 +1,61 @@
+#country: IE
+#doctype: invoice
+# Builder's quotation for an extension, long, with terms
+{{ORG#1:legal@trades}}
+Building Contractors - Extensions - Renovations
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+{{LOC#1:region}}
+Office: {{PHONE}}   {{PER#1:given}}: {{MOBILE}}
+{{EMAIL:ORG#1}}   {{URL:ORG#1}}
+VAT No. {{VAT}}   Company Reg. {{COMPANYID}}
+
+QUOTATION
+
+Quote ref: {{REF}}
+Date: {{DATE:long}}
+Valid until: {{DATE:long}}
+
+Prepared for:
+{{PER#2:full}} & {{PER#3:full}}
+{{LOC#2:street}}
+{{LOC#2:postcode_town}}
+
+Dear {{PER#2:given}} and {{PER#3:given}},
+
+Further to our site visit on {{DATE:day_month}} with your engineer {{PER#4:full}} of {{ORG#2:legal@property}}, please find below our price for the single-storey rear extension (approx. 24 m2) as per drawings rev. C.
+
+1. Site set-up, skip hire, temporary fencing                    {{AMOUNT}}
+2. Excavation and foundations (strip, 1.0 m deep)                {{AMOUNT}}
+3. Blockwork to DPC and walls, cavity insulation 150 mm         {{AMOUNT}}
+4. Flat roof, warm deck, EPDM membrane, 2 no. rooflights         {{AMOUNT}}
+5. Knock-through to existing kitchen, steel beam (by engineer)   {{AMOUNT}}
+6. Windows and bifold door (supplied by {{ORG#3:name@trades}})   {{AMOUNT}}
+7. First and second fix electrics (RECI registered)              {{AMOUNT}}
+8. Plumbing, underfloor heating to extension                     {{AMOUNT}}
+9. Plastering, screed, making good                               {{AMOUNT}}
+
+Total excluding VAT                                              {{AMOUNT:big}}
+VAT @ 13.5%                                                      {{AMOUNT}}
+Total including VAT                                              {{AMOUNT:big}}
+
+Exclusions: kitchen units, floor finishes, planning and Building Control fees payable to {{PUBLIC#2}}, painting and decorating.
+
+Payment schedule
+- 10% deposit on acceptance
+- 30% on completion of roof
+- 50% on completion of first fix
+- 10% on handover, less 2.5% retention held for 6 months
+
+Programme: approx. 10 weeks from start. We can start on or around {{DATE:day_month}} subject to weather and confirmation of the steel from {{PER#4:surname}}.
+
+To accept, please sign and return a copy or reply by e-mail. Deposit by transfer to IBAN {{IBAN}}, BIC {{BIC}}, quoting {{REF}}.
+
+Accepted by: ______________________  Date: __________
+{{PER#2:full}}
+
+Yours sincerely,
+
+{{PER#1:signature}}
+{{JOB}}
+{{ORG#1:name}}

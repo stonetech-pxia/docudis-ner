@@ -1,0 +1,11 @@
+#country: ES
+#doctype: letter
+#handwritten-style note to a neighbour, short and informal
+Hola {{PER#1:given}}:
+
+Soy {{PER#2:given}}, la del 3ºB. Te dejo esta nota porque no coincidimos nunca. Desde hace unos días hay una mancha de humedad en el techo de mi baño, justo debajo del tuyo. Ya he avisado a {{PER#3:full}}, el administrador de la finca ({{ORG#1:name@property}}), y me dice que lo mejor es que venga el fontanero de {{ORG#2:legal@trades}} a mirar las dos casas a la vez.
+
+¿Te vendría bien el {{DATE:day_month}} por la tarde? Si no, dime qué día te va mejor. Mi móvil es el {{MOBILE}}, escríbeme por WhatsApp cuando quieras.
+
+¡Gracias y perdona la molestia!
+{{PER#2:given}} {{PER#2:surname}}

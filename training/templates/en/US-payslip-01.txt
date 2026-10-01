@@ -1,0 +1,45 @@
+#country: US
+#doctype: payslip
+# Biweekly pay stub from a payroll provider's portal
+{{ORG#1:legal@health}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+
+EARNINGS STATEMENT
+Check date: {{DATE:numeric}}          Period beginning: {{DATE:numeric}}          Period ending: {{DATE:numeric}}
+Advice number: {{REF}}
+
+{{PER#1:full}}
+{{LOC#2:street}}
+{{LOC#2:unit}}
+{{LOC#2:postcode_town}}
+
+Employee ID: {{NUM}}     SSN: {{NATID}}
+Filing status: Married filing jointly   Allowances: federal 2, state 1
+Department: {{DEPT}}     Position: {{JOB}}
+Supervisor: {{PER#2:full}}
+
+Earnings          Rate       Hours     This period     Year to date
+Regular           {{AMOUNT}}   72.00     {{AMOUNT}}        {{AMOUNT:big}}
+Overtime          {{AMOUNT}}   6.50      {{AMOUNT}}        {{AMOUNT}}
+Night diff                   24.00     {{AMOUNT}}        {{AMOUNT}}
+PTO                          8.00      {{AMOUNT}}        {{AMOUNT}}
+Gross pay                              {{AMOUNT}}        {{AMOUNT:big}}
+
+Deductions        This period     Year to date
+Federal income tax  {{AMOUNT}}      {{AMOUNT}}
+Social Security     {{AMOUNT}}      {{AMOUNT}}
+Medicare            {{AMOUNT}}      {{AMOUNT}}
+State income tax    {{AMOUNT}}      {{AMOUNT}}
+401(k) 6%           {{AMOUNT}}      {{AMOUNT}}
+Medical (pre-tax)   {{AMOUNT}}      {{AMOUNT}}
+Dental (pre-tax)    {{AMOUNT}}      {{AMOUNT}}
+
+Net pay: {{AMOUNT}}
+
+Direct deposit
+Checking xxxx{{CARD4}}    {{AMOUNT}}
+Savings  xxxx{{CARD4}}    {{AMOUNT}}
+
+PTO balance: 61.25 hrs    Sick balance: 22.00 hrs
+Questions about your pay? Contact {{PER#3:full}}, {{DEPT}}, {{PHONE}} or {{EMAIL:PER#3}}.

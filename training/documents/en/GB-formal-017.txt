@@ -1,0 +1,58 @@
+[[ORG|University Hospitals Plymouth NHS Trust]]
+[[ORG|Derriford Hospital]]  |  [[LOC|Derriford Road, Plymouth PL6 8DH]]
+Cardiology Ward (Level 7)  |  Ward tel 01752 432 710
+
+INPATIENT DISCHARGE SUMMARY
+
+Patient name:         [[PER|KERNICK, Barnabas Leonard]]
+Date of birth:        [[DATE|27/02/1949]]
+NHS number:           448 071 3042
+Hospital number:      P0781134
+Address:              [[LOC|Wheal Rose Cottage]]
+                      [[LOC|Chapel Street]]
+                      [[LOC|Callington PL17 7AS]]
+Next of kin:          [[PER|Tegan Kernick-Lyle]] (daughter) 07700 781 223
+Registered GP:        Dr [[PER|Hemant Sidhu]], [[ORG|Callington Health Centre]], [[LOC|Haye Road, Callington PL17 7AW]]
+
+Admitted:             [[DATE|29 August 2026]] via Emergency Department
+Discharged:           [[DATE|4 September 2026]]
+Consultant:           Dr [[PER|Imogen Ashdown-Quaye]], Consultant Cardiologist
+Summary completed by: Dr [[PER|Lorcan Beddoe]], FY2 doctor, bleep 4471
+
+Presenting complaint
+Central chest pain radiating to the jaw, onset 05:30 on [[DATE|29/08/2026]] while gardening. Called 999; attended by
+[[ORG|South Western Ambulance Service]].
+
+Diagnosis
+NSTEMI. Coronary angiogram [[DATE|30/08/2026]]: 90% stenosis mid LAD, treated with one drug-eluting stent. Moderate disease
+in RCA, for medical management.
+
+Other problems
+Type 2 diabetes (diet controlled), hypertension, ex-smoker (40 pack-years, stopped 2011), mild COPD.
+
+Investigations
+Troponin T 214 -> 388 ng/L. Echo [[DATE|1 September]]: LVEF 48%, mild anterior hypokinesia. HbA1c 51 mmol/mol.
+Total cholesterol 5.9 mmol/L.
+
+Medication on discharge (NEW = started this admission)
+Aspirin 75 mg once daily - lifelong
+Ticagrelor 90 mg twice daily - NEW, 12 months, stop on [[DATE|30/08/2027]]
+Atorvastatin 80 mg at night - NEW
+Bisoprolol 2.5 mg once daily - NEW
+Ramipril 2.5 mg once daily - NEW (was on amlodipine 5 mg, STOPPED)
+Lansoprazole 15 mg once daily - NEW
+GTN spray 400 micrograms as needed - NEW
+Salbutamol inhaler as needed - unchanged
+
+Actions for GP
+1. U&E in 1 to 2 weeks after ramipril start; up-titrate ramipril and bisoprolol as tolerated.
+2. Consider metformin; HbA1c now in diabetic range.
+3. Refer for smoking relapse support if needed (patient says he has not smoked since 2011).
+
+Follow-up
+Cardiac rehabilitation at [[ORG|Mount Gould Hospital]] - team will contact the patient.
+Cardiology clinic in 3 months with Dr [[PER|Ashdown-Quaye]].
+DVLA: must not drive for 1 week after successful PCI; the patient has been informed and says his daughter [[PER|Tegan]]
+will drive him until [[DATE|8 September]].
+
+Information given to patient: yes. Copy to patient: yes. Copy to GP: electronic, sent [[DATE|04/09/2026]] 15:22.

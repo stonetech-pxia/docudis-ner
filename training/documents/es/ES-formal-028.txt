@@ -1,0 +1,45 @@
+[[ORG|Guadalquivir Data Consulting, S.L.]]
+Nómina de agosto 2026
+
+-----------------------------------------------------------------------------------------
+EMPRESA                                         | TRABAJADOR
+[[ORG|GUADALQUIVIR DATA CONSULTING S.L.]]                 | [[PER|OKONKWO ADAEZE CHIDINMA]]
+CIF B53807194                                   | NIE: Z3304621D
+[[LOC|Avda. de la Palmera, 19, edif. Winterthur]]      | NAF: 41/36495986/50
+[[LOC|41013 Sevilla]]                                   | Categoría: Analista programadora sénior
+                                                | Grupo profesional: C
+                                                | Antigüedad: [[DATE|19/10/2020]]
+                                                | Domicilio: [[LOC|C/ Real, 144, 2º A]]
+                                                |            [[LOC|41701 Dos Hermanas]]
+-----------------------------------------------------------------------------------------
+Periodo: [[DATE|01/08/2026]] - [[DATE|31/08/2026]]  |  Días cotizados: 31  |  Tipo contrato: 100 (indefinido)
+-----------------------------------------------------------------------------------------
+CONCEPTO                              UNIDADES    PRECIO     DEVENGO     DEDUCCIÓN
+Salario base                             30        75,500     2.265,00
+Complemento de puesto                                          480,00
+Plus de teletrabajo                                             35,00
+Seguro médico (retribución en especie)                          52,75
+Retribución flexible: guardería                                180,00      180,00
+Contingencias comunes                   4,70 %                             141,36
+Desempleo                               1,55 %                              46,62
+Formación profesional                   0,10 %                               3,01
+MEI                                     0,13 %                               3,91
+IRPF                                   17,24 %                             520,54
+Ingreso a cuenta especie                                                    52,75
+-----------------------------------------------------------------------------------------
+TOTAL DEVENGADO     3.012,75       TOTAL DEDUCCIONES     948,19       LÍQUIDO     2.064,56
+-----------------------------------------------------------------------------------------
+Base de cotización CC: 3.007,59 (incl. prorrata pagas extraordinarias)
+Base sujeta a retención IRPF: 3.019,39
+
+Guardería abonada directamente a [[ORG|Escuela Infantil Los Remedios Garabatos]] (factura nº 812).
+Transferencia a ES86 7307 6044 8352 0924 6524 con fecha valor [[DATE|29/08/2026]].
+
+Observaciones:
+- Del [[DATE|3 de agosto]] al [[DATE|21 de agosto]]: vacaciones (15 días laborables).
+- La revisión salarial del convenio de consultoría se aplicará en la nómina de octubre con atrasos desde el [[DATE|1 de enero]].
+- Para modificar su porcentaje de IRPF, envíe el modelo 145 a Personas y Talento (nominas@gdconsulting.es).
+
+[[PER|Adaeze Okonkwo]]                               [[PER|Macarena Osuna Barrera]]
+Recibí                                          Personas y Talento
+                                                [[ORG|Guadalquivir Data Consulting, S.L.]]

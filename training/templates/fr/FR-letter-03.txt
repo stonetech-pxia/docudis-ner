@@ -1,0 +1,29 @@
+#country: FR
+#doctype: letter
+{{TITLE#1}} {{PER#1:full}}
+{{LOC#1:street}}
+{{LOC#1:unit}}
+{{LOC#1:postcode_town}}
+
+{{PUBLIC#2}}
+Service des impôts des particuliers
+{{LOC#2:po_box}}
+{{LOC#2:postcode_town}}
+
+{{LOC#1:town}}, le {{DATE:numeric}}
+
+Objet : réclamation – taxe d'habitation sur résidence secondaire
+Numéro fiscal : {{TAXID}}
+Référence de l'avis : {{REF}}
+
+Madame, Monsieur,
+
+J'ai reçu un avis de taxe d'habitation pour le logement situé {{LOC#3:line}}, considéré comme ma résidence secondaire. Or ce logement est loué à titre de résidence principale depuis le {{DATE:long}} à {{TITLE#2}} {{PER#2:full}}, qui y est domicilié(e).
+
+Je joins à ma réclamation la copie du bail et une attestation de l'agence {{ORG#1:legal@property}} qui en assure la gestion.
+
+Je vous remercie de bien vouloir procéder au dégrèvement de la somme de {{AMOUNT}}.
+
+Veuillez agréer, Madame, Monsieur, mes salutations distinguées.
+
+{{PER#1:initial_surname}}

@@ -1,0 +1,10 @@
+[[[DATE|03.11.25]], 07:48:12] [[PER|Noémie Chappuis]]: Salut les voisins 👋 c'est [[PER|Noémie]] du 2e. Quelqu'un d'autre a pas d'eau chaude depuis hier soir ?
+[[[DATE|03.11.25]], 07:52:40] [[PER|Arben]]: Chez nous non plus. Le concierge est en vacances jusqu'au [[DATE|10 novembre]] 🙄
+[[[DATE|03.11.25]], 07:55:03] Mme [[PER|Rochat]] 4e: Pareil. J'ai appelé la régie hier, personne. C'est toujours [[ORG|Régie du Léman]] ?
+[[[DATE|03.11.25]], 08:01:19] [[PER|Noémie Chappuis]]: Oui, [[ORG|Régie du Léman SA]], notre gérante c'est Mme [[PER|Perret-Gentil]]. Tél 021 624 18 90. Je leur envoie un mail avec vous en copie si vous voulez
+[[[DATE|03.11.25]], 08:03:55] [[PER|Arben]]: Oui stp. Mettez aussi que le lift fait un bruit bizarre depuis septembre
+[[[DATE|03.11.25]], 08:20:31] [[PER|Noémie Chappuis]]: Envoyé 👍 J'ai mis l'adresse complète pour qu'ils sachent de quel immeuble on parle : [[LOC|Avenue de Morges 58, 1004 Lausanne]]
+[[[DATE|03.11.25]], 10:42:07] [[PER|Noémie Chappuis]]: Réponse de la régie : un chauffagiste de [[ORG|Chauffage Bonzon Sàrl]] passe cet après-midi entre 14h et 16h. Ils ont besoin d'accéder à la chaufferie au sous-sol, quelqu'un a la clé ?
+[[[DATE|03.11.25]], 10:45:30] Mme [[PER|Rochat]] 4e: Mon mari [[PER|Jean-Daniel]] a une clé, il sera là
+[[[DATE|03.11.25]], 16:58:14] Mme [[PER|Rochat]] 4e: C'était la pompe. Réparé ✅ [[PER|Jean-Daniel]] dit que le technicien ([[PER|Loïc]]) conseille de demander une baisse de loyer pour les 2 jours, l'[[ORG|ASLOCA]] dit que c'est possible
+[[[DATE|03.11.25]], 17:05:48] [[PER|Arben]]: Merci à vous deux 🙏 Et pour la baisse de loyer c'est pas la peine pour 2 jours à mon avis

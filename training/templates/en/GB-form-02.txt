@@ -1,0 +1,49 @@
+#country: GB
+#doctype: form
+# Primary school after-school club registration form, filled in by a parent
+{{ORG#1:name@school}} - Kids' Club
+Registration form {{DATE:day_month}} term
+
+CHILD
+Name: {{PER#1:full}}   Year group: 3   Class: Rowan
+Date of birth: {{DATE:birth}}
+Home address: {{LOC#1:line}}
+GP: {{PER#5:full}}, {{ORG#2:name@health}}, {{PHONE}}
+Allergies / medical: mild asthma, blue inhaler kept in bag
+Dietary: vegetarian
+
+PARENT / CARER 1
+Name: {{PER#2:full}}
+Relationship: parent
+Mobile: {{MOBILE}}
+Work: {{ORG#3:legal@employer}}, {{PHONE}}
+Email: {{EMAIL:PER#2}}
+
+PARENT / CARER 2
+Name: {{PER#3:full}}
+Relationship: parent
+Mobile: {{MOBILE}}
+Address if different: {{LOC#2:line}}
+
+EMERGENCY CONTACT (not a parent)
+Name: {{PER#4:full}}
+Relationship: grandparent
+Phone: {{PHONE}}
+
+PEOPLE ALLOWED TO COLLECT
+{{PER#2:given}}, {{PER#3:given}}, {{PER#4:given}}. Password: "lighthouse"
+
+SESSIONS REQUIRED
+Mon  Tue  Wed  Thu  Fri
+ x         x         x
+Start date: {{DATE:short}}
+
+PAYMENT
+Tax-Free Childcare reference: {{REF}}
+Invoices to: {{PER#2:initial_surname}}
+
+CONSENTS
+Photos for internal display: yes   Sun cream: yes   Local walks: yes
+
+Signed: {{PER#2:signature}}   Date: {{DATE:numeric}}
+For office use - received by {{PER#6:initial_surname}}, {{JOB}}

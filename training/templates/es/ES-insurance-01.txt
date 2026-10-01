@@ -1,0 +1,53 @@
+#country: ES
+#doctype: insurance
+# Condiciones particulares de un seguro de coche
+{{ORG#1:legal@insurance}}
+{{LOC#1:line}}
+CIF {{COMPANYID}} · Inscrita en la DGSFP con la clave C-{{NUM}}
+
+CONDICIONES PARTICULARES — SEGURO DE AUTOMÓVIL
+Póliza nº: {{REF}}
+Efecto: {{DATE:numeric}} a las 00:00 h
+Vencimiento: {{DATE:numeric}} a las 24:00 h
+Duración: anual prorrogable
+
+TOMADOR
+Nombre: {{PER#1:full}}
+NIF: {{NATID}}
+Fecha de nacimiento: {{DATE:birth}}
+Domicilio: {{LOC#2:street}}
+{{LOC#2:postcode_town}} ({{LOC#2:region}})
+Teléfono: {{MOBILE}}
+Correo: {{EMAIL:PER#1}}
+
+CONDUCTOR HABITUAL
+{{PER#1:full}}, carné desde el {{DATE:numeric}}
+CONDUCTOR OCASIONAL
+{{PER#2:full}}, fecha de nacimiento {{DATE:birth}}
+
+VEHÍCULO
+Matrícula: {{PLATE}}
+Marca/modelo: Seat Arona 1.0 TSI
+Uso: particular. Garaje: sí, en {{LOC#2:town}}
+
+GARANTÍAS                              CAPITAL / FRANQUICIA
+Responsabilidad civil obligatoria      Límites legales
+Responsabilidad civil voluntaria       {{AMOUNT:big}}
+Defensa jurídica                       {{AMOUNT}}
+Asistencia en viaje desde km 0         Incluida
+Lunas                                  Sin franquicia
+Daños propios                          Franquicia {{AMOUNT}}
+
+PRIMA TOTAL ANUAL: {{AMOUNT}} (impuestos y recargo del Consorcio de Compensación de Seguros incluidos)
+Forma de pago: semestral, domiciliada en {{IBAN}}
+
+Mediador: {{ORG#2:legal@insurance}}, {{LOC#3:line}}, tel. {{PHONE}}
+Agente: {{PER#3:full}}
+
+El tomador declara haber recibido las condiciones generales y la nota informativa.
+
+En {{LOC#1:town}}, a {{DATE:long}}
+
+Por la entidad                    El tomador
+{{PER#4:full}}                    {{PER#1:signature}}
+{{JOB}}

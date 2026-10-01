@@ -1,0 +1,37 @@
+#country: US
+#doctype: lease
+RESIDENTIAL LEASE AGREEMENT
+
+This Lease is entered into on {{DATE:long}} by and between {{ORG#1:legal@property}} ("Landlord"), whose office is at {{LOC#1:line}}, and {{PER#1:full}} and {{PER#2:full}} ("Tenants").
+
+1. PREMISES. Landlord leases to Tenants the apartment located at {{LOC#2:street}}, {{LOC#2:unit}}, {{LOC#2:postcode_town}}, together with one assigned parking space (No. {{NUM}}).
+
+2. TERM. The term begins on {{DATE:long}} and ends on {{DATE:long}}. Thereafter the lease continues month-to-month unless either party gives 60 days' written notice.
+
+3. RENT. Monthly rent is {{AMOUNT}}, due on the first day of each month. Payments may be made through the resident portal at {{URL:ORG#1}} or by check payable to {{ORG#1:name}}. A late fee of {{AMOUNT}} applies after the 5th.
+
+4. SECURITY DEPOSIT. Tenants have paid a security deposit of {{AMOUNT}}, held at [[ORG|Wells Fargo]] in accordance with state law. The deposit will be returned within 21 days after move-out, less any lawful deductions.
+
+5. OCCUPANTS. The Premises shall be occupied only by Tenants and the following minor: {{PER#3:full}}, born {{DATE:birth}}.
+
+6. PETS. One cat is permitted. Pet deposit: {{AMOUNT}}.
+
+7. UTILITIES. Tenants are responsible for electricity and internet. Water, sewer and trash are billed back monthly through {{ORG#2:legal@utility}}.
+
+8. MAINTENANCE. Repair requests must be submitted online or by phone to {{PHONE}}. For emergencies after hours, call the on-call technician, {{PER#4:full}}, at {{MOBILE}}.
+
+9. NOTICES. Notices to Landlord shall be sent to {{ORG#1:name}}, Attn: {{PER#5:full}}, {{JOB}}, {{LOC#1:line}}. Notices to Tenants shall be sent to the Premises.
+
+10. GUARANTOR. {{PER#6:full}}, residing at {{LOC#3:line}}, guarantees the obligations of Tenants under this Lease.
+
+LANDLORD: {{ORG#1:legal}}
+By: {{PER#5:signature}}
+{{JOB}}
+Date: {{DATE:numeric}}
+
+TENANTS:
+{{PER#1:signature}}    Date: {{DATE:numeric}}
+{{PER#2:signature}}    Date: {{DATE:numeric}}
+
+GUARANTOR:
+{{PER#6:signature}}    Date: {{DATE:numeric}}

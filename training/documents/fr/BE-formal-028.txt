@@ -1,0 +1,22 @@
+[[PER|Géraldine Wauthier]]
+[[LOC|Rue Florimond Letroye 9]]
+[[LOC|1300 Wavre]]
+0476 28 51 93
+
+[[ORG|Ethias]]
+Service Sinistres Auto
+[[LOC|Rue des Croisiers 24]]
+[[LOC|4000 Liège]]
+
+[[LOC|Wavre]], le [[DATE|15 septembre 2026]]
+
+Concerne : sinistre n° AU/26/771342 - police n° 45.118.207
+
+Madame, Monsieur,
+
+Suite à l'accrochage du [[DATE|4 septembre]] sur le parking du [[ORG|Delhaize]] de [[LOC|Limal]], je vous transmets le constat signé avec M. [[PER|Jérôme Vanderlinden]] (assuré chez [[ORG|AXA Belgium]]) ainsi que le devis de la [[ORG|Carrosserie Lambert-Duchêne]] (1.284,60 EUR).
+
+Je reste disponible pour l'expertise.
+
+Salutations distinguées,
+[[PER|G. Wauthier]]

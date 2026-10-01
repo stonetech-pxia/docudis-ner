@@ -1,0 +1,30 @@
+#country: BE
+#doctype: insurance
+# E-mail informel avec le courtier après un accrochage, citation du message précédent.
+De : {{PER#1:full}} <{{EMAIL:PER#1}}>
+À : {{PER#2:full}} <{{EMAIL:PER#2}}>
+Date : {{DATE:long}}
+Objet : Re: accrochage parking - constat
+
+Bonjour {{PER#2:given}},
+
+Voici les infos que vous m'avez demandées. L'accrochage a eu lieu le {{DATE:day_month}} vers 8 h 30 sur le parking de {{ORG#2:name@retail}}, {{LOC#1:line}}. La partie adverse, {{PER#3:full}}, a reculé dans ma portière avant gauche. Nous avons rempli le constat ensemble et sa responsabilité est reconnue (case 15 cochée).
+
+Mon véhicule : Peugeot 208, plaque {{PLATE}}
+Son véhicule : immatriculé {{PLATE}}, assuré chez [[ORG|AG Insurance]], police {{REF}}
+Son adresse : {{LOC#2:street}}, {{LOC#2:postcode_town}}
+
+J'ai déposé la voiture au garage {{ORG#3:legal@trades}} à {{LOC#3:town}}, ils attendent l'accord de l'expert pour commencer. {{PER#4:given}}, qui conduit aussi la voiture, peut passer vous déposer l'original du constat au bureau si besoin.
+
+Merci d'avance,
+{{PER#1:given}}
+{{MOBILE}}
+
+Le {{DATE:numeric}}, {{PER#2:full}} a écrit :
+> Bonjour {{TITLE#1}} {{PER#1:surname}},
+> Merci pour votre message. Pour ouvrir le dossier auprès de votre compagnie, j'ai besoin d'une copie du constat, de la date et du lieu exacts et des coordonnées de la partie adverse.
+> Bien à vous,
+> {{PER#2:full}}
+> {{JOB}}
+> {{ORG#1:legal@insurance}} - Bureau de courtage agréé FSMA
+> {{LOC#4:line}} - {{PHONE}}

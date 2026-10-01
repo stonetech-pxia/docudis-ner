@@ -1,0 +1,22 @@
+#country: GB
+#doctype: support
+Hi {{PER#1:given}},
+
+Thanks for getting back to me. The boiler is still showing the F28 code and we've had no hot water since {{DATE:day_month}}.
+
+Policy number: {{REF}}
+Address: {{LOC#1:line}}
+Boiler: combi, installed by {{ORG#1:legal@trades}} in 2019
+
+The engineer who came on {{DATE:long}}, {{PER#2:full}}, said a new gas valve would be ordered but we haven't heard anything since. My parent, {{PER#3:full}}, is staying with us and is 87, so we really need this sorted this week.
+
+I'm home all day Thursday. Best number is {{MOBILE}}.
+
+Thanks,
+{{PER#4:full}}
+
+On {{DATE:short}} {{PER#1:full}} <{{EMAIL:ORG#2}}> wrote:
+> Dear {{PER#4:given}},
+> Thank you for contacting {{ORG#2:legal@insurance}}. Please reply with your policy number and the fault code shown on your boiler and we will book an engineer.
+> {{PER#1:given}}
+> {{DEPT}}

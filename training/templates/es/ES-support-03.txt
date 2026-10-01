@@ -1,0 +1,38 @@
+#country: ES
+#doctype: support
+#utility answer to a formal complaint, letter by e-mail, long
+{{ORG#1:legal@utility}}
+{{DEPT}}
+{{LOC#1:po_box}} - {{LOC#1:postcode_town}}
+
+{{TITLE#2}} {{PER#2:full}}
+{{LOC#2:street}}
+{{LOC#2:unit}}
+{{LOC#2:postcode_town}}
+
+{{LOC#1:town}}, {{DATE:long}}
+
+Nuestra referencia: {{REF}}
+Contrato: {{NUM}}
+CUPS: {{REF}}
+
+Estimada {{TITLE#2}} {{PER#2:surname}}:
+
+Hemos recibido su reclamación del {{DATE:long}}, presentada a través de nuestra web, en la que nos indica que la factura del último bimestre, por importe de {{AMOUNT}}, es muy superior a las anteriores y que en ese periodo la vivienda estuvo desocupada.
+
+Tras analizar su caso, le informamos de lo siguiente:
+
+1. La distribuidora de su zona, {{ORG#2:legal@utility}}, nos comunicó una lectura estimada el {{DATE:numeric}}, al no poder acceder al contador.
+2. El {{DATE:numeric}} se obtuvo una lectura real, inferior a la estimada.
+3. Por ello, hemos anulado la factura reclamada y emitido una factura rectificativa por {{AMOUNT}}. La diferencia, {{AMOUNT}}, se le devolverá en la cuenta de domiciliación {{IBAN}} en un plazo de diez días.
+
+Le recordamos que puede facilitarnos la lectura de su contador cada mes desde el área de clientes en {{URL:ORG#1}} o llamando al {{PHONE}}, para evitar estimaciones.
+
+Si no está conforme con esta respuesta, puede dirigirse a {{PUBLIC#2}} o a la Oficina Municipal de Información al Consumidor de {{LOC#2:town}}.
+
+Lamentamos las molestias ocasionadas.
+
+Atentamente,
+
+{{PER#3:full}}
+{{JOB}}

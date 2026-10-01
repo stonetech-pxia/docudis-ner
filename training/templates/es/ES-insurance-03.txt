@@ -1,0 +1,42 @@
+#country: ES
+#doctype: insurance
+# Carta de una aseguradora de salud: rechazo de autorización, con reclamación del asegurado a continuación
+{{ORG#1:legal@insurance}}
+{{DEPT}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+
+{{TITLE#1}} {{PER#1:full}}
+{{LOC#2:street}}
+{{LOC#2:unit}}
+{{LOC#2:postcode_town}}
+
+{{LOC#1:town}}, {{DATE:long}}
+
+Asunto: Solicitud de autorización {{REF}}
+Nº de tarjeta sanitaria: {{NUM}}
+Asegurado/a: {{PER#1:full}}
+
+{{TITLE#1}} {{PER#1:surname}}:
+
+Hemos estudiado la solicitud de autorización para la intervención de rodilla propuesta por el Dr. {{PER#2:full}} en {{ORG#2:name@health}}, recibida el {{DATE:numeric}}.
+
+Lamentamos comunicarle que no podemos autorizarla, ya que su póliza se contrató el {{DATE:numeric}} y la cirugía traumatológica tiene un periodo de carencia de ocho meses, según el artículo 5 de las condiciones generales. La carencia finalizará el {{DATE:long}}.
+
+Puede presentar una reclamación ante nuestro Servicio de Atención al Cliente en el plazo de dos meses. Si no queda satisfecho, podrá acudir a la Dirección General de Seguros y Fondos de Pensiones.
+
+Atentamente,
+
+{{PER#3:full}}
+{{JOB}}
+
+===
+
+Reclamación enviada por el formulario web el {{DATE:numeric}}:
+
+Nombre: {{PER#1:full}}
+DNI/NIE: {{NATID}}
+Teléfono: {{MOBILE}}
+Póliza: {{REF}}
+
+Motivo: En la contratación, el comercial {{PER#4:full}} me aseguró por teléfono que al venir de otra compañía ({{ORG#3:name@insurance}}, donde estuve asegurado desde el {{DATE:numeric}}) se me eliminaban las carencias. Tengo la grabación de la llamada. El Dr. {{PER#2:surname}} considera la operación urgente. Solicito que se revise la decisión.

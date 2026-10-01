@@ -1,0 +1,12 @@
+#country: FR
+#doctype: chat
+[{{DATE:numeric}}, 18:02] {{PER#1:given}}: Coucou ! Tu as toujours le numéro du plombier qui était venu chez tes parents ?
+[{{DATE:numeric}}, 18:05] {{PER#2:given}}: Oui attends
+[{{DATE:numeric}}, 18:05] {{PER#2:given}}: {{PER#3:full}}, {{ORG#1:name@trades}}, {{MOBILE}}
+[{{DATE:numeric}}, 18:06] {{PER#2:given}}: Dis-lui que tu viens de la part de {{PER#4:given}} {{PER#4:surname}}, il connaît bien la famille
+[{{DATE:numeric}}, 18:06] {{PER#1:given}}: Top merci !! La fuite sous l'évier a recommencé et le proprio ne répond pas
+[{{DATE:numeric}}, 18:09] {{PER#2:given}}: Il intervient sur {{LOC#1:town}} ? Tu es toujours {{LOC#1:street}} ?
+[{{DATE:numeric}}, 18:10] {{PER#1:given}}: Oui toujours, au 3e
+[{{DATE:numeric}}, 18:11] {{PER#2:given}}: Normalement oui, il couvre tout le secteur. Sinon essaie {{ORG#2:legal@trades}}, ils sont à {{LOC#2:town}}
+[{{DATE:numeric}}, 18:15] {{PER#1:given}}: Ok je l'appelle demain matin. On se voit toujours samedi pour l'anniv de {{PER#5:given}} ?
+[{{DATE:numeric}}, 18:16] {{PER#2:given}}: Oui ! Rdv chez {{PER#5:given}} à 19h, {{LOC#3:line}}

@@ -1,0 +1,14 @@
+Chat de soporte - [[ORG|Vodafone España]]
+Conversación iniciada [[DATE|22/01/2026]] 16:05
+
+Agente ([[PER|Iker]]): Hola, soy [[PER|Iker]], ¿en qué puedo ayudarte?
+Cliente: hola, llevo 5 dias sin fibra en casa
+Agente ([[PER|Iker]]): Lo siento mucho. ¿Me puedes indicar el titular de la línea y el DNI o NIE?
+Cliente: [[PER|Radu Popescu]], NIE X3567974F
+Agente ([[PER|Iker]]): Gracias [[PER|Radu]]. ¿La dirección de instalación es [[LOC|Calle Ramón y Cajal 9, Bajo A, 19003 Guadalajara]]?
+Cliente: si esa
+Agente ([[PER|Iker]]): Veo una incidencia abierta en tu zona desde el [[DATE|17 de enero]]. Te abro una avería individual con número AV-7781204 y un técnico te llamará en 48-72 horas.
+Cliente: 72 horas mas?? trabajo desde casa. quiero que me descuenten estos dias de la factura
+Agente ([[PER|Iker]]): Entiendo. Aplicaré una compensación proporcional en la próxima factura. ¿Algo más?
+Cliente: que me llamen al 631 402 778 no al fijo porque el fijo no va obviamente
+Agente ([[PER|Iker]]): Anotado. Gracias por tu paciencia, [[PER|Radu]].

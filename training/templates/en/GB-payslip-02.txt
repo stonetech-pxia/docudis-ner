@@ -1,0 +1,21 @@
+#country: GB
+#doctype: payslip
+# Short e-mail exchange with the payroll bureau about a wrong payslip
+From: {{PER#1:full}} <{{EMAIL:PER#1}}>
+To: {{PER#2:full}} <{{EMAIL:ORG#2}}>
+Subject: Payslip {{DATE:day_month}} - missing hours
+
+Hi {{PER#2:given}},
+
+My payslip for this month only shows 96 hours but I worked 118. The extra shifts were on {{DATE:day_month}} and {{DATE:day_month}} covering for {{PER#3:given}} at the {{LOC#2:town}} site, signed off by {{PER#4:full}}. Employee no {{NUM}}.
+
+Could you check and let me know if it'll be corrected next month or paid separately?
+
+Thanks
+{{PER#1:given}}
+
+> On {{DATE:long}}, {{PER#2:full}} ({{ORG#2:legal@finance}}) wrote:
+> Hi {{PER#1:given}}, payslips for {{ORG#1:legal@hospitality}} have now been published on the portal. Pay date is Friday {{DATE:short}}. Any queries to this address before {{DATE:day_month}} please.
+> {{PER#2:initial_surname}}
+> {{JOB}}
+> {{PHONE}}

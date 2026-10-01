@@ -1,0 +1,44 @@
+#country: ES
+#doctype: payslip
+# Nómina de hospital público con datos del portal del empleado, más carta de regularización
+PORTAL DEL EMPLEADO — {{PUBLIC#1}}
+Centro de trabajo: {{ORG#1:name@health}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+
+Apellidos y nombre: {{PER#1:surname_given}}
+DNI: {{NATID}}      Nº S.S.: {{TAXID}}
+Puesto: {{JOB}}
+Servicio: {{DEPT}}
+Jefa de servicio: {{PER#2:full}}
+Fecha de toma de posesión: {{DATE:numeric}}
+Mes: nómina ordinaria + atrasos
+
+Concepto                        Devengos        Deducciones
+Sueldo                          {{AMOUNT}}
+Trienios (3)                    {{AMOUNT}}
+Complemento de destino          {{AMOUNT}}
+Complemento específico          {{AMOUNT}}
+Atención continuada (guardias)  {{AMOUNT}}
+Atrasos {{DATE:day_month}}      {{AMOUNT}}
+IRPF 19,40 %                                    {{AMOUNT}}
+Cuota Seg. Social                               {{AMOUNT}}
+Desempleo y formación                           {{AMOUNT}}
+Totales                         {{AMOUNT}}      {{AMOUNT}}
+Líquido a percibir: {{AMOUNT}}
+Entidad de abono: [[ORG|Banco Santander]]  {{IBAN}}
+
+------------------------------------------------------------
+
+{{LOC#1:town}}, {{DATE:long}}
+
+{{TITLE#1}} {{PER#1:surname}}:
+
+Le comunicamos que en la nómina de este mes se incluye la regularización de las guardias realizadas entre el {{DATE:day_month}} y el {{DATE:day_month}}, que por un error en la hoja de firmas remitida por la supervisora {{PER#3:full}} no se abonaron en su momento. El importe bruto regularizado asciende a {{AMOUNT}}.
+
+Si no está conforme con la liquidación, dispone de un mes para presentar reclamación ante la Unidad de Nóminas, por correo a {{EMAIL:ORG#1}} o en el registro del centro, {{LOC#1:line}}.
+
+Atentamente,
+
+{{PER#4:full}}
+{{JOB}}

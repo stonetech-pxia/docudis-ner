@@ -1,0 +1,10 @@
+[[ORG|FBD Insurance]] – Farm Claim Notification
+
+Policyholder: [[PER|KINSELLA, Bartholomew]] ([[PER|Batt]])
+Farm address: [[LOC|Ballymotey More, Enniscorthy, Co. Wexford Y21 P4H7]]
+Policy no.: FBD/FARM/0082261          Herd no.: W2210874
+Date of loss: [[DATE|13/09/2025]]
+What happened: Storm damage to the hay shed roof. Sheeting blown onto the car of the neighbour, Ms [[PER|Rita Furlong]].
+Contractor quote: [[ORG|Slaney Steel Structures]], €6,850 + VAT
+Contact: 053 923 4471 / 087 614 0092
+Signed: [[PER|Batt Kinsella]]          Date: [[DATE|15 Sep 2025]]

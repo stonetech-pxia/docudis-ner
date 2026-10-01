@@ -1,0 +1,50 @@
+#country: GB
+#doctype: form
+# Council tax moving-in form submitted online, confirmation copy
+{{PUBLIC#1}}
+Council Tax - tell us you have moved in
+Submission reference: {{REF}}
+Submitted: {{DATE:numeric}} 21:47
+
+1. Your details
+Title: {{TITLE#1}}
+First name(s): {{PER#1:given}}
+Surname: {{PER#1:surname}}
+Date of birth: {{DATE:birth}}
+National Insurance number: {{NATID}}
+Telephone: {{MOBILE}}
+Email: {{EMAIL:PER#1}}
+
+2. Your new address
+{{LOC#1:unit}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+Date you moved in: {{DATE:numeric}}
+Do you own or rent? Rent (private landlord)
+
+3. Landlord or letting agent
+Name: {{ORG#2:legal@property}}
+Contact: {{PER#2:full}}
+Address: {{LOC#2:line}}
+Telephone: {{PHONE}}
+
+4. Other adults living at the property (18 or over)
+Full name: {{PER#3:full}}   Date of birth: {{DATE:birth}}   Relationship: partner
+Full name: {{PER#4:full}}   Date of birth: {{DATE:birth}}   Relationship: lodger - full-time student at {{ORG#3:name@school}}
+
+5. Your previous address
+{{LOC#3:line}}
+Date you moved out: {{DATE:numeric}}
+Previous council: {{PUBLIC#3}}
+
+6. Discounts
+Are you applying for a single person discount? No
+Is anyone disregarded? Yes - student (certificate to follow)
+
+7. Paying
+I want to pay by Direct Debit: Yes, 12 instalments
+Account holder: {{PER#1:full}}
+Sort code: {{SORTCODE}}   Account number: {{ACCOUNT}}
+
+Declaration: I declare that the information I have given is correct and complete.
+Signed (typed): {{PER#1:full}}

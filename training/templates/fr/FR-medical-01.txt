@@ -1,0 +1,48 @@
+#country: FR
+#doctype: medical
+{{ORG#1:legal@health}}
+Service de Cardiologie
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+Secrétariat : {{PHONE}}
+
+Dr {{PER#1:full}}
+{{JOB}}
+RPPS {{NUM}}
+
+{{LOC#1:town}}, le {{DATE:long}}
+
+Dr {{PER#2:full}}
+Médecin généraliste
+{{LOC#2:street}}
+{{LOC#2:postcode_town}}
+
+Objet : {{TITLE#3}} {{PER#3:full}}, né(e) le {{DATE:birth}}
+N° de sécurité sociale : {{NATID}}
+Hospitalisation du {{DATE:numeric}} au {{DATE:numeric}}
+
+Cher confrère,
+
+J'ai vu en consultation votre patient(e), {{TITLE#3}} {{PER#3:surname}}, adressé(e) par le service des urgences du {{ORG#2:legal@health}} pour douleurs thoraciques atypiques survenues à l'effort.
+
+Antécédents : hypertension artérielle traitée depuis cinq ans, dyslipidémie, tabagisme sevré. Pas d'antécédent familial coronarien connu, hormis un infarctus chez un parent au premier degré, {{PER#4:full}}, à 61 ans.
+
+Examen clinique : TA 142/86 mmHg, FC 74/min. Auscultation cardiaque sans souffle. Pas de signe d'insuffisance cardiaque.
+
+ECG : rythme sinusal, pas de trouble de la repolarisation.
+Échographie cardiaque : FEVG conservée à 60 %, pas de valvulopathie significative.
+Épreuve d'effort réalisée le {{DATE:day_month}} : négative cliniquement et électriquement à 85 % de la FMT.
+
+Conclusion : pas d'argument pour une cardiopathie ischémique à ce stade. Je propose d'optimiser le traitement antihypertenseur et de revoir {{PER#3:given}} dans six mois avec un Holter tensionnel.
+
+Traitement de sortie :
+- Amlodipine 5 mg : 1 cp le matin
+- Atorvastatine 20 mg : 1 cp le soir
+
+Je reste à votre disposition.
+Bien confraternellement,
+
+Dr {{PER#1:initial_surname}}
+
+Copie : {{TITLE#3}} {{PER#3:full}}, {{LOC#3:line}}
+Dictée le {{DATE:numeric}}, frappée par {{PER#5:given}} {{PER#5:surname}}, secrétaire médicale

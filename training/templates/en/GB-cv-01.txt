@@ -1,0 +1,29 @@
+#country: GB
+#doctype: cv
+{{PER#1:full}}
+{{LOC#1:postcode_town}} | {{MOBILE}} | {{EMAIL:PER#1}}
+
+PROFILE
+Qualified electrician (18th Edition, NVQ Level 3) with nine years' experience in domestic and light commercial installations, EV charger fitting and fault finding. Full clean driving licence.
+
+EXPERIENCE
+
+Electrician - {{ORG#1:legal@trades}}, {{LOC#2:town}}
+{{DATE:short}} - present
+- Rewires, consumer unit upgrades and EICRs for landlords and housing associations
+- Installed over 120 home EV chargers; trained two apprentices
+
+Approved Electrician - {{ORG#2:name@trades}}, {{LOC#3:town}}
+2016 - 2020
+- Fit-out of retail units for {{ORG#3:name@retail}} and a regional dental group
+- Site supervisor on a 40-unit new-build scheme
+
+Apprentice Electrician - {{ORG#4:legal@trades}}, {{LOC#3:town}}
+2012 - 2016
+
+EDUCATION
+{{ORG#5:name@school}} - Level 3 Diploma in Electrical Installation, 2016
+
+REFERENCES
+{{PER#2:full}}, {{JOB}}, {{ORG#1:name}} - {{PHONE}}
+{{PER#3:full}}, Site Manager, {{ORG#2:name}} - {{EMAIL:PER#3}}

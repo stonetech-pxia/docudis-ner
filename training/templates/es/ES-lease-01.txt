@@ -1,0 +1,44 @@
+#country: ES
+#doctype: lease
+CONTRATO DE ARRENDAMIENTO DE VIVIENDA
+
+En {{LOC#2:town}}, a {{DATE:long}}
+
+REUNIDOS
+
+De una parte, como ARRENDADOR, {{TITLE#1}} {{PER#1:full}}, mayor de edad, con DNI {{NATID}} y domicilio en {{LOC#2:line}}, teléfono {{MOBILE}}, correo electrónico {{EMAIL:PER#1}}.
+
+De otra parte, como ARRENDATARIA, {{TITLE#2}} {{PER#2:full}}, nacida el {{DATE:birth}} en {{LOC#3:town}}, con NIE {{NATID}}, que designa como domicilio a efectos de notificaciones la propia vivienda arrendada.
+
+Interviene además, como AVALISTA SOLIDARIO, {{TITLE#3}} {{PER#3:full}}, con DNI {{NATID}} y domicilio en {{LOC#4:street}}, {{LOC#4:postcode_town}}.
+
+Ambas partes se reconocen capacidad legal suficiente para otorgar el presente contrato y
+
+EXPONEN
+
+I. Que {{PER#1:given}} {{PER#1:surname}} es propietario de la vivienda sita en:
+{{LOC#1:street}}
+{{LOC#1:unit}}
+{{LOC#1:postcode_town}}
+con referencia catastral {{REF}}, que dispone de {{NUM}} dormitorios, cocina amueblada y plaza de garaje.
+
+II. Que la vivienda cuenta con certificado de eficiencia energética registrado ante {{PUBLIC#1}}.
+
+ESTIPULACIONES
+
+PRIMERA. Duración. El contrato entra en vigor el {{DATE:long}} y tendrá una duración de un año, prorrogable conforme a la Ley de Arrendamientos Urbanos vigente.
+
+SEGUNDA. Renta. La renta mensual se fija en {{AMOUNT}}, que la arrendataria abonará dentro de los siete primeros días de cada mes mediante transferencia a la cuenta del arrendador en [[ORG|CaixaBank]]:
+Titular: {{PER#1:full}}
+IBAN: {{IBAN}}
+
+TERCERA. Fianza. En este acto {{PER#2:given}} entrega la cantidad de {{AMOUNT}}, equivalente a una mensualidad, que el arrendador depositará en {{PUBLIC#2}} en el plazo legal.
+
+CUARTA. Suministros. Los contratos de luz y agua con {{ORG#1:legal@utility}} y {{ORG#2:name@utility}} se pondrán a nombre de la arrendataria. Los gastos de comunidad, gestionados por {{ORG#3:legal@property}}, corren a cargo del propietario.
+
+QUINTA. Estado de la vivienda. Se adjunta inventario firmado por ambas partes el {{DATE:numeric}}.
+
+Y en prueba de conformidad firman el presente por triplicado.
+
+EL ARRENDADOR                    LA ARRENDATARIA                 EL AVALISTA
+{{PER#1:signature}}              {{PER#2:signature}}             {{PER#3:initial_surname}}

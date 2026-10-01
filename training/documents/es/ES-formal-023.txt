@@ -1,0 +1,39 @@
+[[ORG|Mutua de Seguros Atlántica Norte]]
+Tramitación de Siniestros Diversos
+Apartado de Correos 1180 · [[LOC|15080 A Coruña]]
+
+Sr. D. [[PER|Anxo Pereiro Castiñeira]]
+[[LOC|Rúa Real, 56, 3º esquerda]]
+[[LOC|15003 A Coruña]]
+
+[[LOC|A Coruña]], [[DATE|16 de septiembre de 2026]]
+
+Póliza:        HOG-2019-0048815 (Hogar Completo Plus)
+Siniestro:     2026/HOG/77301
+Fecha ocurrencia: [[DATE|29/08/2026]]
+Causa:         robo con fuerza en vivienda
+
+Estimado mutualista:
+
+Una vez recibida la documentación que nos remitió el [[DATE|9 de septiembre]], incluida la copia de la denuncia presentada ante la Policía Nacional (Comisaría de [[LOC|Lonzas]], atestado nº 11482/26), y analizado el informe de nuestra perito, Dña. [[PER|Sabela Outeiral Novo]], le comunicamos la siguiente liquidación:
+
+Concepto                                  Reclamado    Aceptado
+Cerradura de seguridad y bombín            342,00       342,00
+Ordenador portátil (fact. [[DATE|12/03/2024]])     1.099,00       769,30   (depreciación 30 %)
+Joyas sin tasación previa                1.800,00       600,00   (límite póliza)
+Reloj heredado                             950,00         0,00   (no acreditado)
+                                        --------     --------
+                               Total     4.191,00     1.711,30
+                               Franquicia              -90,00
+                               A indemnizar           1.621,30 €
+
+La cantidad se abonará en un plazo de diez días hábiles en la cuenta ES35 5431 1077 5380 1378 8223 que figura en la póliza. Si no está conforme, puede presentar alegaciones en este departamento o dirigirse a nuestro Defensor del Mutualista.
+
+Le recordamos que el cerrajero que intervino, [[ORG|Cerrajería Os Castros]], ha facturado directamente a la mutua el servicio de urgencia de la noche del [[DATE|29 de agosto]].
+
+Atentamente,
+
+[[PER|Diego Barreiro Lago]]
+Tramitador de siniestros · 981 145 900 · dbarreiro@mutuaatlanticanorte.es
+
+c.c.: [[ORG|Correduría de Seguros Mariñas & Freire, S.L.]], su mediador (att. [[PER|Olalla Freire]])

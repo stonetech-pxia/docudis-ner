@@ -1,0 +1,33 @@
+[[ORG|Mutuelle Armor Santé]]
+[[LOC|BP 90417]]
+[[LOC|29204 Brest cedex 1]]
+www.armor-sante.fr - 02 98 43 77 10 (du lundi au vendredi, 8 h 30 - 18 h)
+
+RELEVÉ DE PRESTATIONS
+Édité le [[DATE|12/09/2026]] - relevé n° 0026-0371
+
+Adhérent : M. [[PER|Erwan Le Gall-Nkoulou]]
+[[LOC|25 rue de Siam]]
+[[LOC|29200 Brest]]
+N° adhérent : 400 873 115 - Contrat collectif [[ORG|Chantiers Kerhorre SAS]] - option Confort
+
+Bénéficiaire          Date soins     Acte                         Dépense   Rbt SS   Rbt mutuelle   Reste à charge
+[[PER|LE GALL-NKOULOU Erwan]]  [[DATE|21/08/2026]]    Consultation spécialiste       60,00    21,00        30,00           9,00
+                                                 (Dr [[PER|Ronan Quéméner]], ORL)
+[[PER|LE GALL-NKOULOU Maëlys]] [[DATE|28/08/2026]]    Orthodontie semestre 2        900,00   193,50       420,00         286,50
+                                                 ([[ORG|Cabinet d'Orthodontie Kerinou]])
+[[PER|NKOULOU Béatrice]]       [[DATE|02/09/2026]]    Verres progressifs (2)        520,00     0,05       300,00         219,95
+                                                 ([[ORG|Optique Penfeld]], [[LOC|Guipavas]])
+[[PER|NKOULOU Béatrice]]       [[DATE|02/09/2026]]    Monture                       145,00     0,03       100,00          44,97
+[[PER|LE GALL-NKOULOU Erwan]]  [[DATE|05/09/2026]]    Pharmacie (65 %)               38,70    25,16        13,54           0,00
+
+Total                                                                 1 663,70   239,74       863,54         560,42
+
+Virement de 863,54 € effectué le [[DATE|11/09/2026]] sur le compte FR76 9732 5674 8813 9694 6328 333.
+
+Pour l'orthodontie, un nouveau devis devra nous être adressé avant le [[DATE|1er mars 2027]] pour la poursuite du traitement.
+Le plafond optique de Mme [[PER|Nkoulou]] est atteint jusqu'au [[DATE|01/09/2028]].
+
+Une question sur ce relevé ? Votre gestionnaire, [[PER|Katell Riou]], répond sous 48 h via votre espace adhérent.
+
+[[ORG|Mutuelle Armor Santé]], mutuelle soumise au livre II du Code de la mutualité, immatriculée sous le n° 290 212 992.

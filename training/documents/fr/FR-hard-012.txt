@@ -1,0 +1,45 @@
+DEMANDE DE LOGEMENT LOCATIF SOCIAL – renouvellement
+Numéro unique départemental : 093 25 07 0418 22 71 (délivré le [[DATE|19/07/2025]])
+Enregistrée par : Service municipal du logement – Mairie de [[LOC|Montreuil]]
+
+1. VOUS (demandeur)
+Nom de naissance : [[PER|OUEDRAOGO]]          Nom d'usage : [[PER|OUEDRAOGO-LESAGE]]
+Prénoms : [[PER|Aminata Clémence]]
+Date de naissance : [[DATE|26/01/1987]]          Lieu : [[LOC|Bobo-Dioulasso]] ([[LOC|Burkina Faso]])
+N° de sécurité sociale : 2 89 06 75 163 400 57
+Situation familiale : séparée depuis le [[DATE|1er février 2025]]
+Adresse actuelle : chez Mme [[PER|Lesage Josiane]]
+                   [[LOC|34 rue Émile-Beaufils, esc. 2, 5e étage, porte 52]]
+                   [[LOC|93100 Montreuil]]
+Téléphone : 07 52 81 36 09          Courriel : aminata.ouedraogo @ yahoo.fr
+
+2. PERSONNES QUI VIVRONT DANS LE LOGEMENT
+| Nom, prénom | Lien | Date de naissance | Situation |
+| [[PER|LESAGE Ilyès]] | fils | [[DATE|08/05/2013]] | collégien, [[ORG|Collège des Ruffins]] |
+| [[PER|LESAGE Maïssa]] | fille | [[DATE|30/11/2018]] | écolière |
+| [[PER|OUEDRAOGO Salif]] | frère (handicap 80 %) | [[DATE|12/03/1995]] | bénéficiaire AAH |
+
+3. SITUATION PROFESSIONNELLE
+Profession : agent de propreté hospitalière (CDI depuis le [[DATE|4 septembre 2017]])
+Employeur : [[ORG|Onet Services]], agence de [[LOC|Rosny-sous-Bois]], [[LOC|12 avenue du Général-de-Gaulle, 93110 Rosny-sous-Bois]]
+Lieu de travail : [[ORG|Hôpital privé de l'Est parisien]], [[LOC|Aulnay-sous-Bois]]
+Revenus mensuels nets : 1 612 € + prestations CAF 438 € (allocataire n° 4471902 à la CAF de la [[LOC|Seine-Saint-Denis]])
+
+4. LOGEMENT ACTUEL
+Hébergée chez un tiers depuis le [[DATE|15 janvier 2025]] (mère de l'ex-conjoint, Mme [[PER|Josiane Lesage]]).
+Ancien logement : [[LOC|18 allée Gabriel-Péri, 93230 Romainville]], bailleur [[ORG|Seqens]], quitté le [[DATE|14/01/2025]].
+Motif de la demande : hébergée, logement sur-occupé (5 personnes dans un T3), rapprochement du lieu de travail.
+
+5. LOGEMENT RECHERCHÉ
+Type : T4          Communes souhaitées : [[LOC|Montreuil]], [[LOC|Bagnolet]], [[LOC|Rosny-sous-Bois]], [[LOC|Noisy-le-Sec]]
+Ascenseur indispensable (frère en fauteuil)          Loyer maximum : 750 € charges comprises
+
+6. ACCOMPAGNEMENT
+Travailleuse sociale : [[PER|Sabrina Dahmani-Kergoat]], assistante sociale, service social départemental de [[LOC|Montreuil]] – 01 43 60 22 18
+Association : [[ORG|Toit & Partage 93]] (référent : [[PER|Benoît Ferracci]])
+
+Pièces jointes : pièce d'identité, avis d'imposition 2025, trois derniers bulletins de salaire, attestation d'hébergement signée
+de [[PER|J. Lesage]], notification MDPH de [[PER|Salif Ouedraogo]].
+
+Je certifie sur l'honneur l'exactitude des renseignements ci-dessus.
+À [[LOC|Montreuil]], le [[DATE|16 septembre 2026]]          Signature : [[PER|A. Ouedraogo-Lesage]]

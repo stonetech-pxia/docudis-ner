@@ -1,0 +1,11 @@
+#country: GB
+#doctype: chat
+Can you help me reply to this politely? My neighbour sent it on the street group chat and I don't want to start a row.
+
+{{PER#1:full}}: Morning all. Could whoever owns the silver Corsa ({{PLATE}}) please stop parking across the dropped kerb outside number 22? My mum has a hospital appointment at {{ORG#1:name@health}} on {{DATE:day_month}} and the ambulance couldn't get to the door last time.
+{{PER#2:full}}: That'll be {{PER#3:given}}'s lodger I think
+{{PER#3:full}}: It's not my lodger's, he drives a van. Maybe the new people at {{LOC#1:street}}?
+{{PER#1:full}}: Well someone knows. I've already reported it to {{PUBLIC#1}} parking enforcement.
+{{PER#4:given}} (No. 17): It's mine, sorry! Just moved in. I'll move it now. I'm {{PER#4:full}}, by the way, my number is {{MOBILE}} if it's ever in the way again.
+
+Me = {{PER#4:given}}. I want to apologise, say hi to everyone and suggest we sort out a parking plan.

@@ -1,0 +1,29 @@
+#country: IE
+#doctype: medical
+{{ORG#1:name@health}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+Tel: {{PHONE}}
+
+{{DATE:long}}
+
+To whom it may concern,
+
+This is to confirm that {{PER#1:full}}, of {{LOC#2:line}}, date of birth {{DATE:birth}}, has been a patient of this practice since {{DATE:long}}.
+
+{{PER#1:given}} has type 1 diabetes and uses an insulin pump and a continuous glucose monitor. {{PER#1:given}} will need to carry insulin, needles, glucose tablets and a sensor reader in hand luggage when travelling, and should not pass the pump through the airport scanner.
+
+Current medication:
+Insulin aspart via pump (NovoRapid)
+Glucagon 1 mg emergency kit
+
+Consultant: Dr {{PER#2:full}}, Diabetes Centre, {{ORG#2:name@health}}, {{LOC#3:town}}.
+GMS medical card number: {{NUM}}
+
+If you need any further information please contact the practice.
+
+Yours faithfully,
+
+Dr {{PER#3:full}}
+MB BCh BAO MICGP
+Medical Council Reg. No. {{NUM}}

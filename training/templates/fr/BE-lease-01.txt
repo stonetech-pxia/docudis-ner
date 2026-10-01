@@ -1,0 +1,41 @@
+#country: BE
+#doctype: lease
+BAIL DE RÉSIDENCE PRINCIPALE
+(Région de [[LOC|Bruxelles-Capitale]] – Code bruxellois du Logement)
+
+ENTRE :
+{{TITLE#1}} {{PER#1:full}}, numéro de registre national {{NATID}}, domicilié(e) {{LOC#1:street}}, {{LOC#1:postcode_town}}
+et
+{{TITLE#2}} {{PER#2:full}}, domicilié(e) à la même adresse,
+ci-après « le bailleur », représentés par l'agence {{ORG#1:legal@property}}, n° d'entreprise {{COMPANYID}}, {{LOC#2:line}}, agent immobilier agréé IPI.
+
+ET :
+{{TITLE#3}} {{PER#3:full}}, né(e) le {{DATE:birth}} à {{LOC#4:town}}, registre national {{NATID}},
+ci-après « le preneur ».
+
+Article 1 – Bien loué
+Un appartement situé {{LOC#3:street}}, {{LOC#3:unit}}, {{LOC#3:postcode_town}}, comprenant un séjour, deux chambres, une cuisine équipée, une salle de douche et une cave.
+Certificat PEB n° {{REF}}, classe C.
+
+Article 2 – Durée
+Le bail est conclu pour une durée de neuf ans prenant cours le {{DATE:long}}.
+
+Article 3 – Loyer
+Le loyer mensuel de base est fixé à {{AMOUNT}}, indexable une fois par an à la date anniversaire. Les charges communes font l'objet d'une provision de {{AMOUNT}}.
+Paiement au plus tard le premier jour du mois sur le compte {{IBAN}} ouvert au nom de {{PER#1:initial_surname}} auprès de [[ORG|Belfius Banque]].
+
+Article 4 – Garantie locative
+Le preneur constitue une garantie de {{AMOUNT}}, soit deux mois de loyer, sur un compte bloqué à son nom.
+
+Article 5 – Enregistrement
+Le bailleur fait enregistrer le présent bail auprès du bureau compétent ({{PUBLIC#3}}) dans les deux mois de sa signature.
+
+Article 6 – État des lieux
+Un état des lieux d'entrée sera établi contradictoirement par l'expert {{PER#4:full}}, de {{ORG#2:legal@property}}, frais partagés par moitié.
+
+Fait à {{LOC#3:town}}, le {{DATE:numeric}}, en autant d'exemplaires que de parties.
+
+Pour le bailleur                     Le preneur
+{{PER#5:full}}                       {{PER#3:signature}}
+{{JOB}}
+{{ORG#1:name}}

@@ -1,0 +1,40 @@
+#country: FR
+#doctype: payslip
+# Échange d'e-mails avec les RH à propos d'une erreur sur la fiche de paie, avec réponse citée.
+De : {{PER#1:full}} <{{EMAIL:PER#1}}>
+Envoyé : {{DATE:long}} 17:42
+À : {{EMAIL:PER#2}}
+Cc : {{PER#3:full}}
+Objet : RE: Fiche de paie de septembre - heures de nuit manquantes
+
+Bonsoir {{PER#2:given}},
+
+Merci pour votre retour rapide. J'ai bien vérifié avec mon planning : j'ai fait 6 nuits entre le {{DATE:day_month}} et le {{DATE:day_month}}, pas 4. Il manque donc 16 heures de majoration de nuit, soit environ {{AMOUNT}} brut d'après la grille.
+Je joins le planning validé par {{PER#3:given}}. Est-ce que la régularisation peut passer sur la paie d'octobre ?
+
+Bien cordialement,
+{{PER#1:full}}
+{{JOB}} - équipe de nuit
+Matricule {{NUM}}
+
+-----Message d'origine-----
+De : {{PER#2:full}} <{{EMAIL:PER#2}}>
+Envoyé : {{DATE:long}} 10:05
+À : {{PER#1:full}}
+Objet : RE: Fiche de paie de septembre - heures de nuit manquantes
+
+Bonjour {{TITLE#1}} {{PER#1:surname}},
+
+Nous avons bien reçu votre réclamation. Sur votre bulletin du mois de septembre, nous avons retenu 4 nuits saisies dans le logiciel de pointage par votre responsable, {{PER#3:initial_surname}}. Votre salaire net versé le {{DATE:numeric}} s'élève à {{AMOUNT}}.
+
+Si vous disposez d'un planning différent, merci de nous le transmettre et nous ferons le nécessaire avec notre prestataire de paie, {{ORG#2:legal@finance}}.
+
+Cordialement,
+
+{{PER#2:initial_surname}}
+{{DEPT}}
+{{ORG#1:legal@employer}}
+{{LOC#1:line}}
+Tél. {{PHONE}}
+
+Ce message et ses pièces jointes sont confidentiels et destinés exclusivement à leurs destinataires.

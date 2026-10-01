@@ -1,0 +1,15 @@
+[[ORG|Clinique Vétérinaire du Semnoz]]
+Drs [[PER|Morel-Chappaz]] & [[PER|Tissot]]
+[[LOC|7 avenue de Chevêne, 74000 Annecy]]
+04 50 45 29 71 - urgences 7j/7
+
+FACTURE n° 2026-4418 du [[DATE|15/09/2026]]
+Propriétaire : M. [[PER|Arthur Dunand-Sauthier]], [[LOC|160 route des Creuses, 74960 Cran-Gevrier]]
+Animal : Pixel, chat européen mâle castré, né le [[DATE|01/05/2019]], puce 250269606123456
+
+Consultation                         42,00
+Vaccin TC + leucose                  68,50
+Vermifuge (2 cp)                     14,20
+Total TTC                           124,70 €
+
+Rappel vaccin prévu le [[DATE|15/09/2027]]. Vétérinaire : Dr [[PER|Élise Tissot]]

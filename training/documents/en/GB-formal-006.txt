@@ -1,0 +1,77 @@
+ASSURED SHORTHOLD TENANCY AGREEMENT
+(under Part I of the Housing Act 1988 as amended by the Housing Act 1996)
+
+This agreement is made on [[DATE|4th September 2026]]
+
+BETWEEN
+
+The Landlord:       [[PER|Oyelaran Bassey-Whitlock]] and [[PER|Harriet Bassey-Whitlock]]
+Landlord address:   [[LOC|Glebe House, Church Lane]]
+                    [[LOC|Great Shelford]]
+                    [[LOC|Cambridge CB22 5EL]]
+
+Managing agent:     [[ORG|Mill Road Lettings Ltd]]
+                    [[LOC|219 Mill Road, Cambridge CB1 3BE]]
+                    01223 412 660 / lettings@millroadlettings.co.uk
+                    Contact: [[PER|Tamsin Oakhurst-Ng]], Senior Lettings Negotiator
+
+AND
+
+The Tenant(s):      [[PER|Marek Zieliński]] (date of birth [[DATE|30/01/1995]])
+                    [[PER|Priya Venkataraman]] (date of birth [[DATE|08/06/1996]])
+
+The Guarantor:      [[PER|Stanisław Zieliński]], of [[LOC|ul. Długa 14, 80-827 Gdańsk, Poland]]
+
+1. THE PROPERTY
+[[LOC|Flat 5]]
+[[LOC|Ravensworth Court, 88 Hills Road]]
+[[LOC|Cambridge CB2 1LQ]]
+together with the fixtures, fittings and furniture set out in the Inventory dated [[DATE|3 September 2026]] and the shared use
+of the communal garden and bicycle store.
+
+2. THE TERM
+A fixed term of 12 months starting on [[DATE|12 September 2026]] and ending on [[DATE|11 September 2027]].
+
+3. RENT
+3.1 The rent is £1,675.00 per calendar month, payable in advance on the 12th day of each month by standing order to:
+    Account name: [[ORG|Mill Road Lettings Ltd]] Client Account
+    Sort code 76-45-44   Account 91525580
+    IBAN GB45 LOYD 7645 4491 5255 80
+3.2 The first payment of £1,675.00 is due on signing.
+3.3 The rent may be reviewed once a year by notice under section 13 of the Housing Act 1988.
+
+4. DEPOSIT
+4.1 The Tenant pays a deposit of £1,932.00 (five weeks' rent).
+4.2 The deposit will be protected with the Deposit Protection Service (Custodial) within 30 days of receipt. The prescribed
+    information is given in Schedule 2. Certificate number DPS-1150-7732-0968.
+
+5. TENANT'S OBLIGATIONS
+The Tenant agrees:
+5.1 to pay the council tax (band C, [[LOC|Cambridge]] City Council), water charges to [[ORG|Cambridge Water]] and sewerage to
+    [[ORG|Anglian Water]], gas and electricity, telephone and broadband, and the TV licence;
+5.2 to keep the interior of the Property clean and in good condition, fair wear and tear excepted;
+5.3 not to keep any animal without the Landlord's written consent;
+5.4 not to smoke or vape inside the Property;
+5.5 to allow the Landlord or Agent access at reasonable times, on 24 hours' written notice, to inspect or carry out repairs;
+5.6 to report any disrepair promptly to the Agent;
+5.7 not to sublet, assign or take in lodgers.
+
+6. LANDLORD'S OBLIGATIONS
+The Landlord agrees:
+6.1 to keep in repair the structure and exterior and the installations for water, gas, electricity, sanitation and heating
+    (section 11 of the Landlord and Tenant Act 1985);
+6.2 to provide a current Gas Safety Record (engineer: [[PER|Callum Ruddock-Sheen]], [[ORG|Fenland Gas Services]], inspected
+    [[DATE|21/08/2026]]), EPC (rating C) and Electrical Installation Condition Report;
+6.3 to insure the building.
+
+7. BREAK CLAUSE
+Either party may end the tenancy on or after [[DATE|12 March 2027]] by giving at least two months' written notice.
+
+SCHEDULE 1 - Deposit prescribed information (attached).
+
+SIGNED by the Landlord (by the Agent)         SIGNED by the Tenants
+[[PER|T. Oakhurst-Ng]]                                [[PER|Marek Zieliński]]
+for [[ORG|Mill Road Lettings Ltd]]                    [[PER|Priya Venkataraman]]
+Date: [[DATE|4/9/2026]]                                Date: [[DATE|4/9/2026]]
+
+SIGNED by the Guarantor: [[PER|S. Zieliński]]  Witness: [[PER|Agnieszka Wróbel]], [[LOC|22 Perne Road, Cambridge CB1 3RS]]

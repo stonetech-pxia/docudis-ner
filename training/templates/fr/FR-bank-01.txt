@@ -1,0 +1,37 @@
+#country: FR
+#doctype: bank
+# Lettre recommandée d'une banque : découvert non autorisé, mise en demeure amiable.
+[[ORG|Société Générale]]
+Agence de {{LOC#1:town}}
+{{LOC#1:street}}
+{{LOC#1:postcode_town}}
+Votre conseiller : {{PER#1:full}} - {{PHONE}}
+
+Lettre recommandée avec accusé de réception
+N° {{REF}}
+
+{{TITLE#2}} {{PER#2:full}}
+{{TITLE#3}} {{PER#3:full}}
+{{LOC#2:street}}
+{{LOC#2:postcode_town}}
+
+{{LOC#1:town}}, le {{DATE:long}}
+
+Objet : compte joint n° {{ACCOUNT}} - position débitrice non autorisée
+
+{{TITLE#2}}, {{TITLE#3}},
+
+Sauf erreur de notre part, votre compte présente depuis le {{DATE:long}} un solde débiteur de {{AMOUNT}}, alors que votre autorisation de découvert est limitée à {{AMOUNT}}.
+
+Malgré notre appel téléphonique du {{DATE:day_month}} et notre courrier du {{DATE:numeric}}, aucune régularisation n'est intervenue. Plusieurs prélèvements ont été rejetés, notamment celui de {{ORG#2:name@telecom}} du {{DATE:short}} ({{AMOUNT}}) et celui de votre assurance {{ORG#3:legal@insurance}} ({{AMOUNT}}).
+
+Nous vous demandons de bien vouloir ramener votre compte dans la limite autorisée avant le {{DATE:long}}. À défaut, nous serons contraints de dénoncer votre autorisation de découvert et, conformément aux conditions générales, de procéder à la clôture du compte avec un préavis de deux mois, ce qui entraînerait l'inscription au fichier tenu par la Banque de France.
+
+Si vous rencontrez des difficultés passagères, {{PER#1:given}} {{PER#1:surname}} se tient à votre disposition pour étudier un plan d'apurement adapté. Vous pouvez également prendre rendez-vous en ligne ou écrire à {{EMAIL:PER#1}}.
+
+Nous vous prions d'agréer, {{TITLE#2}}, {{TITLE#3}}, l'expression de nos salutations distinguées.
+
+{{PER#4:signature}}
+{{JOB}}
+
+Médiateur : en cas de désaccord persistant, vous pouvez saisir gratuitement le médiateur de la banque.

@@ -1,0 +1,21 @@
+[[ORG|CaixaBank, S.A.]]
+Oficina 2217 · [[LOC|Avda. de Andalucía, 40, 29007 Málaga]]
+
+Dña. [[PER|Nadia El Ouahabi Serrano]]
+[[LOC|C/ Pintor Nogales, 9, 3º A]]
+[[LOC|29620 Torremolinos]] ([[LOC|Málaga]])
+
+[[LOC|Málaga]], a [[DATE|2 de septiembre de 2026]]
+
+Asunto: recibo domiciliado devuelto
+
+Estimada Sra. [[PER|El Ouahabi]]:
+
+Le comunicamos que el [[DATE|1 de septiembre]] se devolvió por saldo insuficiente el recibo emitido por [[ORG|Brisamar Fitness S.L.]] por importe de 39,90 €, con cargo a su cuenta ES27 2843 0722 9634 4811 4132. Se ha aplicado una comisión por reclamación de posición deudora de 4,50 €.
+
+Puede regularizar la situación en cualquier oficina o desde la app.
+
+Atentamente,
+
+[[PER|Óscar Benavente Ruiz]]
+Director de oficina

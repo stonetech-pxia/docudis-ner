@@ -1,0 +1,70 @@
+[[ORG|Línea Directa Aseguradora, S.A.]]
+CONDICIONES PARTICULARES · SEGURO DE AUTOMÓVIL
+Póliza nº 7730-58812-04        Suplemento: 00 (nueva producción)
+
+TOMADOR DEL SEGURO
+Nombre y apellidos:   [[PER|Marcelino Sáenz de Cabezón Ochoa]]
+NIF:                  41021016X
+Fecha de nacimiento:  [[DATE|30/04/1971]]
+Domicilio:            [[LOC|Avda. de Portugal, 29, 5º B]]
+                      [[LOC|26001 Logroño]] ([[LOC|La Rioja]])
+Teléfono móvil:       607 552 419
+Correo electrónico:   msaenzcabezon@yahoo.es
+
+CONDUCTOR HABITUAL
+Nombre:               [[PER|Itziar Sáenz de Cabezón Lapuente]]
+NIF:                  49142240A
+Fecha de nacimiento:  [[DATE|11/08/2003]]
+Fecha carné B:        [[DATE|02/10/2021]]
+
+CONDUCTOR OCASIONAL
+Nombre:               [[PER|Marcelino Sáenz de Cabezón Ochoa]]
+
+VEHÍCULO
+Marca / modelo:       Seat Ibiza 1.0 TSI Style
+Matrícula:            4417 LMW
+Fecha 1ª matriculación: [[DATE|19/06/2022]]
+Uso:                  particular     Garaje: colectivo
+Km anuales:           hasta 12.000
+
+PERIODO DE COBERTURA
+Efecto:               [[DATE|01/10/2026]] a las 00:00 h
+Vencimiento:          [[DATE|30/09/2027]] a las 24:00 h
+Duración:             anual renovable
+
+GARANTÍAS CONTRATADAS                               Límite / Franquicia
+Responsabilidad civil obligatoria                   Límites legales
+Responsabilidad civil voluntaria                    50.000.000 €
+Defensa jurídica                                    6.000 €
+Asistencia en viaje desde km 0                      Incluida
+Lunas                                               Sin franquicia
+Robo e incendio                                     Valor venal
+Daños propios                                       Franquicia 300 €
+Accidentes del conductor (muerte/invalidez)         30.000 €
+
+PRIMA ANUAL
+Prima neta                  612,48 €
+Consorcio de Compensación    3,71 €
+Impuesto (IPS 8 %)          49,00 €
+Recargo CLEA                 0,93 €
+PRIMA TOTAL                 666,12 €
+
+Forma de pago: fraccionado trimestral (4 x 166,53 €)
+Domiciliación: ES36 5543 5917 1217 2439 2719
+Titular de la cuenta: [[PER|M. Sáenz de Cabezón Ochoa]]
+
+MEDIADOR
+Contratación telefónica. Agente: [[PER|Sheila Moreno Carrasco]], código 88041.
+
+CLÁUSULAS ESPECIALES
+El tomador declara que el conductor habitual no ha tenido siniestros con culpa en los últimos tres años y que el vehículo se guarda en [[LOC|Calle Vara de Rey, 61, Logroño]]. La inexactitud en estas declaraciones puede dar lugar a la reducción de la prestación.
+
+El tomador reconoce haber recibido las Condiciones Generales (modelo CG-AUTO-2026/03) y acepta expresamente las cláusulas limitativas destacadas en negrita.
+
+En [[LOC|Madrid]], a [[DATE|22 de septiembre de 2026]]
+
+El Tomador                                  Por la Compañía
+[[PER|Marcelino Sáenz de Cabezón]]            [[PER|Álvaro Pineda Robles]]
+                                            Dirección Técnica de Automóviles
+
+Entidad aseguradora: [[ORG|Línea Directa Aseguradora, S.A., Compañía de Seguros y Reaseguros]], [[LOC|Ronda de Europa, 7, 28760 Tres Cantos]] ([[LOC|Madrid]]). Sometida al control de la Dirección General de Seguros y Fondos de Pensiones.

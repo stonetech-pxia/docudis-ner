@@ -1,0 +1,27 @@
+[[ORG|ALPIBOIS CONCEPT SAS]]
+Société par actions simplifiée au capital de 60 000 €
+Siège social : [[LOC|8 rue Ampère, ZA des Glairons, 38400 Saint-Martin-d'Hères]]
+810 168 567 RCS [[LOC|Grenoble]]
+
+LISTE DES ASSOCIÉS AU [[DATE|30 JUIN 2026]]
+(établie à partir du registre des mouvements de titres, pour l'assemblée générale d'approbation des comptes)
+
+| N° | Associé | Adresse | Actions | % |
+| 1 | [[PER|BERTHOLLET-AUDIBERT Nicolas]], né le [[DATE|17/04/1978]] à [[LOC|Chambéry]] | [[LOC|142 chemin des Trois-Fontaines, 38330 Montbonnot-Saint-Martin]] | 2 400 | 40,00 % |
+| 2 | [[PER|AUDIBERT Camille]], née le [[DATE|03/12/1981]] à [[LOC|Annecy]] | même adresse | 600 | 10,00 % |
+| 3 | [[ORG|Holding Faure-Ramdani & Chevrot]], SARL, 432 837 169 RCS [[LOC|Grenoble]], représentée par [[PER|Mourad Ramdani]], gérant | [[LOC|3 place Grenette, 38000 Grenoble]] | 1 800 | 30,00 % |
+| 4 | [[PER|TCHOUMI Brice-Arnaud]], né le [[DATE|09/08/1990]] à [[LOC|Douala]] ([[LOC|Cameroun]]) | [[LOC|27 cours Jean-Jaurès, apt 51, 38000 Grenoble]] | 600 | 10,00 % |
+| 5 | [[ORG|Isère Capital Amorçage]] (fonds géré par [[ORG|Dauphiné Gestion Privée]]) | [[LOC|12 avenue Alsace-Lorraine, 38000 Grenoble]] | 600 | 10,00 % |
+| | TOTAL | | 6 000 | 100 % |
+
+Mouvements intervenus au cours de l'exercice :
+- [[DATE|14 janvier 2026]] : cession de 300 actions par Mme [[PER|Élodie Chevrot-Lunel]] à [[ORG|Holding Faure-Ramdani & Chevrot]] (ordre de mouvement n° 7).
+- [[DATE|2 mars 2026]] : souscription de 600 actions par [[ORG|Isère Capital Amorçage]] lors de l'augmentation de capital décidée le [[DATE|20 février 2026]].
+
+Président : [[PER|Nicolas Berthollet-Audibert]]
+Directeur général délégué : [[PER|Brice-Arnaud Tchoumi]]
+Commissaire aux comptes : [[ORG|Cabinet Vercors Audit & Conseil]], représenté par [[PER|Hugues Pellat-Finet]]
+Expert-comptable : [[ORG|Fiducial]], agence de [[LOC|Meylan]]
+
+Certifié conforme au registre par le Président, à [[LOC|Saint-Martin-d'Hères]], le [[DATE|4 septembre 2026]].
+[[PER|N. Berthollet-Audibert]]

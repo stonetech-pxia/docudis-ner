@@ -1,0 +1,29 @@
+#country: FR
+#doctype: cv
+CURRICULUM VITAE
+
+Dr {{PER#1:full}}
+Né(e) le {{DATE:birth}} à {{LOC#4:town}}
+{{LOC#1:line}}
+{{PHONE}} – {{EMAIL:PER#1}}
+
+POSTE ACTUEL
+Depuis le {{DATE:long}} : {{JOB}}, {{ORG#1:legal@health}}, {{LOC#1:town}}
+
+PARCOURS
+{{DATE:numeric}} – {{DATE:numeric}} : Chef(fe) de clinique assistant(e), {{ORG#2:name@health}}, service de pneumologie (chef de service : Pr {{PER#2:full}})
+{{DATE:numeric}} – {{DATE:numeric}} : Internat de médecine générale, subdivision de {{LOC#2:town}}
+
+DIPLÔMES
+Thèse d'exercice soutenue le {{DATE:long}} – {{ORG#3:name@school}} – Directeur de thèse : Dr {{PER#3:initial_surname}}
+DIU d'allergologie
+Capacité de médecine du sport
+
+PUBLICATIONS
+{{PER#1:surname}} {{PER#1:given}}, {{PER#3:surname}} {{PER#3:given}}, {{PER#4:surname}} {{PER#4:given}}. Observance des traitements inhalés chez l'adulte asthmatique en soins primaires. Revue de pneumologie clinique.
+
+ACTIVITÉS ASSOCIATIVES
+Membre du conseil d'administration de {{ORG#4:name}}, {{LOC#3:line}}
+
+LANGUES
+Anglais courant, italien intermédiaire

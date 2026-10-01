@@ -1,0 +1,50 @@
+CURRICULUM VITAE
+
+[[PER|PRIYANKA OKONJO-BRAITHWAITE]]
+[[LOC|Flat 3, 41 Harehills Crescent, Leeds LS8 4HT]]
+07723 418 906 | priyanka.ob@outlook.com | linkedin.com/in/pokonjob
+Date of birth: [[DATE|14/08/1994]]    NI number: BS 23 74 55 C
+Right to work: British citizen    Driving licence: full, clean
+
+PROFILE
+QA analyst with six years in retail and payments testing. I write test plans people actually read, automate the
+boring parts (Playwright, Postman, a little Python) and sit with support staff to find out where customers get stuck.
+Looking for a senior or lead role in [[LOC|West Yorkshire]] or remote.
+
+EMPLOYMENT
+
+Senior Test Analyst — [[ORG|Kestrelmoor Payments Ltd]], [[LOC|Leeds]]
+Mar 2022 – present
+- Own regression for the merchant onboarding portal (about 1,400 cases, 60% automated)
+- Cut release sign-off from three days to one by moving smoke tests into the CI pipeline
+- Mentor two junior testers; run the monthly bug-bash with the Customer Operations team
+
+Test Analyst, [[ORG|Brindle & Oyelaran Digital]] ([[ORG|BOD]]), [[LOC|Bradford]]
+Jul 2019 – Feb 2022
+- Manual and exploratory testing for e-commerce clients including [[ORG|Farrow Street Bakehouse]] and [[ORG|Tilly'Z Kidswear 4U]]
+- Wrote the accessibility checklist still used by the agency
+
+Customer Service Advisor
+[[ORG|Halcyon Home Furnishings]], [[LOC|Wakefield]]          Sep 2016 – Jun 2019
+- Complaints handling, returns, escalations to the Store Manager
+
+EDUCATION
+BSc (Hons) Computing, 2:1 — [[ORG|Leeds Beckett University]], 2013–2016
+A levels: Maths (B), Computing (A), Sociology (B) — [[ORG|Roundhay Park Sixth Form]]
+
+CERTIFICATES
+ISTQB Certified Tester Foundation Level, passed [[DATE|3 November 2019]]
+ISTQB Agile Tester, passed [[DATE|21/06/2021]]
+
+INTERESTS
+Parkrun volunteer at [[LOC|Roundhay]]; I run the Tuesday coding club at [[ORG|Chapeltown Youth Hub]].
+
+REFERENCES
+[[PER|Declan Harrowby]]
+Head of Quality Engineering, [[ORG|Kestrelmoor Payments Ltd]]
+d.harrowby@kestrelmoorpay.co.uk | 0113 496 0721
+
+Mrs [[PER|A. Fenwick-Latif]]
+Former Team Leader
+[[ORG|Halcyon Home Furnishings]]
+01924 380 552

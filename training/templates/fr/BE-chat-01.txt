@@ -1,0 +1,8 @@
+#country: BE
+#doctype: chat
+[{{DATE:short}} 07:41] {{PER#1:given}}: Hello, tu peux récupérer les enfants à la garderie ce soir ? Réunion qui déborde chez {{ORG#1:name@employer}}
+[{{DATE:short}} 07:52] {{PER#2:given}}: Oui pas de souci. C'est toujours {{PER#3:given}} qui ferme ?
+[{{DATE:short}} 07:53] {{PER#1:given}}: Non, cette semaine c'est {{TITLE#4}} {{PER#4:surname}}, prévenu(e) que tu venais
+[{{DATE:short}} 07:53] {{PER#1:given}}: Et n'oublie pas le rdv chez le dentiste de {{PER#5:given}} jeudi, cabinet {{ORG#2:name@health}}, {{LOC#1:street}} à {{LOC#1:town}}
+[{{DATE:short}} 07:55] {{PER#2:given}}: Noté. Tu as payé la facture de la commune pour les repas ? {{AMOUNT}}, communication structurée {{REF}}
+[{{DATE:short}} 08:10] {{PER#1:given}}: Pas encore, je fais ça ce midi 👍

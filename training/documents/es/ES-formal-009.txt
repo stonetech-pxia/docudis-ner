@@ -1,0 +1,37 @@
+[[ORG|LABORATORIO DE ANÁLISIS CLÍNICOS PEÑACASTILLO]]
+[[LOC|C/ Alta, 72, entlo.]] · [[LOC|39008 Santander]]
+Tel. 942 330 118 · resultados@labpenacastillo.es
+Autorización sanitaria nº 39-C22-0147
+
+INFORME DE RESULTADOS
+
+Paciente ........ [[PER|Gutiérrez Abascal, Nerea]]
+F. nacimiento ... [[DATE|05-06-1987]]     Sexo: M
+Nº petición ..... 26-091783
+Solicitante ..... Dr. [[PER|Bustamante]] ([[ORG|Centro Médico Sardinero]])
+Extracción ...... [[DATE|16-09-2026]] 08:12
+Validación ...... [[DATE|17-09-2026]] 13:40
+
+HEMATOLOGÍA                Resultado   Unidades    Valores de referencia
+Hemoglobina                  11,2       g/dL        12,0 - 15,5   *
+Hematocrito                  34,8       %           36,0 - 46,0   *
+VCM                          76         fL          80 - 100      *
+Leucocitos                   6,4        10^3/µL     4,0 - 10,5
+Plaquetas                    289        10^3/µL     150 - 400
+
+BIOQUÍMICA
+Glucosa                      88         mg/dL       70 - 110
+Creatinina                   0,71       mg/dL       0,50 - 0,90
+Ferritina                    9          ng/mL       15 - 150      *
+Hierro                       38         µg/dL       50 - 170      *
+TSH                          2,10       µUI/mL      0,35 - 4,94
+
+HORMONAS
+Beta-HCG                     <1         mUI/mL      no gestante
+
+Comentario: anemia microcítica con ferropenia. Se recomienda valoración por su médico.
+
+Validado por: [[PER|Lucía Herrera Obregón]]
+Facultativa especialista en Análisis Clínicos
+
+Este informe sólo es válido con firma electrónica. Los resultados se conservan cinco años. Responsable del tratamiento: [[ORG|Laboratorio Peñacastillo, S.L.]], [[LOC|C/ Alta, 72, 39008 Santander]].

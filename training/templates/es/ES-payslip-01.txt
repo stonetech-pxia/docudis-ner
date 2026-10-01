@@ -1,0 +1,55 @@
+#country: ES
+#doctype: payslip
+# Nómina estándar de una empresa mediana, recibo de salarios oficial aplanado
+RECIBO INDIVIDUAL JUSTIFICATIVO DEL PAGO DE SALARIOS
+
+EMPRESA
+Nombre: {{ORG#1:legal@employer}}
+Domicilio: {{LOC#1:line}}
+CIF: {{COMPANYID}}
+C.C.C. Seguridad Social: 28/{{NUM}}
+
+TRABAJADOR
+Nombre: {{PER#1:surname_given}}
+NIF: {{NATID}}
+Nº afiliación S.S.: {{NATID}}
+Categoría: {{JOB}}
+Grupo de cotización: 05
+Antigüedad: {{DATE:numeric}}
+Domicilio: {{LOC#2:street}}, {{LOC#2:postcode_town}}
+
+Periodo de liquidación: del {{DATE:numeric}} al {{DATE:numeric}}    Total días: 30
+
+I. DEVENGOS
+1. Percepciones salariales
+Salario base ............................ {{AMOUNT}}
+Complemento de puesto ................... {{AMOUNT}}
+Plus de transporte ...................... {{AMOUNT}}
+Horas extraordinarias ................... {{AMOUNT}}
+Prorrata pagas extras ................... {{AMOUNT}}
+A. TOTAL DEVENGADO ...................... {{AMOUNT}}
+
+II. DEDUCCIONES
+Contingencias comunes 4,70 % ............ {{AMOUNT}}
+Desempleo 1,55 % ........................ {{AMOUNT}}
+Formación profesional 0,10 % ............ {{AMOUNT}}
+MEI 0,13 % .............................. {{AMOUNT}}
+Retención IRPF 14,00 % .................. {{AMOUNT}}
+Anticipo {{DATE:day_month}} ............. {{AMOUNT}}
+B. TOTAL A DEDUCIR ...................... {{AMOUNT}}
+
+LÍQUIDO TOTAL A PERCIBIR (A-B) .......... {{AMOUNT}}
+
+Transferencia a {{IBAN}} ({{ORG#2:name@finance}})
+
+{{LOC#1:town}}, {{DATE:long}}
+
+Firma y sello de la empresa              Recibí
+{{PER#2:full}}                           {{PER#1:signature}}
+{{DEPT}}
+
+DETERMINACIÓN DE LAS BASES DE COTIZACIÓN
+Base contingencias comunes: {{AMOUNT}}
+Base AT y EP: {{AMOUNT}}
+Base sujeta a retención IRPF: {{AMOUNT}}
+Aportación empresa: {{AMOUNT}}

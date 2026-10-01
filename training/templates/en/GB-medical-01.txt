@@ -1,0 +1,43 @@
+#country: GB
+#doctype: medical
+{{ORG#1:name@health}}
+Department of Cardiology
+{{LOC#1:line}}
+Secretary: {{PHONE}}
+
+Dr {{PER#2:full}}
+{{ORG#2:name@health}}
+{{LOC#2:street}}
+{{LOC#2:postcode_town}}
+
+Dictated: {{DATE:short}}
+Typed: {{DATE:short}}
+
+Dear Dr {{PER#2:surname}},
+
+Re: {{PER#1:full}}, DOB {{DATE:birth}}
+NHS No: {{NATID}}
+Hospital No: {{REF}}
+{{LOC#3:line}}
+
+Diagnosis:
+1. Paroxysmal atrial fibrillation
+2. Hypertension, well controlled
+
+Medication on discharge:
+Apixaban 5 mg twice daily
+Bisoprolol 2.5 mg once daily
+Ramipril 5 mg once daily
+
+I reviewed {{TITLE#1}} {{PER#1:surname}} in the rapid access arrhythmia clinic today. {{PER#1:given}} describes intermittent palpitations since {{DATE:day_month}}, lasting up to two hours, with mild breathlessness but no syncope. A 7-day Holter monitor fitted on {{DATE:long}} showed two episodes of AF with a maximum ventricular rate of 142.
+
+Echocardiogram shows a structurally normal heart with good LV function. CHA2DS2-VASc score is 2, so I have started anticoagulation after discussing the risks and benefits. {{PER#1:given}} is keen to avoid long-term medication and we talked about ablation as a future option.
+
+I would be grateful if you could check renal function and blood pressure in four weeks. I have asked our specialist nurse, {{PER#3:full}}, to telephone in six weeks, and I will see {{PER#1:given}} again in clinic in three months.
+
+Yours sincerely,
+
+Dr {{PER#4:initial_surname}}
+{{JOB}}
+
+cc: {{PER#1:full}}, {{LOC#3:line}}

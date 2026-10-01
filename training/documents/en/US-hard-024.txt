@@ -1,0 +1,13 @@
+[[ORG|Tenney Park Elementary School]] – Emergency Contact Card 2025-26
+
+Student: [[PER|Okafor-Lindgren, Jaylen]]     Grade: 2     DOB: [[DATE|05/22/2018]]
+Address: [[LOC|1706 Sherman Ave, Madison, WI 53704]]
+Parent/Guardian 1: [[PER|Beatrix Lindgren]]     Cell (608) 555-0161     Work: [[ORG|UW Health]]
+Parent/Guardian 2: [[PER|Chibuzo Okafor]]     Cell (608) 555-0173
+
+Also allowed to pick up:
+1. [[PER|Gunnar Lindgren]] (grandpa) (608) 555-0110
+2. [[PER|Ngozi]] ([[PER|Chibuzo]]'s sister) (414) 555-0196
+
+Doctor: [[ORG|East Madison Pediatrics]]     Allergies: peanuts – EpiPen in office
+Signed: [[PER|B. Lindgren]]     Date: [[DATE|Sept. 2, 2025]]

@@ -1,0 +1,27 @@
+#country: GB
+#doctype: medical
+FIT NOTE - Statement of fitness for work
+
+Patient's name: {{TITLE#1}} {{PER#1:full}}
+Date of birth: {{DATE:numeric}}
+National Insurance number: {{NATID}}
+
+I assessed your case on: {{DATE:numeric}}
+and, because of the following condition(s): lumbar disc prolapse with sciatica, left leg
+
+I advise you that you may be fit for work taking account of the following advice:
+[x] a phased return to work
+[x] amended duties
+Comments: No lifting over 5 kg and no driving of company vans. Should be able to do office or dispatch-desk duties from the second week.
+
+This will be the case for 4 weeks from {{DATE:numeric}} to {{DATE:numeric}}.
+I will not need to assess your fitness for work again at the end of this period.
+
+Doctor's signature: {{PER#2:signature}}
+Date of statement: {{DATE:numeric}}
+{{ORG#1:name@health}}, {{LOC#1:line}}
+
+---
+Note from employee, for HR:
+Hi {{PER#3:given}}, attached is my fit note from Dr {{PER#2:surname}}. I've also been referred to physio at {{ORG#2:name@health}}, first session is {{DATE:day_month}}. {{PER#4:given}} on the warehouse team said they can cover my Monday deliveries. Let me know if {{ORG#3:name@employer}} needs anything else.
+{{PER#1:given}}

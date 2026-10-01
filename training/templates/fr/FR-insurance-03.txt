@@ -1,0 +1,20 @@
+#country: FR
+#doctype: insurance
+# Relevé de remboursements d'une mutuelle santé, plusieurs bénéficiaires, tableau aplati.
+{{ORG#1:name@insurance}} - Votre relevé de prestations
+Relevé du {{DATE:numeric}}
+Adhérent : {{PER#1:full}} - N° adhérent {{NUM}}
+{{LOC#1:line}}
+Contrat collectif souscrit par votre employeur {{ORG#2:legal@employer}}
+
+Bénéficiaire | Date des soins | Professionnel | Acte | Dépense | Remb. Sécu | Remb. mutuelle | Reste à charge
+{{PER#1:given}} | {{DATE:short}} | Dr {{PER#3:initial_surname}} | Consultation généraliste | {{AMOUNT}} | {{AMOUNT}} | {{AMOUNT}} | {{AMOUNT}}
+{{PER#2:given}} | {{DATE:short}} | {{ORG#3:name@health}} | Monture + verres | {{AMOUNT}} | {{AMOUNT}} | {{AMOUNT}} | {{AMOUNT}}
+{{PER#4:given}} {{PER#4:surname}} | {{DATE:short}} | Dr {{PER#5:full}} | Orthodontie semestre | {{AMOUNT}} | {{AMOUNT}} | {{AMOUNT}} | {{AMOUNT}}
+{{PER#4:given}} {{PER#4:surname}} | {{DATE:short}} | Pharmacie | Médicaments | {{AMOUNT}} | {{AMOUNT}} | {{AMOUNT}} | {{AMOUNT}}
+
+Total versé par la mutuelle : {{AMOUNT}}
+Virement effectué le {{DATE:numeric}} sur le compte {{IBAN}}
+
+Les remboursements de la Caisse primaire d'assurance maladie vous sont versés séparément.
+Une question ? {{EMAIL:ORG#1}} ou {{PHONE}}

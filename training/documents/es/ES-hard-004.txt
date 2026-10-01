@@ -1,0 +1,50 @@
+[[ORG|COLEGIO CONCERTADO NUESTRA SEÑORA DE LAS NIEVES DE TRIANA]]
+[[LOC|C/ Alfarería de San Jorge, 22, 41010 Sevilla]]
+Tel. 954 33 71 20 · secretaria@colegionievestriana.es
+
+SOLICITUD DE MATRÍCULA – CURSO 2026/2027
+Etapa: Educación Primaria    Curso: 3º    Grupo solicitado: B
+
+1. DATOS DEL ALUMNO/A
+Primer apellido: [[PER|MONTESINOS]]
+Segundo apellido: [[PER|ACOSTA]]
+Nombre: [[PER|HUGO]]
+Fecha de nacimiento: [[DATE|04/02/2018]]
+Lugar de nacimiento: [[LOC|Dos Hermanas]]    Provincia: [[LOC|Sevilla]]
+Nacionalidad: española
+Centro de procedencia: [[ORG|CEIP Maestro Enrique Rueda]], [[LOC|Dos Hermanas]]
+Alergias / observaciones médicas: intolerancia a la lactosa
+
+2. DOMICILIO FAMILIAR
+Calle/Plaza: [[LOC|C/ Pureza de los Ángeles, 9, bloque 2, 1º C]]
+C.P. / Localidad: [[LOC|41010 Sevilla]]
+
+3. DATOS DEL PADRE / MADRE / TUTOR LEGAL
+Tutor/a 1
+Apellidos, nombre: [[PER|Acosta Villalba, Rocío]]
+DNI: 81792637Z     Profesión: enfermera, [[ORG|Hospital Virgen del Rocío]]
+Móvil: 657 204 918     Correo: rocioacostav@yahoo.es
+
+Tutor/a 2
+Apellidos, nombre: [[PER|Montesinos Carrión, Julián]]
+DNI: 93433181M     Profesión: autónomo (reformas)
+Empresa: [[ORG|Reformas Montesinos e Hijos]]
+Móvil: 610 88 42 37
+
+4. PERSONAS AUTORIZADAS PARA RECOGER AL ALUMNO
+- [[PER|Carmen Villalba Ortega]] (abuela)     DNI 39683206H
+- [[PER|Yolanda Ríos]] (vecina)                DNI 58610266X
+
+5. SERVICIOS COMPLEMENTARIOS
+[X] Aula matinal (desde 7:30)    [X] Comedor    [ ] Actividades extraescolares
+Entidad que presta el comedor: [[ORG|Catering Giralda Norte S.L.]]
+
+6. DOMICILIACIÓN DE RECIBOS (cuota AMPA y servicios)
+Titular de la cuenta: [[PER|ROCÍO ACOSTA VILLALBA]]
+IBAN: ES18 3517 8105 6705 5507 1463
+
+Firmado: [[PER|Rocío Acosta]]            Firmado: [[PER|J. Montesinos]]
+En [[LOC|Sevilla]], a [[DATE|8 de julio de 2026]]
+
+A rellenar por el centro:
+Recibido por: [[PER|Inmaculada Pardo]], secretaría     Fecha: [[DATE|09/07/2026]]     Nº registro: 2026/0388

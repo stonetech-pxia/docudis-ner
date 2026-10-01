@@ -1,0 +1,51 @@
+RECIBO INDIVIDUAL JUSTIFICATIVO DEL PAGO DE SALARIOS
+
+EMPRESA
+Nombre: [[ORG|Obrador Lasheras e Hijos, S.L.]]
+Domicilio: [[LOC|Calle Predicadores, 61]]
+           [[LOC|50003 Zaragoza]]
+CIF: B37520947
+
+TRABAJADOR
+Nombre: [[PER|MUREȘAN BOGDAN IONUȚ]]
+NIE: Y7757678E
+Nº afiliación S.S.: 47/62936508/22
+Categoría: Oficial de 2ª de panadería
+Grupo de cotización: 08
+Fecha de antigüedad: [[DATE|03/02/2021]]
+Domicilio: [[LOC|Avda. de Europa, 7, esc. 2, 1º C]]
+           [[LOC|50180 Utebo]]
+
+Periodo de liquidación: del [[DATE|01/07/2026]] al [[DATE|31/07/2026]]      Total días: 30
+
+I. DEVENGOS
+1. Percepciones salariales
+   Salario base ..................................... 1.312,40
+   Plus de nocturnidad ................................ 186,20
+   Antigüedad (1 trienio) .............................. 39,37
+2. Percepciones no salariales
+   Plus de transporte .................................. 72,00
+A. TOTAL DEVENGADO ................................... 1.609,97
+
+II. DEDUCCIONES
+   Contingencias comunes      4,70 %   s/ 1.537,97 ..... 72,28
+   Desempleo                  1,55 %   s/ 1.537,97 ..... 23,84
+   Formación profesional      0,10 %   s/ 1.537,97 ...... 1,54
+   Mecanismo equidad (MEI)    0,13 %   s/ 1.537,97 ...... 2,00
+   Retención IRPF             8,50 %   s/ 1.609,97 .... 136,85
+B. TOTAL A DEDUCIR ..................................... 236,51
+
+LÍQUIDO TOTAL A PERCIBIR (A - B) .................... 1.373,46
+
+Abonado por transferencia el [[DATE|31/07/2026]] en la cuenta ES32 1390 5756 2102 7749 0927.
+
+Determinación de las bases de cotización
+Remuneración mensual 1.537,97 | Prorrata pagas extra 256,33 | Base CC 1.794,30 | Base AT/EP 1.794,30
+
+[[LOC|Zaragoza]], [[DATE|31 de julio de 2026]]
+
+Firma y sello de la empresa                       Recibí
+[[PER|Pilar Lasheras Gimeno]]                         [[PER|B. I. Mureșan]]
+Administración y personal
+
+Convenio colectivo de industrias de panadería de la provincia de [[LOC|Zaragoza]]. Para cualquier consulta sobre esta nómina diríjase a [[PER|Pilar]] (976 392 115, nominas@obradorlasheras.es).

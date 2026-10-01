@@ -1,0 +1,17 @@
+[[ORG|Clínica Dental Guadiana Sonrisas, S.L.P.]] · CIF B90735184
+[[LOC|Avda. de Huelva, 3, local 2, 06005 Badajoz]] · 924 239 880
+
+Factura simplificada nº FS-26/1904       Fecha: [[DATE|16-09-2026]]
+
+Paciente: [[PER|Tomás Gragera Cortés]]   NIF 71070652P
+
+Tratamiento                          Importe
+Endodoncia molar 3.6                 220,00
+Reconstrucción composite              65,00
+Radiografía periapical (2)            20,00
+                        TOTAL      305,00 €
+
+Operación exenta de IVA (art. 20.Uno.3º Ley 37/1992).
+Pagado con tarjeta **** 4754.
+Odontóloga: Dra. [[PER|Candela Silva Nogales]], col. 06000481.
+Próxima cita: [[DATE|30/09/2026]], 17:15 h.

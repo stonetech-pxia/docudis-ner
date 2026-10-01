@@ -1,0 +1,41 @@
+[[ORG|BAPST, CHATAGNY & ROULIN SÀRL]]
+Bureau technique – génie civil et géomètres
+[[LOC|Route de la Glâne 107, 1752 Villars-sur-Glâne]]
+IDE : CHE-218.447.904
+
+PROCÈS-VERBAL DE L'ASSEMBLÉE ORDINAIRE DES ASSOCIÉS
+Tenue le [[DATE|25 juin 2026]] à 17 h 00 dans les locaux de la société
+
+Associés présents ou représentés :
+- [[PER|BAPST Dominique]], associé gérant, 40 parts sociales
+- [[PER|CHATAGNY Aline]], associée gérante, 30 parts sociales
+- [[PER|ROULIN Frédéric]], associé, 20 parts sociales, représenté par [[PER|Aline Chatagny]] (procuration du [[DATE|18.06.2026]])
+- [[ORG|Fondation de prévoyance Sarine]], 10 parts sociales, représentée par Maître [[PER|Nicolas Egger]], avocat à [[LOC|Fribourg]]
+
+Présidence : [[PER|Dominique Bapst]]          Procès-verbal : [[PER|Karin Aebischer]], assistante de direction (non associée)
+Organe de révision : [[ORG|Fiduciaire Gruyère-Sarine SA]], représentée par M. [[PER|Thomas Clément]]
+
+Les 100 parts sociales étant présentes ou représentées, l'assemblée est valablement constituée (art. 805 CO).
+
+1. Comptes annuels 2025
+Les comptes présentent un bénéfice de CHF 184 310.–. Le rapport de l'organe de révision est lu par [[PER|T. Clément]].
+Approuvés à l'unanimité.
+
+2. Emploi du bénéfice
+Dividende de CHF 60 000.–, solde reporté à nouveau. Versement le [[DATE|15 juillet 2026]] sur les comptes auprès de la
+[[ORG|Banque Cantonale de Fribourg]].
+
+3. Décharge
+Décharge est donnée aux gérants, [[PER|D. Bapst]] et [[PER|A. Chatagny]] ne prenant pas part au vote.
+
+4. Réélection de l'organe de révision
+[[ORG|Fiduciaire Gruyère-Sarine SA]], [[LOC|Rue de Vevey 11, 1630 Bulle]], est réélue pour l'exercice 2026.
+
+5. Divers
+- [[PER|Frédéric Roulin]] cédera 10 parts à [[PER|Jonas Mauron-Tinguely]], ingénieur EPF, collaborateur depuis 2019 ; l'inscription
+  au registre du commerce du canton de [[LOC|Fribourg]] sera requise après l'accord de l'assemblée du [[DATE|3 septembre]].
+- Le mandat pour le [[LOC|pont de la Glâne]], attribué par la Commune de [[LOC|Villars-sur-Glâne]], démarre le [[DATE|1er août]].
+- Le bureau secondaire de [[LOC|Romont]] ([[LOC|Grand-Rue 44, 1680 Romont]]) sera fermé au [[DATE|31 décembre 2026]].
+
+Séance levée à 18 h 20.
+Le président : [[PER|Dominique Bapst]]          La secrétaire : [[PER|K. Aebischer]]

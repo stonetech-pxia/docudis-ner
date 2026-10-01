@@ -1,0 +1,24 @@
+#country: ES
+#doctype: invoice
+# Presupuesto corto enviado por correo por una carpintería
+De: {{PER#1:full}} <{{EMAIL:PER#1}}>
+Para: {{EMAIL:PER#2}}
+Fecha: {{DATE:numeric}} 11:42
+Asunto: Presupuesto armario empotrado
+
+Buenos días, {{PER#2:given}}:
+
+Te paso el presupuesto que hablamos el {{DATE:day_month}} en tu casa de {{LOC#2:street}}.
+
+PRESUPUESTO Nº {{REF}} — {{ORG#1:legal@trades}}
+Armario empotrado 2 puertas correderas, lacado blanco: {{AMOUNT}}
+Interior con barra y cajonera: {{AMOUNT}}
+Montaje: {{AMOUNT}}
+Total (IVA incluido): {{AMOUNT}}
+Validez: 30 días. Señal del 40 % al aceptar.
+
+Si te encaja, podemos empezar la semana del {{DATE:day_month}}. Mi compañero {{PER#3:given}} pasaría antes a tomar medidas definitivas.
+
+Un saludo,
+{{PER#1:initial_surname}}
+{{ORG#1:name@trades}} · {{LOC#1:postcode_town}} · {{MOBILE}}

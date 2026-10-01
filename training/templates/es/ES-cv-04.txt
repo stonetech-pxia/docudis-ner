@@ -1,0 +1,30 @@
+#country: ES
+#doctype: cv
+#cover letter sent with a CV for a nursing job, e-mail form
+Para: {{EMAIL:ORG#1}}
+Asunto: Candidatura enfermera - Ref. {{REF}}
+
+Estimado/a {{TITLE#2}} {{PER#2:surname}}:
+
+Me llamo {{PER#1:full}} y le escribo para presentar mi candidatura al puesto de enfermera de planta publicado por {{ORG#1:legal@health}} el {{DATE:day_month}}.
+
+Terminé el Grado en Enfermería en {{ORG#3:name@school}} y desde entonces he trabajado cuatro años en la unidad de Cirugía de {{ORG#4:name@health}}, en {{LOC#2:town}}, bajo la supervisión de {{PER#3:full}}, y dos veranos de refuerzo en el centro de salud de {{LOC#3:town}}.
+
+Me he trasladado recientemente a {{LOC#1:town}} por motivos familiares y me gustaría seguir desarrollándome en un hospital como el suyo. Estoy colegiada en {{PUBLIC#1}} (n.º {{NUM}}) y tengo el título de enfermera especialista en curso.
+
+Adjunto mi currículum:
+
+{{PER#1:surname_given}}
+Nacida el {{DATE:birth}}
+{{LOC#1:line}}
+{{MOBILE}}
+
+- 2021 - hoy: Enfermera de hospitalización quirúrgica, {{ORG#4:legal@health}}.
+- 2019 y 2020 (julio-septiembre): Enfermera de refuerzo, Atención Primaria.
+- Formación: Grado en Enfermería; curso de soporte vital avanzado; experto en heridas crónicas.
+- Idiomas: español, gallego, inglés B2.
+
+Quedo a su disposición para una entrevista.
+
+Un cordial saludo,
+{{PER#1:given}} {{PER#1:surname}}

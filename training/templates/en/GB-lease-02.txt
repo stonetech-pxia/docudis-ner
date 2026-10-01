@@ -1,0 +1,36 @@
+#country: GB
+#doctype: lease
+From: {{PER#1:full}} <{{EMAIL:PER#1}}>
+To: {{EMAIL:PER#2}}
+Date: {{DATE:long}}
+Subject: Room at {{LOC#1:street}} - house rules and deposit
+
+Hi {{PER#2:given}},
+
+Great to meet you on Saturday. As promised, here are the details for the room so you can think it over.
+
+Address: {{LOC#1:line}}
+Room: second floor, back bedroom
+Move-in: {{DATE:day_month}}
+Rent: {{AMOUNT}} a month, bills included (gas and electric with [[ORG|Octopus Energy]], broadband with {{ORG#1:name@telecom}})
+Deposit: {{AMOUNT}}, held with the [[ORG|Deposit Protection Service]]
+
+It's a lodger agreement rather than a tenancy, as I live here too. Notice is one month either side.
+
+The other two in the house are {{PER#3:given}}, who works shifts at {{ORG#2:name@health}}, and {{PER#4:full}}, a postgrad at {{ORG#3:name@school}}. Both are quiet and tidy. We share cleaning on a rota.
+
+If you want to go ahead, please transfer the deposit to:
+{{PER#1:full}}
+Sort code {{SORTCODE}}, account {{ACCOUNT}}
+Reference: your surname + ROOM
+
+I'll need a copy of your passport and a reference from your last landlord. You mentioned {{PER#5:full}} at {{ORG#4:legal@property}} - could you send me their email?
+
+Any questions just ring me on {{MOBILE}}.
+
+Cheers,
+{{PER#1:given}}
+
+> On {{DATE:short}}, {{PER#2:full}} wrote:
+> Hi, I saw your ad for the double room near {{LOC#2:town}} station. Is it still available? I'm starting a job in {{LOC#2:town}} next month and could view any evening this week.
+> Thanks, {{PER#2:given}}

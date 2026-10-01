@@ -1,0 +1,48 @@
+#country: GB
+#doctype: lease
+ASSURED SHORTHOLD TENANCY AGREEMENT
+
+This agreement is made on {{DATE:long}} between the parties named below.
+
+Landlord: {{PER#1:full}}
+Address for service: {{LOC#1:street}}, {{LOC#1:postcode_town}}
+Telephone: {{PHONE}}
+Email: {{EMAIL:PER#1}}
+
+Managing agent: {{ORG#1:legal@property}}
+{{LOC#2:line}}
+Contact: {{PER#2:full}}, {{JOB}}
+Tel: {{PHONE}}
+
+Tenant(s):
+1. {{PER#3:full}}, date of birth {{DATE:birth}}
+2. {{PER#4:full}}, date of birth {{DATE:birth}}
+
+Property: {{LOC#3:unit}}, {{LOC#3:street}}, {{LOC#3:postcode_town}}
+
+1. TERM
+The tenancy is for a fixed term of 12 months starting on {{DATE:long}} and ending on {{DATE:long}}.
+
+2. RENT
+The rent is {{AMOUNT}} per calendar month, payable in advance on the 1st of each month by standing order to:
+Account name: {{ORG#1:legal}} Client Account
+Sort code: {{SORTCODE}}
+Account number: {{ACCOUNT}}
+Reference: {{REF}}
+
+3. DEPOSIT
+A deposit of {{AMOUNT}} is payable on signing and will be protected with the [[ORG|Deposit Protection Service]] within 30 days of receipt. Deposit certificate number: {{NUM}}.
+
+4. TENANT OBLIGATIONS
+The Tenant agrees to pay council tax to {{PUBLIC#3}} and all utility charges, to keep the Property clean and in good repair, and not to sublet without the written consent of the Landlord.
+
+5. LANDLORD OBLIGATIONS
+The Landlord will keep the structure and exterior in repair and arrange an annual gas safety check. Repairs should be reported to {{ORG#1:name}} on {{PHONE}} or {{EMAIL:ORG#1}}.
+
+Signed by the Landlord: {{PER#1:signature}}
+Date: {{DATE:numeric}}
+
+Signed by the Tenant(s): {{PER#3:signature}}   {{PER#4:signature}}
+Date: {{DATE:numeric}}
+
+Witness: {{PER#5:full}}, {{LOC#4:line}}

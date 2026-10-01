@@ -1,0 +1,17 @@
+#country: GB
+#doctype: form
+# GP new patient registration questionnaire, typed answers, short
+New patient questionnaire - {{ORG#1:legal@health}}
+
+Full name: {{PER#1:full}}
+Previous surname(s): {{PER#4:surname}}
+Date of birth: {{DATE:birth}}
+Town and country of birth: {{LOC#3:town}}, {{LOC#3:country}}
+NHS number (if known): {{NATID}}
+Address: {{LOC#1:line}}
+Mobile: {{MOBILE}}
+Previous GP: {{PER#2:full}}, {{ORG#2:name@health}}, {{LOC#2:line}}
+Date you arrived in the area: {{DATE:numeric}}
+Next of kin: {{PER#3:full}} (sibling), {{MOBILE}}
+Carer? No
+Regular medication: sertraline 50mg

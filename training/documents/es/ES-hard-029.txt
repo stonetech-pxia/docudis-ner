@@ -1,0 +1,43 @@
+PARTE AMISTOSO DE ACCIDENTE / DECLARACIÓN AMISTOSA
+
+Fecha del accidente: [[DATE|12 de septiembre de 2026]]     Hora: 18:25
+Lugar (país, localidad, vía): [[LOC|España]], [[LOC|Santander]], [[LOC|Av. de los Castros del Faro]], a la altura del nº 84
+¿Heridos, incluso leves? No
+Daños materiales a vehículos distintos de A y B: no
+Daños materiales a otros objetos: sí, una señal de ceda el paso propiedad del Ayuntamiento de [[LOC|Santander]]
+Testigos: [[PER|Ignacio Trueba Cacho]], [[LOC|C/ Alta de la Atalaya, 55, 39008 Santander]], tel. 615 447 302
+
+VEHÍCULO A
+Tomador/Asegurado: [[PER|SOLÓRZANO CAGIGAS, MARÍA DEL MAR]]
+Dirección: [[LOC|Bº La Concha, 7, portal 2, 1º izq., 39012 Santander]]
+Tel.: 942 27 88 41   Correo: mmarsolorzano@gmail.com
+Compañía de seguros: [[ORG|Seguros Bilbao]]   Póliza nº 77-4412300   Carta verde nº —
+Vigencia: del [[DATE|01/03/2026]] al [[DATE|28/02/2027]]   Agencia: [[ORG|Correduría Cantábrico Seguros López-Herrán]]
+Vehículo: marca Opel Corsa, matrícula 4472-KRB
+Conductor: [[PER|Solórzano Cagigas, María del Mar]], permiso B nº 55514581X, expedido el [[DATE|14/05/2004]]
+Sentido de la marcha: de [[LOC|Valdecilla]] hacia [[LOC|El Sardinero]]
+Punto de impacto inicial: aleta trasera izquierda
+Daños visibles: aleta y puerta trasera izquierda hundidas, piloto roto
+Observaciones: Circulaba correctamente por mi carril cuando el vehículo B salió del aparcamiento sin señalizar.
+
+VEHÍCULO B
+Tomador/Asegurado: [[ORG|Instalaciones Eléctricas Pontones y Setién S.L.]] (NIF B39774102)
+Dirección: [[LOC|Pol. Ind. de Guarnizo, nave 31, 39611 El Astillero]]
+Compañía de seguros: [[ORG|Línea Directa Aseguradora]]   Póliza nº LD-9033118
+Vehículo: furgoneta Citroën Berlingo, matrícula 6017-JHZ
+Conductor: [[PER|Ilie Bogdan Petrescu]], NIE Y8087892W, permiso B, domicilio [[LOC|C/ Camino del Mercadillo, 12, 2º C, 39611 El Astillero]]
+Punto de impacto inicial: parachoques delantero derecho
+Daños visibles: parachoques y faro derecho
+Observaciones: Salía de la plaza de aparcamiento; reconozco que no vi el turismo.
+
+CIRCUNSTANCIAS (marcar casillas)
+Vehículo A: [X] circulaba   [ ] giraba a la izquierda
+Vehículo B: [X] salía de un estacionamiento   [X] no respetó la preferencia
+
+CROQUIS: (dibujado al dorso por [[PER|M. del Mar Solórzano]])
+
+FIRMA DE LOS CONDUCTORES
+A: [[PER|M. Solórzano]]                     B: [[PER|I. B. Petrescu]]
+
+Tramitación: parte remitido por la asegurada el [[DATE|13/09/2026]]; perito asignado [[PER|Gorka Etxaniz]]
+([[ORG|Peritaciones Norte 4 Ruedas]]), cita en el taller [[ORG|Talleres Pereda Motor]] el [[DATE|21 de septiembre]] a las 9:00.

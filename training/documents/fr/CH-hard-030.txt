@@ -1,0 +1,12 @@
+GIAP – Accueil parascolaire – inscription 2026-2027
+Commune : [[LOC|Carouge]]          École : [[ORG|École de Pinchat]]
+
+Enfant : [[PER|AL-KHATIB SANTOS Yara]]          Né(e) le : [[DATE|04.03.2019]]          Degré : 3P
+Adresse : [[LOC|Route de Drize 17, 1227 Carouge]]
+Représentant légal 1 : [[PER|Santos, Marta]] – 078 641 22 09 – employeur : [[ORG|HUG]]
+Représentant légal 2 : [[PER|Al-Khatib, Omar]] – 076 318 45 70 – indépendant ([[ORG|Khatib Traductions Sàrl]])
+Jours : lundi, mardi, jeudi (midi + soir)
+Allergies : aucune
+Personne autorisée : [[PER|Lucía Santos Ferreiro]] (grand-mère)
+
+Date : [[DATE|20.06.2026]]          Signature : [[PER|Marta Santos]]

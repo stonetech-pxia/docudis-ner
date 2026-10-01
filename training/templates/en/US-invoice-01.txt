@@ -1,0 +1,32 @@
+#country: US
+#doctype: invoice
+# Online shop order receipt e-mail, short
+Order confirmed - thanks for shopping with {{ORG#1:name@retail}}!
+
+Hi {{PER#1:given}},
+
+Your order {{REF}} was placed on {{DATE:long}}. We'll e-mail you again when it ships.
+
+Ship to:
+{{PER#1:full}}
+{{LOC#1:street}}
+{{LOC#1:unit}}
+{{LOC#1:postcode_town}}
+
+Gift message: "Happy birthday {{PER#2:given}}! Love, {{PER#1:given}} and {{PER#3:given}}"
+
+Items
+1 x Cast iron skillet, 12 in            {{AMOUNT}}
+2 x Linen napkins (set of 4), sage      {{AMOUNT}}
+1 x Gift wrap                           {{AMOUNT}}
+
+Subtotal                                {{AMOUNT}}
+Shipping (standard, 5-7 business days)  {{AMOUNT}}
+Sales tax                               {{AMOUNT}}
+Order total                             {{AMOUNT}}
+
+Paid with card ending {{CARD4}}
+Billing address: {{LOC#2:line}}
+
+Questions? Reply to this e-mail or call {{PHONE}}.
+{{ORG#1:legal}}, {{LOC#3:line}}

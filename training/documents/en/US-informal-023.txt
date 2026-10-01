@@ -1,0 +1,32 @@
+r/ChicagoRenters
+
+Landlord charging me $1,100 from my security deposit for "repainting" after a 3 year tenancy. Is that legal in Chicago?
+
+u/lakeviewpierogi · 2d
+
+So I lived at [[LOC|2931 N Seminary Ave]] ([[LOC|Lakeview]], 2-flat, garden unit) from [[DATE|June 1, 2023]] until [[DATE|May 31, 2026]]. Landlord is an older guy named [[PER|Walt Kosinski]], he owns maybe 4 buildings around here under [[ORG|Kosinski Family Properties LLC]]. His son [[PER|Brian]] handles most of the day to day.
+
+Deposit was $1,850. I got a letter dated [[DATE|June 24]] with an itemized list:
+- repainting all rooms: $1,100
+- carpet cleaning: $225
+- "general cleaning": $300
+
+Returning $225. The walls were just normal wear, a few nail holes. I have move-in photos.
+
+Also I'm pretty sure he never paid me interest on the deposit which I read is required? My friend [[PER|Tasha]] says the RLTO is super strict about this stuff.
+
+Any advice? Is it worth getting a lawyer or is this a small claims thing?
+
+---
+
+u/two_flat_tom · 2d
+The RLTO requires the itemized statement within 30 days of move-out with receipts or estimates. Did he include receipts? If not, that's already a problem. Also yes, interest is required. Look up [[ORG|Metropolitan Tenants Organization]], they have a hotline and they're great.
+
+u/lakeviewpierogi · 2d
+no receipts. just the list typed up, signed by [[PER|Brian K.]]
+
+u/SouthLoopSparrow · 1d
+Under the RLTO if he doesn't comply you can get 2x the deposit plus attorney's fees. Lots of tenant lawyers take these on contingency. I used [[ORG|Halsted Tenant Law Group]] when my landlord in [[LOC|Logan Square]] pulled this, they sent one letter and he paid everything back plus a bit.
+
+u/lakeviewpierogi · 1d
+update: called [[ORG|MTO]], they said exactly this. sending a demand letter to [[PER|Kosinski]] at [[LOC|5120 W Belmont Ave, Chicago, IL 60641]] (the address on the lease) tomorrow. thanks everyone

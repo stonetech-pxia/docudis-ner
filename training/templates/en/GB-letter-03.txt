@@ -1,0 +1,42 @@
+#country: GB
+#doctype: letter
+{{ORG#1:legal@legal}}
+Solicitors
+{{LOC#1:line}}
+DX {{NUM}} | {{PHONE}} | {{EMAIL:ORG#1}}
+
+Private & Confidential
+
+{{TITLE#1}} {{PER#1:full}}
+{{LOC#2:unit}}
+{{LOC#2:street}}
+{{LOC#2:postcode_town}}
+
+Our ref: {{REF}}
+Your ref: -
+Date: {{DATE:long}}
+
+Dear {{TITLE#1}} {{PER#1:surname}},
+
+Estate of the late {{PER#2:full}}
+
+We act for the executors of the estate of {{PER#2:full}}, formerly of {{LOC#3:line}}, who died on {{DATE:long}}.
+
+Under the terms of the Will dated {{DATE:long}}, you are entitled to a pecuniary legacy of {{AMOUNT}}. The executors, {{PER#3:full}} and {{PER#4:full}}, have now received the grant of probate and intend to make an interim distribution.
+
+So that we can make payment, please complete and return the enclosed form with:
+- proof of your identity (passport or photocard driving licence);
+- a recent bank statement or utility bill showing your current address;
+- your bank details, including sort code and account number.
+
+For security, we will never change our bank details by email. If you receive an email that appears to come from us asking you to pay money, please call us on {{PHONE}} before doing anything.
+
+Should you have any questions please contact {{PER#5:full}} in our Private Client team on {{PHONE}} or at {{EMAIL:PER#5}}.
+
+Yours sincerely
+
+{{PER#6:full}}
+{{JOB}}
+{{ORG#1:name}}
+
+{{ORG#1:legal}} is authorised and regulated by the [[ORG|Solicitors Regulation Authority]] (SRA No. {{NUM}}). Registered office: {{LOC#1:line}}.

@@ -1,0 +1,44 @@
+Greffe du Tribunal de Commerce de [[LOC|R0UEN]]
+[[LOC|Palais de justice – 34 rue aux Juifs]]
+[[LOC|76037 Rouen Cedex 1]]
+
+EXTRAIT K bis
+Extrait du Registre du Commerce et des Soc1étés à jour au [[DATE|15 septembre 2026]]
+
+IDENTIFICATION DE LA PERSONNE MORALE
+lmmatriculation au RCS, numéro      639 623 412 R.C.S. [[LOC|Rouen]]
+Date d'immatriculation              [[DATE|O4/O6/2O19]]
+Dénomination ou raison sociale      [[ORG|HAMEL BOUCHERIT ET LEMERCIER]]
+Sigle                               [[ORG|HBL]]
+Forme juridique                     Société à responsabi1ité limitée
+Capital social                      15 OOO,OO Euros
+Adresse du siège                    [[LOC|12 quai Gaston-Boulet, 76000 Rouen]]
+
+GESTION, DIRECTION, ADMINISTRATION, CONTRÔLE, ASSOCIÉS OU MEMBRES
+Gérant
+Nom, prénoms                        [[PER|HAMEL Guillaume Pierre Marie]]
+Date et lieu de naissance           Le [[DATE|21 mars 1983]] à [[LOC|Yvetot]] (76)
+Nationalité                         Française
+Domicile personnel                  [[LOC|7 impasse du Pré-aux-Loups, 76130 Mont-Saint-Aigna]]
+                                    [[LOC|n]]
+Gérant
+Nom, prénoms                        [[PER|BOUCHERIT épouse LEMERCIER Nadia Leïla]]
+Date et lieu de naissance           Le [[DATE|O8 novembre 1985]] à [[LOC|Sétif]] ([[LOC|Algérie]])
+Nationalité                         Française
+Domicile personnel                  [[LOC|28 rue Saint-Romain, 76000 Rouen]]
+
+Commissaire aux comptes titulaire
+Dénomination                        [[ORG|NORMANDIE AUDIT EXPERTISE]]
+Adresse                             [[LOC|4 avenue Pasteur, 76000 Rouen]]
+
+RENSEIGNEMENTS RELATIFS À L'ACTIVITÉ ET À L'ÉTABLISSEMENT PRINCIPAL
+Adresse de l'établissement          [[LOC|12 quai Gaston-Boulet, 76000 Rouen]]
+Nom commercial                      [[ORG|L'ATELIER DES QUAIS]]
+Activité(s) exercée(s)              Restauration traditionnelle, traiteur, organisation de récep-
+                                    tions
+Date de commencement d'activité     [[DATE|O1/O7/2O19]]
+Origine du fonds ou de l'activité   Achat d'un fonds à [[ORG|SARL LA BELLE ÉPOQUE ROUENNAISE]]
+Mode d'exploitation                 Exploitation directe
+
+Le Greffier
+Me [[PER|Isabelle Quesnel-Aubry]]

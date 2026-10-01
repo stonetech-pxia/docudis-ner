@@ -1,0 +1,30 @@
+#country: IE
+#doctype: insurance
+# Travel insurance claim settlement e-mail, informal-ish, mid length
+From: Claims Team <{{EMAIL:ORG#1}}>
+To: {{EMAIL:PER#1}}
+Date: {{DATE:long}}
+Subject: Your claim {{REF}} - cancellation, {{PER#1:full}}
+
+Hi {{PER#1:given}},
+
+Thanks for your patience while we looked at your claim under the family annual multi-trip policy ({{REF}}) with {{ORG#1:legal@insurance}}.
+
+You cancelled the trip to [[LOC|Lanzarote]] booked for {{DATE:day_month}} because your parent, {{PER#2:full}}, was admitted to {{ORG#2:name@health}} on {{DATE:day_month}}. We've now received the medical certificate from the consultant, {{PER#3:full}}, and the cancellation invoice from {{ORG#3:legal@transport}}.
+
+Here's how we worked out the settlement:
+
+Travellers: {{PER#1:full}}, {{PER#4:full}}, {{PER#5:full}} (child)
+Non-refundable costs claimed     {{AMOUNT}}
+Less amount refunded by airline  {{AMOUNT}}
+Less policy excess (per adult)   {{AMOUNT}}
+Amount payable                   {{AMOUNT}}
+
+We'll pay this by EFT to the account you gave us, IBAN ending {{CARD4}}, within 5 working days. The payee will show as {{ORG#1:name}}.
+
+If you're unhappy with this outcome you can reply here, or write to our Complaints Manager at {{LOC#1:line}}. You may also refer your complaint to the Financial Services and Pensions Ombudsman, {{LOC#4:line}}.
+
+Kind regards,
+{{PER#6:full}}
+{{JOB}}
+{{PHONE}}
