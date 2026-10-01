@@ -120,7 +120,7 @@ impl NerEncoding {
             && self.ends.len() == n
             && self.word_ids.len() == n
             && self.starts.iter().zip(&self.ends).all(|(s, e)| {
-                s < e && *e <= text.len() && text.is_char_boundary(*s) && text.is_char_boundary(*e)
+                s <= e && *e <= text.len() && text.is_char_boundary(*s) && text.is_char_boundary(*e)
             })
     }
 }
