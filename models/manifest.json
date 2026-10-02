@@ -25,6 +25,15 @@
         "model_int8.onnx": { "path": "onnx/model_int8.onnx", "sha256": "92977e4b2335a2ee2fb95225e32fd0743a608091856b245c27d9001772023b06" },
         "tokenizer.json": { "path": "tokenizer.json", "sha256": "bf1b59b7b11c95f194f51708d918eea378e09d05f84c0e1656dc5180e8117088" }
       }
+    },
+    "openai_privacy_filter": {
+      "repo": "openai/privacy-filter",
+      "revision": "7ffa9a043d54d1be65afb281eddf0ffbe629385b",
+      "files": {
+        "model_q4.onnx": { "path": "onnx/model_q4.onnx", "sha256": "8f7dee8b46d096f052b359375dfba5d983cc4d18c44a783bf548615c472f8dea" },
+        "model_q4.onnx_data": { "path": "onnx/model_q4.onnx_data", "sha256": "f30998e28c71c5374cc7e8b7de8f0f83e981592c0c2d652d2ad4928454dbb496" },
+        "tokenizer.json": { "path": "tokenizer.json", "sha256": "0614fe83cadab421296e664e1f48f4261fa8fef6e03e63bb75c20f38e37d07d3" }
+      }
     }
   }
 }

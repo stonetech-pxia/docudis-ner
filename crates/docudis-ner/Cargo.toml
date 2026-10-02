@@ -1,6 +1,6 @@
 [package]
 name = "docudis-ner"
-description = "Model-side NER algorithms for Docudis: tokenizer alignment, windowing, and BIO decoding"
+description = "Model-side NER algorithms for Docudis: tokenizer alignment, windowing, and BIO and BIOES decoding"
 version.workspace = true
 edition.workspace = true
 license.workspace = true

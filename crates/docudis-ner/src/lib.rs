@@ -1,7 +1,7 @@
 // Copyright 2026 the Docudis contributors. Licensed under Apache-2.0.
 //
-// Tokenizer alignment, windowing and BIO decoding are pure and need no model
-// runtime. Inference through ONNX Runtime lives behind the `onnxruntime`
+// Tokenizer alignment, windowing, BIO decoding and BIOES Viterbi decoding are
+// pure and need no model runtime. Inference through ONNX Runtime lives behind the `onnxruntime`
 // feature.
 
 #[cfg(feature = "onnxruntime")]
@@ -10,7 +10,7 @@ mod spec;
 
 #[cfg(feature = "onnxruntime")]
 pub use inference::{NerError, NerModel};
-pub use spec::{ModelInputs, ModelSpec, TokenizerSpec};
+pub use spec::{DecoderSpec, ModelInputs, ModelSpec, TokenizerSpec, TransitionBiases};
 
 use docudis_core::{Detection, DetectionSource, EntityType};
 use serde::{Deserialize, Serialize};
@@ -21,33 +21,41 @@ use tokenizers::Tokenizer;
 pub enum TokenizerKind {
     WordPiece,
     SentencePiece,
+    /// Byte-level BPE (GPT-style, such as o200k): offsets come straight from
+    /// the tokenizer.
+    ByteLevel,
 }
 
 pub trait NerTokenizer {
     type Error;
     fn encode(&self, text: &str) -> Result<NerEncoding, Self::Error>;
-    fn start_id(&self) -> i64;
-    fn end_id(&self) -> i64;
+    /// The start and end tokens that wrap every window, or `None` for a
+    /// tokenizer that adds none (byte-level BPE).
+    fn special_ids(&self) -> Option<(i64, i64)>;
 }
 
 pub struct HuggingFaceNerTokenizer {
     tokenizer: Tokenizer,
     kind: TokenizerKind,
-    start_id: i64,
-    end_id: i64,
+    special_ids: Option<(i64, i64)>,
 }
 impl HuggingFaceNerTokenizer {
     pub fn from_json(source: &str, kind: TokenizerKind) -> Result<Self, tokenizers::Error> {
         let tokenizer = Tokenizer::from_bytes(source.as_bytes())?;
         let special = tokenizer.encode("a", true)?;
-        let ids = special.get_ids();
-        let start_id = i64::from(*ids.first().ok_or("tokenizer emitted no start token")?);
-        let end_id = i64::from(*ids.last().ok_or("tokenizer emitted no end token")?);
+        let plain = tokenizer.encode("a", false)?;
+        let special_ids = if special.get_ids() == plain.get_ids() {
+            None
+        } else {
+            let ids = special.get_ids();
+            let start_id = i64::from(*ids.first().ok_or("tokenizer emitted no start token")?);
+            let end_id = i64::from(*ids.last().ok_or("tokenizer emitted no end token")?);
+            Some((start_id, end_id))
+        };
         Ok(Self {
             tokenizer,
             kind,
-            start_id,
-            end_id,
+            special_ids,
         })
     }
 }
@@ -77,11 +85,8 @@ impl NerTokenizer for HuggingFaceNerTokenizer {
             word_ids,
         })
     }
-    fn start_id(&self) -> i64 {
-        self.start_id
-    }
-    fn end_id(&self) -> i64 {
-        self.end_id
+    fn special_ids(&self) -> Option<(i64, i64)> {
+        self.special_ids
     }
 }
 
@@ -138,30 +143,44 @@ impl NerEncoding {
 pub struct NerWindow {
     pub token_start: usize,
     pub token_end: usize,
+    /// Position of the window's first text token in `input_ids` (1 after a
+    /// start token, 0 without special tokens).
+    pub offset: usize,
     pub input_ids: Vec<i64>,
     pub attention_mask: Vec<i64>,
 }
+/// Overlapping windows of at most `max_tokens` model inputs, each wrapped in
+/// `special` start and end tokens when the tokenizer has them. `stride` is
+/// the overlap between consecutive windows.
 pub fn build_windows(
     enc: &NerEncoding,
     max_tokens: usize,
     stride: usize,
-    start_id: i64,
-    end_id: i64,
+    special: Option<(i64, i64)>,
 ) -> Vec<NerWindow> {
     assert!(max_tokens >= 3);
-    let width = max_tokens - 2;
+    let width = if special.is_some() {
+        max_tokens - 2
+    } else {
+        max_tokens
+    };
     let step = (width.saturating_sub(stride)).max(1);
     let mut out = Vec::new();
     let mut start = 0;
     while start < enc.len() {
         let end = (start + width).min(enc.len());
         let mut ids = Vec::with_capacity(end - start + 2);
-        ids.push(start_id);
+        if let Some((start_id, _)) = special {
+            ids.push(start_id);
+        }
         ids.extend_from_slice(&enc.ids[start..end]);
-        ids.push(end_id);
+        if let Some((_, end_id)) = special {
+            ids.push(end_id);
+        }
         out.push(NerWindow {
             token_start: start,
             token_end: end,
+            offset: usize::from(special.is_some()),
             attention_mask: vec![1; ids.len()],
             input_ids: ids,
         });
@@ -193,11 +212,13 @@ pub fn prediction_from_logits(logits: &[f64]) -> Option<TokenPrediction> {
         probability: 1. / sum,
     })
 }
-pub fn merge_window_predictions(
+/// For each token, the logit row of the window where it sits farthest from
+/// an edge (the first such window on ties).
+fn best_rows<'a>(
     token_count: usize,
     windows: &[NerWindow],
-    logits: &[Vec<Vec<f64>>],
-) -> Result<Vec<Option<TokenPrediction>>, String> {
+    logits: &'a [Vec<Vec<f64>>],
+) -> Result<Vec<Option<&'a [f64]>>, String> {
     if windows.len() != logits.len() {
         return Err("window/logit count mismatch".into());
     }
@@ -213,10 +234,34 @@ pub fn merge_window_predictions(
                 continue;
             }
             distance[token] = Some(d);
-            best[token] = prediction_from_logits(&rows[token - window.token_start + 1]);
+            best[token] = Some(rows[token - window.token_start + window.offset].as_slice());
         }
     }
     Ok(best)
+}
+pub fn merge_window_predictions(
+    token_count: usize,
+    windows: &[NerWindow],
+    logits: &[Vec<Vec<f64>>],
+) -> Result<Vec<Option<TokenPrediction>>, String> {
+    Ok(best_rows(token_count, windows, logits)?
+        .into_iter()
+        .map(|row| row.and_then(prediction_from_logits))
+        .collect())
+}
+/// One logit row per token, for decoders that need every label's score.
+pub fn merge_window_logits(
+    token_count: usize,
+    windows: &[NerWindow],
+    logits: &[Vec<Vec<f64>>],
+) -> Result<Vec<Vec<f64>>, String> {
+    best_rows(token_count, windows, logits)?
+        .into_iter()
+        .map(|row| {
+            row.map(<[f64]>::to_vec)
+                .ok_or_else(|| "a token is in no window".to_owned())
+        })
+        .collect()
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
@@ -325,6 +370,111 @@ pub fn decode_bio(
     }
     close(&mut out, &mut entity, start, end, sum, count);
     Ok(out)
+}
+
+/// Splits BIOES labels (`O`, `B-PER`, `I-PER`, `E-PER`, `S-PER`) into their
+/// tag and entity name.
+pub fn bioes_tags(labels: &[String]) -> Result<Vec<(char, Option<&str>)>, String> {
+    labels
+        .iter()
+        .map(|label| match label.split_once('-') {
+            _ if label == "O" => Ok(('O', None)),
+            Some((tag @ ("B" | "I" | "E" | "S"), name)) if !name.is_empty() => {
+                Ok((tag.chars().next().unwrap(), Some(name)))
+            }
+            _ => Err(format!("label {label:?} is not a BIOES label")),
+        })
+        .collect()
+}
+
+/// Decodes BIOES logits with a constrained Viterbi: paths start and end
+/// outside an entity, an entity opens with `B` or `S`, `I` and `E` continue
+/// only their own entity, and `biases` add to the allowed transitions. The
+/// best path then decodes token by token through [`decode_bio`], each token
+/// scored with its label's softmax probability.
+pub fn decode_bioes_viterbi(
+    text: &str,
+    enc: &NerEncoding,
+    logits: &[Vec<f64>],
+    config: &NerDecodeConfig,
+    biases: &TransitionBiases,
+) -> Result<Vec<Detection>, String> {
+    let tags = bioes_tags(&config.labels)?;
+    let k = tags.len();
+    if logits.len() != enc.len() || logits.iter().any(|row| row.len() != k) {
+        return Err("logits do not match the encoding and labels".into());
+    }
+    if logits.is_empty() {
+        return Ok(Vec::new());
+    }
+    let transition = |from: usize, to: usize| -> Option<f64> {
+        let ((a, from_name), (b, to_name)) = (tags[from], tags[to]);
+        match (a, b) {
+            ('O', 'O') => Some(biases.background_stay),
+            ('E' | 'S', 'O') => Some(biases.end_to_background),
+            ('O', 'B' | 'S') => Some(biases.background_to_start),
+            ('E' | 'S', 'B' | 'S') => Some(biases.end_to_start),
+            ('B' | 'I', 'I') if from_name == to_name => Some(biases.inside_to_continue),
+            ('B' | 'I', 'E') if from_name == to_name => Some(biases.inside_to_end),
+            _ => None,
+        }
+    };
+    let log_probs: Vec<Vec<f64>> = logits
+        .iter()
+        .map(|row| {
+            let max = row.iter().copied().fold(f64::NEG_INFINITY, f64::max);
+            let log_sum = row.iter().map(|v| (v - max).exp()).sum::<f64>().ln();
+            row.iter().map(|v| v - max - log_sum).collect()
+        })
+        .collect();
+    let mut score: Vec<f64> = (0..k)
+        .map(|j| match tags[j].0 {
+            'O' | 'B' | 'S' => log_probs[0][j],
+            _ => f64::NEG_INFINITY,
+        })
+        .collect();
+    let mut back = vec![vec![0_usize; k]; logits.len()];
+    for t in 1..logits.len() {
+        let mut next = vec![f64::NEG_INFINITY; k];
+        for j in 0..k {
+            let mut best = (f64::NEG_INFINITY, 0);
+            for (i, previous) in score.iter().enumerate() {
+                if let Some(bias) = transition(i, j) {
+                    if previous + bias > best.0 {
+                        best = (previous + bias, i)
+                    }
+                }
+            }
+            next[j] = best.0 + log_probs[t][j];
+            back[t][j] = best.1
+        }
+        score = next
+    }
+    let mut last = (f64::NEG_INFINITY, 0);
+    for (j, value) in score.iter().enumerate() {
+        if matches!(tags[j].0, 'O' | 'E' | 'S') && *value > last.0 {
+            last = (*value, j)
+        }
+    }
+    let mut path = vec![last.1; logits.len()];
+    for t in (1..logits.len()).rev() {
+        path[t - 1] = back[t][path[t]]
+    }
+    let predictions: Vec<_> = path
+        .iter()
+        .zip(&log_probs)
+        .map(|(&label, row)| {
+            Some(TokenPrediction {
+                label,
+                probability: row[label].exp(),
+            })
+        })
+        .collect();
+    let tokens = NerEncoding {
+        word_ids: vec![None; enc.len()],
+        ..enc.clone()
+    };
+    decode_bio(text, &tokens, &predictions, config)
 }
 
 pub fn title_cased(text: &str) -> String {
@@ -496,7 +646,7 @@ mod tests {
             ends: (1..11).collect(),
             word_ids: (0..10).map(Some).collect(),
         };
-        let w = build_windows(&e, 6, 2, 100, 101);
+        let w = build_windows(&e, 6, 2, Some((100, 101)));
         assert_eq!(
             w.iter()
                 .map(|w| (w.token_start, w.token_end))
@@ -553,5 +703,154 @@ mod tests {
             found.iter().map(|d| d.value.as_str()).collect::<Vec<_>>(),
             ["张三", "Paris"]
         );
+    }
+    #[test]
+    fn windows_without_special_tokens_use_the_full_width() {
+        let e = NerEncoding {
+            ids: (0..10).collect(),
+            starts: (0..10).collect(),
+            ends: (1..11).collect(),
+            word_ids: (0..10).map(Some).collect(),
+        };
+        let w = build_windows(&e, 6, 2, None);
+        assert_eq!(
+            w.iter()
+                .map(|w| (w.token_start, w.token_end, w.offset, w.input_ids.len()))
+                .collect::<Vec<_>>(),
+            [(0, 6, 0, 6), (4, 10, 0, 6)]
+        );
+        // Token 5 sits 0 from the first window's edge and 1 from the second's.
+        let logits: Vec<Vec<Vec<f64>>> = w
+            .iter()
+            .map(|w| {
+                (0..w.input_ids.len())
+                    .map(|i| vec![(w.token_start + i) as f64, w.token_start as f64])
+                    .collect()
+            })
+            .collect();
+        let merged = merge_window_logits(10, &w, &logits).unwrap();
+        assert_eq!(merged[5], [5., 4.]);
+        assert_eq!(merged[2], [2., 0.]);
+    }
+
+    fn bioes_config() -> NerDecodeConfig {
+        NerDecodeConfig {
+            model_name: "fixture".into(),
+            labels: [
+                "O", "B-person", "I-person", "E-person", "S-person", "B-secret", "I-secret",
+                "E-secret", "S-secret",
+            ]
+            .map(str::to_owned)
+            .to_vec(),
+            label_map: HashMap::from([("person".into(), EntityType::Person)]),
+            threshold: 0.,
+        }
+    }
+
+    fn one_hot(label: usize, k: usize) -> Vec<f64> {
+        (0..k).map(|i| if i == label { 4. } else { 0. }).collect()
+    }
+
+    fn words(text: &str) -> NerEncoding {
+        let mut starts = Vec::new();
+        let mut ends = Vec::new();
+        let mut at = 0;
+        for word in text.split(' ') {
+            starts.push(at);
+            ends.push(at + word.len());
+            at += word.len() + 1;
+        }
+        NerEncoding {
+            ids: (0..starts.len() as i64).collect(),
+            word_ids: (0..starts.len()).map(Some).collect(),
+            starts,
+            ends,
+        }
+    }
+
+    #[test]
+    fn viterbi_decodes_bioes_spans_and_drops_unmapped_entities() {
+        let text = "Ana María Ruiz y Bo usan sk-1";
+        let enc = words(text);
+        // O is never an entity's content; B I E and S follow the labels.
+        let labels = [1, 2, 3, 0, 4, 0, 8];
+        let logits: Vec<_> = labels.iter().map(|&l| one_hot(l, 9)).collect();
+        let found = decode_bioes_viterbi(
+            text,
+            &enc,
+            &logits,
+            &bioes_config(),
+            &TransitionBiases::default(),
+        )
+        .unwrap();
+        assert_eq!(
+            found
+                .iter()
+                .map(|d| (d.entity_type, d.value.as_str()))
+                .collect::<Vec<_>>(),
+            [
+                (EntityType::Person, "Ana María Ruiz"),
+                (EntityType::Person, "Bo")
+            ]
+        );
+        assert!(found.iter().all(|d| text[d.start..d.end] == d.value));
+    }
+
+    #[test]
+    fn viterbi_repairs_impossible_argmax_sequences() {
+        let text = "x Ana Ruiz y";
+        let enc = words(text);
+        // Argmax says O I O O: an inside token with no beginning, which the
+        // constraints forbid. The best allowed path reads it as S-person.
+        let mut logits: Vec<_> = [0, 2, 0, 0].iter().map(|&l| one_hot(l, 9)).collect();
+        logits[1][4] = 3.5;
+        let found = decode_bioes_viterbi(
+            text,
+            &enc,
+            &logits,
+            &bioes_config(),
+            &TransitionBiases::default(),
+        )
+        .unwrap();
+        assert_eq!(
+            found.iter().map(|d| d.value.as_str()).collect::<Vec<_>>(),
+            ["Ana"]
+        );
+    }
+
+    #[test]
+    fn viterbi_biases_move_the_operating_point() {
+        let text = "x Ana y";
+        let enc = words(text);
+        // "Ana" leans O (1.0) over S-person (0.6).
+        let mut logits = vec![one_hot(0, 9), one_hot(0, 9), one_hot(0, 9)];
+        logits[1] = (0..9)
+            .map(|i| match i {
+                0 => 1.,
+                4 => 0.6,
+                _ => -5.,
+            })
+            .collect();
+        let config = bioes_config();
+        let neutral = TransitionBiases::default();
+        assert!(decode_bioes_viterbi(text, &enc, &logits, &config, &neutral)
+            .unwrap()
+            .is_empty());
+        let eager = TransitionBiases {
+            background_to_start: 1.,
+            ..TransitionBiases::default()
+        };
+        let found = decode_bioes_viterbi(text, &enc, &logits, &config, &eager).unwrap();
+        assert_eq!(
+            found.iter().map(|d| d.value.as_str()).collect::<Vec<_>>(),
+            ["Ana"]
+        );
+    }
+
+    #[test]
+    fn bioes_labels_are_validated() {
+        assert!(bioes_tags(&["O".into(), "S-x".into()]).is_ok());
+        assert!(bioes_tags(&["O".into(), "PER".into()]).is_err());
+        assert!(bioes_tags(&["O".into(), "B-".into()]).is_err());
     }
 }

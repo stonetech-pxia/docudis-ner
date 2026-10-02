@@ -20,11 +20,12 @@ from any other model. Core is pinned by commit in the root `Cargo.toml`.
 ## Repository layout
 
 - `crates/docudis-ner`: `model.json` parsing (`ModelSpec`), Hugging Face
-  tokenizer wrapper (WordPiece and SentencePiece realignment), window
-  construction, softmax selection, window merge, and BIO decoding. With the
-  `onnxruntime` feature, `NerModel` runs the whole pipeline through an ONNX
-  Runtime library loaded at run time; its output matches the Dart
-  `NerDetector` the app used before, span for span and bit for bit.
+  tokenizer wrapper (WordPiece and SentencePiece realignment, byte-level BPE),
+  window construction, softmax selection, window merge, BIO decoding, and a
+  constrained BIOES Viterbi decoder. With the `onnxruntime` feature,
+  `NerModel` runs the whole pipeline through an ONNX Runtime library loaded at
+  run time; with the BIO decoder its output matches the Dart `NerDetector` the
+  app used before, span for span and bit for bit.
 - `crates/docudis-ner-capi`: versioned `docudis_ner_v1_*` C ABI
   (`include/docudis_ner.h`), built as `libdocudis_ner_capi`.
 - `bindings/dart`: `docudis_ner_ffi`, Dart FFI with ABI validation, UTF-16

@@ -1,0 +1,74 @@
+{
+  "name": "openai-privacy-filter",
+  "source": "https://huggingface.co/openai/privacy-filter (q4 ONNX export, Apache-2.0). Desktop only; see models/README.md",
+  "model": "model_q4.onnx",
+  "tokenizer": {
+    "kind": "bytelevel",
+    "file": "tokenizer.json"
+  },
+  "labels": [
+    "O",
+    "B-account_number",
+    "I-account_number",
+    "E-account_number",
+    "S-account_number",
+    "B-private_address",
+    "I-private_address",
+    "E-private_address",
+    "S-private_address",
+    "B-private_date",
+    "I-private_date",
+    "E-private_date",
+    "S-private_date",
+    "B-private_email",
+    "I-private_email",
+    "E-private_email",
+    "S-private_email",
+    "B-private_person",
+    "I-private_person",
+    "E-private_person",
+    "S-private_person",
+    "B-private_phone",
+    "I-private_phone",
+    "E-private_phone",
+    "S-private_phone",
+    "B-private_url",
+    "I-private_url",
+    "E-private_url",
+    "S-private_url",
+    "B-secret",
+    "I-secret",
+    "E-secret",
+    "S-secret"
+  ],
+  "labelMap": {
+    "private_person": "PERSON",
+    "private_address": "ADDRESS",
+    "private_date": "DATE",
+    "private_email": "EMAIL",
+    "private_phone": "PHONE",
+    "private_url": "URL",
+    "secret": "SECRET"
+  },
+  "maxTokens": 512,
+  "stride": 256,
+  "threshold": 0.0,
+  "titleCase": false,
+  "decoder": {
+    "kind": "bioes-viterbi",
+    "biases": {
+      "backgroundStay": 0.0,
+      "backgroundToStart": 0.0,
+      "endToBackground": 0.0,
+      "endToStart": 0.0,
+      "insideToContinue": 0.0,
+      "insideToEnd": 0.0
+    }
+  },
+  "padId": 199999,
+  "inputs": {
+    "ids": "input_ids",
+    "mask": "attention_mask"
+  },
+  "output": "logits"
+}

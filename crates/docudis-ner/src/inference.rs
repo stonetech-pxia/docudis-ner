@@ -9,8 +9,8 @@ use ort::session::Session;
 use ort::value::Tensor;
 
 use crate::{
-    build_windows, decode_bio, merge_window_predictions, title_cased, HuggingFaceNerTokenizer,
-    ModelSpec, NerDecodeConfig, NerTokenizer,
+    build_windows, decode_bio, decode_bioes_viterbi, merge_window_logits, merge_window_predictions,
+    title_cased, DecoderSpec, HuggingFaceNerTokenizer, ModelSpec, NerDecodeConfig, NerTokenizer,
 };
 
 #[derive(Debug, Clone, PartialEq, Eq)]
@@ -47,10 +47,13 @@ fn init_runtime(library: &str) -> Result<(), NerError> {
 
 /// A token-classification model run through ONNX Runtime.
 ///
-/// Mirrors the Dart `NerDetector`: the model reads the title-cased text in
-/// overlapping windows, each token keeps the prediction from the window where
-/// it sits farthest from an edge, and BIO tags decode into spans of the
-/// original text (title casing keeps byte lengths).
+/// With the `bio` decoder it mirrors the Dart `NerDetector`: the model reads
+/// the title-cased text in overlapping windows, each token keeps the
+/// prediction from the window where it sits farthest from an edge, and BIO
+/// tags decode into spans of the original text (title casing keeps byte
+/// lengths). The `bioes-viterbi` decoder keeps the same windows and merge but
+/// decodes the merged logits with a constrained Viterbi; title casing follows
+/// `titleCase` in either case.
 pub struct NerModel {
     session: Session,
     tokenizer: HuggingFaceNerTokenizer,
@@ -93,10 +96,12 @@ impl NerModel {
 
     /// Detections in half-open UTF-8 byte offsets of `text`.
     pub fn detect(&mut self, text: &str) -> Result<Vec<Detection>, NerError> {
-        let enc = self
-            .tokenizer
-            .encode(&title_cased(text))
-            .map_err(|e| error("tokenization failed", e))?;
+        let enc = if self.spec.title_case {
+            self.tokenizer.encode(&title_cased(text))
+        } else {
+            self.tokenizer.encode(text)
+        }
+        .map_err(|e| error("tokenization failed", e))?;
         if enc.is_empty() {
             return Ok(Vec::new());
         }
@@ -104,8 +109,7 @@ impl NerModel {
             &enc,
             self.spec.max_tokens,
             self.spec.stride,
-            self.tokenizer.start_id(),
-            self.tokenizer.end_id(),
+            self.tokenizer.special_ids(),
         );
         let width = self.spec.labels.len();
         let mut logits = Vec::with_capacity(windows.len());
@@ -140,9 +144,18 @@ impl NerModel {
                     .collect::<Vec<Vec<f64>>>(),
             );
         }
-        let predictions =
-            merge_window_predictions(enc.len(), &windows, &logits).map_err(NerError)?;
-        decode_bio(text, &enc, &predictions, &self.config).map_err(NerError)
+        match &self.spec.decoder {
+            DecoderSpec::Bio => {
+                let predictions =
+                    merge_window_predictions(enc.len(), &windows, &logits).map_err(NerError)?;
+                decode_bio(text, &enc, &predictions, &self.config)
+            }
+            DecoderSpec::BioesViterbi { biases } => {
+                let merged = merge_window_logits(enc.len(), &windows, &logits).map_err(NerError)?;
+                decode_bioes_viterbi(text, &enc, &merged, &self.config, biases)
+            }
+        }
+        .map_err(NerError)
     }
 }
 

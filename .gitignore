@@ -8,6 +8,7 @@ __pycache__/
 
 # Model binaries downloaded with tool/fetch_models.py; model.json specs stay tracked.
 models/**/*.onnx
+models/**/*.onnx_data
 models/**/tokenizer.json
 models/**/vocab.txt
 models/**/config.json
