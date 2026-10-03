@@ -37,6 +37,12 @@ static RUNTIME: OnceLock<Result<(), NerError>> = OnceLock::new();
 fn init_runtime(library: &str) -> Result<(), NerError> {
     RUNTIME
         .get_or_init(|| {
+            // The official macOS build starts Microsoft's 1DS telemetry while
+            // it creates the environment, before with_telemetry(false) can
+            // turn it off: it saves a device ID and queues events under
+            // Application Support/Microsoft, then keeps trying to upload
+            // them. ONNX Runtime reads this variable first and never starts it.
+            std::env::set_var("ORT_DISABLE_TELEMETRY", "1");
             // ort turns ONNX Runtime's telemetry on unless told otherwise.
             ort::init_from(library)
                 .map_err(|e| error(&format!("cannot load ONNX Runtime from {library:?}"), e))?
