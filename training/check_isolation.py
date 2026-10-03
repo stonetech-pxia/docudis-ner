@@ -1,3 +1,4 @@
+# Copyright 2026 the Docudis contributors. Licensed under Apache-2.0.
 """Keeps the NER training material apart from every test set.
 
     python training/check_isolation.py [--jsonl training/out/train.jsonl ...]

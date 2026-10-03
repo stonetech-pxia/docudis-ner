@@ -4,7 +4,7 @@
     "xlmr_ner_docudis": {
       "repo": "leonx1995/docudis-ner-xlmr",
       "revision": "643983cab826b79c9a36af43ce3f6e22a0846f3f",
-      "private": true,
+      "private": false,
       "files": {
         "model_quantized.onnx": { "path": "model_quantized.onnx", "sha256": "eab0d6ee49fa25cf4f4d2f3f642eb58d5dc528f50051b90a07ec6e8c6f63fb36" },
         "tokenizer.json": { "path": "tokenizer.json", "sha256": "f7c244bbeaacbe18b50a3a69f1ebf23bd4d83a91d7f6dd1df775af2c6423dba4" }

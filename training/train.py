@@ -1,3 +1,4 @@
+# Copyright 2026 the Docudis contributors. Licensed under Apache-2.0.
 """Fine-tunes the on-device NER model on training/out/train.jsonl.
 
     python training/train.py [--out training/out/model] [--epochs 3] [--lr 2e-5] [--batch 16]

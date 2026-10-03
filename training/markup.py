@@ -1,3 +1,4 @@
+# Copyright 2026 the Docudis contributors. Licensed under Apache-2.0.
 """Inline markup parser and checker for the training material (see training/GUIDE.md).
 
     python training/markup.py --check <file> [<file> ...]

@@ -6,16 +6,15 @@ binary to a Hugging Face repo, revision and SHA-256. On a fresh clone:
 
 ```bash
 pip install huggingface_hub
-huggingface-cli login                                # once: xlmr_ner_docudis is a private repo
 "$PYTHON" tool/fetch_models.py                       # the shipped model
 "$PYTHON" tool/fetch_models.py --all                 # plus the stock models and openai_privacy_filter (~950 MB)
 ```
 
 | Folder | Hugging Face repo | Use |
 |---|---|---|
-| `xlmr_ner_docudis` | private, see `manifest.json` | **Shipped since 2026-09-21.** Our fine-tune of `Davlan/xlm-roberta-base-ner-hrl` on en / fr / es material, AFL-3.0 |
-| `xlmr_ner_hrl` | `tjruesch/xlm-roberta-base-ner-hrl-onnx` | The stock model it was fine-tuned from, for A/B benchmarks |
-| `distilbert_ner_hrl` | `Xenova/distilbert-base-multilingual-cased-ner-hrl` | Smaller/faster alternative, for A/B benchmarks |
+| `xlmr_ner_docudis` | [`leonx1995/docudis-ner-xlmr`](https://huggingface.co/leonx1995/docudis-ner-xlmr) | **Shipped since 2026-09-21.** Our fine-tune of `Davlan/xlm-roberta-base-ner-hrl` on en / fr / es material, AFL-3.0; model card in `xlmr_ner_docudis/README.md` |
+| `xlmr_ner_hrl` | `tjruesch/xlm-roberta-base-ner-hrl-onnx` | The stock model it was fine-tuned from, for A/B benchmarks only; not shipped |
+| `distilbert_ner_hrl` | `Xenova/distilbert-base-multilingual-cased-ner-hrl` | Smaller/faster alternative, for A/B benchmarks only; not shipped |
 | `openai_privacy_filter` | `openai/privacy-filter` | Desktop only (Windows, macOS), not for Android: the q4 ONNX export is 917 MB and needs ~1.6 GB after load. Apache-2.0 |
 
 `openai_privacy_filter` labels only what it judges *private* (a person, a private
@@ -32,7 +31,7 @@ scored. After exporting a new model to `models/xlmr_ner_docudis`, benchmark it i
 docudis-android, then publish it and move the pin:
 
 ```bash
-huggingface-cli upload <repo> models/xlmr_ner_docudis . --include "model_quantized.onnx" "tokenizer.json" "model.json"
+huggingface-cli upload <repo> models/xlmr_ner_docudis . --include "model_quantized.onnx" "tokenizer.json" "model.json" "README.md" "LICENSE"
 ```
 
 then put the commit id it prints and the new SHA-256 of both files into

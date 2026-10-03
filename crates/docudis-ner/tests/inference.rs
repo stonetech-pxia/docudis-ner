@@ -1,4 +1,5 @@
 #![cfg(feature = "onnxruntime")]
+// Copyright 2026 the Docudis contributors. Licensed under Apache-2.0.
 //! Real inference. Runs only when DOCUDIS_NER_TEST_ORT names an ONNX Runtime
 //! library and DOCUDIS_NER_TEST_MODEL a model folder with model.json and its
 //! files (tool/fetch_models.py writes them under models/).

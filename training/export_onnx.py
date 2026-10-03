@@ -1,3 +1,4 @@
+# Copyright 2026 the Docudis contributors. Licensed under Apache-2.0.
 """Exports the fine-tuned model to the ONNX int8 file the app loads.
 
     python training/export_onnx.py [--model training/out/model] [--out models/xlmr_ner_docudis]

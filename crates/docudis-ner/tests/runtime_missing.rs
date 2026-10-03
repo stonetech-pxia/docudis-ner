@@ -1,4 +1,5 @@
 #![cfg(feature = "onnxruntime")]
+// Copyright 2026 the Docudis contributors. Licensed under Apache-2.0.
 // Its own test binary: ONNX Runtime initialisation is once per process.
 
 use std::path::Path;

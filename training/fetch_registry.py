@@ -1,3 +1,4 @@
+# Copyright 2026 the Docudis contributors. Licensed under Apache-2.0.
 """Real registry announcements with labels aligned from their structured fields.
 
     python training/fetch_registry.py [--out training/out/registry.jsonl] [--bodacc 1200] [--borme 40] [--gazette 500]

@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Copyright 2026 the Docudis contributors. Licensed under Apache-2.0.
 set -euo pipefail
 
 if [[ $# -lt 2 ]]; then

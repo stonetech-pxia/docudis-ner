@@ -1,3 +1,4 @@
+# Copyright 2026 the Docudis contributors. Licensed under Apache-2.0.
 """Builds the NER training set from templates, hand-written documents and registry records.
 
     python training/build.py [--chunks 30000] [--seed 1] [--out training/out]

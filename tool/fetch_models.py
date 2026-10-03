@@ -1,3 +1,4 @@
+# Copyright 2026 the Docudis contributors. Licensed under Apache-2.0.
 """Download the NER model binaries listed in models/manifest.json.
 
     "$PYTHON" tool/fetch_models.py                 # the shipped model, xlmr_ner_docudis
@@ -5,9 +6,8 @@
     "$PYTHON" tool/fetch_models.py --all
     "$PYTHON" tool/fetch_models.py --dest ../app/assets/models   # model.json and binaries for an app checkout
 
-Needs `pip install huggingface_hub`. xlmr_ner_docudis is a private repo: run
-`huggingface-cli login` once first. Files already present with the right SHA-256
-are skipped; a download with the wrong hash is refused.
+Needs `pip install huggingface_hub`. Files already present with the right
+SHA-256 are skipped; a download with the wrong hash is refused.
 """
 import argparse
 import hashlib

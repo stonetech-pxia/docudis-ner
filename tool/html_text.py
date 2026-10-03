@@ -1,3 +1,4 @@
+# Copyright 2026 the Docudis contributors. Licensed under Apache-2.0.
 """HTML to plain text for registry announcements.
 
 Copied from docudis-android tool/fetch_public_samples.py, which keeps its own copy for the test sets.

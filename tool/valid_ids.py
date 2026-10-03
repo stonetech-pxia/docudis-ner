@@ -1,3 +1,4 @@
+# Copyright 2026 the Docudis contributors. Licensed under Apache-2.0.
 """Prints identifiers whose check digits are valid, for writers of test documents.
 
     python tool/valid_ids.py <kind> [count] [--seed N]
