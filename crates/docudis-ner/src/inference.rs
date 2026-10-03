@@ -37,8 +37,10 @@ static RUNTIME: OnceLock<Result<(), NerError>> = OnceLock::new();
 fn init_runtime(library: &str) -> Result<(), NerError> {
     RUNTIME
         .get_or_init(|| {
+            // ort turns ONNX Runtime's telemetry on unless told otherwise.
             ort::init_from(library)
                 .map_err(|e| error(&format!("cannot load ONNX Runtime from {library:?}"), e))?
+                .with_telemetry(false)
                 .commit();
             Ok(())
         })
