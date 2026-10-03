@@ -1,0 +1,6 @@
+{"instruction": "把病历里的病人姓名和电话都遮住", "expect": {"types": {"PERSON": "hide", "PHONE": "hide"}, "verticals": ["healthcare"]}}
+{"instruction": "Only the email addresses please, leave the rest alone", "expect": {"types": {"*": "off", "EMAIL": "hide"}}}
+{"instruction": "Masque tout sauf les montants. Et laisse « Atelier Morvan » visible.", "expect": {"types": {"*": "hide", "AMOUNT": "keep"}, "never_hide": ["Atelier Morvan"]}}
+{"instruction": "Es un recibo de luz de Madrid, oculta el CUPS 'ES0031408' y ponlo con asteriscos", "expect": {"dictionary": ["ES0031408"], "regions": ["es"], "verticals": ["utilities"], "unsupported": true}}
+{"instruction": "Die URLs gar nicht erst erkennen, Geburtsdaten aber schwärzen", "expect": {"types": {"URL": "off", "BIRTH_DATE": "hide"}}}
+{"instruction": "可以开始了", "expect": {}}

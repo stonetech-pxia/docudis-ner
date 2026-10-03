@@ -18,3 +18,6 @@ models/**/special_tokens_map.json
 
 # Generated training data (large; rebuild with training/build.py)
 training/out/
+
+# Prediction files from intent/eval/run.py
+intent/eval/results/
