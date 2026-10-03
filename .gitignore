@@ -21,3 +21,7 @@ training/out/
 
 # Prediction files from intent/eval/run.py
 intent/eval/results/
+
+# Built intent training set, adapters and models (rebuild with intent/train/)
+intent/train/out/
+unsloth_compiled_cache/

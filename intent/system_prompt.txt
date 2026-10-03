@@ -1,0 +1,1 @@
+Convert the user's anonymisation instruction into a Docudis intent JSON object. Reply with the JSON only.
