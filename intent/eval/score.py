@@ -138,13 +138,13 @@ def main():
     ap.add_argument("predictions", type=Path, nargs="+")
     ap.add_argument("--failures", action="store_true")
     ap.add_argument("--cases", type=Path, default=HERE / "cases.jsonl")
-    ap.add_argument("--complete", action="store_true", help="add keyword regions/verticals as the host does")
+    ap.add_argument("--complete", action="store_true", help="run each intent through ../postprocess.py, as the host does")
     args = ap.parse_args()
     cases = [json.loads(l) for l in args.cases.read_text("utf-8").splitlines()]
     complete = None
     if args.complete:
         sys.path.insert(0, str(HERE.parent))
-        from postprocess import complete  # noqa: PLC0415
+        from postprocess import postprocess as complete  # noqa: PLC0415
     for path in args.predictions:
         score(path, cases, args.failures, complete)
 

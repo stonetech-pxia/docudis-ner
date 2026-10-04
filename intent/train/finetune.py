@@ -41,6 +41,7 @@ def main():
     ap.add_argument("--epochs", type=float, default=3)
     ap.add_argument("--lr", type=float, default=2e-4)
     ap.add_argument("--rank", type=int, default=16)
+    ap.add_argument("--seed", type=int, default=0, help="LoRA init and data order")
     args = ap.parse_args()
 
     model, tokenizer = FastModel.from_pretrained(BASE, max_seq_length=512, load_in_4bit=True)
@@ -54,7 +55,7 @@ def main():
         lora_alpha=args.rank,
         lora_dropout=0,
         bias="none",
-        random_state=0,
+        random_state=args.seed,
     )
     trainer = SFTTrainer(
         model=model,
@@ -79,7 +80,7 @@ def main():
             save_strategy="no",
             max_length=512,
             completion_only_loss=True,
-            seed=0,
+            seed=args.seed,
             report_to="none",
         ),
     )

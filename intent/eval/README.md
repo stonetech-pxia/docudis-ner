@@ -40,9 +40,19 @@ hidden stays visible, judged against Core's defaults: DATE and AMOUNT shown,
 everything else hidden), `unwarned` (unsupported request not flagged),
 `overhide`, `minor`.
 
+Rows marked `--complete` ran through `../postprocess.py` as it was at the
+time: keywords only for round 2, keywords plus the literal check and the
+visibility guards for round 3. Dev scores are on 200 cases up to round 2 and
+on 272 (with the `list` and except cases) for round 3.
+
 | Model | Set | Exact match | Leaks | Unwarned |
 |---|---|---|---|---|
-| Round 2 cleaned, mixq8 + keyword post-processing (`--complete`) | **test (300, frozen)** | **89.0%** | 6 | 4 |
+| **Round 3 (1272 cases), seed 1, mixq8, `--complete`** | **test (300, frozen)** | **89.7%** | 4 | 5 |
+| same | dev (272) | 88.2% | 2 | 6 |
+| Round 3, seeds 0 / 1 / 2, mixq8, keywords + literal check only | test | 90.0 / 89.3 / 90.0% | 4 / 5 / 5 | |
+| same | dev (272) | 86.4 / 87.5 / 86.4% | 7 / 4 / 4 | |
+| Round 2 (1199 cases), mixq8, keywords + literal check | dev (272) | 89.0% | 6 | 7 |
+| Round 2 cleaned, mixq8 + keyword post-processing (`--complete`) | test (300, frozen) | 89.0% | 6 | 4 |
 | Round 2 cleaned, mixq8 | test | 84.7% | 6 | 4 |
 | Round 2 cleaned, mixq8 + keywords | dev | 88.5% | 4 | 4 |
 | Round 2 cleaned, mixq8 | dev | 83.5% | 4 | 4 |

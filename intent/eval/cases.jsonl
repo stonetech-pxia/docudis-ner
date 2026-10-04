@@ -234,3 +234,39 @@
 {"id": "de-l02", "lang": "de", "instruction": "Steuer-ID und Gehalt", "expect": {"types": {"ID": "hide", "AMOUNT": "hide"}, "regions": ["de"]}, "tags": ["multi_type", "region", "list"]}
 {"id": "de-l03", "lang": "de", "instruction": "Klaus Berger, Firma Seidl & Söhne", "expect": {"dictionary": ["Klaus Berger", "Firma Seidl & Söhne"]}, "tags": ["dictionary", "list"]}
 {"id": "it-l01", "lang": "it", "instruction": "nomi, codice fiscale, telefoni", "expect": {"types": {"PERSON": "hide", "ID": "hide", "PHONE": "hide"}, "regions": ["it"]}, "tags": ["multi_type", "region", "list"]}
+{"id": "zh-e01", "lang": "zh", "instruction": "除了金额，其他敏感词全部遮掉", "expect": {"types": {"*": "hide", "AMOUNT": "keep"}}, "tags": ["except"]}
+{"id": "zh-e02", "lang": "zh", "instruction": "除了日期，其他全部隐藏", "expect": {"types": {"*": "hide", "DATE": "keep", "BIRTH_DATE": "keep"}}, "tags": ["except", "dates"]}
+{"id": "zh-e03", "lang": "zh", "instruction": "除了出生日期都遮", "expect": {"types": {"*": "hide", "BIRTH_DATE": "keep"}}, "tags": ["except", "dates"]}
+{"id": "zh-e04", "lang": "zh", "instruction": "除了公司名和金额，其余的敏感信息一律遮住", "expect": {"types": {"*": "hide", "COMPANY": "keep", "AMOUNT": "keep"}}, "tags": ["except", "multi_type"]}
+{"id": "zh-e05", "lang": "zh", "instruction": "除了“青禾科技”这个名字，其他敏感词全部遮掩", "expect": {"types": {"*": "hide"}, "never_hide": ["青禾科技"]}, "tags": ["except", "never_hide"]}
+{"id": "zh-e06", "lang": "zh", "instruction": "其他都遮了吧，就留着我的名字林书瑶", "expect": {"types": {"*": "hide"}, "never_hide": ["林书瑶"]}, "tags": ["except", "never_hide", "colloquial"]}
+{"id": "zh-e07", "lang": "zh", "instruction": "只保留金额，其他全部打码", "expect": {"types": {"*": "hide", "AMOUNT": "keep"}}, "tags": ["except"]}
+{"id": "zh-e08", "lang": "zh", "instruction": "这是工资单，除了公司名，别的全遮", "expect": {"types": {"*": "hide", "COMPANY": "keep"}, "verticals": ["employment"]}, "tags": ["except", "vertical"]}
+{"id": "zh-e09", "lang": "zh", "instruction": "法国的租房合同，除了租金和日期，其他敏感内容都隐藏", "expect": {"types": {"*": "hide", "AMOUNT": "keep", "DATE": "keep", "BIRTH_DATE": "keep"}, "regions": ["fr"], "verticals": ["legal"]}, "tags": ["except", "region", "vertical"]}
+{"id": "zh-e10", "lang": "zh", "instruction": "除了医生的名字，其他都遮掉", "expect": {"types": {"*": "hide"}, "unsupported": true}, "tags": ["except", "unsupported"]}
+{"id": "zh-e11", "lang": "zh", "instruction": "嗯 除了网址 其他敏感的都帮我遮一下哈", "expect": {"types": {"*": "hide", "URL": "keep"}}, "tags": ["except", "colloquial"]}
+{"id": "zh-e12", "lang": "zh", "instruction": "除了张伟和李娜这两个人名，其他所有敏感词都遮掉", "expect": {"types": {"*": "hide"}, "never_hide": ["张伟", "李娜"]}, "tags": ["except", "never_hide"]}
+{"id": "en-e01", "lang": "en", "instruction": "Hide all sensitive info except the amounts", "expect": {"types": {"*": "hide", "AMOUNT": "keep"}}, "tags": ["except"]}
+{"id": "en-e02", "lang": "en", "instruction": "Everything but the dates should be hidden", "expect": {"types": {"*": "hide", "DATE": "keep", "BIRTH_DATE": "keep"}}, "tags": ["except", "dates"]}
+{"id": "en-e03", "lang": "en", "instruction": "Redact everything except company names and URLs", "expect": {"types": {"*": "hide", "COMPANY": "keep", "URL": "keep"}}, "tags": ["except", "multi_type"]}
+{"id": "en-e04", "lang": "en", "instruction": "Hide everything apart from 'Northgate Logistics'", "expect": {"types": {"*": "hide"}, "never_hide": ["Northgate Logistics"]}, "tags": ["except", "never_hide"]}
+{"id": "en-e05", "lang": "en", "instruction": "Only keep the invoice totals visible, hide the rest", "expect": {"types": {"*": "hide", "AMOUNT": "keep"}, "verticals": ["finance"]}, "tags": ["except", "vertical"]}
+{"id": "en-e06", "lang": "en", "instruction": "UK payslip: hide everything except my employer's name", "expect": {"types": {"*": "hide", "COMPANY": "keep"}, "regions": ["gb"], "verticals": ["employment"]}, "tags": ["except", "region", "vertical"]}
+{"id": "en-e07", "lang": "en", "instruction": "hide everything except the names of the doctors", "expect": {"types": {"*": "hide"}, "unsupported": true}, "tags": ["except", "unsupported"]}
+{"id": "en-e08", "lang": "en", "instruction": "blank out all the personal stuff but leave dates of birth and my name Kerry Walsh", "expect": {"types": {"*": "hide", "BIRTH_DATE": "keep"}, "never_hide": ["Kerry Walsh"]}, "tags": ["except", "never_hide", "colloquial"]}
+{"id": "fr-e01", "lang": "fr", "instruction": "Cache tout sauf les montants", "expect": {"types": {"*": "hide", "AMOUNT": "keep"}}, "tags": ["except"]}
+{"id": "fr-e02", "lang": "fr", "instruction": "Masque toutes les données sensibles à part les dates", "expect": {"types": {"*": "hide", "DATE": "keep", "BIRTH_DATE": "keep"}}, "tags": ["except", "dates"]}
+{"id": "fr-e03", "lang": "fr", "instruction": "Tout masquer, sauf le nom de la société « Atelier Morvan »", "expect": {"types": {"*": "hide"}, "never_hide": ["Atelier Morvan"]}, "tags": ["except", "never_hide"]}
+{"id": "fr-e04", "lang": "fr", "instruction": "Fiche de paie : cache tout, excepté l'employeur et le salaire", "expect": {"types": {"*": "hide", "COMPANY": "keep", "AMOUNT": "keep"}, "verticals": ["employment"]}, "tags": ["except", "vertical"]}
+{"id": "fr-e05", "lang": "fr", "instruction": "cache tout sauf les noms des médecins", "expect": {"types": {"*": "hide"}, "unsupported": true}, "tags": ["except", "unsupported"]}
+{"id": "fr-e06", "lang": "fr", "instruction": "a part les emails tu peux tout cacher stp", "expect": {"types": {"*": "hide", "EMAIL": "keep"}}, "tags": ["except", "colloquial"]}
+{"id": "es-e01", "lang": "es", "instruction": "Oculta todo menos los importes", "expect": {"types": {"*": "hide", "AMOUNT": "keep"}}, "tags": ["except"]}
+{"id": "es-e02", "lang": "es", "instruction": "Tápalo todo excepto las fechas de nacimiento", "expect": {"types": {"*": "hide", "BIRTH_DATE": "keep"}}, "tags": ["except", "dates"]}
+{"id": "es-e03", "lang": "es", "instruction": "Oculta todos los datos sensibles salvo el nombre de la empresa y los teléfonos", "expect": {"types": {"*": "hide", "COMPANY": "keep", "PHONE": "keep"}}, "tags": ["except", "multi_type"]}
+{"id": "es-e04", "lang": "es", "instruction": "Todo fuera menos «Talleres Ondarreta»", "expect": {"types": {"*": "hide"}, "never_hide": ["Talleres Ondarreta"]}, "tags": ["except", "never_hide"]}
+{"id": "es-e05", "lang": "es", "instruction": "Nómina española: ocúltalo todo menos el sueldo", "expect": {"types": {"*": "hide", "AMOUNT": "keep"}, "regions": ["es"], "verticals": ["employment"]}, "tags": ["except", "region", "vertical"]}
+{"id": "de-e01", "lang": "de", "instruction": "Alles schwärzen außer den Beträgen", "expect": {"types": {"*": "hide", "AMOUNT": "keep"}}, "tags": ["except"]}
+{"id": "de-e02", "lang": "de", "instruction": "Bitte alles unkenntlich machen, nur die Firma \"Seidl & Söhne\" soll sichtbar bleiben", "expect": {"types": {"*": "hide"}, "never_hide": ["Seidl & Söhne"]}, "tags": ["except", "never_hide"]}
+{"id": "de-e03", "lang": "de", "instruction": "Mietvertrag: alles schwärzen bis auf die Miete und die Daten", "expect": {"types": {"*": "hide", "AMOUNT": "keep", "DATE": "keep", "BIRTH_DATE": "keep"}, "verticals": ["legal"]}, "tags": ["except", "vertical", "dates"]}
+{"id": "it-e01", "lang": "it", "instruction": "Nascondi tutto tranne gli importi", "expect": {"types": {"*": "hide", "AMOUNT": "keep"}}, "tags": ["except"]}
+{"id": "it-e02", "lang": "it", "instruction": "Oscura tutti i dati sensibili eccetto il nome dell'azienda", "expect": {"types": {"*": "hide", "COMPANY": "keep"}}, "tags": ["except"]}

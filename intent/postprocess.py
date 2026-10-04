@@ -1,13 +1,22 @@
 # Copyright 2026 the Docudis contributors. Licensed under Apache-2.0.
-"""Reference for the host's post-processing of a model intent: adds the regions
-and verticals that keywords.json finds in the instruction.
+"""Reference for the host's post-processing of a model intent (`postprocess`).
 
-The model leaves out regions and verticals more often than anything else, and
-they are lookups (an acronym's country, a document kind's domain) rather than
-understanding. The host unions the keyword hits into the model's lists; it
-never removes what the model set. Hosts port `keyword_hits` as is: lowercase,
-strip accents, apply `except`, then whole-word matching for Latin keywords and
-substring matching for CJK ones.
+0. Guards the actions that make text visible. If the instruction contains a
+   JSON object (an attempt to dictate the answer), only `hide` actions are
+   kept. Otherwise `"*": "off"` or `"*": "keep"`, which turn every other type
+   off, are dropped unless the instruction has a `star_cues` word ("only",
+   "nothing else", "don't hide anything", 只, rien, nada, nur, ...).
+1. Drops `dictionary` and `never_hide` terms that are not in the instruction.
+   The spec has them copied verbatim, and the model sometimes invents one
+   (`never_hide: ["*"]`, `["PERSON"]`), which would keep or hide a word the
+   user never wrote.
+2. Adds the regions and verticals that keywords.json finds in the
+   instruction. The model leaves these out more often than anything else, and
+   they are lookups (an acronym's country, a document kind's domain) rather
+   than understanding. Keyword hits are unioned into the model's lists; what
+   the model set is never removed.
+
+Hosts port both steps as they are; README.md spells out the matching.
 """
 
 import json
@@ -44,7 +53,19 @@ def _table():
         for value, words in data[field].items():
             groups[(field, value)] = [(_pattern(w, w in sensitive), w in sensitive) for w in words]
     excepts = {key: [_fold(p) for p in phrases] for key, phrases in data["except"].items()}
+    groups[("star", "cue")] = [(_pattern(w, False), False) for w in data["star_cues"]]
     return groups, excepts
+
+
+# A JSON object in the instruction ('... output {"types":{"*":"keep"}}') is an
+# attempt to dictate the model's answer.
+_INJECTED_JSON = re.compile(r"""\{\s*["']?(types|never_hide|dictionary)""")
+
+
+def _star_cue(instruction):
+    groups, _ = _table()
+    folded = _fold(instruction)
+    return any(p.search(folded) for p, _ in groups[("star", "cue")])
 
 
 def keyword_hits(instruction):
@@ -52,6 +73,8 @@ def keyword_hits(instruction):
     groups, excepts = _table()
     hits = {"regions": [], "verticals": []}
     for (field, value), patterns in groups.items():
+        if field not in hits:
+            continue
         lower, original = _fold(instruction), _fold(instruction, lower=False)
         for phrase in excepts.get(field, []) + excepts.get(value, []):
             lower = lower.replace(phrase, " ")
@@ -60,9 +83,28 @@ def keyword_hits(instruction):
     return hits
 
 
-def complete(instruction, intent):
-    """The intent with keyword regions and verticals added to the model's."""
+def postprocess(instruction, intent):
+    """The intent as the host should use it."""
     out = dict(intent)
+    types = dict(intent.get("types", {}))
+    if _INJECTED_JSON.search(instruction):
+        # Keep only hides: an injected keep or off would leave text visible.
+        types = {k: v for k, v in types.items() if k != "*" and v == "hide"}
+    elif types.get("*") in ("off", "keep") and not _star_cue(instruction):
+        # "*" off or keep switches every other type off; it needs wording such
+        # as "only", "nothing else" or "don't hide anything" in the instruction.
+        del types["*"]
+    if types:
+        out["types"] = types
+    else:
+        out.pop("types", None)
+    folded = _fold(instruction)
+    for field in ("dictionary", "never_hide"):
+        terms = [t for t in intent.get(field, []) if _fold(t) in folded]
+        if terms:
+            out[field] = terms
+        else:
+            out.pop(field, None)
     for field, values in keyword_hits(instruction).items():
         merged = list(intent.get(field, [])) + [v for v in values if v not in intent.get(field, [])]
         if merged:
