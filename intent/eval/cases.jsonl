@@ -198,3 +198,39 @@
 {"id": "mixed-001", "lang": "mixed", "instruction": "帮我把 fiche de paie 上的 salaire 和 numéro de sécurité sociale 遮掉", "expect": {"types": {"AMOUNT": "hide", "ID": "hide"}, "verticals": ["employment"]}, "tags": ["vertical", "type_mapping", "multi_type", "region"], "note": "French document terms are language, not a country: fiche de paie exists in FR/BE/CH, so no region (negative region case)."}
 {"id": "mixed-002", "lang": "mixed", "instruction": "这个 contrat de bail 里 propriétaire 的名字和 IBAN 都隐藏，montant du loyer 保留", "expect": {"types": {"PERSON": "hide", "IBAN": "hide", "AMOUNT": "keep"}, "verticals": ["legal"]}, "tags": ["combo", "vertical", "type_mapping"], "note": "A lease is a contract, so verticals=legal (rule 7 has no lease entry). The landlord's name -> PERSON:hide (all names)."}
 {"id": "mixed-003", "lang": "mixed", "instruction": "Hide the 身份证号 and 手机号, this is from a Chinese 劳动合同", "expect": {"types": {"ID": "hide", "PHONE": "hide"}, "regions": ["cn"], "verticals": ["employment", "legal"]}, "tags": ["region", "vertical", "multi_type", "type_mapping"], "note": "Same vertical choice as zh-023."}
+{"id": "zh-l01", "lang": "zh", "instruction": "名字、电话、身份证号", "expect": {"types": {"PERSON": "hide", "PHONE": "hide", "ID": "hide"}}, "tags": ["multi_type", "list"]}
+{"id": "zh-l02", "lang": "zh", "instruction": "电话", "expect": {"types": {"PHONE": "hide"}}, "tags": ["single_hide", "list"]}
+{"id": "zh-l03", "lang": "zh", "instruction": "邮箱 手机号 地址", "expect": {"types": {"EMAIL": "hide", "PHONE": "hide", "ADDRESS": "hide"}}, "tags": ["multi_type", "list"]}
+{"id": "zh-l04", "lang": "zh", "instruction": "银行卡号，金额", "expect": {"types": {"CARD": "hide", "AMOUNT": "hide"}}, "tags": ["multi_type", "list"]}
+{"id": "zh-l05", "lang": "zh", "instruction": "工资单：工资、身份证号、公司名", "expect": {"types": {"AMOUNT": "hide", "ID": "hide", "COMPANY": "hide"}, "verticals": ["employment"]}, "tags": ["multi_type", "vertical", "list"]}
+{"id": "zh-l06", "lang": "zh", "instruction": "张伟、李娜、青禾科技", "expect": {"dictionary": ["张伟", "李娜", "青禾科技"]}, "tags": ["dictionary", "list"]}
+{"id": "zh-l07", "lang": "zh", "instruction": "“星河计划”，王建国", "expect": {"dictionary": ["星河计划", "王建国"]}, "tags": ["dictionary", "list"]}
+{"id": "zh-l08", "lang": "zh", "instruction": "姓名 出生日期 病历号", "expect": {"types": {"PERSON": "hide", "BIRTH_DATE": "hide", "NUMBER": "hide"}}, "tags": ["multi_type", "dates", "list"]}
+{"id": "zh-l09", "lang": "zh", "instruction": "IP、密码、API key", "expect": {"types": {"IP": "hide", "SECRET": "hide", "API_KEY": "hide"}}, "tags": ["multi_type", "list"]}
+{"id": "zh-l10", "lang": "zh", "instruction": "人名 公司名 还有 陈晓明", "expect": {"types": {"PERSON": "hide", "COMPANY": "hide"}, "dictionary": ["陈晓明"]}, "tags": ["multi_type", "dictionary", "list"]}
+{"id": "en-l01", "lang": "en", "instruction": "names, phone numbers, emails", "expect": {"types": {"PERSON": "hide", "PHONE": "hide", "EMAIL": "hide"}}, "tags": ["multi_type", "list"]}
+{"id": "en-l02", "lang": "en", "instruction": "addresses", "expect": {"types": {"ADDRESS": "hide"}}, "tags": ["single_hide", "list"]}
+{"id": "en-l03", "lang": "en", "instruction": "SSN, salary, employer", "expect": {"types": {"ID": "hide", "AMOUNT": "hide", "COMPANY": "hide"}, "regions": ["us"]}, "tags": ["multi_type", "region", "list"]}
+{"id": "en-l04", "lang": "en", "instruction": "John Carter, Maple Leaf Holdings, Project Falcon", "expect": {"dictionary": ["John Carter", "Maple Leaf Holdings", "Project Falcon"]}, "tags": ["dictionary", "list"]}
+{"id": "en-l05", "lang": "en", "instruction": "bank statement - account numbers, balances", "expect": {"types": {"IBAN": "hide", "AMOUNT": "hide"}, "verticals": ["finance"]}, "tags": ["multi_type", "vertical", "list"]}
+{"id": "en-l06", "lang": "en", "instruction": "dates of birth + NHS numbers", "expect": {"types": {"BIRTH_DATE": "hide", "ID": "hide"}, "regions": ["gb"]}, "tags": ["multi_type", "region", "list"]}
+{"id": "en-l07", "lang": "en", "instruction": "names\nphones\nIBAN", "expect": {"types": {"PERSON": "hide", "PHONE": "hide", "IBAN": "hide"}}, "tags": ["multi_type", "list"]}
+{"id": "en-l08", "lang": "en", "instruction": "IPs and API keys", "expect": {"types": {"IP": "hide", "API_KEY": "hide"}}, "tags": ["multi_type", "list"]}
+{"id": "en-l09", "lang": "en", "instruction": "credit card numbers", "expect": {"types": {"CARD": "hide"}}, "tags": ["single_hide", "list"]}
+{"id": "en-l10", "lang": "en", "instruction": "names, and 'Riverside Clinic'", "expect": {"types": {"PERSON": "hide"}, "dictionary": ["Riverside Clinic"]}, "tags": ["multi_type", "dictionary", "list"]}
+{"id": "fr-l01", "lang": "fr", "instruction": "noms, téléphones, adresses", "expect": {"types": {"PERSON": "hide", "PHONE": "hide", "ADDRESS": "hide"}}, "tags": ["multi_type", "list"]}
+{"id": "fr-l02", "lang": "fr", "instruction": "le NIR et le salaire", "expect": {"types": {"ID": "hide", "AMOUNT": "hide"}, "regions": ["fr"]}, "tags": ["multi_type", "region", "list"]}
+{"id": "fr-l03", "lang": "fr", "instruction": "IBAN", "expect": {"types": {"IBAN": "hide"}}, "tags": ["single_hide", "list"]}
+{"id": "fr-l04", "lang": "fr", "instruction": "Martine Lefèvre, Atelier Morvan", "expect": {"dictionary": ["Martine Lefèvre", "Atelier Morvan"]}, "tags": ["dictionary", "list"]}
+{"id": "fr-l05", "lang": "fr", "instruction": "fiche de paie : nom, salaire, numéro de sécu", "expect": {"types": {"PERSON": "hide", "AMOUNT": "hide", "ID": "hide"}, "verticals": ["employment"]}, "tags": ["multi_type", "vertical", "list"]}
+{"id": "fr-l06", "lang": "fr", "instruction": "emails et dates de naissance", "expect": {"types": {"EMAIL": "hide", "BIRTH_DATE": "hide"}}, "tags": ["multi_type", "dates", "list"]}
+{"id": "fr-l07", "lang": "fr", "instruction": "les montants", "expect": {"types": {"AMOUNT": "hide"}}, "tags": ["single_hide", "list"]}
+{"id": "es-l01", "lang": "es", "instruction": "nombres, DNI, teléfonos", "expect": {"types": {"PERSON": "hide", "ID": "hide", "PHONE": "hide"}, "regions": ["es"]}, "tags": ["multi_type", "region", "list"]}
+{"id": "es-l02", "lang": "es", "instruction": "correos y direcciones", "expect": {"types": {"EMAIL": "hide", "ADDRESS": "hide"}}, "tags": ["multi_type", "list"]}
+{"id": "es-l03", "lang": "es", "instruction": "Lucía Ferrer, Talleres Ondarreta", "expect": {"dictionary": ["Lucía Ferrer", "Talleres Ondarreta"]}, "tags": ["dictionary", "list"]}
+{"id": "es-l04", "lang": "es", "instruction": "nómina: sueldo, NUSS, empresa", "expect": {"types": {"AMOUNT": "hide", "ID": "hide", "COMPANY": "hide"}, "regions": ["es"], "verticals": ["employment"]}, "tags": ["multi_type", "region", "vertical", "list"]}
+{"id": "es-l05", "lang": "es", "instruction": "fechas", "expect": {"types": {"DATE": "hide", "BIRTH_DATE": "hide"}}, "tags": ["single_hide", "dates", "list"]}
+{"id": "de-l01", "lang": "de", "instruction": "Namen, Adressen, IBAN", "expect": {"types": {"PERSON": "hide", "ADDRESS": "hide", "IBAN": "hide"}}, "tags": ["multi_type", "list"]}
+{"id": "de-l02", "lang": "de", "instruction": "Steuer-ID und Gehalt", "expect": {"types": {"ID": "hide", "AMOUNT": "hide"}, "regions": ["de"]}, "tags": ["multi_type", "region", "list"]}
+{"id": "de-l03", "lang": "de", "instruction": "Klaus Berger, Firma Seidl & Söhne", "expect": {"dictionary": ["Klaus Berger", "Firma Seidl & Söhne"]}, "tags": ["dictionary", "list"]}
+{"id": "it-l01", "lang": "it", "instruction": "nomi, codice fiscale, telefoni", "expect": {"types": {"PERSON": "hide", "ID": "hide", "PHONE": "hide"}, "regions": ["it"]}, "tags": ["multi_type", "region", "list"]}

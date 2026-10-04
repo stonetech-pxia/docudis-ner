@@ -1,6 +1,10 @@
 # Intent evaluation
 
-- `cases.jsonl`: 200 instructions with the expected intent (see `../spec.md`).
+- `cases.jsonl`: the dev set, instructions with the expected intent (see
+  `../spec.md`). The first 200 were written with the spec; 36 bare lists with no
+  verb ("名字、电话、身份证号", "Lucía Ferrer, Talleres Ondarreta", tag `list`)
+  were added after the round 2 results, which are on the first 200. The
+  round 2 mixq8 model gets 34 of the 36 with keywords and no leaks.
 - `shots.jsonl`: few-shot examples for prompting; none of them is in the eval set.
 - `validate.py`: checks `cases.jsonl` against `../schema.json`.
 - `run.py`: sends every case to a llama-server and writes `results/<label>.jsonl`.
@@ -30,6 +34,23 @@ writes for `../schema.json`, passed as llama-server's `grammar`:
 ## Results
 
 llama.cpp b11379, Q4_K_M, temperature 0, RTX 3080.
+
+`score.py` also sorts each miss by cost: `leak` (something the user wanted
+hidden stays visible, judged against Core's defaults: DATE and AMOUNT shown,
+everything else hidden), `unwarned` (unsupported request not flagged),
+`overhide`, `minor`.
+
+| Model | Set | Exact match | Leaks | Unwarned |
+|---|---|---|---|---|
+| Round 2 cleaned, mixq8 + keyword post-processing (`--complete`) | **test (300, frozen)** | **89.0%** | 6 | 4 |
+| Round 2 cleaned, mixq8 | test | 84.7% | 6 | 4 |
+| Round 2 cleaned, mixq8 + keywords | dev | 88.5% | 4 | 4 |
+| Round 2 cleaned, mixq8 | dev | 83.5% | 4 | 4 |
+| Fine-tune round 2, training cleaned of test look-alikes (1199 cases), Q4_K_M | test | 81.7% | 5 | 4 |
+| same | dev (these 200) | 81.0% | 7 | 5 |
+| Fine-tune round 2 (1234 cases) | dev | 83.0% | 3 | 5 |
+| Fine-tune round 1 (882 cases) | dev | 67.0% | 6 | 9 |
+| Gemma 4 E2B-it, spec + 6 shots | dev | 43.5% | 33 | 19 |
 
 | Model | Prompt | Constrained | Exact match | Invalid | p50 latency |
 |---|---|---|---|---|---|

@@ -41,6 +41,9 @@ Verticals: `healthcare legal finance employment insurance technology utilities`.
 2. "Hide X" -> `X: "hide"`. "Don't hide / keep / leave X" -> `X: "keep"`.
    "Ignore X / don't detect X / don't bother with X / 不用管 X / laisse tomber
    X" -> `X: "off"`. "Don't hide anything" -> `{"*": "keep"}`.
+   A bare list with no verb ("names, phones, IBAN", "Jean Dupont, Atelier
+   Morvan", "payslip: salary, NIR") means hide them: types -> `"hide"`,
+   literal names and terms -> `dictionary`. It is not "only" (no `"*"`).
 3. "Only hide X (and Y)" -> `{"*": "off", "X": "hide", ...}`. "Hide everything
    except X" -> `{"*": "hide", "X": "keep"}`. "Hide everything" alone ->
    `{"*": "hide"}`. "Only" triggers `"*": "off"` only when it contrasts X
@@ -85,13 +88,17 @@ Verticals: `healthcare legal finance employment insurance technology utilities`.
    `employment`, insurance claim -> `insurance`, server logs / code ->
    `technology`, energy or water bill -> `utilities`). Classify the document
    being anonymised, not who it is sent to. A contract in a named domain gets
-   both (employment contract -> `employment`, `legal`). Merely naming an
-   invoice or contract number sets no vertical.
+   both (employment contract -> `employment`, `legal`). An energy or water
+   bill is `utilities` only. Merely naming an invoice or contract number, or
+   roles and organisations of a domain (patient, doctor, hospital) without
+   the document kind, sets no vertical.
 8. `unsupported: true` when any part of the request is outside these fields:
    fake replacement values, masking style (`***`), partial masking ("keep last
    4 digits"), only some pages / paragraphs, some values of a type but not
    others ("the patient's name but not the doctors'"), translate, summarise,
-   delete the file, send it somewhere. Still output whatever supported parts
+   delete the file, send it somewhere. What the user will do with the
+   document themselves ("before I upload it", "I'm sending it to my lawyer")
+   is context, not a request. Still output whatever supported parts
    there are. When a hide is scoped to something Core cannot target, output
    the broadest hide that covers it, even over a stated keep of the same type
    (over-hiding is the safe side). A qualifier alone ("hide the landlord's

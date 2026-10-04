@@ -3,8 +3,8 @@
 
     python intent/train/build.py
 
-Drops cases that duplicate another training case or come close to an eval
-case, writes the targets in canonical form (schema key order, types that
+Drops cases that duplicate another training case or come close to a dev
+(eval), few-shot or test case, writes the targets in canonical form (schema key order, types that
 repeat "*" removed), and splits off a dev set. Output goes to out/ as chat
 messages with the short system prompt in ../system_prompt.txt.
 """
@@ -54,8 +54,8 @@ def main():
         if subprocess.run([sys.executable, str(INTENT / "eval" / "validate.py"), str(path)]).returncode:
             sys.exit(f"{path.name} does not validate")
     cases = [json.loads(l) for p in raw for l in p.read_text("utf-8").splitlines()]
-    evals = [norm(json.loads(l)["instruction"]) for l in (INTENT / "eval" / "cases.jsonl").read_text("utf-8").splitlines()]
-    evals += [norm(json.loads(l)["instruction"]) for l in (INTENT / "eval" / "shots.jsonl").read_text("utf-8").splitlines()]
+    held_out = [INTENT / "eval" / "cases.jsonl", INTENT / "eval" / "shots.jsonl", INTENT / "test" / "cases.jsonl"]
+    evals = [norm(json.loads(l)["instruction"]) for p in held_out if p.exists() for l in p.read_text("utf-8").splitlines()]
 
     kept, seen, leaks, dups = [], set(), [], []
     for case in cases:

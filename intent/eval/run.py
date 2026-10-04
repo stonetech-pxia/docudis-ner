@@ -105,6 +105,7 @@ def main():
 
     tag = args.label + ("-shots" if args.shots else "") + ("-noschema" if args.no_schema else "")
     tag += "-short" if args.short_prompt else ""
+    tag += "" if args.cases == HERE / "cases.jsonl" else f"-{args.cases.parent.name}"
     out = HERE / "results" / f"{tag}.jsonl"
     out.parent.mkdir(exist_ok=True)
     cases = [json.loads(l) for l in args.cases.read_text("utf-8").splitlines()]

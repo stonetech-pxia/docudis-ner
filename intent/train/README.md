@@ -9,7 +9,10 @@
   canonical form, and splits 10% per language into `out/dev.jsonl`.
 - `finetune.py`: Unsloth QLoRA on `unsloth/gemma-4-E2B-it`, loss on the
   reply only; writes `out/lora` and `out/merged`.
-- `export.py`: `out/merged` to a Q4_K_M GGUF with llama.cpp's converter.
+- `export.py`: `out/merged` to a GGUF with llama.cpp's converter. The default,
+  `mixq8` (3.6 GB), is Q8_0 with the per-layer embeddings at Q4_K; it scores
+  as well as f16 within a point, where Q4_K_M (3.25 GB) loses about three and
+  leaks twice as often.
 
 The model is trained with the one-line `../system_prompt.txt`, not the full
 spec, so evaluate it with `run.py --short-prompt`.
@@ -18,7 +21,7 @@ spec, so evaluate it with `run.py --short-prompt`.
 python intent/train/build.py
 <venv>/python intent/train/finetune.py
 <venv>/python intent/train/export.py --llama-src <llama.cpp checkout> --llama-bin <llama.cpp binaries>
-llama-server -m intent/train/out/intent-Q4_K_M.gguf --port 8080 -ngl 99 -c 2048 --jinja
+llama-server -m intent/train/out/intent-mixq8.gguf --port 8080 -ngl 99 -c 2048 --jinja --reasoning off --reasoning-budget 0
 python intent/eval/run.py --label intent-ft --short-prompt
 ```
 

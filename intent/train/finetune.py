@@ -64,7 +64,8 @@ def main():
             output_dir=str(OUT / "checkpoints"),
             num_train_epochs=args.epochs,
             # 4 x 4: a batch of 8 runs out of the 3080's 10 GB in the cross entropy
-            # over Gemma's 262k-token vocabulary.
+            # over Gemma's 262k-token vocabulary. Other programs on the GPU (a
+            # llama-server, a game) make even this one fail at the first step.
             per_device_train_batch_size=4,
             gradient_accumulation_steps=4,
             learning_rate=args.lr,
