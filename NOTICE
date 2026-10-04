@@ -17,6 +17,9 @@ pins where they are downloaded from. Each keeps its own license:
 - xlmr_ner_hrl and distilbert_ner_hrl, used for benchmarks only:
   Davlan's models (AFL-3.0) as exported to ONNX by tjruesch and Xenova.
 - openai_privacy_filter: Apache-2.0, by OpenAI.
+- intent_gemma4, by stonetech: Apache-2.0, a fine-tune of
+  google/gemma-4-E2B-it (Apache-2.0, Google LLC). See
+  models/intent_gemma4/README.md.
 
 Test data
 testdata/tokenizers contains third-party tokenizer files; their sources and

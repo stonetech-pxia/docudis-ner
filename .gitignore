@@ -15,6 +15,9 @@ models/**/config.json
 models/**/tokenizer_config.json
 models/**/label_map.json
 models/**/special_tokens_map.json
+models/**/*.gguf
+models/intent_gemma4/system_prompt.txt
+models/intent_gemma4/intent.gbnf
 
 # Generated training data (large; rebuild with training/build.py)
 training/out/

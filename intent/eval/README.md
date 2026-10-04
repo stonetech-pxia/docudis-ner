@@ -17,8 +17,8 @@ python intent/eval/run.py --label <name> [--shots] [--no-schema] [--short-prompt
 python intent/eval/score.py intent/eval/results/*.jsonl
 ```
 
-Without `--no-schema`, decoding is constrained by the GBNF grammar `run.py`
-writes for `../schema.json`, passed as llama-server's `grammar`:
+Without `--no-schema`, decoding is constrained by `../intent.gbnf` (written
+from `../schema.json` by `../grammar.py`), passed as llama-server's `grammar`:
 
 - Not `response_format`: with it llama-server changes the prompt, and the
   fine-tuned model starts with a reasoning block (250 tokens, sometimes no

@@ -5,18 +5,22 @@ never the document, and outputs an intent JSON that the host maps onto Core's
 v1 `DetectRequest`.
 
 - `spec.md`: the intent fields, how each maps to Core, annotation rules.
-- `schema.json`: the JSON Schema. `eval/run.py` writes the GBNF grammar used
-  for constrained decoding from it.
+- `schema.json`: the JSON Schema.
+- `intent.gbnf`: the grammar for constrained decoding, written from
+  `schema.json` by `grammar.py` (`python intent/grammar.py --check` fails if
+  it is stale).
 - `system_prompt.txt`: the one-line system prompt the model is trained and run
   with.
 - `keywords.json`, `postprocess.py`: host post-processing (below).
-- `eval/`: dev set (200), runner and scorer. `test/`: frozen test set (300).
+- `eval/`: dev set (272), runner and scorer. `test/`: frozen test set (300).
   `train/`: training data, fine-tuning and export.
 
 ## Current model
 
-Round 3 training data (`train/raw/`, 1272 cases after `build.py`), seed 1,
-exported as mixq8 (3.6 GB). With `postprocess`, exact match is 88.2% on the
+Published as [`leonx1995/docudis-intent-gemma4`](https://huggingface.co/leonx1995/docudis-intent-gemma4)
+(model card in `../models/intent_gemma4/README.md`; fetch it with
+`tool/fetch_models.py intent_gemma4`). Round 3 training data (`train/raw/`,
+1272 cases after `build.py`), seed 1, exported as mixq8 (3.6 GB). With `postprocess`, exact match is 88.2% on the
 dev set (272) and 89.7% on the frozen test set (300), with 2 and 4 leaks: all
 of them keep the wrong type ("keep the doctor's name" read as all names kept,
 a landlord's name read as a company). The host's confirmation step, which
@@ -36,9 +40,9 @@ python intent/train/build.py
 llama-server -m intent-mixq8.gguf -ngl 99 -c 2048 --jinja --reasoning off --reasoning-budget 0
 ```
 
-Send the system prompt and the instruction as chat messages with
-temperature 0 and the GBNF grammar from `eval/run.py` as `grammar`, not as
-`response_format` (see `eval/README.md`). The reply is one JSON object; drop
+Send `system_prompt.txt` and the instruction as chat messages with
+temperature 0 and `intent.gbnf` as `grammar`, not as `response_format` (see
+`grammar.py`). The reply is one JSON object; drop
 empty lists and `"unsupported": false`, then validate against `schema.json`.
 If it does not validate, use `{}`.
 

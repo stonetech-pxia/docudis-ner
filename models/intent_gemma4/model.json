@@ -1,0 +1,12 @@
+{
+  "name": "docudis-intent-gemma4",
+  "kind": "intent",
+  "source": "https://huggingface.co/leonx1995/docudis-intent-gemma4 (fine-tune of google/gemma-4-E2B-it, Apache-2.0). See intent/README.md",
+  "model": "intent-mixq8.gguf",
+  "systemPrompt": "system_prompt.txt",
+  "grammar": "intent.gbnf",
+  "contextSize": 2048,
+  "temperature": 0,
+  "maxTokens": 256,
+  "reasoning": "off"
+}

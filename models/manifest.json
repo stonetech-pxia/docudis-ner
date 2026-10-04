@@ -34,6 +34,16 @@
         "model_q4.onnx_data": { "path": "onnx/model_q4.onnx_data", "sha256": "f30998e28c71c5374cc7e8b7de8f0f83e981592c0c2d652d2ad4928454dbb496" },
         "tokenizer.json": { "path": "tokenizer.json", "sha256": "0614fe83cadab421296e664e1f48f4261fa8fef6e03e63bb75c20f38e37d07d3" }
       }
+    },
+    "intent_gemma4": {
+      "repo": "leonx1995/docudis-intent-gemma4",
+      "revision": "f73e207af4d0e9ef9005ccd41744b778956648ec",
+      "private": false,
+      "files": {
+        "intent-mixq8.gguf": { "path": "intent-mixq8.gguf", "sha256": "d6d3593ee436274464e9910ee93015968b0c859ded2f836c1a174ac68b2f566b" },
+        "system_prompt.txt": { "path": "system_prompt.txt", "sha256": "eb6692d884d8680d951a786c4169003593cf982b79acffe96fac054c3d8df3f9" },
+        "intent.gbnf": { "path": "intent.gbnf", "sha256": "a4189e122e993e12b190a7f6f15944f7327102f2c36872f85dc4685f41058f12" }
+      }
     }
   }
 }

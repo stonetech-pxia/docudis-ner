@@ -16,6 +16,7 @@ pip install huggingface_hub
 | `xlmr_ner_hrl` | `tjruesch/xlm-roberta-base-ner-hrl-onnx` | The stock model it was fine-tuned from, for A/B benchmarks only; not shipped |
 | `distilbert_ner_hrl` | `Xenova/distilbert-base-multilingual-cased-ner-hrl` | Smaller/faster alternative, for A/B benchmarks only; not shipped |
 | `openai_privacy_filter` | `openai/privacy-filter` | Desktop only (Windows, macOS), not for Android: the q4 ONNX export is 917 MB and needs ~1.6 GB after load. Apache-2.0 |
+| `intent_gemma4` | [`leonx1995/docudis-intent-gemma4`](https://huggingface.co/leonx1995/docudis-intent-gemma4) | Not a NER model: reads the user's instruction (never the document) and returns the intent JSON of `../intent/spec.md`. GGUF for llama.cpp, 3.6 GB, plus its system prompt and grammar. Our fine-tune of `google/gemma-4-E2B-it`, Apache-2.0; model card in `intent_gemma4/README.md`. Fetch it by name (`tool/fetch_models.py intent_gemma4`); `model.json` holds its run settings instead of NER fields |
 
 `openai_privacy_filter` labels only what it judges *private* (a person, a private
 address or date, e-mail, phone, URL, account number, secret), mostly in English;
