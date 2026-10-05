@@ -42,6 +42,8 @@ def main():
     ap.add_argument("--lr", type=float, default=2e-4)
     ap.add_argument("--rank", type=int, default=16)
     ap.add_argument("--seed", type=int, default=0, help="LoRA init and data order")
+    ap.add_argument("--batch", type=int, default=4, help="per step; accumulation keeps 16 per update")
+    ap.add_argument("--optim", default="adamw_torch_fused", help="adamw_8bit shrinks the optimizer state")
     args = ap.parse_args()
 
     model, tokenizer = FastModel.from_pretrained(BASE, max_seq_length=512, load_in_4bit=True)
@@ -67,8 +69,11 @@ def main():
             # 4 x 4: a batch of 8 runs out of the 3080's 10 GB in the cross entropy
             # over Gemma's 262k-token vocabulary. Other programs on the GPU (a
             # llama-server, a game) make even this one fail at the first step.
-            per_device_train_batch_size=4,
-            gradient_accumulation_steps=4,
+            # Rank 16 peaks at ~9.7 GB. Rank 32 runs out with 4 x 4 and 2 x 8; only
+            # --batch 2 --optim adamw_8bit fits, at ~4x the time per step.
+            per_device_train_batch_size=args.batch,
+            gradient_accumulation_steps=16 // args.batch,
+            optim=args.optim,
             learning_rate=args.lr,
             lr_scheduler_type="cosine",
             warmup_ratio=0.05,
