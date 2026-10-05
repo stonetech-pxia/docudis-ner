@@ -66,7 +66,7 @@ model learned. Always review its output before sharing a document.
 
 ## License
 
-Copyright 2026 stonetech. Licensed under the [Academic Free License 3.0](LICENSE).
+Copyright 2026 Pengda Xia (stonetech). Licensed under the [Academic Free License 3.0](LICENSE).
 
 This model is a Derivative Work of Davlan/xlm-roberta-base-ner-hrl (Academic Free License 3.0), modified by
 stonetech by fine-tuning it on the data above and quantizing it. XLM-RoBERTa is licensed under the MIT

@@ -124,7 +124,7 @@ CPU (Intel i7-13700KF, no GPU).
 
 ## License
 
-Copyright 2026 stonetech. Licensed under the [Apache License 2.0](LICENSE).
+Copyright 2026 Pengda Xia (stonetech). Licensed under the [Apache License 2.0](LICENSE).
 
 This model is a derivative of google/gemma-4-E2B-it (Apache License 2.0, Copyright Google LLC),
 modified by stonetech by fine-tuning it on the data above, merging the adapter and quantizing it.

@@ -1,5 +1,5 @@
 Docudis NER
-Copyright 2026 stonetech and the Docudis contributors
+Copyright 2026 Pengda Xia (stonetech) and the Docudis contributors
 
 This product includes software derived from DocCloak.Core.
 DocCloak.Core
@@ -11,13 +11,14 @@ NOTICE-DocCloak.Core and LICENSE-DocCloak.Core.
 Models
 The model binaries are not part of this repository; models/manifest.json
 pins where they are downloaded from. Each keeps its own license:
-- xlmr_ner_docudis, by stonetech: Academic Free License 3.0, a Derivative
-  Work of Davlan/xlm-roberta-base-ner-hrl (AFL-3.0), itself fine-tuned from
-  FacebookAI/xlm-roberta-base (MIT). See models/xlmr_ner_docudis/README.md.
+- xlmr_ner_docudis, by Pengda Xia (stonetech): Academic Free License 3.0, a
+  Derivative Work of Davlan/xlm-roberta-base-ner-hrl (AFL-3.0), itself
+  fine-tuned from FacebookAI/xlm-roberta-base (MIT). See
+  models/xlmr_ner_docudis/README.md.
 - xlmr_ner_hrl and distilbert_ner_hrl, used for benchmarks only:
   Davlan's models (AFL-3.0) as exported to ONNX by tjruesch and Xenova.
 - openai_privacy_filter: Apache-2.0, by OpenAI.
-- intent_gemma4, by stonetech: Apache-2.0, a fine-tune of
+- intent_gemma4, by Pengda Xia (stonetech): Apache-2.0, a fine-tune of
   google/gemma-4-E2B-it (Apache-2.0, Google LLC). See
   models/intent_gemma4/README.md.
 
