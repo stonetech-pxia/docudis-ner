@@ -131,6 +131,17 @@ CPU (Intel i7-13700KF, no GPU).
 - It depends on the host post-processing for prompt-injection and keyword checks. Used alone, it can
   follow an instruction that dictates its JSON.
 
+## Versions
+
+| Revision | Date | Test | Change |
+|---|---|---|---|
+| `e25d293` | 2026-10-05 | 90.3%, 7 leaks | A keep of only part of a type ("my employer's name", "the rent") is now `unsupported`; 41 new training instructions; 5 epochs |
+| `f73e207` | 2026-10-04 | 87.3%, 13 leaks (89.7%, 4 leaks on the old answers) | First release |
+
+Load an older version with its revision, for example `hf_hub_download(..., revision="f73e207")`.
+The full history, with the reason for each change, is in
+[intent/HISTORY.md](https://github.com/stonetech-pxia/docudis-ner/blob/main/intent/HISTORY.md).
+
 ## License
 
 Copyright 2026 Pengda Xia (stonetech). Licensed under the [Apache License 2.0](LICENSE).

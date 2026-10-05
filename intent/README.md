@@ -14,23 +14,24 @@ v1 `DetectRequest`.
 - `keywords.json`, `postprocess.py`: host post-processing (below).
 - `eval/`: dev set (272), runner and scorer. `test/`: frozen test set (300).
   `train/`: training data, fine-tuning and export.
+- `HISTORY.md`: each model version, what changed and why, and its scores.
 
 ## Current model
 
 Published as [`leonx1995/docudis-intent-gemma4`](https://huggingface.co/leonx1995/docudis-intent-gemma4)
 (model card in `../models/intent_gemma4/README.md`; fetch it with
-`tool/fetch_models.py intent_gemma4`). Round 3 training data (`train/raw/`,
-1272 cases after `build.py`), seed 1, exported as mixq8 (3.6 GB). With `postprocess`, exact match is 88.2% on the
-dev set (272) and 89.7% on the frozen test set (300), with 2 and 4 leaks: all
-of them keep the wrong type ("keep the doctor's name" read as all names kept,
-a landlord's name read as a company). The host's confirmation step, which
-shows every kept type before running, is the safeguard for those. Seeds 0, 1
-and 2 on the same data differ by about a point; seed 1 was picked on the dev
-set.
+`tool/fetch_models.py intent_gemma4`). Round 4 training data (`train/raw/`,
+1309 cases after `build.py`), 5 epochs, seed 2, exported as mixq8 (3.6 GB).
+With `postprocess`, exact match is 90.4% on the dev set (272) and 90.3% on the
+frozen test set (300), with 4 and 7 leaks. Most dev leaks keep a whole type
+where the user meant part of it ("only the rent amount"). The host's
+confirmation step, which shows every kept type before running, is the
+safeguard for those. Seeds 1 and 2 on the same data differ by about a point;
+seed 2 was picked on the dev set. `HISTORY.md` has every round.
 
 ```sh
 python intent/train/build.py
-<venv>/python intent/train/finetune.py --seed 1
+<venv>/python intent/train/finetune.py --epochs 5 --seed 2
 <venv>/python intent/train/export.py --llama-src <llama.cpp checkout> --llama-bin <llama.cpp binaries>
 ```
 
