@@ -37,10 +37,10 @@
     },
     "intent_gemma4": {
       "repo": "leonx1995/docudis-intent-gemma4",
-      "revision": "f73e207af4d0e9ef9005ccd41744b778956648ec",
+      "revision": "e25d293e0f4748de2d1fe1a7781deb6de226e6eb",
       "private": false,
       "files": {
-        "intent-mixq8.gguf": { "path": "intent-mixq8.gguf", "sha256": "d6d3593ee436274464e9910ee93015968b0c859ded2f836c1a174ac68b2f566b" },
+        "intent-mixq8.gguf": { "path": "intent-mixq8.gguf", "sha256": "767f201bac0cd7ffe9247bbf19770c14f65aa40f2acc389158635c8b819619a8" },
         "system_prompt.txt": { "path": "system_prompt.txt", "sha256": "eb6692d884d8680d951a786c4169003593cf982b79acffe96fac054c3d8df3f9" },
         "intent.gbnf": { "path": "intent.gbnf", "sha256": "a4189e122e993e12b190a7f6f15944f7327102f2c36872f85dc4685f41058f12" }
       }
