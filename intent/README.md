@@ -87,7 +87,8 @@ lists, and never removes what the model set. Keyword matching:
 `"unsupported": true` means part of the request is outside what Core can do,
 and the model has already chosen the safe side (rule 8): when the user wants
 only some values of a type kept or hidden ("everything except the doctors'
-names", "the patient's name but not the doctor's"), it hides the whole type.
+names", "the patient's name but not the doctor's", "keep the hospital name",
+"everything except the invoice numbers"), it hides the whole type.
 Core cannot tell a doctor's name from a patient's; no model in the pipeline
 labels roles. The host then:
 

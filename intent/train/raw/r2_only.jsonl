@@ -15,7 +15,7 @@
 {"id": "t2-o-015", "lang": "zh", "instruction": "全部隐藏，金额保留。", "expect": {"types": {"*": "hide", "AMOUNT": "keep"}}, "tags": ["except"]}
 {"id": "t2-o-016", "lang": "zh", "instruction": "除了我们公司名“青松贸易”，其他都打码", "expect": {"types": {"*": "hide"}, "never_hide": ["青松贸易"]}, "tags": ["except", "never_hide"]}
 {"id": "t2-o-017", "lang": "zh", "instruction": "所有敏感信息都遮住，就是人名不用遮", "expect": {"types": {"*": "hide", "PERSON": "keep"}}, "tags": ["except", "negation"]}
-{"id": "t2-o-018", "lang": "zh", "instruction": "这张发票全部匿名化，只有发票号和金额保留就行", "expect": {"types": {"*": "hide", "NUMBER": "keep", "AMOUNT": "keep"}, "verticals": ["finance"]}, "tags": ["except", "vertical", "type_mapping"]}
+{"id": "t2-o-018", "lang": "zh", "instruction": "这张发票全部匿名化，只有发票号和金额保留就行", "expect": {"types": {"*": "hide", "AMOUNT": "keep"}, "verticals": ["finance"], "unsupported": true}, "tags": ["except", "vertical", "type_mapping"]}
 {"id": "t2-o-019", "lang": "zh", "instruction": "病历来的。除了张立明医生的名字以外，别的全都隐藏掉，他同意公开。", "expect": {"types": {"*": "hide"}, "never_hide": ["张立明"], "verticals": ["healthcare"]}, "tags": ["except", "never_hide", "vertical", "long"]}
 {"id": "t2-o-020", "lang": "zh", "instruction": "全部遮掉", "expect": {"types": {"*": "hide"}}, "tags": ["all"]}
 {"id": "t2-o-021", "lang": "zh", "instruction": "什么都不要遮，我只是想看看能识别出什么", "expect": {"types": {"*": "keep"}}, "tags": ["all", "negation"]}
@@ -40,7 +40,7 @@
 {"id": "t2-o-040", "lang": "en", "instruction": "can u only blur out the email adresses and phone numbers, rest is fine", "expect": {"types": {"*": "off", "EMAIL": "hide", "PHONE": "hide"}}, "tags": ["only", "colloquial"]}
 {"id": "t2-o-041", "lang": "en", "instruction": "Hide only the company names and the project code name 'Bluefin'. Dates can stay.", "expect": {"types": {"*": "off", "COMPANY": "hide", "DATE": "keep", "BIRTH_DATE": "keep"}, "dictionary": ["Bluefin"]}, "tags": ["only", "dictionary", "dates", "negation"]}
 {"id": "t2-o-042", "lang": "en", "instruction": "Hide everything except the dates.", "expect": {"types": {"*": "hide", "DATE": "keep", "BIRTH_DATE": "keep"}}, "tags": ["except", "dates"]}
-{"id": "t2-o-043", "lang": "en", "instruction": "Redact all of it apart from the amounts and the invoice numbers", "expect": {"types": {"*": "hide", "AMOUNT": "keep", "NUMBER": "keep"}}, "tags": ["except", "type_mapping"]}
+{"id": "t2-o-043", "lang": "en", "instruction": "Redact all of it apart from the amounts and the invoice numbers", "expect": {"types": {"*": "hide", "AMOUNT": "keep"}, "unsupported": true}, "tags": ["except", "type_mapping"]}
 {"id": "t2-o-044", "lang": "en", "instruction": "Mask everything but leave our company name, Harrow & Pike Ltd, visible.", "expect": {"types": {"*": "hide"}, "never_hide": ["Harrow & Pike Ltd"]}, "tags": ["except", "never_hide"]}
 {"id": "t2-o-045", "lang": "en", "instruction": "Anonymise the whole thing except people's names, those need to stay readable for the tribunal.", "expect": {"types": {"*": "hide", "PERSON": "keep"}}, "tags": ["except"]}
 {"id": "t2-o-046", "lang": "en", "instruction": "Hide every bit of personal info except my own name, which is Siobhan Carey. It's my CV and the recruiter needs to see who I am.", "expect": {"types": {"*": "hide"}, "never_hide": ["Siobhan Carey"], "verticals": ["employment"]}, "tags": ["except", "never_hide", "vertical", "long"]}
@@ -65,7 +65,7 @@
 {"id": "t2-o-065", "lang": "fr", "instruction": "Masque tout sauf les montants.", "expect": {"types": {"*": "hide", "AMOUNT": "keep"}}, "tags": ["except"]}
 {"id": "t2-o-066", "lang": "fr", "instruction": "Tout cacher, à part les dates et les noms de société.", "expect": {"types": {"*": "hide", "DATE": "keep", "BIRTH_DATE": "keep", "COMPANY": "keep"}}, "tags": ["except", "dates"]}
 {"id": "t2-o-067", "lang": "fr", "instruction": "Anonymise tout le contrat de bail sauf le nom de notre agence, Immo Garonne.", "expect": {"types": {"*": "hide"}, "never_hide": ["Immo Garonne"], "verticals": ["legal"]}, "tags": ["except", "never_hide", "vertical"]}
-{"id": "t2-o-068", "lang": "fr", "instruction": "Tu peux tout masquer ? Seuls les numéros de facture doivent rester visibles.", "expect": {"types": {"*": "hide", "NUMBER": "keep"}}, "tags": ["except", "type_mapping"]}
+{"id": "t2-o-068", "lang": "fr", "instruction": "Tu peux tout masquer ? Seuls les numéros de facture doivent rester visibles.", "expect": {"types": {"*": "hide"}, "unsupported": true}, "tags": ["except", "type_mapping"]}
 {"id": "t2-o-069", "lang": "fr", "instruction": "Ne masque rien du tout.", "expect": {"types": {"*": "keep"}}, "tags": ["all", "negation"]}
 {"id": "t2-o-070", "lang": "fr", "instruction": "Masquer absolument tout, y compris les dates et les montants.", "expect": {"types": {"*": "hide"}}, "tags": ["all"]}
 {"id": "t2-o-071", "lang": "fr", "instruction": "Ne masque que les portables, pas les fixes.", "expect": {"types": {"PHONE": "hide"}, "unsupported": true}, "tags": ["only", "unsupported", "single_hide"]}
